@@ -1,0 +1,78 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Engineered Switzerland</title>
+<meta name="description" content="How people reshaped the Swiss landscape: river corrections, drained marshes, lakes and dams, with why each change was needed and what was lost.">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css">
+<link rel="stylesheet" href="styles.css">
+</head>
+<body>
+<header class="top">
+  <div class="brand">
+    <h1>Engineered Switzerland</h1>
+    <p>How people reshaped the land: why it was needed, and what was lost</p>
+  </div>
+  <nav class="links" aria-label="Other site">
+    <a href="../ch-history-01-how-switzerland-grew/index.html">How Switzerland Grew: history through maps →</a>
+  </nav>
+</header>
+
+<main class="layout">
+  <section class="stage" aria-label="Map and timeline">
+    <div class="river-wrap" id="river-wrap">
+      <div id="river-map" class="river-map" role="img" aria-label="Map of the change"></div>
+      <div class="fade" id="fade-wrap" hidden>
+        <button type="button" id="hist-toggle" aria-pressed="false">Show historical map</button>
+        <input type="range" id="fade" min="10" max="100" value="85" aria-label="How strong the historical map is" hidden>
+      </div>
+    </div>
+    <div class="timeline">
+      <button class="step" id="prev" aria-label="Previous step">&#8249;</button>
+      <button class="step play" id="play" aria-label="Play">&#9654;</button>
+      <ol class="ticks" id="ticks"></ol>
+      <button class="step" id="next" aria-label="Next step">&#8250;</button>
+    </div>
+  </section>
+
+  <aside class="panel" aria-live="polite">
+    <div class="river-pick" id="river-pick"><p class="picker-title">Choose a change</p><div class="chips" id="river-chips"></div></div>
+    <p class="summary" id="summary"></p>
+    <p class="year" id="year"></p>
+    <h2 id="title"></h2>
+    <div id="text" class="text"></div>
+    <details class="why" id="why" hidden open><summary>Why was it needed?</summary><div id="why-text"></div></details>
+    <div class="gainlost" id="gainlost" hidden>
+      <div><h3>Gained</h3><ul id="gained"></ul></div>
+      <div><h3>Lost</h3><ul id="lost"></ul></div>
+    </div>
+    <div id="stat" class="stat"></div>
+    <figure class="gantt" id="gantt" hidden>
+      <figcaption>When each change was made (click a row)</figcaption>
+      <svg role="img" aria-label="Time chart of all changes"></svg>
+    </figure>
+    <figure class="river-image" id="river-image" hidden>
+      <a id="river-image-link" target="_blank" rel="noopener"><img id="river-image-img" alt=""></a>
+      <figcaption id="river-image-cap"></figcaption>
+    </figure>
+    <ul id="legend" class="legend"></ul>
+    <details class="notes" id="notes" hidden><summary>Uncertain: how this map is drawn</summary><p id="notes-text"></p></details>
+  </aside>
+</main>
+
+<footer class="foot">
+  <p><strong>How the maps are made.</strong> The base map is today's grey swisstopo map. On top: the old course or shape (dashed red), the new one (blue, from OpenStreetMap or swisstopo), and old river beds, marshes or new lakes (areas). Old courses were traced by hand on swisstopo's historical maps (1844–2021) and checked by eye; on the oldest maps they can be 100–400 m off. <a href="uncertain.html">What we are not sure about</a>.</p>
+  <p id="sources"></p>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/d3/7.9.0/d3.min.js"></script>
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="data/changes.js"></script>
+<script src="map.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
