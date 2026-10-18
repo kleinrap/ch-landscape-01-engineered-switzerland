@@ -18,6 +18,13 @@ Final goal: **"Switzerland Without Us"**, a map of Switzerland as it would look 
 - **Code:** its own git repository, published on GitHub Pages.
 - **Licences:** texts CC BY 4.0, code MIT, data derived from OpenStreetMap ODbL.
 
+## Live
+
+- How Switzerland Grew: https://kleinrap.github.io/ch-history-01-how-switzerland-grew/
+- Engineered Switzerland: https://kleinrap.github.io/ch-landscape-01-engineered-switzerland/
+
+Published on GitHub Pages from the `main` branch (18 Oct 2026). The repository names equal the folder names, so the links between the sites (`../<folder>/index.html`) work both online and from disk.
+
 ## Phases
 
 | # | Phase | Status |
@@ -36,5 +43,4 @@ Same as the sister site: open questions in `docs/OPEN-QUESTIONS.md` sorted by im
 
 ## Open next steps
 
-- Create the GitHub repository and publish on GitHub Pages (needs the owner's go-ahead). Name both repositories exactly like their folders (`ch-history-01-how-switzerland-grew`, `ch-landscape-01-engineered-switzerland`) under the same account, so the links between the sites (`../<folder>/index.html`) keep working.
 - Write `gained` / `lost` for the 48 river changes.
