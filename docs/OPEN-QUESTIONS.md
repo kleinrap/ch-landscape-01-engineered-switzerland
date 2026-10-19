@@ -675,3 +675,191 @@ Marsh outlines are traced by eye on Siegfried maps (marsh symbols) and are appro
 - No written source found on what land or buildings were flooded.
 - Sources differ on dates: dam built 1973-1975, lake 1976, plant started 1977.
 - No source checked on residual flow in the Tamina below the dam.
+
+# Hydropower networks (round 8)
+
+Blue water lines come from the BAFU residual flow map: they are simplified straight segments, not exact tunnel routes. Red stretches are swissTLM3D rivers cut at the official intake and return points. Most residual flow figures come from BAFU sheets of about 2007; later rules may be stricter.
+
+### The growth of Swiss hydropower
+
+- The start years of old plants in WASTA may be the first start or a rebuild; not checked plant by plant.
+- The numbers of plants are counted with different size limits in 1913, 1946 and today.
+- All production numbers are expected averages, not measured yearly production.
+- The HLS article 'Stauwerke' was read through a summary tool; the Taulan and Mattmark facts should be checked in the original text.
+
+### Mittelbünden power plants of the city of Zurich (ewz): Julia and Albula
+
+- HLS gives 1953 for the Tinizong station, the federal statistics give 1954.
+- The new residual flow amounts at Marmorera (since 2020) and Burvagn (since 2026) are not given in the sources we found.
+- We assume that the Tinizong station returns its water to the Julia above Burvagn; this is not confirmed.
+- The building years of Tiefencastel Ost and Rothenbrunnen are taken from their start of operation (1970, 1976).
+
+### Ticino river power stations in the Leventina
+
+- The exact building years of Biaschina (before 1911), Piottino (after 1928) and Stalvedro are not in the opened sources.
+- Between Giornico and Personico the drawn river is the corrected bed of today, which differs from the 1910 course.
+- The date when AET took over Stalvedro is not known from the opened sources.
+
+### Ritom railway power scheme (SBB, Ritom SA)
+
+- The residual flows set by the 2015 concession for the Foss, Garegna and Reno di Medel are not known from the opened sources.
+- The start of the new Ritom 2 station has moved several times (2025, 2026, 2027).
+
+### Water fees: what the mountains earn from hydropower
+
+- The rule for the water fee maximum after 2024 was not checked in a primary source.
+- The total of 550 million francs per year is from 2018; the current total was not checked.
+- The Greina place is the pass, not the centre of the plateau.
+
+### Reuss railway power scheme (Pfaffensprung, Wassen, Amsteg)
+
+- The building years of the Amsteg and Wassen stages are not known; only the start of operation (1922/1923 and 1949) is sourced.
+- Whether the Amsteg station was rebuilt in the 1990s is not checked.
+- The owner of the Wassen stage is not confirmed.
+
+### Wägital hydropower scheme (Rempen and Siebnen)
+
+- Concession end: 2041 on the BAFU sheets, end of 2040 in the canton's press release.
+- Start of construction (1921) not confirmed; only the 1924 dam and the 1926 stations are sourced.
+- The Siegfried maps here are not well placed (offset up to 200–300 m); small changes of the river course near Siebnen are not checked.
+- Whether the Trepsenbach intake releases any water is blank on its sheet.
+
+### Oberhasli hydropower scheme (Grimsel, Handeck, Innertkirchen)
+
+- Start year of Handeck 1: HLS says 1929, WASTA says 1932.
+- The intake sheets date from 2007; residual flows may have been raised since then (not checked).
+- The year the Innertkirchen basin started to work is not confirmed by a primary source (article of August 2016 describes it as built).
+- It is not checked that all 15 WASTA stations counted belong to KWO (small stations Nollen, Lochmedli, Innertkirchen 3).
+- The water lines are simplified straight lines, not the real tunnel routes.
+
+### Etzelwerk (Sihlsee to Altendorf, railway power)
+
+- When the new residual flow station at the dam starts (WASTA lists 2027) is not confirmed.
+- Power figures differ: 135 MW (Zurich decision 2016) and 140 MW (WASTA).
+- The share of the Sihl water that goes to Altendorf per year is not given in an opened source.
+
+### Lucendro scheme: Reuss water to the Ticino
+
+- The 50/50 ownership from 2025 is from a news report; the official decrees were not opened.
+- The outline of the natural lakes before the dams was not traced.
+
+### Maggia hydropower scheme (Ofima)
+
+- No opened source gives the share of the natural flow that is left at Bignasco today (often said to be about a quarter).
+- Start years differ: Ofima says Peccia started in 1953, the federal list says 1955; Robiei started in 1967 but ran again only from 1970.
+- The water lines are simplified straight lines, not the real tunnel routes.
+- It is not checked whether the minimum flow procedure has started again after 2022 under the new cantonal water law.
+
+### Grande Dixence network: glacier water from Zermatt to Arolla
+
+- The exact place where the shaft burst in 2000 is described only as near Nendaz; the hamlet is not checked.
+- The year each collection tunnel and pumping station opened is not checked (1951–1965 is the main building period).
+- Chandoline is not in the 2025 federal plant statistics; whether it still runs is not checked.
+- The Grande Dixence site says 5 pumping stations but names only 4 (plus Cleuson).
+
+### Mauvoisin network: from the Val de Bagnes to Riddes
+
+- When each side-stream intake (Corbassière, Louvie and others) was built is not checked.
+
+### The fight for residual flow in Swiss rivers
+
+- The intake sheets are from 2007; the residual flows at Mauvoisin and other places may have changed after remediation.
+- The total number of intakes (about 1,500) is not reliable, says BAFU; only the number of remediated intakes is reliable.
+- The state of remediation after 2020 was not checked (BAFU expected 98.5% by the end of 2022).
+- The brief named a 'Lebendiges Wasser' initiative of 1992; the 1992 vote was on the initiative 'to save our waters'. 'Lebendiges Wasser' was a later initiative (2006, withdrawn 2010), used in the change 'Hydropeaking'.
+
+### Lienne network: Tseuzier, Croix and St-Léonard
+
+- The 1956 report gives plans; the real first year of Croix (1957 in the federal statistics) fits, but the exact date is not checked.
+- An empty release line on the official sheets may mean no release or missing data.
+
+### Zervreila power plants (KWZ): Vals, Safien and Rothenbrunnen
+
+- The BAFU sheets for the KWZ intakes give no residual flow amounts; we do not know the amounts today.
+- HLS gives 1951-1958 for the works, KWZ gives 1953-1958; we use the company years.
+- A short piece of the Rabiusa near Versam (about 1.2 km) is not drawn because the official line has a gap there.
+
+### Gougra network: Val d'Anniviers and the Turtmann valley
+
+- An empty release line on the official sheets (dated about 2007) may mean no release or missing data; not checked with the canton.
+- Whether the 1908 Chippis plant used the same intakes before 1958 is not checked.
+
+### Göschenen hydropower scheme (Göscheneralp, Urseren, Schöllenen)
+
+- The intake sheets date from about 2007; residual flows may have changed since.
+- The exact share of the Urseren plan that the Göschenen plant reached is unreadable in the 1963 scan.
+
+### Bergell power plants of the city of Zurich (ewz): Albigna, Löbbia and Castasegna
+
+- The amount of residual flow at Löbbia since 2015 is not given in the sources we found.
+- We do not know if the Albigna and upper Maira intakes release residual flow today.
+- The year when ewz got the Bergell water rights was not found.
+
+### Hinterrhein power plants (KHR): Valle di Lei to Sils
+
+- The residual flow amounts after the cantonal order of 2012 were not found; the numbers used are from the BAFU sheets of 2007.
+- Which hydropeaking measure for the Hinterrhein below Sils was finally chosen after the 2023 consultation is not known to us.
+- The BAFU water lines are simplified; the real tunnel routes are not drawn.
+
+### Blenio hydropower scheme (Ofible)
+
+- The founding year 1956 is from the Ofible website only; the page looked partly broken.
+- Sources give different totals: 436 MW and over 850 GWh (Bulletin 2026) or 400 MW and 835 GWh (Ofible website).
+- The last kilometre of the Brenno at Biasca is not drawn because its course changed after 1955.
+
+### Linth-Limmern hydropower scheme (Tierfehd, Linthal, Limmern pumped storage)
+
+- Which of the WWF demands (more water in the Linth gorge, fish passes) were carried out is not checked.
+- The residual flow values on the intake sheets may be older than the rules of the 2016 concession.
+- Which intakes the lines UR-015 and UR-016 (canton Uri) serve was not checked in a source.
+- The hydropeaking figures are from a canton study of 2014; the state after 2016 is not checked.
+
+### Vorderrhein power plants (KVR): Curnera, Nalps, Santa Maria, Sedrun and Tavanasa
+
+- The residual flow amounts of the KVR intakes are not given on the BAFU sheets; we do not know if they were raised after 1992.
+- Sources differ on the start of the works: Axpo says 1962-1968, the Nalps dam sheet says 1958-1962.
+- Hydropeaking below the Tavanasa station is not described in the sources we found.
+
+### Mattmark network: the Saas valley to Stalden
+
+- The building years of the stations come from the federal statistics (start of operation 1965 and 1966); the start of the tunnel works is not checked.
+- The Zermeiggern pumps were added later (said to be 1983–1987); not checked in a source opened here.
+
+### Verzasca hydropower scheme (Verzasca SA)
+
+- It is not clear how much water flows in the gorge between the dam and the Tenero residual flow station.
+
+### Engadin power plants (EKW): Livigno, Ova Spin, Pradella and Martina
+
+- The exact building years of the EKW stations are not given in the sources we found; we use the start of operation (1970) and the 1962 concession.
+- The EKW homepage warning was read as a summary; the exact wording was not kept.
+- The residual flow amounts in the Inn may have changed after 2007.
+
+### Hongrin–Léman pumped storage scheme (Lac de l'Hongrin to Veytaux)
+
+- The residual flow released into the Hongrin below the dam is not given on the official sheet.
+- What the reservoir flooded (pastures, chalets, roads) is not described in an opened source.
+- Start year: WASTA 1972, FMHL 1971 (Veytaux I) and partial service in 1970.
+
+### Gebidem dam and Bitsch power station (Electra-Massa)
+
+- The two production figures (623 GWh by the operator, 770 GWh expected in the federal statistics) do not agree.
+- Whether a residual flow is released today (after the 2007 sheet) is not checked.
+
+### Emosson network and the Nant de Drance pumped storage plant
+
+- The year each Swiss intake opened (between 1967 and 1975) is not checked.
+- The French intakes and their effect on the Arve are not checked on French data.
+- Nant de Drance shows only 11.29 GWh expected production in the federal statistics; this is likely the net figure of a pumped storage plant, not checked.
+
+### Sarganserland power plants (KSL): Gigerwald, Mapragg and Sarelli
+
+- No company source of KSL was found online; the founding year and the owners are not given here.
+- The natural flow of the Tamina and the Seez at the intakes is not given on the BAFU sheets (no data).
+- Hydropeaking in the Rhine below the Sarelli station is likely but not described in the sources we found.
+
+### Hydropeaking: rivers that rise and fall every day
+
+- The opening year of the Innertkirchen hydropeaking basin (probably 2015 or 2016) was not found in a primary source.
+- The ecological effect at Innertkirchen is described only by the operator's own magazine.
+- The state of remediation after 2022 was not checked; the next cantonal report is due at the end of 2026.

@@ -11,7 +11,7 @@ import os
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 RESEARCH = os.path.join(ROOT, "research")
 DATA = os.path.join(ROOT, "data")
-TYPES = {"river", "marsh", "lake", "dam", "stream", "forest", "landuse", "transport", "protection", "species"}
+TYPES = {"river", "marsh", "lake", "dam", "hydropower", "stream", "forest", "landuse", "transport", "protection", "species"}
 
 
 def main():

@@ -1,0 +1,3540 @@
+{
+ "hydropower-switzerland": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://vsa-aas.ch/wp-content/uploads/2022/01/D11_Wasserkr%C3%A4fte_publiziert_de.pdf",
+    "quote": "Die Schweiz bietet dank ihrer Topographie und beträchtlichen durchschnittlichen Niederschlagsmengen ideale Bedingungen für die Wasserkraftnutzung.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1 / lost 1",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "Am Ende des 19. Jahrhunderts waren über 10'000 kleine Wasserkraftanlagen in Betrieb. 1914 ... rund 7'000 Kraftwerke bis 10 MW",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "wurden im 20. Jahrhundert die meisten Kleinwasserkraftwerke stillgelegt",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "1887 Taulan bei Montreux, erstes Hochdruckkraftwerk (250 m Fallhöhe) [summary of HLS text]",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://vsa-aas.ch/wp-content/uploads/2022/01/D11_Wasserkr%C3%A4fte_publiziert_de.pdf",
+    "quote": "Bundesgesetz vom 22. Dezember 1916 über die Nutzbarmachung der Wasserkräfte (Wasserrechtsgesetz, WRG)",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "1955-1970: intensivster Ausbau der Schweizer Wasserkraft",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "1970-1980: ... Erdölkrise ... intensiver Ausbau der Kernenergie ... Kritik aus ökologischer Sicht",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "1980-1990: Die Bautätigkeit kam praktisch zum Erliegen",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "Mit dem Bau der Anlage Cleuson-Dixence wurde zudem die Zeit der grossen Leistungsausbauten eingeläutet ... KWO plus, Linth-Limmern und Emosson",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/920",
+    "quote": "1913: 624 MW, 3'130 GWh; 1913: 835 Wasserkraftwerke ≥ 20 PS erfasst",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/12601",
+    "quote": "Die 722 bestehenden Zentralen, wovon 16 ihren Standort im Ausland haben ... 16'475 MW ... 37'162 GWh/a",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/12601",
+    "quote": "Anteil von 58,5 % (10jähriger Mittelwert) an der gesamten Stromerzeugung",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://vsa-aas.ch/wp-content/uploads/2022/01/D11_Wasserkr%C3%A4fte_publiziert_de.pdf",
+    "quote": "Noch zu Beginn der 1970er Jahre stammten ... fast 90% der inländischen Stromproduktion aus Wasserkraft ... bis 1985 auf rund 60%",
+    "scope": "general"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/12601",
+    "quote": "Insgesamt fallen rund 41,8 % auf das Winter- und 58,2 % auf das Sommerhalbjahr.",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "Die Summe der jährlich erhobenen Wasserzinsen beträgt zurzeit rund 550 Millionen Franken.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://vsa-aas.ch/wp-content/uploads/2022/01/D11_Wasserkr%C3%A4fte_publiziert_de.pdf",
+    "quote": "Einnahmen aus den Konzessionsgebühren, dem Wasserzins und den Steuern",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu.admin.ch/de/restwasser",
+    "quote": "about 1,500 water withdrawals used for hydropower; some streams still periodically dried out [summary of BAFU page]",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "Urseren 1951 fallen gelassen; Silsersee 1946; Rheinau 1954; Greina 1980er Jahre; Mattmark 1965: 88 Arbeiter getötet [summary]",
+    "scope": "general"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "rund 1000 Hindernisse von Wasserkraftanlagen ... Bei weiteren 100 Wasserkraftanlagen müssen Massnahmen zur Dämpfung von Schwall-Sunk ergriffen werden.",
+    "scope": "general"
+   },
+   {
+    "item": "stop 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/042014/",
+    "quote": "number of electricity works: 1900: 140; 1913: over 1,000 [summary of HLS text]",
+    "scope": "general"
+   },
+   {
+    "item": "stop 2",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "zwischen 1925 und 1932 das Kraftwerk Handeck I mit den Stauseen Grimsel und Gelmer gebaut",
+    "scope": "general"
+   },
+   {
+    "item": "stop 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/042014/",
+    "quote": "Partner works in the interwar period: Wägital, Ryburg-Schwörstadt, Etzel [summary of HLS text]",
+    "scope": "general"
+   },
+   {
+    "item": "stop 2",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/920",
+    "quote": "1946: 283 Wasserkraftwerke ≥ 450 PS (331 kW) erfasst mit 10'451 GWh/a; 1946: 2'770 MW",
+    "scope": "official data"
+   },
+   {
+    "item": "stop 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/920",
+    "quote": "1950: 2'870 MW, 12'587 GWh; 1970: 9'628 MW, 30'337 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "stop 4",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/12601",
+    "quote": "706 Wasserkraftwerke mit einer maximal möglichen Leistung ≥ 300 kW ... Rund 63 % ... aus den Bergkantonen Uri, Graubünden, Tessin und Wallis",
+    "scope": "official data"
+   },
+   {
+    "item": "places",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Bieudron, Riddes VS, beginningofoperation 1999, 1200 MW, 2103.1 GWh; Limmern 2016, 1000 MW; Nant de Drance 2022, 900 MW",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The start years of old plants in WASTA may be the first start or a rebuild; not checked plant by plant.",
+   "The numbers of plants are counted with different size limits in 1913, 1946 and today.",
+   "All production numbers are expected averages, not measured yearly production.",
+   "The HLS article 'Stauwerke' was read through a summary tool; the Taulan and Mattmark facts should be checked in the original text."
+  ],
+  "visits": [
+   {
+    "place": "Swiss Federal Archives, Archivstrasse 24, Bern",
+    "what": "Federal hydropower statistics (E10241 Eidg. Amt für Wasserwirtschaft 1919-1978): yearly lists of plants, to check plant numbers and start years before 1950."
+   }
+  ],
+  "checks": [],
+  "group": "h-national"
+ },
+ "residual-flow-law": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000032/",
+    "quote": "mit der sogenannten Rheinauinitiative ... deutlichen Niederlage ... 1956 in Betrieb [summary]",
+    "scope": "region"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007791/",
+    "quote": "Rheinau (1952–1954) as an example of a less successful campaign against hydropower plants [summary]",
+    "scope": "general"
+   },
+   {
+    "item": "why 2 / gained 3",
+    "url": "https://swissvotes.ch/vote/253.00/abstimmungstext-de.pdf",
+    "quote": "den Schutz der ober- und unterirdischen Gewässer gegen Verunreinigung und die Sicherung angemessener Restwassermengen",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://swissvotes.ch/vote/378.00/kurzbeschreibung-de.pdf",
+    "quote": "Bei rund 40 vorliegenden Projekten für weitere Wasserkraftwerke (1983)",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://swissvotes.ch/vote/378.00/kurzbeschreibung-de.pdf",
+    "quote": "1984 vom Fischereiverband und acht Umweltverbänden mit rund 180 000 Unterschriften eingereichten Initiative",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://swissvotes.ch/vote/377.00/kurzbeschreibung-de.pdf",
+    "quote": "Der indirekte Gegenvorschlag wird schliesslich ... deutlich mit 66,1% Jastimmen ... angenommen.",
+    "scope": "general"
+   },
+   {
+    "item": "why 2 / why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/QpSZH9aCgXCs/restwassersanierung_nach_art_80_ff-gschg_stand_ende_2020_und_entwicklung_seit_ende_2018.pdf",
+    "quote": "Das Bundesgesetz vom 24. Januar 1991 über den Schutz der Gewässer ... ist am 1. November 1992 in Kraft getreten.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "Die Bestimmung der Mindestrestwassermengen wird in Art. 31 des Gewässerschutzgesetzes geregelt und basiert auf der Abflussmenge Q347",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/QpSZH9aCgXCs/restwassersanierung_nach_art_80_ff-gschg_stand_ende_2020_und_entwicklung_seit_ende_2018.pdf",
+    "quote": "Die ursprüngliche Frist 2007 hatte das Parlament im Rahmen des Entlastungsprogramms 2003 um fünf Jahre erstreckt.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/QpSZH9aCgXCs/restwassersanierung_nach_art_80_ff-gschg_stand_ende_2020_und_entwicklung_seit_ende_2018.pdf",
+    "quote": "dass mehr als die Hälfte der Kantone die Frist zur Restwassersanierung Ende 2012 nicht einhalten würden",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1 / why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/QpSZH9aCgXCs/restwassersanierung_nach_art_80_ff-gschg_stand_ende_2020_und_entwicklung_seit_ende_2018.pdf",
+    "quote": "womit Ende 2020 934 Wasserentnahmen saniert sind. Dies entspricht 91 % der aktuell 1'028 sanierungspflichtigen Wasserentnahmen.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/NYYtUYaQE7ur/Auswirkungen%20des%20Vollzugs%20der%20Restwasserbestimmungen%20im%20Gew%C3%A4sserschutzgesetz%20(GSchG)%20auf%20die%20Produktion%20bei%20Wasserkraftwerken%20.pdf",
+    "quote": "dass die Restwasserregelung gemäss GSchG die Bedingungen für das Überleben und Gedeihen verschiedenster Organismen ... gewährleistet werden kann, auch wenn noch Defizite",
+    "scope": "general"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/NYYtUYaQE7ur/Auswirkungen%20des%20Vollzugs%20der%20Restwasserbestimmungen%20im%20Gew%C3%A4sserschutzgesetz%20(GSchG)%20auf%20die%20Produktion%20bei%20Wasserkraftwerken%20.pdf",
+    "quote": "In der neuen Bundesverfassung ... ist in Artikel 76 Absatz 3 die «Sicherung angemessener Restwassermengen» festgehalten.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "Bei einer Erneuerung der Konzession müssen die Restwasservorschriften gemäss Gewässerschutzgesetz ohne Einschränkung angewendet werden.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/NYYtUYaQE7ur/Auswirkungen%20des%20Vollzugs%20der%20Restwasserbestimmungen%20im%20Gew%C3%A4sserschutzgesetz%20(GSchG)%20auf%20die%20Produktion%20bei%20Wasserkraftwerken%20.pdf",
+    "quote": "ca. 318 GWh pro Jahr ... Verglichen mit ihrer theoretischen Bruttoproduktion von 4210 GWh pro Jahr ... entspricht dies ca. 7.6 %",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu.admin.ch/de/restwasser",
+    "quote": "Most plants will reach renewal between 2025 and 2050; some streams are still periodically dried out [summary of BAFU page]",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/VS204.pdf",
+    "quote": "VS-204 Dranse de Bagnes, Q347 218 l/s, Zentrale Fionnay (Mauvoisin); Dotierwassermenge: no values; withdrawn = flow above intake",
+    "scope": "official data"
+   },
+   {
+    "item": "stop 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/ZH001.pdf",
+    "quote": "ZH-001 Rhein, Zentrale Rheinau; Entnommene Wassermenge up to 400 m3/s; Dotierwassermenge 5.0 m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "stop 2",
+    "url": "https://swissvotes.ch/vote/253.00/kurzbeschreibung-de.pdf",
+    "quote": "Das Resultat fällt mit über drei Viertel Jastimmen klar aus ... Als einziger Kanton lehnt das Wallis ... die Vorlage ab.",
+    "scope": "general"
+   },
+   {
+    "item": "stop 3",
+    "url": "https://swissvotes.ch/vote/378.00/kurzbeschreibung-de.pdf",
+    "quote": "die Initiative deutlich mit nur 37,1% Jastimmen ablehnen",
+    "scope": "general"
+   },
+   {
+    "item": "stop 3",
+    "url": "https://swissvotes.ch/vote/377.00/kurzbeschreibung-de.pdf",
+    "quote": "Mehrheitlich Nein sagen die Stimmenden einzig in den Berg- und Wasserkraftkantonen Uri, Schwyz, Obwalden, Glarus und Wallis.",
+    "scope": "general"
+   },
+   {
+    "item": "stop 3",
+    "url": "https://swissvotes.ch/vote/377.00/kurzbeschreibung-de.pdf",
+    "quote": "würde die Stromproduktion um 8 bis 15% fallen",
+    "scope": "general"
+   },
+   {
+    "item": "stop 4",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI088.pdf",
+    "quote": "TI-088 fiume Maggia, Q347 1470 l/s, Zentrale Verbano, Dotierwassermenge 300.0 l/s",
+    "scope": "official data"
+   },
+   {
+    "item": "places",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR099.pdf",
+    "quote": "GR-099 Spoel, Q347 1940 l/s, Zentrale Ova Spin, Dotierwassermenge 0.55 to 1.45 m3/s",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The intake sheets are from 2007; the residual flows at Mauvoisin and other places may have changed after remediation.",
+   "The total number of intakes (about 1,500) is not reliable, says BAFU; only the number of remediated intakes is reliable.",
+   "The state of remediation after 2020 was not checked (BAFU expected 98.5% by the end of 2022).",
+   "The brief named a 'Lebendiges Wasser' initiative of 1992; the 1992 vote was on the initiative 'to save our waters'. 'Lebendiges Wasser' was a later initiative (2006, withdrawn 2010), used in the change 'Hydropeaking'."
+  ],
+  "visits": [
+   {
+    "place": "Swiss Federal Archives, Archivstrasse 24, Bern",
+    "what": "Federal Council message of 29 April 1987 on the initiative and the water protection law (BBl 1987 II 1061): official estimates of production losses and of dry stretches."
+   }
+  ],
+  "checks": [],
+  "group": "h-national"
+ },
+ "hydropeaking": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "Im betroffenen Gewässerabschnitt können die Abflüsse so innert Minuten auf ein Vielfaches ansteigen und wieder absinken.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "So fallen bei Sunk Gewässerbereiche innert kürzester Zeit trocken, mit der Konsequenz, dass Fische und andere Organismen stranden und sterben.",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "die vom Schweizerischen Fischerei-Verband eingereichte Volksinitiative „Lebendiges Wasser“ die Verminderung der Beeinträchtigung der Gewässer durch Schwall und Sunk",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/fga/2010/684/de/pdf-a/fedlex-data-admin-ch-eli-fga-2010-684-de-pdf-a.pdf",
+    "quote": "Volksinitiative vom 3. Juli 2006 ... der Änderung vom 11. Dezember 2009 des ... Gewässerschutzgesetz ... (Renaturierung)",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://fedlex.admin.ch/filestore/fedlex.data.admin.ch/eli/fga/2010/684/de/pdf-a/fedlex-data-admin-ch-eli-fga-2010-684-de-pdf-a.pdf",
+    "quote": "Der Bundesrat nimmt daher von der Durchführung einer Abstimmung von Volk und Ständen über die Volksinitiative ... Umgang.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "Schwall und Sunk ... welche die einheimischen Tiere und Pflanzen sowie deren Lebensräume wesentlich beeinträchtigen, verhindern bzw. beseitigen müssen (Art. 39a GSchG)",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "Die Inhaber von Wasserkraftwerken werden ... zu 100% entschädigt ... Fonds, der durch den Stromkonsumenten mit 0,1 Rp/kWh geäufnet wird.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "rund 1000 Hindernisse von Wasserkraftanlagen ... Bei weiteren 100 Wasserkraftanlagen müssen Massnahmen zur Dämpfung von Schwall-Sunk ergriffen werden.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "müssen bis 2030 ökologisch saniert werden",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "2017 ein neues Wasserreglement ... Flussabschnitt von über 40 Kilometern ... Anzahl Fische zwischen 2004 und 2020 im Durchschnitt verdoppelt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.epfl.ch/labs/lch/wp-content/uploads/2018/11/Auslassorgane-Beruhigungsbecken-Innertkirchen.pdf",
+    "quote": "über ein neues, gemeinsames Beruhigungsbecken ... Speichervolumen von ungefähr 20'000 m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.plattformj.ch/artikel/146358/",
+    "quote": "das grösste Schwall-Sunk-Becken der Schweiz",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "rund 470 Millionen Franken zugesichert: ... 176 Millionen Franken für Schwall-Sunk-Massnahmen",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/83NBCchyBKev/sanierung-wasserkraft-bericht-2022.pdf",
+    "quote": "von den gemeldeten 107 Anlagen mit Sanierungsbedarf vier Anlagen fertig saniert ... Bei 26 ... noch nicht gestartet",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.plattformj.ch/artikel/146358/",
+    "quote": "Diese Morphologie fehlt aber in der Hasliaare.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://pubdb.bfe.admin.ch/de/publication/download/2114",
+    "quote": "Neue schwalldämpfende Massnahmen könnten die Wirtschaftlichkeit der zukünftigen Wasserkraftnutzung beeinträchtigen.",
+    "scope": "general"
+   },
+   {
+    "item": "places",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Innertkirchen 1 und 1a 1943; Innertkirchen 2 1967; Le Chatelot 1953; Refrain 1909 (Echelles de la Mort)",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The opening year of the Innertkirchen hydropeaking basin (probably 2015 or 2016) was not found in a primary source.",
+   "The ecological effect at Innertkirchen is described only by the operator's own magazine.",
+   "The state of remediation after 2022 was not checked; the next cantonal report is due at the end of 2026."
+  ],
+  "visits": [],
+  "checks": [],
+  "group": "h-national"
+ },
+ "water-fees": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "Gemäss Artikel 76 Absatz 4 der Bundesverfassung (BV) verfügen die Kantone über die Wasservorkommen.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://vsa-aas.ch/wp-content/uploads/2022/01/D11_Wasserkr%C3%A4fte_publiziert_de.pdf",
+    "quote": "Die Konzession wird für höchstens 80 Jahre von der Eröffnung des Betriebes an erteilt.",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "1918 betrug das Maximum 6 Franken pro Bruttopferdestärke (Fr./PSbr), was äquivalent zu einem Maximum von 8 Franken und 16 Rappen",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "per 1. Januar 2011 von 80 Fr./kWbr auf 100 Fr./kWbr und per 1. Januar 2015 auf 110 Fr./kWbr angehoben",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "Das seit dem 1. Januar 2015 geltende bundesrechtliche Wasserzinsmaximum von 110 Fr./kWbr soll bis Ende 2024 beibehalten werden.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "rund 550 Millionen Franken. Ein Grossteil davon entfällt auf die Bergkantone Wallis, Graubünden, Tessin und Uri sowie auf die Kantone Bern und Aargau",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "Der Anteil der Wasserzinseinnahmen an den Fiskaleinnahmen ... beträgt in diesen Kantonen zwischen 13 und 23 Prozent.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "Der Kanton Graubünden teilt die Wasserzinseinnahmen ... hälftig mit den Gemeinden ... Im Schnitt gehen über 70 Prozent ... an die Kantone",
+    "scope": "general"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "um attraktiven, steuergünstigen Wohnraum zu bieten und eine Abwanderung aus der Region zu verhindern",
+    "scope": "general"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "unter anderem in den Kantonen Bern und Wallis, wird ein Teil der Einnahmen ... für Umweltmassnahmen ... verwendet",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://swissvotes.ch/vote/378.00/kurzbeschreibung-de.pdf",
+    "quote": "Der Widerstand gegen die Initiative entsteht vor allem aus dem Kreis von Stromproduzenten und den stärker betroffenen Bergkantonen",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://swissvotes.ch/vote/378.00/kurzbeschreibung-de.pdf",
+    "quote": "welche sich um Verluste von Einnahmen aus Kraftwerkkonzessionen und von Arbeitsstellen sorgen",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu.admin.ch/de/restwasser",
+    "quote": "Residual water must stay in the river bed below a withdrawal point [summary of BAFU page]",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://vsa-aas.ch/wp-content/uploads/2022/01/D11_Wasserkr%C3%A4fte_publiziert_de.pdf",
+    "quote": "Ausgleichsbeiträge zur Abgeltung erheblicher Einbussen ... ist konkret im Fall von Greina GR angewendet worden",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008817/",
+    "quote": "Stauseeprojekt der NOK 1986 aufgegeben",
+    "scope": "region"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "die Wasserzinsen über die Jahre 2000 bis 2016 durchschnittlich ungefähr 1 Rp./kWh bzw. rund 20 Prozent der Gestehungskosten",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "Aufgrund des Anstiegs auf 110 Fr./kWbr machen die Wasserzinsen seit 2015 durchschnittlich 1.5 Rp./kWh aus.",
+    "scope": "general"
+   },
+   {
+    "item": "stop 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/52433.pdf",
+    "quote": "Wasserkraftwerke mit einer Bruttoleistung bis zu 1000 kW bezahlen keinen Wasserzins ... Einzig die Kantone Bern, Jura, Zug und Waadt erheben ... einen niedrigeren Satz.",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "The rule for the water fee maximum after 2024 was not checked in a primary source.",
+   "The total of 550 million francs per year is from 2018; the current total was not checked.",
+   "The Greina place is the pass, not the centre of the plateau."
+  ],
+  "visits": [],
+  "checks": [],
+  "group": "h-national"
+ },
+ "grande-dixence-network": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/041946/",
+    "quote": "Grande Dixence SA, founded in 1950 (HLS article on the dam; first Dixence dam by EOS 1929–1935)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.grande-dixence.ch/fr/comprendre/les-adductions-136/",
+    "quote": "75 prises d'eau et 5 usines de pompage",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.grande-dixence.ch/",
+    "quote": "100 km of galleries, including a main channel of 24 km at about 2,400 m (summary of the site)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/041946/",
+    "quote": "pumping stations Arolla, Ferpècle, Stafel and Z'Mutt; plants Fionnay, Nendaz, Bieudron and Chandoline (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.grande-dixence.ch/fr/qui-sommes-nous/une-veritable-epopee-technique-et-humaine-601/",
+    "quote": "1993–1998, Cleuson-Dixence: aim of 1'200 MW; underground Bieudron plant beside the Rhône (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/storage-power-plant-cleuson-dixence",
+    "quote": "put back into operation in January 2010",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/041946/",
+    "quote": "produces an average of 2 billion kWh per year (summary of the HLS text)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/storage-power-plant-cleuson-dixence",
+    "quote": "2000 GWh together with the Grande Dixence complex",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 / gained 3",
+    "url": "https://www.grande-dixence.ch/fr/comprendre/les-adductions-136/",
+    "quote": "Réunir les eaux d'un bassin versant de 420 km2 ... environ 500 millions de m3 d'eau chaque année",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Bieudron 1999, 1269 MW; Nendaz 1960, 392 MW; Fionnay GD 1957, 306 MW",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS159.pdf",
+    "quote": "VS-159 Borgne de Ferpècle: débit amont = quantité prélevée each month (e.g. Jul 6.34 / 6.34 m3/s)",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS201.pdf",
+    "quote": "VS-201 Borgne d'Arolla: débit amont = quantité prélevée each month (e.g. Jul 1.71 / 1.71 m3/s)",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS141.pdf",
+    "quote": "VS-141 Barrage de la Grande-Dixence: Débit de dotation (l/s) 0.0 in all 12 months",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.gr.ch/DE/Medien/Mitteilungen/MMStaka/2001/Seiten/DE_15041.aspx",
+    "quote": "In den Schuttmassen kamen drei Personen ums Leben.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.gr.ch/DE/Medien/Mitteilungen/MMStaka/2001/Seiten/DE_15041.aspx",
+    "quote": "zwei Chalets und andere landwirtschaftliche Gebäude mitgerissen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.nsenergybusiness.com/news/newscleuson-dixence-investigations-will-take-several-months/",
+    "quote": "Three people died in the accident",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS198.pdf",
+    "quote": "VS-198 Zmuttbach / Stausee Zmutt, Centrale Fionnay (Dixence): débit amont = quantité prélevée each month",
+    "scope": "official data"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.vs.ch/fr/web/energie/forces-hydrauliques",
+    "quote": "concessions before 1992 must meet residual flow rules qu'après le renouvellement (summary)",
+    "scope": "region"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.vs.ch/documents/16739272/16839241/Vad%C3%A9m%C3%A9cum+Retour+des+concession.pdf",
+    "quote": "Les parties dites mouillées des installations font « retour » gratuit à la communauté concédante.",
+    "scope": "region"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS143.pdf",
+    "quote": "VS-143 Fin droit d'utilisation 2045",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The exact place where the shaft burst in 2000 is described only as near Nendaz; the hamlet is not checked.",
+   "The year each collection tunnel and pumping station opened is not checked (1951–1965 is the main building period).",
+   "Chandoline is not in the 2025 federal plant statistics; whether it still runs is not checked.",
+   "The Grande Dixence site says 5 pumping stations but names only 4 (plus Cleuson)."
+  ],
+  "visits": [
+   {
+    "place": "Médiathèque Valais, Sion (Rue de Lausanne 45)",
+    "what": "Logean's history of the building works (1951–1962) and Grande Dixence annual reports: dates of each tunnel and pumping station."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gd_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gd_dixence_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gd_haudères_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gd_zmutt_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gd_zmutt_1950_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gd_zmutt_today_z16.png"
+  ],
+  "group": "h-vs"
+ },
+ "mauvoisin-network": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 3",
+    "url": "https://www.museedebagnes.ch/wp-content/uploads/2022/11/flyer-sentierbarrage-mauvoisin.pdf",
+    "quote": "Entre 1948 et 1958, plus de 1800 hommes travaillèrent chaque jour",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bafu.wasser-leitungen",
+    "quote": "lines VS-204 (dam) and VS-179 (Fionnay) end at the Riddes return point 46.1624, 7.1965",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Riddes beginningofoperation 1956; Fionnay FMM 1958; Chanrion 1964",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002675/",
+    "quote": "outre l'électricité produite, permit de supprimer les inondations catastrophiques",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Riddes 271 MW, 714 GWh; Fionnay FMM 138.6 MW, 295 GWh; Chanrion 33.4 MW, 80.5 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS204.pdf",
+    "quote": "VS-204 Dranse de Bagnes: débit amont = quantité prélevée each month (Jul 21.72 / 21.72 m3/s)",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS179.pdf",
+    "quote": "VS-179 Q347 468 l/s; Débit de dotation 100 (Jan) ... 900 (Jul) l/s",
+    "scope": "official data"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS179.pdf",
+    "quote": "Fin droit d'utilisation 2041",
+    "scope": "official data"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.vs.ch/fr/web/energie/forces-hydrauliques",
+    "quote": "residual flow rules for pre-1992 concessions qu'après le renouvellement (summary)",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "When each side-stream intake (Corbassière, Louvie and others) was built is not checked."
+  ],
+  "visits": [
+   {
+    "place": "Musée de Bagnes, Le Châble",
+    "what": "Forces Motrices de Mauvoisin photo archive: building dates of the Fionnay–Riddes tunnel and the side intakes."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/bagnes_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/bagnes_1950_up.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/bagnes_1950_low.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/bagnes_today.png"
+  ],
+  "group": "h-vs"
+ },
+ "emosson-network-nant-de-drance": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "collecterait les eaux des vallées avoisinantes en France et en Suisse et submergerait le barrage des CFF",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "Le 23 août 1963, la Confédération suisse et la République française ont conclu une convention",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "soit jusqu'au 31 décembre 2055",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "de capter entre les cotes 1575 et 1520 les eaux du Val Ferret supérieur",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 3",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "les eaux captées en France dans les hauts bassins de l'Arve, du Giffre et de l'Eau Noire",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.nant-de-drance.ch/en/history",
+    "quote": "Decision to increase the capacity from 600 to 900 MW",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.nant-de-drance.ch/en/",
+    "quote": "600 metres underground, linking the Emosson and Vieux Emosson reservoirs (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Chatelard Vallorcine 1978, 280 MW; La Batiaz 1978, 190 MW, 435 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.nant-de-drance.ch/en/",
+    "quote": "900 MW; 20 million kWh storage; 5 minutes from pumping to turbining; over 80% (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.nant-de-drance.ch/en/history",
+    "quote": "14 years; 18 km tunnels; up to 650 workers; more than CHF 2 billion (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS175.pdf",
+    "quote": "VS-175 Trient, Centrale Chatelard-Vallorcine: Débit de dotation (l/s) 0.0 in all 12 months",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS224.pdf",
+    "quote": "VS-224 Torrent de la Fouly: Débit de dotation 0.0 ... 350.0 (Jun–Sep) ... 0.0",
+    "scope": "official data"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.nant-de-drance.ch/en/",
+    "quote": "14 ecological restoration and environmental regeneration projects (summary)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The year each Swiss intake opened (between 1967 and 1975) is not checked.",
+   "The French intakes and their effect on the Arve are not checked on French data.",
+   "Nant de Drance shows only 11.29 GWh expected production in the federal statistics; this is likely the net figure of a pumped storage plant, not checked."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/em_trient_1966.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/em_today.png"
+  ],
+  "group": "h-vs"
+ },
+ "gougra-network": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/gougra-storage-power-plant",
+    "quote": "Moiry dam constructed in 1954; plant commissioned in 1958 (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/gougra-storage-power-plant",
+    "quote": "harnesses the power of the waters from Val d'Anniviers and the Turtmann Valley",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/gougra-storage-power-plant",
+    "quote": "Turtmann dam 30 m, 2,177 m; tunnels 3,380 m, 6,910 m, 8,500 m (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Navizence, Chippis, beginningofoperation 1908; Turtmann, Muellacheren, 1925",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/gougra-storage-power-plant",
+    "quote": "168 MW; average annual production 643 GWh (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Mottec 102 MW, pumps 87 MW; Vissoie 57 MW, 213 GWh; Navizence 71.1 MW, 298.7 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS116.pdf",
+    "quote": "VS-116 Gougra, Centrale Motec: Q347 (l/s) 0; Débit de dotation (l/s) empty",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS108.pdf",
+    "quote": "VS-108 Navisence, Centrale Vissoie: Quantité prélevée Jul 11.94 m3/s; Débit de dotation empty",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS099.pdf",
+    "quote": "VS-099 Turtmannbach, Centrale Motec: Q347 118 l/s; Débit de dotation empty",
+    "scope": "official data"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS108.pdf",
+    "quote": "Fin droit d'utilisation 2039",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "An empty release line on the official sheets (dated about 2007) may mean no release or missing data; not checked with the canton.",
+   "Whether the 1908 Chippis plant used the same intakes before 1958 is not checked."
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat du Valais, Sion (Rue de Lausanne 45)",
+    "what": "Gougra concession acts of the 1950s: the residual flow rules set then for the Gougra, Navisence and Turtmänna."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gg_1953.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/gg_today.png"
+  ],
+  "group": "h-vs"
+ },
+ "mattmark-network": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bafu.wasser-entnahme",
+    "quote": "Centrale Zermeiggern: VS-165 Saaservispa, VS-160 Allalingletscherbach, VS-155 Hohllaubbach, VS-153 Furggbach, VS-130 Almagellerbach",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bafu.wasser-leitungen",
+    "quote": "lines VS-165 and VS-139 end at the return point 46.2351, 7.8723 (Stalden)",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3",
+    "url": "https://axpo.com/ch/en/newsroom/media-releases/2025/mattmark-dam--raising-by-ten-metres-under-review.html",
+    "quote": "about 18% more volume; about 60 GWh more winter electricity; eleven concession municipalities (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Stalden KWM 1965, 185 MW, 527.4 GWh; Zermeiggern 1966, 74 MW, 133.4 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.axpo.com/content/dam/axpo19/ch/files-ch/media-releases/2016/160113_Website_MM_KraftwerkeMattmarkAG.pdf",
+    "quote": "der zehnjährige Mittelwert beträgt 647,4 Mio. kWh",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.axpo.com/content/dam/axpo19/ch/files-ch/media-releases/2016/160113_Website_MM_KraftwerkeMattmarkAG.pdf",
+    "quote": "Stadt Sitten (11,11%) ... Stadt Siders (5,56%)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS165.pdf",
+    "quote": "VS-165 Saaservispa: débit amont = quantité prélevée each month (Jul 7.06 / 7.06 m3/s)",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS139.pdf",
+    "quote": "VS-139 Saaser Vispa, Centrale Stalden: débit amont = quantité prélevée each month",
+    "scope": "official data"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS165.pdf",
+    "quote": "Fin droit d'utilisation 2045",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The building years of the stations come from the federal statistics (start of operation 1965 and 1966); the start of the tunnel works is not checked.",
+   "The Zermeiggern pumps were added later (said to be 1983–1987); not checked in a source opened here."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/mm_1959.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/mm_today.png"
+  ],
+  "group": "h-vs"
+ },
+ "gebidem-bitsch": {
+  "evidence": [
+   {
+    "item": "why 1 / why 2",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/electra-massa-storage-power-plant",
+    "quote": "Gebidem: constructed 1964, commissioning 1969, arch dam 122 m, 9.2 million m³, catchment 196 km², gross head 750 m (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/electra-massa-storage-power-plant",
+    "quote": "a sediment load of up to 40 tonnes per hour",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/electra-massa-storage-power-plant",
+    "quote": "Total capacity: 340 MW; average annual production 623 GWh (summary)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Bitsch 1969, 340 MW, 770.3 GWh, 706 m",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS022.pdf",
+    "quote": "VS-022 Fin droit d'utilisation 2048",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.vs.ch/documents/16739272/16839241/Vad%C3%A9m%C3%A9cum+Retour+des+concession.pdf",
+    "quote": "Les parties dites mouillées des installations font « retour » gratuit à la communauté concédante.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS022.pdf",
+    "quote": "VS-022 Massa: Débit amont Jul 43.9 m3/s; Débit de dotation (l/s) 0.0 in all 12 months",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.swisstopo.swisstlm3d-gewaessernetz",
+    "quote": "swissTLM3D Massa, dam to Rhône 5.0 km; return point of VS-022 at 46.3325, 8.0114",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The two production figures (623 GWh by the operator, 770 GWh expected in the federal statistics) do not agree.",
+   "Whether a residual flow is released today (after the 2007 sheet) is not checked."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/ma_1963.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/ma_today.png"
+  ],
+  "group": "h-vs"
+ },
+ "lienne-network": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://bisses-valais.ch/app/uploads/medias/le-nouvel-amenagement-hydro-electrique-de-la-lienne/anonymus_le_nouvel_amenagement_hydro-electrique_de_la_lienne.pdf",
+    "quote": "la Lienne était utilisée seulement entre les cotes 911,0 m et 542,3 m, dans deux usines",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://bisses-valais.ch/app/uploads/medias/le-nouvel-amenagement-hydro-electrique-de-la-lienne/anonymus_le_nouvel_amenagement_hydro-electrique_de_la_lienne.pdf",
+    "quote": "l'Electricité de la Lienne S.A., avec siège social à Sion, fut constituée le 23 juin",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://bisses-valais.ch/app/uploads/medias/le-nouvel-amenagement-hydro-electrique-de-la-lienne/anonymus_le_nouvel_amenagement_hydro-electrique_de_la_lienne.pdf",
+    "quote": "Le premier groupe de l'usine de St-Léonard est en service depuis le 16 août 1956",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 3 / lost 3",
+    "url": "https://bisses-valais.ch/app/uploads/medias/le-nouvel-amenagement-hydro-electrique-de-la-lienne/anonymus_le_nouvel_amenagement_hydro-electrique_de_la_lienne.pdf",
+    "quote": "mettre ce bisse hors service sur 4,1 km et par cela de supprimer les frais d'entretien élevés",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://bisses-valais.ch/app/uploads/medias/le-nouvel-amenagement-hydro-electrique-de-la-lienne/anonymus_le_nouvel_amenagement_hydro-electrique_de_la_lienne.pdf",
+    "quote": "153 mio de kWh (85 %) pendant la période d'hiver ... soit au total 180 mio de kWh par an",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Croix 1957, 66 MW, 146.5 GWh; St-Leonard 1956, 36 MW, 99 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS028.pdf",
+    "quote": "VS-028 Lienne, Centrale Croix: Q347 (l/s) 10; Débit de dotation empty",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://bisses-valais.ch/app/uploads/medias/le-nouvel-amenagement-hydro-electrique-de-la-lienne/anonymus_le_nouvel_amenagement_hydro-electrique_de_la_lienne.pdf",
+    "quote": "l'une des anciennes usines de la commune de Sion a été mise définitivement hors service",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (today stop)",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VS028.pdf",
+    "quote": "Fin droit d'utilisation 2038",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The 1956 report gives plans; the real first year of Croix (1957 in the federal statistics) fits, but the exact date is not checked.",
+   "An empty release line on the official sheets may mean no release or missing data."
+  ],
+  "visits": [
+   {
+    "place": "Médiathèque Valais, Sion (Rue de Lausanne 45)",
+    "what": "Find the journal of the 1956 report on the Lienne scheme (likely a Valais bulletin) for a full citation."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/li_1952.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-vs/li_today.png"
+  ],
+  "group": "h-vs"
+ },
+ "kwo-oberhasli": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.grimselwelt.ch/en/?p=45806",
+    "quote": "Kraftwerke Oberhasli AG (KWO) is founded on June 20, 1925.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.grimselwelt.ch/en/?p=45806",
+    "quote": "1906: BKW acquire the concession to use the Aare's hydropower (summary); bond of 12 million francs approved 25 April 1925",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/008451/2016-11-10/",
+    "quote": "Grimsel-West caused political conflict in the 1980s and 1990s; in 2000 KWO dropped the project (summary of HLS Oberhasli)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/BE150.pdf",
+    "quote": "Nutzungsrecht Konzession; Nutzungsrecht-Ende 2042",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "15 KWO stations in WASTA: sum performanceturbinemaximum 1321.94 MW; sum productionexpected 1789.02 GWh (e.g. Innertkirchen 1 und 1a: 1943, 394.0 MW, 767.8 GWh)",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Grimsel 2: reines Umwälzwerk, beginningofoperation 1981, performanceturbinemaximum 388.0, pumpspowerinputmaximum 347.0, fallheight 430 m",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/008451/2016-11-10/",
+    "quote": "ein wichtiger Arbeitgeber für die Region Oberhasli",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/BE150.pdf",
+    "quote": "Fliessgewässer Aare; Zentrale Handeck II; Dotierwassermenge (l/s) 0.0 in all months; entnommene = Abfluss oberhalb Entnahme",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/BE141.pdf",
+    "quote": "Fliessgewässer Aare; Zentrale Innertkirchen I; Dotierwassermenge (l/s) 0.0 in all months",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/BE120.pdf",
+    "quote": "Fliessgewässer Triftwasser; Zentrale Innertkirchen II; Dotierwassermenge (l/s) 0.0",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/BE112.pdf",
+    "quote": "Fliessgewässer Gadmerwasser; Dotierwassermenge (l/s) 25.0 (Oct–Apr), 50.0 (May–Sep)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.plattformj.ch/artikel/146358/",
+    "quote": "Für die Fische verringert sich das Risiko des Strandens deutlich.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.plattformj.ch/artikel/146358/",
+    "quote": "Die Menge der Insekten war bisher eher unterdurchschnittlich.",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.bafu.admin.ch/de/restwasser",
+    "quote": "sobald die Konzession für die Wasserkraftnutzung erneuert werden muss",
+    "scope": "general"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.plattformj.ch/artikel/146358/",
+    "quote": "Das Beruhigungsbecken fasst zusammen mit dem Unterwasserstollen 80'000 Kubikmeter.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Start year of Handeck 1: HLS says 1929, WASTA says 1932.",
+   "The intake sheets date from 2007; residual flows may have been raised since then (not checked).",
+   "The year the Innertkirchen basin started to work is not confirmed by a primary source (article of August 2016 describes it as built).",
+   "It is not checked that all 15 WASTA stations counted belong to KWO (small stations Nollen, Lochmedli, Innertkirchen 3).",
+   "The water lines are simplified straight lines, not the real tunnel routes."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Bern, Falkenplatz 4, Bern",
+    "what": "Concession files of KWO (1906 concession and the later concessions for the Gadmental stage) and residual flow decisions: answer the real minimum flows today."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/kwo_1924.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/kwo_1924_handeck.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/kwo_1924_gadmen.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/kwo_today.png"
+  ],
+  "group": "h-central"
+ },
+ "etzelwerk": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2016/494/RRB-2016-0494.pdf",
+    "quote": "zwischen den Kantonen Zürich, Schwyz und Zug sowie den Bezirken Einsiedeln und Höfe (Konzedenten) mit den Schweizerischen Bundesbahnen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Etzelwerk Altendorf: Pumpspeicherkraftwerk, 1937, performanceturbinemaximum 140.0, productionexpected 240.8, pumpspowerinputmaximum 54.0, fallheight 475 m",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2016/494/RRB-2016-0494.pdf",
+    "quote": "Mit der Inbetriebnahme des Etzelwerks am 12. Mai 1937 begann die Laufzeit der Etzelwerkkonzession",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2016/494/RRB-2016-0494.pdf",
+    "quote": "dass die Etzelwerkkonzession ... endgültig am 12. Mai 2017 enden (Urteil A 188/1987 vom 11. Juli 1988)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.sz.ch/public/upload/assets/68983/27_16a.pdf?fp=1",
+    "quote": "Alle erteilten Konzessionen beginnen am 1. Januar 2023, dauern 80 Jahre",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.sz.ch/public/upload/assets/68983/27_16a.pdf?fp=1",
+    "quote": "sowie zur Entnahme von Wasser aus dem Zürichsee",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.zh.ch/bin/zhweb/publish/regierungsratsbeschluss-unterlagen./2016/494/RRB-2016-0494.pdf",
+    "quote": "die Etzelwerk AG, die vollumfänglich im Eigentum der SBB steht",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/008778/",
+    "quote": "Es dämpft Hochwasserspitzen und überbrückt die winterliche Austrocknung des Flussbetts.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/SZ008.pdf",
+    "quote": "Dotierwassermenge (l/s) 300.0 (Nov–May) / 400.0 (Jun–Oct); Abfluss oberhalb Entnahme 3.43–15.2 m3/s; Q347 1200 l/s",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008778/",
+    "quote": "Das Kraftwerk verringert insgesamt die Abflussmenge der Sihl, was sich negativ auf die Wasserqualität auswirkt.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.sz.ch/public/upload/assets/68983/27_16a.pdf?fp=1",
+    "quote": "unterhalb der Mündung der Alp in die Sihl Hochwasserabflüsse von maximal 200.0 m3 pro Sekunde",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.sz.ch/public/upload/assets/68983/27_16a.pdf?fp=1",
+    "quote": "Sockelabfluss an der Staumauer, der zwischen 0.7 m3 und 1.6 m3 pro Sekunde liegt",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Sihlsee Dotierzentrale, Egg in den Schlagen, beginningofoperation 2027, 0.38 MW",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "When the new residual flow station at the dam starts (WASTA lists 2027) is not confirmed.",
+   "Power figures differ: 135 MW (Zurich decision 2016) and 140 MW (WASTA).",
+   "The share of the Sihl water that goes to Altendorf per year is not given in an opened source."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Schwyz, Bahnhofstrasse 20, Schwyz",
+    "what": "Etzelwerk concession files 1919–1937: the original residual flow rule and the planned route of the pressure line."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/etz_1930.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/etz_1950_z.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/etz_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/etz_today_z.png"
+  ],
+  "group": "h-central"
+ },
+ "waegital-kraftwerk": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000718/",
+    "quote": "1909 übernahm die Stadt Zürich das Hotel Bad zur Sicherstellung des Wassers der Fläschlochquelle",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "den Wägitalersee (1924, mit 112 m damals die höchste Staumauer der Welt)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.sz.ch/kanton/medien-und-datenschutz/medienmitteilungen/detailseite.html/10392/news/25024/newsarchive/1",
+    "quote": "Eine weitere Zusammenarbeit mit den bisherigen Kraftwerksbetreibern Axpo und Elektrizitätswerk der Stadt Zürich EWZ wird ebenfalls geprüft.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.sz.ch/kanton/medien-und-datenschutz/medienmitteilungen/detailseite.html/10392/news/25024/newsarchive/1",
+    "quote": "Die bestehende Konzession für das Kraftwerk Wägital läuft Ende 2040 aus.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Rempen: Pumpspeicherkraftwerk, 1926, performanceturbinemaximum 66.2, productionexpected 60.0, pumpspowerinputmaximum 16.0, fallheight 240 m",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Siebnen: Speicherkraftwerk, 1926, performanceturbinemaximum 51.5, productionexpected 63.0, fallheight 183 m",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/SZ012.pdf",
+    "quote": "Fliessgewässer Wägitaler Aa; Zentrale Rempen; Dotierwassermenge (l/s) 0.0 in all months",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/SZ009.pdf",
+    "quote": "Fliessgewässer Wägitaler-Aa; Zentrale Siebnen; Dotierwassermenge (l/s) 0.0 in all months; Q347 231 l/s",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2 / lost 3",
+    "url": "https://www.sz.ch/kanton/medien-und-datenschutz/medienmitteilungen/detailseite.html/10392/news/25024/newsarchive/1",
+    "quote": "bis Ende 2030 insbesondere starke Abflussschwankungen (Schwall-Sunk) vermindert ... sowie die freie Fischwanderung wiederhergestellt werden",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.sz.ch/kanton/medien-und-datenschutz/medienmitteilungen/detailseite.html/10392/news/25024/newsarchive/1",
+    "quote": "Die AG Kraftwerk Wägital (AKW) hat Mitte Januar 2025 fristgerecht ein Gesuch zur Erneuerung der Konzession eingereicht.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Concession end: 2041 on the BAFU sheets, end of 2040 in the canton's press release.",
+   "Start of construction (1921) not confirmed; only the 1924 dam and the 1926 stations are sourced.",
+   "The Siegfried maps here are not well placed (offset up to 200–300 m); small changes of the river course near Siebnen are not checked.",
+   "Whether the Trepsenbach intake releases any water is blank on its sheet."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Schwyz, Bahnhofstrasse 20, Schwyz",
+    "what": "Wägital concession and construction files (1918–1926): start of works, original residual flow rules."
+   },
+   {
+    "place": "Stadtarchiv Zürich, Neumarkt 4, Zürich",
+    "what": "City council files on the Wägital power plant: why Zurich invested and the building years."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/wae_1920.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/wae_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/wae_1990.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/wae_today.png"
+  ],
+  "group": "h-central"
+ },
+ "linth-limmern": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/000770/",
+    "quote": "Von nationaler Bedeutung ist das 1957-1965 errichtete Hochdruckspeicherwerk Linth-Limmern mit dem Limmern-Stausee.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.axpo.com/ch/de/energie/produktion-und-verteilung/hydropower/pumpspeicherwerk-limmern.html",
+    "quote": "Das Kraftwerk Linthal nutzt das Gefälle zwischen Tierfehd und Linthal. ... fliesst das Wasser in das Ausgleichsbecken Linthal und von dort zurück in die Linth.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.wwf-suedost.ch/wwf-glarus/leistungsausweis-wwf-glarus/linthtal-2015",
+    "quote": "2005 wurde das Projekt Linthal 2015 den Umweltverbänden vorgestellt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.axpo.com/ch/de/energie/produktion-und-verteilung/hydropower/pumpspeicherwerk-limmern.html",
+    "quote": "Das PSWL wurde 2016/17 sukzessive in Betrieb genommen.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.axpo.com/ch/de/energie/produktion-und-verteilung/hydropower/pumpspeicherwerk-limmern.html",
+    "quote": "der Spatenstich erfolgte 2009",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Tierfehd Limmern 1964 306.0 MW 395.47 GWh; Tierfehd Hintersand 1964 46.0 MW 82.38 GWh; Linthal Limmern 1964 34.4 MW 62.7 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.axpo.com/ch/de/energie/produktion-und-verteilung/hydropower/pumpspeicherwerk-limmern.html",
+    "quote": "erhöhte sich die Leistung der Kraftwerke Linth-Limmern (KLL) von rund 520 MW auf 1520 MW",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Limmern, Linthal Ochsentafel, Pumpspeicherkraftwerk, 2016, performanceturbinemaximum 1000.0, pumpspowerinputmaximum 1000.0, fallheight 643 m",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.axpo.com/ch/de/energie/produktion-und-verteilung/hydropower/pumpspeicherwerk-limmern.html",
+    "quote": "2,1 Mrd. Franken wurden investiert.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/000770/",
+    "quote": "Neben ca. 40 Arbeitsplätzen brachte es Steuereinnahmen für Linthal und Einkünfte für die Tagwen (Wasserzinsen).",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.axpo.com/ch/de/energie/produktion-und-verteilung/hydropower/pumpspeicherwerk-limmern.html",
+    "quote": "Insgesamt waren weit über 3000 Arbeiter ... beschäftigt.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GL066.pdf",
+    "quote": "Fliessgewässer Limmernbach; Zentrale Tierfehd (Limmern); Dotierwassermenge (l/s) 0.0 in all months",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GL060.pdf",
+    "quote": "Fliessgewässer Linth; Zentrale Linthal (Limmern); Dotierwassermenge (l/s) 0.0 (Nov–Mar), 600.0 (Apr–Oct)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://wissen.fischwanderung.ch/wp-content/uploads/2025/11/Sanierung_Schwall_Sunk_Kanton_Glarus.pdf",
+    "quote": "VS/S : 16 : 1 bis 32 : 1 ... biologische Indikatoren sehr wahrscheinlich beeinträchtigt.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://wissen.fischwanderung.ch/wp-content/uploads/2025/11/Sanierung_Schwall_Sunk_Kanton_Glarus.pdf",
+    "quote": "Länge Schwallstrecke [km]: 30.2 (bis Walensee)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.wwf-suedost.ch/wwf-glarus/leistungsausweis-wwf-glarus/linthtal-2015",
+    "quote": "Linthal 2015 wird 25% mehr Strom zum Pumpen verbrauchen, als es zu Spitzenzeiten erzeugen kann.",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.wwf-suedost.ch/wwf-glarus/leistungsausweis-wwf-glarus/linthtal-2015",
+    "quote": "Durch die neue Konzession muss das Gewässerschutzgesetz umgesetzt werden – 30 Jahre vor Ablauf der noch gültigen Konzession.",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.wwf-suedost.ch/wwf-glarus/leistungsausweis-wwf-glarus/linthtal-2015",
+    "quote": "2007 wird die Konzession für das Pumpspeicherkraftwerk vom Landrat erteilt.",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.axpo.com/ch/de/energie/produktion-und-verteilung/hydropower/pumpspeicherwerk-limmern.html",
+    "quote": "Die Mauer ist 1054 Meter lang. Sie ist damit die längste Staumauer der Schweiz.",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.wwf-suedost.ch/wwf-glarus/leistungsausweis-wwf-glarus/linthtal-2015",
+    "quote": "Verbesserung der Fischlebensräume : Aufhebung der Wasserfassung in der Linthschlucht ... Verminderung der Schwall-Sunk-Problematik",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://wissen.fischwanderung.ch/wp-content/uploads/2025/11/Sanierung_Schwall_Sunk_Kanton_Glarus.pdf",
+    "quote": "Das Schwall/Sunk-Verhältnis unterhalb des Ausgleichbeckens (AGB) Linthal beträgt somit schon heute 8:1.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Which of the WWF demands (more water in the Linth gorge, fish passes) were carried out is not checked.",
+   "The residual flow values on the intake sheets may be older than the rules of the 2016 concession.",
+   "Which intakes the lines UR-015 and UR-016 (canton Uri) serve was not checked in a source.",
+   "The hydropeaking figures are from a canton study of 2014; the state after 2016 is not checked."
+  ],
+  "visits": [
+   {
+    "place": "Landesarchiv des Kantons Glarus, Postgasse 29, Glarus",
+    "what": "Concession files of 1957 and 2007 (Landrat decision): residual flow rules and the list of intakes."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/lin_1956.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/lin_1956_z.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/lin_today.png"
+  ],
+  "group": "h-central"
+ },
+ "hongrin-leman": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.fmhl.ch/histoire",
+    "quote": "Malgré l'accord signé en 1958 entre les cantons de Fribourg et de Vaud, l'octroi de la concession est reporté",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.fmhl.ch/histoire",
+    "quote": "en prévision d'une exploitation couplée avec les futures centrales nucléaires suisses",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.fmhl.ch/histoire",
+    "quote": "La première benne du barrage est coulée en mars 1966 et la dernière en septembre 1967.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.fmhl.ch/histoire",
+    "quote": "le 21 avril 1972 a lieu son inauguration",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.fmhl.ch/histoire",
+    "quote": "En 2007, les actionnaires des FMHL décident de doubler la puissance de l'aménagement",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.fmhl.ch/amenagement/centrales-hydroelectriques-de-veytaux",
+    "quote": "La puissance installée de l'aménagement est de 480 MW, dont 60 MW de réserve en mode turbinage.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Veytaux, Pumpspeicherkraftwerk, 1972, performanceturbinemaximum 420.0, productionexpected 162.5, pumpspowerinputmaximum 480.0, fallheight 843 m",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.fmhl.ch/amenagement/barrage-de-lhongrin",
+    "quote": "Le volume d'eau stocké correspond à environ 100 GWh, ou 10 jours de consommation d'électricité du canton de Vaud.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.fmhl.ch/le-pompage-turbinage",
+    "quote": "indispensables à assurer la stabilité du réseau électrique suisse et européen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.fmhl.ch/amenagement/bassin-versant",
+    "quote": "Les vallées avoisinantes représentent ainsi un bassin versant supplémentaire de 45 km2.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bafu.wasser-leitungen",
+    "quote": "VD-063 L'Hongrin: line from the intake at the dam to the return point at Veytaux (Lake Geneva)",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.fmhl.ch/securite",
+    "quote": "Crue artificielle annuelle prévue à l'aval du barrage de l'Hongrin avec pour principal objectif de rétablir une dynamique sur le cours d'eau",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.fmhl.ch/securite",
+    "quote": "un risque de changement rapide du niveau des eaux du lac, à la baisse comme à la hausse, du fait des cycles de pompage-turbinage",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/fr/VD063.pdf",
+    "quote": "Fin droit d'utilisation 2049",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The residual flow released into the Hongrin below the dam is not given on the official sheet.",
+   "What the reservoir flooded (pastures, chalets, roads) is not described in an opened source.",
+   "Start year: WASTA 1972, FMHL 1971 (Veytaux I) and partial service in 1970."
+  ],
+  "visits": [
+   {
+    "place": "Archives cantonales vaudoises, Rue de la Mouline 32, Chavannes-près-Renens",
+    "what": "Hongrin concession (1960s): residual flow rules, land bought for the reservoir, and the objections of the Intyamon communes."
+   },
+   {
+    "place": "Archives de l'Etat de Fribourg, Route des Arsenaux 17, Fribourg",
+    "what": "Fribourg–Vaud agreement of 1958 on the Hongrin water and the debate in the Intyamon."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/hon_1962.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/hon_1962_z.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/hon_today.png"
+  ],
+  "group": "h-central"
+ },
+ "kw-goeschenen": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Am 16. Februar 1955 wurde in Altdorf die Kraftwerk Göschenen AG mit Sitz in Göschenen gegründet.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "als Ersatz für das nicht zustande gekommene Urserenkraftwerk ins Leben gerufen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Zwei Freispiegelstollen von 3.9 resp. 7.2 km Länge leiten die Gewässer des Voralptales und des hinteren Urserentales in den Stausee.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007473/",
+    "quote": "1955-1962 der Stausee und das Kraftwerk Göschenen gebaut",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Gemeinschaftsunternehmen der Schweizerischen Bundesbahnen und der Centralschweizerischen Kraftwerke ... steht jedem Partner die Hälfte der Energieerzeugung zu",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR042.pdf",
+    "quote": "Nutzungsrecht-Ende 2043",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Energieerzeugung GWh 137 Winter, 183 Sommer, 320 Jahr",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Goeschenen Goescheneralp 1962, 164.8 MW, 293.3 GWh; Goeschenen Andermatt 1961, 33.26 MW, 126.0 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Die für die Schweizerischen Bundesbahnen erzeugte Energie geht ... nach Amsteg, Rupperswil und Göschenen zur Speisung des Bahnnetzes.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "wie später die Kraftwerke Rupperswil und Göschenen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR042.pdf",
+    "quote": "Fliessgewässer Göschenerreuss; Dotierwassermenge (l/s) 0.0 in all months",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR050.pdf",
+    "quote": "Fliessgewässer Furkareuss; Zentrale Göschenen (Göscheneralp); Dotierwassermenge (l/s) 0.0",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR041.pdf",
+    "quote": "Reuss (Schöllenenreuss); Dotierwassermenge (m3/s) 0.0 Jan–Apr and Oct–Dec, 0.5 / 1.0 / 1.5 / 1.5 / 0.5 May–Sep",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR034.pdf",
+    "quote": "Fliessgewässer Voralpreuss; Dotierwassermenge (l/s) 0.0",
+    "scope": "this change"
+   },
+   {
+    "item": "fact (story 3)",
+    "url": "https://www.bafu.admin.ch/de/restwasser",
+    "quote": "sobald die Konzession für die Wasserkraftnutzung erneuert werden muss",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "The intake sheets date from about 2007; residual flows may have changed since.",
+   "The exact share of the Urseren plan that the Göschenen plant reached is unreadable in the 1963 scan."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Concession of the Kraftwerk Göschenen (1950s) and the Urseren dispute: original residual flow rules for the Schöllenen gorge."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/goe_1954.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/goe_1954_z.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/goe_today.png"
+  ],
+  "group": "h-central"
+ },
+ "sbb-amsteg": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "Die SBB errichteten eigene Kraftwerke: in Piotta 1920 mit dem Ritom-Stausee, in Amsteg 1922 mit einem Stauwerk am Pfaffensprung",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Amsteg 1923, 120.0 MW, 443.5 GWh, fallheight 284 m; Wassen Pfaffensprung 1949, 58.0 MW, 290.0 GWh, 269 m",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR037.pdf",
+    "quote": "Fliessgewässer Gotthardreuss; Zentrale Pfaffensprung",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Wassen Dotierzentrale, Pfaffensprung, 1998, 0.72 MW; Amsteg Regulierzentrale 1998, 1.73 MW",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR031.pdf",
+    "quote": "Nutzungsrecht-Ende 2043",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Amsteg: performanceturbinemaximum 120.0, productionexpected 443.5; Wassen Pfaffensprung: 58.0, 290.0",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "Stauwerke dienten auch dazu, Eisenbahnen mit Strom zu versorgen.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Die für die Schweizerischen Bundesbahnen erzeugte Energie geht ... nach Amsteg, Rupperswil und Göschenen zur Speisung des Bahnnetzes.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR031.pdf",
+    "quote": "Fliessgewässer Reuss; Zentrale Amsteg; Dotierwassermenge (m3/s) 1.2 ... 3.5; Abfluss oberhalb Entnahme 8.31–42.93 m3/s; Q347 4700 l/s",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR037.pdf",
+    "quote": "Gotthardreuss; Zentrale Pfaffensprung; Dotierwassermenge (l/s) 0.0",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR032.pdf",
+    "quote": "Meienreuss; Zentrale Pfaffensprung; Dotierwassermenge (l/s) 0.0",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR033.pdf",
+    "quote": "Rohrbach; Zentrale Pfaffensprung; Dotierwassermenge (l/s) 0.0",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR028.pdf",
+    "quote": "Fellibach; Zentrale Amsteg; Dotierwassermenge (l/s) 100.0",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/UR025.pdf",
+    "quote": "Chärstelenbach; Zentrale Amsteg; Dotierwassermenge (l/s) 300.0",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The building years of the Amsteg and Wassen stages are not known; only the start of operation (1922/1923 and 1949) is sourced.",
+   "Whether the Amsteg station was rebuilt in the 1990s is not checked.",
+   "The owner of the Wassen stage is not confirmed."
+  ],
+  "visits": [
+   {
+    "place": "SBB Historic, Bern (archive of the Swiss Federal Railways)",
+    "what": "Files on the Amsteg power station (1918–1922) and the Wassen stage (1940s): building years and residual flow rules."
+   },
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Concessions for the Reuss at the Pfaffensprung and at Göschenen."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/ams_1920.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-central/ams_today.png"
+  ],
+  "group": "h-central"
+ },
+ "khr-hinterrhein-scheme": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "1916 Churer Ingenieurbüro Wildberger erstellt ein Kraftwerkprojekt Sufers-Andeer",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008081/",
+    "quote": "Zwischen 1940 und 1944 kämpften die Rheinwalder erfolgreich gegen einen von den Kraftwerken Hinterrhein geplanten Gross-Stausee",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://blog.nationalmuseum.ch/en/2026/05/dammed-the-major-reservoir-projects-that-never-were/",
+    "quote": "On 29 November 1946, the Federal Council ultimately rejected the consortium's appeal",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "rund 37 Kilometer neue Strassen und Wege, 10 Seilbahnen, 13 Bachfassungen, fünf Staumauern, 59 km Stollen und Schächte, 3 Kraftwerke",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "Auf dem Höhepunkt der Bauarbeiten (1959) waren auf den Baustellen 3390 Mann beschäftigt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "auf den Schweizer Baustellen rekrutierte sich die Mannschaft zu 80 Prozent aus italienischen Arbeitern",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.gr.ch/DE/Medien/Mitteilungen/MMStaka/2012/Seiten/2012122001.aspx",
+    "quote": "Die KHR wird verpflichtet, an den kantonalen Kraftwerksstufen festgelegte Dotierwassermengen abzugeben.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 4",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/aktuelles/mitteilungen/Seiten/20231110_Schwall_Sunk_Hinterrhein.aspx",
+    "quote": "Die Massnahmen müssen bis zum 31. Dezember 2030 umgesetzt werden.",
+    "scope": "region"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.khr.ch/de/zahlen-und-fakten",
+    "quote": "KHR ist mit 650 MW Turbinen- und 90 MW Pumpleistung die grösste Wasserkraftwerksgruppe Graubündens",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.khr.ch/de/zahlen-und-fakten",
+    "quote": "Im Schnitt produziert KHR jedes Jahr ca. 1500 GWh Strom.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Ferrera 1: beginningofoperation 1962, performanceturbinemaximum 180.0, productionexpected 304.0",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Baerenburg: beginningofoperation 1962, performanceturbinemaximum 221.3, productionexpected 475.0",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Sils KHR: beginningofoperation 1961, performanceturbinemaximum 249.9, productionexpected 598.5",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.khr.ch/de/zahlen-und-fakten",
+    "quote": "Die Konzessionsgemeinden haben einen jährlichen Anspruch von 2,8 Millionen kWh Gratisenergie",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "rund 37 Kilometer neue Strassen und Wege",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.khr.ch/de/zahlen-und-fakten",
+    "quote": "Einphasenstrom, mit dem rund 40 % des Fahrstromverbrauchs der Rhätischen Bahn abgedeckt werden kann",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR142.pdf",
+    "quote": "GR-142 Hinterrhein, Zentrale Bärenburg; Abfluss oberhalb Entnahme 1.05-29.72 m3/s; Dotierwassermenge 0.2-1.5 m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR132.pdf",
+    "quote": "GR-132 Hinterrhein, Zentrale Sils (KHR); Abfluss 3.21-63.76 m3/s; Dotierwassermenge 0.6-3.5 m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR169.pdf",
+    "quote": "GR-169 Averser Rhein, Zentrale Ferrera I; Dotierwassermenge (l/s) 0.0 in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/aktuelles/mitteilungen/Seiten/20231110_Schwall_Sunk_Hinterrhein.aspx",
+    "quote": "Schwall und Sunk wird am Hinterrhein durch die vier Wasserrückgaben in Sils und Rothenbrunnen erzeugt.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/aktuelles/mitteilungen/Seiten/20231110_Schwall_Sunk_Hinterrhein.aspx",
+    "quote": "dass Jungfische, Fischbrütlinge oder Insektenlarven stranden, weil sie dem schnellen Wasserrückgang nicht folgen können",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "The residual flow amounts after the cantonal order of 2012 were not found; the numbers used are from the BAFU sheets of 2007.",
+   "Which hydropeaking measure for the Hinterrhein below Sils was finally chosen after the 2023 consultation is not known to us.",
+   "The BAFU water lines are simplified; the real tunnel routes are not drawn."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "KHR concession files of 1956 and the 2012 residual flow order: the new residual flow amounts per intake."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/khr_1956.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/khr_today.png"
+  ],
+  "group": "h-gr"
+ },
+ "kvr-vorderrhein-scheme": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Nalps.pdf",
+    "quote": "Die Kraftwerke Vorderrhein nutzen die Wasserkräfte des Vorderrheins und seiner Zuflüsse bis Tavanasa mit einem Einzugsgebiet von 315.8 km2.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.axpo.com/ch/en/knowledge/magazine/renewable-energy/swiss-grand-canyon.html",
+    "quote": "316-km2 catchment area of the Anterior Rhine and its tributaries at Tavanasa",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Nalps.pdf",
+    "quote": "Bauzeit 1958–1962; Höhe 127 m",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Curnera.pdf",
+    "quote": "Bauzeit 1962–1966; Höhe 153 m",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Sta_Maria.pdf",
+    "quote": "Bauzeit 1964–1968; Höhe 117 m",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.axpo.com/fi/en/newsroom/magazine/renewable-energy/winter-reserves-behind-high-walls.html",
+    "quote": "While the Curnera and Nalps dams were built in uninhabited side valleys",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 3",
+    "url": "https://www.graubuenden.ch/it/mete-delle-escursioni/stausee-santa-maria",
+    "quote": "Nel 1964, l'hospice e la cappella dovettero lasciare spazio al bacino.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.graubuenden.ch/it/mete-delle-escursioni/stausee-santa-maria",
+    "quote": "Il nuovo hospice fu inaugurato il 1° agosto 1965.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR080.pdf",
+    "quote": "GR-080 Rein Anteriur, Zentrale Sedrun, Laufwerk; Nutzungsrecht-Ende 2048",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Sedrun 1: beginningofoperation 1968, performanceturbinemaximum 150.0, productionexpected 246.1",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Tavanasa KVR: beginningofoperation 1962, performanceturbinemaximum 180.0, productionexpected 559.8",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.axpo.com/ch/en/knowledge/magazine/renewable-energy/swiss-grand-canyon.html",
+    "quote": "Thanks to their fast availability and large capacity (331 MW) the KVR contribute to the generation of peak energy",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Sta_Maria.pdf",
+    "quote": "Stauseevolumen 67.0 Mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Nalps.pdf",
+    "quote": "Stauseevolumen 44.5 Mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Curnera.pdf",
+    "quote": "Stauseevolumen 40.8 Mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.axpo.com/es/en/newsroom/media-releases/2022/axpo-puts-hydropower-plant-into-operation-deep-in-the-grisons-mo.html",
+    "quote": "a partner plant of the Grisons canton (10%), the concession-granting municipalities (8.5%) and Axpo (81.5%)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/001615/",
+    "quote": "Seit 1929 lebt M. von beträchtl. Wasserzinsen (u.a. Stausee S. Maria).",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.axpo.com/es/en/newsroom/media-releases/2022/axpo-puts-hydropower-plant-into-operation-deep-in-the-grisons-mo.html",
+    "quote": "So far, this system has only been used to transfer water and not for electricity production.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.axpo.com/es/en/newsroom/media-releases/2022/axpo-puts-hydropower-plant-into-operation-deep-in-the-grisons-mo.html",
+    "quote": "produces up to 10 million kilowatt hours of clean electricity per year",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR080.pdf",
+    "quote": "GR-080 Rein Anteriur, Q347 600 l/s; Abfluss oberhalb Entnahme 0.35-4.92 m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bafu.wasser-entnahme,ch.bafu.wasser-leitungen,ch.bafu.wasser-rueckgabe",
+    "quote": "intakes GR-093 Rein da Medel, GR-115 Rein da Curnera, GR-112 Rein da Nalps, GR-075 Rein de Sumvitg (residual flow map)",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/001615/",
+    "quote": "S. Maria auf der Passhöhe (1374 errichtet)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Sta_Maria.pdf",
+    "quote": "Stauseeoberfläche 177.4 ha (Nalps 91.1 ha, Curnera 82.2 ha on their sheets)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The residual flow amounts of the KVR intakes are not given on the BAFU sheets; we do not know if they were raised after 1992.",
+   "Sources differ on the start of the works: Axpo says 1962-1968, the Nalps dam sheet says 1958-1962.",
+   "Hydropeaking below the Tavanasa station is not described in the sources we found."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "KVR concession of the 1950s and later residual flow decisions: residual flow amounts at the Sedrun and Runcahez intakes."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/kvr_1958.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/kvr_1961.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/kvr_today.png"
+  ],
+  "group": "h-gr"
+ },
+ "kwz-zervreila-scheme": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.kwz.ch/ueber-uns/geschichte/",
+    "quote": "wurde am 17. Mai 1952 als Partnergesellschaft gegründet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.kwz.ch/projekte/projekt-erhoehung-staumauer/",
+    "quote": "sichert – flexibel und unabhängig – die Produktion von Winterstrom",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.kwz.ch/ueber-uns/geschichte/",
+    "quote": "Während der Zeit des höchsten Arbeiterstandes waren bis zu 1‘500 Personen auf den Baustellen der KWZ beschäftigt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001483/",
+    "quote": "Die Zentrale Platz der Kraftwerke Zervreila stammt von 1957.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001461/",
+    "quote": "1951-1958 erfolgte der Bau der Zervreilakraftwerke.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR139.pdf",
+    "quote": "GR-139 Valser Rhein, Zentrale Zervreila, Nutzungsrecht-Ende 2037",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.kwz.ch/projekte/projekt-erhoehung-staumauer/",
+    "quote": "Aufstockung der vorhandenen Staumauer des Zervreilasee um 10 Meter",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.kwz.ch/projekte/projekt-lugnez/",
+    "quote": "Das Wasser wird unterirdisch durch einen 13 km langen Stollen in das bestehende Ausgleichsbecken Zervreila geleitet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Seekraftwerk Zervreila: beginningofoperation 1958, performanceturbinemaximum 22.5, productionexpected 24.3",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Safien Platz: beginningofoperation 1957, performanceturbinemaximum 86.0, productionexpected 159.8",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Rothenbrunnen KWZ: beginningofoperation 1958, performanceturbinemaximum 126.0, productionexpected 326.6",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.kwz.ch/kraftwerksanlagen/kraftwerksanlagen/",
+    "quote": "Durchschnittliche Energieabgabe an die Partner im Mittel der letzten 25 Jahre: 515’624 MWh ... Maximale Leistung 258 MW",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.kwz.ch/kraftwerksanlagen/kraftwerksanlagen/",
+    "quote": "Energieabgabe an die Konzessionsgemeinden 30’480 MWh",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.kwz.ch/ueber-uns/aktionaere/",
+    "quote": "die 22 Konzessionsgemeinden ... und der Kanton Graubünden neu eine Beteiligung von total 28 %",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.kwz.ch/ueber-uns/geschichte/",
+    "quote": "Während der Baujahre 1953 – 1958 wurden rund CHF 285 Mio. ausgegeben",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR139.pdf",
+    "quote": "GR-139 Valser Rhein; Q347 159 l/s; Abfluss oberhalb Entnahme 0.26-8.66 m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bafu.wasser-entnahme,ch.bafu.wasser-leitungen,ch.bafu.wasser-rueckgabe",
+    "quote": "intakes GR-122 Rabiusa (Wanna), GR-071 Rabiusa (Safien Platz), GR-056 Rabiusa (Egschi); return point Rothenbrunnen",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/aktuelles/mitteilungen/Seiten/20231110_Schwall_Sunk_Hinterrhein.aspx",
+    "quote": "Schwall und Sunk wird am Hinterrhein durch die vier Wasserrückgaben in Sils und Rothenbrunnen erzeugt.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://hls-dhs-dss.ch/de/articles/008138/",
+    "quote": "Wasser die zwei Weiler Under und Ober Boda überfluteten",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The BAFU sheets for the KWZ intakes give no residual flow amounts; we do not know the amounts today.",
+   "HLS gives 1951-1958 for the works, KWZ gives 1953-1958; we use the company years.",
+   "A short piece of the Rabiusa near Versam (about 1.2 km) is not drawn because the official line has a gap there."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "KWZ concession (1950s) and residual flow decisions: residual flow at Zervreila, Wanna and Egschi."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/kwz_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/kwz_today.png"
+  ],
+  "group": "h-gr"
+ },
+ "ewz-bergell-scheme": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/2023/Rekonzessionierung_Bergell.html",
+    "quote": "ewz produziert seit 1959 im Bergell Strom",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008064/",
+    "quote": "verläuft vom Malojapass in südwestlicher Richtung bis Chiavenna",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Castasegna: fallheight 730 m",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/001536/",
+    "quote": "dominieren in Vicosoprano Gewerbe und Tourismus (Luftseilbahn Pranzaira-Albigna",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.ewz.ch/de/ueber-ewz/standorte-fuehrungen/kraftwerk-albigna.html",
+    "quote": "Die Mauer von Albigna entstand zwischen 1955 und 1959 und verhindert auch Hochwasser",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.ewz.ch/de/ueber-ewz/standorte-fuehrungen/kraftwerk-albigna.html",
+    "quote": "Die Staumauer Albigna ist 115 Meter hoch und liegt auf über 2’100 Meter über dem Meer",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/2023/Baubeginn_Kraftwerk_Bondo.html",
+    "quote": "Das Kraftwerk wurde 1962 erstmals in Betrieb genommen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/DotierkraftwerkMarmoreraLoebbia.html",
+    "quote": "Beim Stauwehr Löbbia gibt ewz seit 2015 ebenfalls Restwasser ab",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/2023/Rekonzessionierung_Bergell.html",
+    "quote": "Die ewz-Konzession für die Nutzung der Wasserkraft im Bergell läuft noch bis Ende 2039",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/2023/Rekonzessionierung_Bergell.html",
+    "quote": "Die Kraftwerke produzieren rund 440 GWh Strom pro Jahr",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Loebbia Albigna: beginningofoperation 1959, performanceturbinemaximum 86.0, productionexpected 120.66",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Castasegna: beginningofoperation 1959, performanceturbinemaximum 100.0, productionexpected 266.66",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Loebbia Forno: beginningofoperation 1960, performanceturbinemaximum 9.0, productionexpected 39.47",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Lizun: beginningofoperation 1961, performanceturbinemaximum 6.6, productionexpected 18.18",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Bondo: beginningofoperation 1962, performanceturbinemaximum 7.0, productionexpected 18.0",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Albigna.pdf",
+    "quote": "Reservoirvolumen 70 Mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/008064/",
+    "quote": "Die Nutzung der Wasserkraft (Stauwerke) und der Tourismus brachten neue Arbeitsplätze und Finanzmittel.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/001536/",
+    "quote": "Die Gemeinde profitierte von hohen Wasserzinsen und Steuern der Bergeller Kraftwerke (Albignastaudamm, fertiggestellt 1959",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/DotierkraftwerkMarmoreraLoebbia.html",
+    "quote": "Aufgrund der geringen Fallhöhe von 17 Metern werden etwa 0,5 GWh Strom pro Jahr produziert",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR186.pdf",
+    "quote": "GR-186 Maira, Zentrale Castasegna; Dotierwassermenge (l/s) 0.0 in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR195.pdf",
+    "quote": "GR-195 Albigna, Zentrale Loebbia (Albigna); Dotierwassermenge (l/s) 0.0 in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR183.pdf",
+    "quote": "GR-183 Maira, Zentrale Lizun; Dotierwassermenge (l/s) 0.0 in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/DotierkraftwerkMarmoreraLoebbia.html",
+    "quote": "beträgt die Produktionseinbusse bei den ewz-Kraftwerken in Graubünden rund 46 GWh Strom pro Jahr",
+    "scope": "region"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/2023/Baubeginn_Kraftwerk_Bondo.html",
+    "quote": "Das Kraftwerk stand seit dem Bergsturz vom Piz Cengalo im Sommer 2017 still",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/2023/Baubeginn_Kraftwerk_Bondo.html",
+    "quote": "Die Gesamtkosten der Erneuerungsarbeiten belaufen sich auf rund 11 Mio",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The amount of residual flow at Löbbia since 2015 is not given in the sources we found.",
+   "We do not know if the Albigna and upper Maira intakes release residual flow today.",
+   "The year when ewz got the Bergell water rights was not found."
+  ],
+  "visits": [
+   {
+    "place": "Stadtarchiv Zürich, Neumarkt 4, Zürich",
+    "what": "ewz files on the Bergell concession and the building of Albigna and Castasegna (1950s): dates, workers, and the decision of the Zurich voters."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/brg_1954.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/brg_today.png"
+  ],
+  "group": "h-gr"
+ },
+ "ewz-mittelbuenden-scheme": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008085/",
+    "quote": "der Stadt Zürich mit Zentrale in Sils im Domleschg (1910)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/Konzessionsverlaengerung_Kraftwerk_Tiefencastel_West.html",
+    "quote": "Die Konzession dazu wurde im Jahr 1944 erworben",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/Konzessionsverlaengerung_Kraftwerk_Tiefencastel_West.html",
+    "quote": "Die Anlage wurde von 1946 bis 1948 gebaut und befindet sich unterhalb von Tiefencastel an der Julia",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/Konzessionsverlaengerung_Kraftwerk_Tiefencastel_West.html",
+    "quote": "Nach der Turbinierung wird das Wasser in die Albula eingeleitet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001431/",
+    "quote": "Seit 1953 besteht in Tinizong die Zentrale Marmorera des Elektrizitätswerks der Stadt Zürich.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Tiefencastel Ost: beginningofoperation 1970, performanceturbinemaximum 52.0, productionexpected 150.64",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Rothenbrunnen ewz: beginningofoperation 1976, performanceturbinemaximum 44.0, productionexpected 185.66",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR068.pdf",
+    "quote": "GR-068 Albula, Zentrale Rothenbrunnen (EWZ)",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/restwassermengen-mittelbnden.html",
+    "quote": "Dezember 2016 von der Kantonsregierung verfügte Lösung",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/DotierkraftwerkMarmoreraLoebbia.html",
+    "quote": "Seit diesem Sommer gibt ewz beim Staudamm Marmorera mehr Restwasser ab",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/2026/neues-dotierkraftwerk-burvagn.html",
+    "quote": "hat ewz im Mai das neue Dotierkraftwerk Burvagn in Mittelbünden in Betrieb genommen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Tinizong: beginningofoperation 1954, performanceturbinemaximum 69.5, productionexpected 202.34",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Tiefencastel Ost: beginningofoperation 1970, performanceturbinemaximum 52.0, productionexpected 150.64",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Tiefencastel West: beginningofoperation 1949, performanceturbinemaximum 24.0, productionexpected 47.13",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Sils ewz: beginningofoperation 1910, performanceturbinemaximum 26.0, productionexpected 116.79",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Rothenbrunnen ewz: beginningofoperation 1976, performanceturbinemaximum 44.0, productionexpected 185.66",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/Konzessionsverlaengerung_Kraftwerk_Tiefencastel_West.html",
+    "quote": "Heimfallverzichtsentschädigung von insgesamt 12,5 Mio. Franken an die beiden Gemeinden Surses und Albula/Alvra sowie an den Kanton",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/restwassermengen-mittelbnden.html",
+    "quote": "Aufwertungsmassnahmen für Flachmoore auf der Alp Flix",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR157.pdf",
+    "quote": "GR-157 Gelgia, Zentrale Tinzen; Dotierwassermenge (l/s) 0.0 in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR114.pdf",
+    "quote": "GR-114 Gelgia, Zentrale Tiefencastel West; Dotierwassermenge (l/s) 0.0 in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR067.pdf",
+    "quote": "GR-067 Albula; Abfluss oberhalb Entnahme 5.4-40.01 m3/s; Dotierwassermenge 360-570 l/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/ewzinvestiertweiterindieBuendnerWasserkraft.html",
+    "quote": "Es kann jedoch nicht mehr im Kraftwerk Tinizong genutzt werden, was einen jährlichen Produktionsverlust",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.ewz.ch/de/ueber-ewz/newsroom/medienmitteilungen/DotierkraftwerkMarmoreraLoebbia.html",
+    "quote": "beträgt die Produktionseinbusse bei den ewz-Kraftwerken in Graubünden rund 46 GWh Strom pro Jahr",
+    "scope": "region"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/aktuelles/mitteilungen/Seiten/20231110_Schwall_Sunk_Hinterrhein.aspx",
+    "quote": "Schwall und Sunk wird am Hinterrhein durch die vier Wasserrückgaben in Sils und Rothenbrunnen erzeugt.",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "HLS gives 1953 for the Tinizong station, the federal statistics give 1954.",
+   "The new residual flow amounts at Marmorera (since 2020) and Burvagn (since 2026) are not given in the sources we found.",
+   "We assume that the Tinizong station returns its water to the Julia above Burvagn; this is not confirmed.",
+   "The building years of Tiefencastel Ost and Rothenbrunnen are taken from their start of operation (1970, 1976)."
+  ],
+  "visits": [
+   {
+    "place": "Stadtarchiv Zürich, Neumarkt 4, Zürich",
+    "what": "ewz files on the Julia concession of 1944 and the Tiefencastel Ost and Rothenbrunnen stations: building years and water routes."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/mbd_1945.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/mbd_today.png"
+  ],
+  "group": "h-gr"
+ },
+ "ekw-engadin-scheme": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Prospekt%20zum%20Jubil%C3%A4um.pdf",
+    "quote": "Seit 1954 beschäftigt sich EKW mit dem Bau und Betrieb von Kraftwerken zur Nutzbarmachung der Wasserkräfte des Engadin",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://swissvotes.ch/vote/190.00",
+    "quote": "Abkommen mit Italien zur Wasserkraft des Spöl; 7 December 1958; accepted with 75.18% yes",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/24057.pdf",
+    "quote": "Der Bund hat der EKW 1962 die Konzession für die Wasserkraftwerknutzung des Spöl im Speicherwerk Livigno-Ova Spin erteilt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Prospekt%20zum%20Jubil%C3%A4um.pdf",
+    "quote": "Stollen Punt dal Gall–Ova Spin 8 km; Stollen S-chanf–Ova Spin 15 km; Stollen Ova Spin–Pradella 20 km; Stollen Pradella–Martina 14 km",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/24057.pdf",
+    "quote": "Über zehn Wasserfassungen wird den Flüssen Wasser entnommen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Ova Spin: beginningofoperation 1970, performanceturbinemaximum 52.0, productionexpected 88.9",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Pradella: beginningofoperation 1970, performanceturbinemaximum 288.0, productionexpected 969.3",
+    "scope": "official data"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Martina: beginningofoperation 1994, performanceturbinemaximum 80.0, productionexpected 281.5",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/24057.pdf",
+    "quote": "eine durchschnittliche Restwassermenge von 1 Kubikmeter pro Sekunde",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/24057.pdf",
+    "quote": "ab dem Jahr 2000 versuchsweise jährlich zwei bis drei künstliche Hochwasser",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 4",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Medienmitteilung_Restwassersanierung_Abs_V1.10.pdf",
+    "quote": "an der Fassung der Clemgia im Val S-charl bei Scuol sowie an der Fassung des Vallember bei Susauna",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Prospekt%20zum%20Jubil%C3%A4um.pdf",
+    "quote": "Mit einer Jahresproduktion von rund 1390 Millionen Kilowattstunden",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Prospekt%20zum%20Jubil%C3%A4um.pdf",
+    "quote": "Sie deckt damit rund 3 % des jährlichen Stromverbrauchs in der Schweiz ab.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Ova Spin: beginningofoperation 1970, performanceturbinemaximum 52.0, productionexpected 88.9",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Pradella: beginningofoperation 1970, performanceturbinemaximum 288.0, productionexpected 969.3",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Martina: beginningofoperation 1994, performanceturbinemaximum 80.0, productionexpected 281.5",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Ova Spin pumpspowerinputmaximum 47.0",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Prospekt%20zum%20Jubil%C3%A4um.pdf",
+    "quote": "Unsere Aktionäre sind: ALPIQ, AXPO, BKW, CKW, der Kanton Graubünden und die Konzessionsgemeinden.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Prospekt%20zum%20Jubil%C3%A4um.pdf",
+    "quote": "Mit 66 Mitarbeitenden ist EKW eine wichtige Arbeitgeberin im Engadin.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/24057.pdf",
+    "quote": "brachte die natürlichen Prozesse wie Hangerosion und Gewässerdynamik wieder in Gang",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR113.pdf",
+    "quote": "GR-113 En, Zentrale Pradella; Abfluss 3.9-58.0 m3/s; Dotierwassermenge 0.8-3.0 m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/GR099.pdf",
+    "quote": "GR-099 Spoel, Zentrale Ova Spin; Abfluss 0.62-11.7 m3/s; Dotierwassermenge 0.55-1.45 m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.ekwstrom.ch",
+    "quote": "(paraphrase) warning: do not stay on the banks below intakes, dams and plants; Inn from S-chanf, Spöl from Punt dal Gall",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.ekwstrom.ch/sites/default/files/downloads/Medienmitteilung_Restwassersanierung_Abs_V1.10.pdf",
+    "quote": "am 30. November 2015 die Restwasserabgabe frei geben konnte",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The exact building years of the EKW stations are not given in the sources we found; we use the start of operation (1970) and the 1962 concession.",
+   "The EKW homepage warning was read as a summary; the exact wording was not kept.",
+   "The residual flow amounts in the Inn may have changed after 2007."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Concessions of the Engadin communes for EKW (1950s-1960s): building years and residual flow rules for the Inn."
+   },
+   {
+    "place": "Kantonsbibliothek Graubünden, Karlihofplatz, Chur",
+    "what": "Robert Meier, Die Engadiner Kraftwerke, Natur und Technik in einer aufstrebenden Region: building history and debates."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/ekw_1961.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/ekw_today.png"
+  ],
+  "group": "h-gr"
+ },
+ "ksl-sarganserland-scheme": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Kernstück der Kraftwerke Sarganserland AG bildet die Stauanlage Gigerwald. ... Bauzeit 1973–1975",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Mapragg.pdf",
+    "quote": "Bauzeit 1972–1973; Betriebsbeginn 1976",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/015962/",
+    "quote": "Martin und Vättis liegt seit 1976 der Gigerwald-Stausee.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "je nach Bedarf werden bis 74 m3/s in der Zentrale Mapragg verarbeitet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Das Wasser aus dem direkten Einzugsgebiet und aus dem Weisstannental wird im saisonalen Speicher gespeichert",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Aus dem Ausgleichsbecken Mapragg können auch bis 36 m3/s Wasser in die Stauanlage Gigerwald gepumpt werden.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/SG083.pdf",
+    "quote": "SG-083 Tamina, Zentrale Mapragg, Nutzungsrecht-Ende 2057",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Mapragg: beginningofoperation 1977, performanceturbinemaximum 279.9, productionexpected 176.6",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Sarelli: beginningofoperation 1978, performanceturbinemaximum 90.0, productionexpected 179.8",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Mapragg pumpspowerinputmaximum 162.0",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Mapragg.pdf",
+    "quote": "1. Stufe: Zentralenname Mapragg; Installierte Leistung 280 MW",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Reservoirvolumen 33,4 Mio. m3; Einzugsgebiet 97 km2",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/SG083.pdf",
+    "quote": "SG-083 Tamina; Dotierwassermenge (l/s) 0.0 in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/SG081.pdf",
+    "quote": "SG-081 Tamina, Zentrale Sarelli; Dotierwassermenge 2.5 m3/s in every month",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/SG080.pdf",
+    "quote": "SG-080 Seez, Zentrale Mapragg; Dotierwassermenge 150 l/s in every month",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "No company source of KSL was found online; the founding year and the owners are not given here.",
+   "The natural flow of the Tamina and the Seez at the intakes is not given on the BAFU sheets (no data).",
+   "Hydropeaking in the Rhine below the Sarelli station is likely but not described in the sources we found."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv St. Gallen, Regierungsgebäude, St. Gallen",
+    "what": "KSL concession (1960s-1970s) and residual flow decisions for the Tamina and the Seez."
+   },
+   {
+    "place": "Kantonsbibliothek Vadiana, Notkerstrasse 22, St. Gallen",
+    "what": "Brochure 'Die Kraftwerke Sarganserland im St. Galler Oberland' (1978): founding, building years, workers."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/ksl_1970.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-gr/ksl_today.png"
+  ],
+  "group": "h-gr"
+ },
+ "maggia-hydropower-ofima": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.ofima.ch/wp-content/uploads/2023/02/OFIMA_rendiconto_11_12.pdf",
+    "quote": "La società è stata costituita il 10 dicembre 1949.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / why 3 / gained 4",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/25028_7955R.docx",
+    "quote": "In data 10 marzo 1949 e 28 marzo 1962 il Gran Consiglio ha concesso lo sfruttamento delle forze idriche della Maggia",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.ofima.ch/wp-content/uploads/2023/02/OFIMA_rendiconto_11_12.pdf",
+    "quote": "La Centrale Verbano entrò in servizio il 25 marzo 1953. Il 12 settembre 1953 fu la volta della Centrale di Peccia",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/25028_7955R.docx",
+    "quote": "Maggia II (tronco Naret - Cavagnoli - Robiei - Bavona - Cavergno, compresa l'adduzione delle acque della Valle Bedretto)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/23064_7564R-magg.pdf",
+    "quote": "il grande silenzio del fiume in secca in cui piomba per la prima volta dalla chiusura delle paratoie la Vallemaggia nella primavera del 1954",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.ofima.ch/wp-content/uploads/2023/02/OFIMA_rendiconto_11_12.pdf",
+    "quote": "Gli impianti dispongono di una potenza installata di 600 MW e producono in media 1265 GWh annui.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 / gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Cavergno 1955, 108 MW, 376.4 GWh; Verbano 1 1953, 104 MW, 346.3 GWh; Robiei 1968, 192 MW, pumps 140 MW; Peccia Sambuco, pumps 22 MW; both Pumpspeicherkraftwerk",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.ofima.ch/wp-content/uploads/2023/02/OFIMA_rendiconto_11_12.pdf",
+    "quote": "Sui diversi cantieri furono occupati in media 1700 operai; il massimo fu raggiunto l'estate del 1953 con 2428 operai.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/25028_7955R.docx",
+    "quote": "respinge la domanda preliminare di rinnovo della concessione ... presentata da Officine Idroelettriche della Maggia SA",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/23064_7564R-magg.pdf",
+    "quote": "sotto il ponte di Bignasco uno stagno melmoso (Plinio Martini, quoted in the report)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI052.pdf",
+    "quote": "Restwasserkarte TI-052, Maggia, Zentrale Peccia: Dotierwassermenge 0.0 l/s in all months",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI071.pdf",
+    "quote": "TI-071 fiume Maggia: Abfluss oberhalb Entnahme 0.19 (Jan) to 3.26 (Jun) m3/s; Dotierwassermenge 50-100 l/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "Maggia a Bignasco 1200-1800 a Bignasco",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "tratte potenzialmente popolate da temoli in Ticino: Maggia da Bignasco a Losone",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Deflussi-minimi-Governo-sconfessato--1789125.html",
+    "quote": "Vista la delicata situazione energetica, procedura sospesa",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.tio.ch/ticino/attualita/1576246/deflussi-risanamento-stato-consiglio-sospesa",
+    "quote": "La procedura di risanamento è momentaneamente sospesa",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI046.pdf",
+    "quote": "Restwasserkarte TI-046: Fliessgewässer Ticino, Zentrale Bavona",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "No opened source gives the share of the natural flow that is left at Bignasco today (often said to be about a quarter).",
+   "Start years differ: Ofima says Peccia started in 1953, the federal list says 1955; Robiei started in 1967 but ran again only from 1970.",
+   "The water lines are simplified straight lines, not the real tunnel routes.",
+   "It is not checked whether the minimum flow procedure has started again after 2022 under the new cantonal water law."
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Ofima concession acts of 1949 and 1962 and the 1982 minimum flow decree: exact residual flows set at each intake."
+   },
+   {
+    "place": "Biblioteca cantonale di Locarno, Piazza San Francesco 2, Locarno",
+    "what": "Book 'Ofima – l'energia dell'acqua 1949–1999': construction dates of Maggia II and the Bedretto tunnel."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_maggia_1949.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_bavona_1962.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ofima_today.png"
+  ],
+  "group": "h-ti"
+ },
+ "blenio-hydropower-ofible": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/23064_7564R-magg.pdf",
+    "quote": "Nei documenti ufficiali sulle grandi concessioni della Vallemaggia (1949) e della Val di Blenio (1953)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.ofible.ch",
+    "quote": "Costituite nel 1956 ... realizzata tra il 1956 e il 1963",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 1",
+    "url": "https://www.bulletin.ch/sites/default/files/2026-06/2026_4_Radogna_Die_Hochwasserentlastung_vor_Schwemmholz_sch%C3%BCtzen.pdf",
+    "quote": "Höhenunterschied von über 1400 m ... mit insgesamt 436 MW installierter Leistung über 850 GWh jährlich zu erzeugen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Biasca 1959, 327 MW, 630.7 GWh; Olivone 1962, 110 MW, 206.6 GWh; Luzzone 1963, 15 MW",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/it/articles/008541/",
+    "quote": "entrambe sono state costruite in vista della realizzazione dei bacini idroelettrici del Luzzone e della val Malvaglia",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/23064_7564R-magg.pdf",
+    "quote": "mantenimento al livello attuale del versamento del Cantone del 30% dei canoni d'acqua ai comuni",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI010.pdf",
+    "quote": "TI-010 Brenno, Zentrale Luzzone: Dotierwassermenge 0.0 l/s in all months",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI025.pdf",
+    "quote": "TI-025 Brenno della Greina: Abfluss oberhalb Entnahme 0.61-2.58 m3/s; Dotierwassermenge 100-300 l/s",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/23064_7564R-magg.pdf",
+    "quote": "un ambiente golenale dovrebbe fruire di un deflusso minimo estivo del 40-50% rispetto a quello medio naturale",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "Lo studio si è svolto sul fiume Brenno, con particolare riferimento alla Piana di Castro",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "necessario intervenire ... sul fiume Brenno, a valle dell'IDA di Olivone",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "generalmente superato sul fiume Ticino e sul corso principale del Brenno",
+    "scope": "region"
+   },
+   {
+    "item": "why 3 / lost 4",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Deflussi-minimi-Governo-sconfessato--1789125.html",
+    "quote": "Vista la delicata situazione energetica, procedura sospesa",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The founding year 1956 is from the Ofible website only; the page looked partly broken.",
+   "Sources give different totals: 436 MW and over 850 GWh (Bulletin 2026) or 400 MW and 835 GWh (Ofible website).",
+   "The last kilometre of the Brenno at Biasca is not drawn because its course changed after 1955."
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Blenio concession of 1953 and the CREA floodplain study (2005) on the Piana di Castro: natural and residual flows of the Brenno."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_brenno_1955.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_brenno_castro_1955.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_brenno_biasca_1955.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ofible_today.png"
+  ],
+  "group": "h-ti"
+ },
+ "verzasca-hydropower": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/it/articles/002129/",
+    "quote": "Verzasca SA founded 1960, dam built 1961-1965 (as used in the existing change 'vogorno')",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Gordola 1965, 114 MW, 215.44 GWh; Tenero Centrale di dotazione 1972, 4.25 MW, 15.84 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "provoca all'azienda una perdita puramente finanziaria, poiché non vi è rilascio dalla presa",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1 / lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI099.pdf",
+    "quote": "Dotierung von 1000 l/s nicht bei der Fassung, sondern bei der Zentrale Tenero; Abfluss oberhalb Entnahme 2.6 (Jan) ... 29.9 (Mai) m3/s",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "il fiume Verzasca presenta una situazione di importante monotonia della dinamica idromorfologica",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "It is not clear how much water flows in the gorge between the dam and the Tenero residual flow station."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/vz_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/vz_today.png"
+  ],
+  "group": "h-ti"
+ },
+ "leventina-hydropower-aet": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 3",
+    "url": "https://hls-dhs-dss.ch/it/articles/002068/",
+    "quote": "la messa in esercizio nel 1911 dell'impianto della Biaschina",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/10968_1008%20r.pdf",
+    "quote": "premesso che il nuovo impianto... tra Lavorgo e Bodio",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/14847_1412%20r.pdf",
+    "quote": "L'impianto del Piottino ... è entrato in esercizio il 1. maggio 1932",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Stalvedro Ticino 1968, 14 MW, 55 GWh; Biaschina 1966, 147 MW, 382.3 GWh; Piottino 1932, 69 MW, 288.6 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3 / gained 4",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/10968_1008%20r.pdf",
+    "quote": "Il 23 dicembre 1958 il Gran Consiglio ... decideva di negare il rinnovo della concessione ... della Biaschina e del Tremorgio concessionandoli all'AET",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/14847_1412%20r.pdf",
+    "quote": "i primi quarant'anni di esercizio termineranno quindi il 30 aprile 1972",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.stauanlagen-bundesaufsicht",
+    "quote": "Rodi, beginningofoperation 1940, dam height 7 m, volume 0.150 million m3",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/14847_1412%20r.pdf",
+    "quote": "La sua produzione nell'anno medio è di 300 Mio di kwh, di cui il 40 % invernale",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Piottino 1932, 69 MW, 288.6 GWh",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/it/articles/002068/",
+    "quote": "1936 ... venne costituita la Aar e Ticino SA di elettricità (ATEL), with a branch in Bodio",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "Ticino a Airolo 350-650; Ticino a Rodi 300-500; Ticino a Lavorgo 100 dalla presa",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "Il deflusso minimo (invernale) ad Airolo è fissato in 795 l/s.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI036.pdf",
+    "quote": "TI-036 Ticino, Zentrale Piottino: Q347 (l/s) 4020",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "necessario intervenire a favore della qualità prescritta delle acque sul fiume Ticino, a valle dell'IDA di Airolo",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "tratte potenzialmente popolate da temoli in Ticino: ... Ticino da Giornico ad Arbedo",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The exact building years of Biaschina (before 1911), Piottino (after 1928) and Stalvedro are not in the opened sources.",
+   "Between Giornico and Personico the drawn river is the corrected bed of today, which differs from the 1910 course.",
+   "The date when AET took over Stalvedro is not known from the opened sources."
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Concession of the Biaschina (about 1908–1911) and of Stalvedro: building years and first residual flows."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_tic1_1967.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_tic2_1931.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_tic3_1910.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/aet_today.png"
+  ],
+  "group": "h-ti"
+ },
+ "lucendro-hydropower": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "La centrale idroelettrica del Lucendro è stata costruita tra il 1942 e il 1948. In funzione, seppur parziale, già dal 1945",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "derivano verso il bacino del Ticino acque che, altrimenti, defluirebbero naturalmente verso nord nella Valle della Reuss",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "Una galleria in pressione della lunghezza di 4,8 km ... con un salto di 900 metri",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "siano in misura del 55% acque urane e del 45% acque ticinesi",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "La potenza installata complessiva è di 60 MW e la produzione ... è di ca. 100 GWh, di cui il 68% circa nel periodo invernale",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Lucendro 1947, 60 MW, 102.3 GWh, fall height 977 m",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "Invaso utilizzabile del bacino 25 Mio. m3 (Lucendro), 9 Mio. m3 (Sella)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 3",
+    "url": "https://www.bluewin.ch/en/news/ticino-and-uri-agree-on-the-operation-of-the-lucendro-power-plant-2430116.html",
+    "quote": "Uri and Ticino will each hold a 50 percent stake in the plant from January 1, 2025.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "Bacino imbrifero 16.7 km2 (Lucendro)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI015.pdf",
+    "quote": "TI-015 Reuss, Q347 39 l/s, Dotierwassermenge 0.0 l/s in all months",
+    "scope": "official data"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "Foss sul San Gottardo: Apertura totale invernale della paratoia dello scarico di fondo di 3 prese",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://map.geo.admin.ch/?layers=ch.swisstopo.zeitreihen&time=1941",
+    "quote": "Map of 1941 (Journey through time) shows the natural Lago di Lucendro",
+    "scope": "map"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/odg-mes/pdf/M6858.pdf",
+    "quote": "Altezza diga 68.5 m (Lucendro)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The 50/50 ownership from 2025 is from a news report; the official decrees were not opened.",
+   "The outline of the natural lakes before the dams was not traced."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Uri concession of 12 March 1942 for the Lucendro plant: any residual flow rule for the Gotthardreuss."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_reuss_1941.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/lucendro_today.png"
+  ],
+  "group": "h-ti"
+ },
+ "ritom-hydropower-sbb": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/007853/",
+    "quote": "Ritom (1920) listed among railway power plants (as used in the existing change 'ritom')",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Energia-una-mano-in-pi%C3%B9-dal-Ritom--1797131.html",
+    "quote": "the existing plant has produced electricity for the FFS since its inauguration (summary of article)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 1",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Ritom 1, 1920, 33 MW, 160 GWh, fall height 835 m",
+    "scope": "official data"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "Nell'ambito del rilascio della nuova concessione alla Ritom SA (DL del 24.03.2015) ... prese Foss, Garegna e Reno di Medel conformemente agli artt. 31, 32 e 33 LPAc",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/consultazione_da/documenti/risanamento_corsi-acqua_prelievi/Risanamento_deflussi_residuali_Sintesi122012_Aggiornamento022016.pdf",
+    "quote": "FFS ... Volume dotazione attuale 0",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch/?layers=ch.bfe.statistik-wasserkraftanlagen",
+    "quote": "Ritom 2, 2027, 120 MW, 144 GWh, pumps 60 MW, Pumpspeicherkraftwerk im Bau",
+    "scope": "official data"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Energia-una-mano-in-pi%C3%B9-dal-Ritom--1797131.html",
+    "quote": "reservoir of 48 million m3; FFS about 75 percent, AET about 25 percent; the new pump only for AET (summary of article)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu-daten.ch/wasser/restwasser/data/data/er/de/TI029.pdf",
+    "quote": "TI-029 Foss, Zentrale Ritom, Q347 300 l/s, Dotierwassermenge 0.0 l/s, Nutzungsrecht-Ende 2005",
+    "scope": "official data"
+   }
+  ],
+  "uncertain": [
+   "The residual flows set by the 2015 concession for the Foss, Garegna and Reno di Medel are not known from the opened sources.",
+   "The start of the new Ritom 2 station has moved several times (2025, 2026, 2027)."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ck_foss_1916.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/h-ti/ritom_today.png"
+  ],
+  "group": "h-ti"
+ }
+}

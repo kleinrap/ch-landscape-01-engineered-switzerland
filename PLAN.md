@@ -31,6 +31,7 @@ Published on GitHub Pages from the `main` branch (18 Oct 2026). The repository n
 |---|---|---|
 | 1 | Move the 48 corrections from "How Switzerland Grew" and convert them to the human-changes format; site shell with overview map, time chart, stories | **Done** (18 Oct 2026) |
 | 2 | Water: (a) fill `gained` / `lost` for the 48 existing changes; (b) marshes and wetlands (incl. peat), lake regulation and shore filling, streams in pipes, dams and hydropower (incl. dry river beds) | (a) **Done** (19 Oct 2026); (b) **first round done** (19 Oct 2026): 57 changes (9 marshes, 11 lakes, 8 streams, 29 dams) |
+| 2c | Hydropower networks: collection tunnels, pressure shafts, power stations, river stretches with only residual flow; national picture (growth, residual-flow law, hydropeaking) | **First round done** (20 Oct 2026): 31 changes (27 schemes, 4 national) |
 | 3 | Forests and land use: forest loss and regrowth (1876 forest law), pastures above the tree line, vineyard terraces, settlements, gravel pits and quarries | **First round done** (19 Oct 2026): 17 changes (8 forest, 9 land use) |
 | 4 | Transport: Alpine tunnels and railways, passes and roads | **First round done** (19 Oct 2026): 25 changes (14 railways and tunnels, 11 roads, passes and road tunnels) |
 | 5 | Protection: avalanche and torrent works | Planned |
@@ -66,6 +67,13 @@ Same as the sister site: open questions in `docs/OPEN-QUESTIONS.md` sorted by im
 - Overlaps are marked in the notes: Grande Cariçaie (made by the Jura lake lowering, "jura"), Linth plain drainage 1941–64 ("linth"), Lac de la Gruyère ("saane").
 - Every gained/lost item has a source quote in `research/evidence-water.json`, or is marked as seen on the maps. Facts seen only in search extracts or on Wikipedia were removed.
 - Left for later: Gelmersee, Räterichsbodensee, Bannalpsee, Verbois, the Maggia hydropower (residual flow), the Seedamm, Hallwilersee.
+
+## Hydropower networks, phase 2c (decided 19 Oct 2026)
+
+- The user's rule: draw only lines from official or checked data.
+- Result: `research/changes-hydropower.json`, 31 changes (27 schemes in VS, BE/UR/SZ/GL/VD, GR/SG, TI; 4 national: growth, residual-flow law, hydropeaking, water fees). Left for later: Misox, Prättigau, Lungern/Engelberg, Saane stations.
+- Type `hydropower`, one change per scheme. Water lines from the BAFU residual flow map (`ch.bafu.wasser-leitungen`: simplified, not exact tunnel routes), intakes and return points (`ch.bafu.wasser-entnahme`, `ch.bafu.wasser-rueckgabe`), stations from BFE WASTA (`ch.bfe.statistik-wasserkraftanlagen`), rivers from swissTLM3D. Tool: `scripts/tracing/geoadmin.py`.
+- Red dashed = river stretches that now carry only residual flow (cut at official intake and return points). Reservoirs stay in their own "dam" changes.
 
 ## Open next steps
 

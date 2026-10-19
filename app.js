@@ -10,6 +10,7 @@
     { label: "Lakes and shores", test: function (c) { return c.type === "lake"; } },
     { label: "Streams in pipes", test: function (c) { return c.type === "stream"; } },
     { label: "Dams and reservoirs", test: function (c) { return c.type === "dam"; } },
+    { label: "Hydropower networks", test: function (c) { return c.type === "hydropower"; } },
     { label: "Forests", test: function (c) { return c.type === "forest"; } },
     { label: "Land use", test: function (c) { return c.type === "landuse"; } },
     { label: "Railways, roads and tunnels", test: function (c) { return c.type === "transport"; } }
@@ -18,7 +19,7 @@
   var THEMES = [
     { id: "all", label: "All", types: null },
     { id: "rivers", label: "Rivers", types: ["river"] },
-    { id: "water", label: "Marshes, lakes, dams", types: ["marsh", "lake", "stream", "dam"] },
+    { id: "water", label: "Water and power", types: ["marsh", "lake", "stream", "dam", "hydropower"] },
     { id: "land", label: "Forests and land", types: ["forest", "landuse"] },
     { id: "transport", label: "Transport", types: ["transport"] }
   ];
@@ -204,6 +205,8 @@
 
   function render() {
     var c = current(), s = stops()[state.index];
+    // An open change always shows its own theme in the list (e.g. after a link or a search).
+    if (!c.overview && !inTheme(c)) theme = THEMES.filter(function (t) { return t.types && inTheme(c, t); })[0] || THEMES[0];
     d3.select("#summary").text(c.overview ? c.summary : c.title + ": " + c.summary);
     d3.select("#year").text(s.when || String(s.year));
     d3.select("#title").text(s.title);
