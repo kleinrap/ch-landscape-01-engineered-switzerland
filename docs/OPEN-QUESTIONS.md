@@ -340,3 +340,338 @@ Forest and land-use shapes are sample areas only: a few km² where the old map s
 - The 977 km2 includes woody areas that are not legally forest, and clearings are not subtracted.
 - The 206 km2 figure for 2009-2018 comes from a news agency text, not directly from the BFS release.
 - No sample area is drawn for this national trend.
+
+# Water: marshes, lakes, streams and dams (round 7)
+
+Marsh outlines are traced by eye on Siegfried maps (marsh symbols) and are approximate. Remaining moors come from the federal moor inventories. Reservoirs come from OpenStreetMap; the old rivers under them are traced on the last map before the dam.
+
+### Lake Zug lowered (Lorze outflow deepened)
+
+- The amount is given as about 2.5 m (HLS) or a little more than 2 m (BAFU).
+- How much new land the lowering gave, and where, is not known.
+- Where the shore collapsed after the lowering is not known.
+
+### Robenhuserriet: peat cutting at Lake Pfäffikon
+
+- When and by how much Lake Pfäffikon was lowered in the 19th century is not known from the sources read.
+- Where exactly the peat pits were, and how much peat was cut, is not mapped here.
+
+### Peat bogs of Les Ponts-de-Martel
+
+- The start year 1713 and the old bog area of 1500 ha come from a newspaper; no primary source was read.
+- When peat cutting ended in this valley is not known; the national ban came in 1987.
+- The traced bog leaves out the part towards La Sagne.
+
+### Baldeggersee lowered
+
+- The second lowering is dated 1870 (BLN) or 1871 (Bussmann).
+- How much farmland the lowering gave is not known.
+- No map shows the larger lake, so the old shore at Richensee and Hochdorf cannot be drawn.
+
+### Lake Sempach lowered
+
+- The amount of the lowering is given as 1.8 m, or 1.5 to 2 m.
+- How much land the lowering gave, and where, is not known.
+- How the lowering was done (which outflow work) is not described in the sources found.
+
+### Wauwilermoos: a lake and a moor drained
+
+- The traced former lake may show an older, larger shore than the 20 ha lake drained in 1853-1856.
+- The moor outline is rough and leaves out wet areas south and east of the plain.
+- HLS gives protection from 1962; the Vogelwarte article gives a first 3 ha reserve in 1958.
+- The share of peat cut in each period is not known.
+
+### Flon and Louve in Lausanne
+
+- The start year of the first vaults differs: 1836/1840 (city report 2017) or 1812/1832 (other city text, not seen in full).
+- The filling of the Flon valley from 1874 to about 1918 is only from a Wikipedia mirror.
+- The years when the Flon at Sévelin was covered are read from maps only (between 1925 and 1955).
+- The vaulted course in the town centre is not drawn.
+
+### Sionne in Sion
+
+- The years of covering north of the old town (1960-1980) are read from maps only.
+- The vaulted course under the Grand-Pont is drawn along the street and may be 30 m off.
+- Whether floods of the Sionne were also a reason for the vault is not known from the source.
+
+### The loss of Swiss moors and wetlands
+
+- The 90% loss is an estimate; the HLS does not give the method.
+- The 80,000 ha drained 1885-1940 may include wet land that was not moor; the HLS does not say.
+
+### Lake Lucerne regulated by the Reuss needle weir
+
+- By how many centimetres the weir lowered the mean lake level is not given in the sources.
+- Which cantons signed the 1858 contract should be checked (the source says 'Waldstätte cantons').
+
+### Grande Cariçaie: a marsh made by lowering the lake
+
+- The exact year when the sand strip fell dry on the south shore is not given in the sources.
+- Sources give different sizes (600 ha of marsh, more than 3000 ha of reserve, 5389 ha of moor landscape) because they count different areas.
+- The old shore line before the lowering was not traced, because the old 1:100,000 map is not exact enough for a strip a few hundred metres wide.
+
+### Albisrieder Dorfbach and Zurich's stream plan
+
+- The years of piping and of reopening of the Albisrieder Dorfbach are only read from maps (piped between 1880 and 1960, reopened between 1985 and 2010).
+- The 1880 map south of 47.378 N is a rough sheet; the stream in the village of Albisrieden is not drawn.
+- The city's figures differ: 16 to 34 km open outside forests (2013 release), or about 40 km open in the built-up area, half of it opened since 1988 (article).
+
+### Zurich lake quays (Quaianlagen)
+
+- The start year of the fill is not settled: 1878 (HLS) or 1881.
+- The red area near Bürkliplatz may be about 30 m too large.
+- The size of the filled area (about 26 ha) is measured on the maps, not taken from a source.
+- No source says what plants or animals lived in the filled shallow water.
+
+### Lake Geneva regulated at the Rhône outflow in Geneva
+
+- The main aim of 1884 (lower high water) and the building years 1883–1888 come from a court decision I could not read; check.
+- The leap-year lowering is 0.5 m in HLS but 15–20 cm in the Vaud government answer of 2020.
+- By how much the regulation lowered the high-water levels is not given.
+
+### Birsig in Basel
+
+- The exact year when the stretch from the Heuwaage to the Barfüsserplatz was covered is not known; sources say 'the 1950s'.
+- When the lowest part, from the Marktplatz to the Rhine, was first vaulted is not checked.
+- The 1890 map has two sheets that do not match well; the line near the Marktplatz may be 30 m off.
+
+### Krienbach in Lucerne
+
+- The exact years of covering along the Obergrundstrasse are not known; the maps show it open in 1912 and mostly covered in 1940.
+- Where the old Krienbach reached the Reuss is not drawn.
+- Whether the stream is still in the old pipe today or only carries waste water is not checked.
+
+### Neeracher Ried: the last part of a large fen
+
+- When most of the Ried was drained after the 1930s is not known from the sources read.
+- The traced Ried (about 230 ha) is smaller than the 3-4 km² given for the 1930s.
+- The earth fill of the 1960s and 1970s was seen only in a search extract.
+
+### Nant de Couchefatte (Chancy)
+
+- When and why the stream was piped is not known (between 1900 and 1960 on the maps).
+- Whether the third stage upstream of Le Martinet (planned 2011) was built is not checked.
+
+### Lac de Joux and Lac Brenet regulated for the La Dernier power station
+
+- The year when Lac Brenet was first held lower is not known (before about 1960).
+- By how many metres Lac Brenet was lowered is not clear, because old and new height systems differ.
+- The opening year of the La Dernier power station is not confirmed by a primary source.
+
+### Klöntalersee (Löntsch power plant)
+
+- How many metres the dam raised the lake was not found in an opened source.
+- No source names houses, farms or land that were flooded.
+- Who built the plant: HLS says the NOK; other material names Motor AG of Baden as the first builder.
+
+### Eulach at Winterthur station
+
+- The year and the reason for covering the Eulach at the station are not known; the maps only show it happened between 1910 and 1940.
+- The 'gained' item (more room at the station square) is an inference, not a sourced fact.
+
+### Rothenthurm moor: peat cutting, an army plan and a vote
+
+- Where exactly peat was cut in the valley, and how much, is not mapped here.
+- Sources differ on when the army training ground was planned: 1970s (canton Schwyz) or 1980s (HLS).
+- The share of the vote (57.8% yes, from a radio report) was not checked in an official source.
+
+### Aare (Wohlensee reservoir)
+
+- The number of farms and houses lost is not given exactly ('several dozen houses').
+- The OSM shape shows only the wide part of the lake; the held-back river towards Bern is missing.
+- HLS Mühleberg was used only through a search summary.
+
+### Lago Ritom (raised natural lake)
+
+- Was the Ritom dam built in 1917 or 1918, and was it raised again around 1950?
+- Did raising the lake change its natural water layers (meromixis) or its fish?
+- When will the new Ritom plant start, and who owns what share?
+
+### Jogne (Lac de Montsalvens)
+
+- Was the energy shortage of 1918 caused by the First World War?
+- How much water flows in the Jogne gorge below the dam?
+- Were farms or houses removed for the lake?
+
+### Hudelmoos: the last raised bog of Thurgau
+
+- The years 'about 1928' and 'about 1958' are calculated from 'before 60 / 30 years' in a booklet of 1988.
+- The older, larger extent of the bog (at least 1 km²) is not traced.
+- Sources give 25 ha or 40 ha for the reserve, and 1977 or 1979 for its protection.
+
+### Rhine at Eglisau (Eglisau power plant)
+
+- Start of construction not checked (other sources say 1915).
+- A hiking site gives a rise of about 10 m; HLS says 8 m.
+- The annual electricity production was not checked.
+
+### Barberine (Lac d'Emosson)
+
+- Construction dates of the Emosson dam differ (1965–1972, 1967–1974, finished 1975).
+- Did people live all year in the hamlet of Barberine, or was it a summer settlement?
+- Which streams in France and Switzerland lost water to the scheme, and how much?
+
+### Aare at the Grimsel (Grimselsee reservoir)
+
+- The exact year the old hospice went under water was not found in a primary source (one menu card says 1929).
+- KWO plans to raise the lake further; the press release could not be opened.
+
+### Dixence (Lac des Dix, Grande Dixence dam)
+
+- Construction dates differ between sources (1950 or 1951 to 1961, 1964 or 1965).
+- The loss of the alps on the valley floor is read from the 1928 map only; how many huts and how much pasture were lost is not known.
+- The first Dixence lake (1935) is not drawn.
+- Number of deaths during construction not found.
+
+### Lago Maggiore regulated by the Miorina weir
+
+- Whether the higher summer limits (2015, 2019) raise the flood risk in Locarno is not stated by the source.
+- The exact position of the weir is not marked, because it lies outside the Swiss maps.
+
+### Drainage of the Linth plain (Linthebene melioration)
+
+- The traced Riet is only the central part of the plain; the full drained area of 27.65 km² is not drawn.
+- Hösli gives a 75 ha reserve; Pro Natura gives a purchase of 25 ha in 1939 plus smaller leases. The figures may count different areas.
+- It is not checked which year each part of the plain was drained.
+
+### Saane (Lac de la Gruyère reservoir, Rossens dam)
+
+- How many farms, houses and hectares of land went under the Lac de la Gruyère?
+- Was the old stone bridge of Thusy flooded by the lake?
+- The old river line near Broc is approximate (coarse map).
+
+### Salanfe (Lac de Salanfe)
+
+- How much water escapes from the lake through the limestone, and where does it come out?
+- Who owned the alp of Salanfe and how were the users compensated?
+- Power of the Miéville station: 70 MW or 80 MW?
+
+### Drize in the Praille-Acacias-Vernets quarter
+
+- When and why the Drize was put underground at La Praille is not known; the maps show it between 1950 and 1960.
+- The canton speaks of the 'original course', but the 1950 map shows the Drize going to the Aire, not to the Arve.
+- OSM shows about 340 m of new open stream; the canton says 450 m.
+
+### Julia (Lai da Marmorera reservoir)
+
+- How the 1948 vote was won is disputed: some press sources say votes were bought or the contract was misunderstood.
+- The museum blog says the dam was inaugurated in 1955; HLS and the dam list give 1954.
+- No source checked on the effect on the Julia below the dam (residual flow).
+
+### Doubs (Lac de Moron, Châtelot dam)
+
+- Was the residual flow below the dam raised to 2,000 l/s after the Doubs plan?
+- Reservoir volume: 16 or 20 million m³?
+- Who owns the Châtelot plant today?
+
+### Lake Zurich regulated by the Platzspitz weir
+
+- When the mill buildings in the Limmat were removed is not given in the source.
+- Whether the weir is best called Platzspitz weir or Letten weir should be checked.
+
+### Valser Rhein (Zervreilasee reservoir)
+
+- No source found on how many buildings or people were affected by the flooding.
+- No source found on the residual flow in the Valser Rhein below the dam.
+- HLS gives a 150 m dam, the dam committee 151 m.
+
+### Drance de Bagnes (Lac de Mauvoisin)
+
+- Construction dates differ: 1951–1957 (wall) or 1948–1958 (whole site).
+- Does the reservoir also protect the valley from glacier outbursts like 1818? Only Wikipedia says so.
+- What lay on the valley floor under the lake (alps, huts) is not known from written sources.
+- No residual-flow figures for the Drance de Bagnes were found.
+
+### Rhine at Rheinau (Rheinau power plant)
+
+- How much the water level rose above the weir, and how far towards the Rhine Falls, was not found.
+- The final decision on more residual water in the Rheinau loop (after 2011) was not checked.
+- The exact start of the building work was not checked.
+
+### Oberaar (Oberaarsee reservoir)
+
+- Start of construction not found in an opened source.
+- Year when the pumped storage between Oberaar and Grimsel started was not checked.
+- No source found on what the alp was used for or how many animals grazed there.
+
+### Lienne (Lac de Tseuzier)
+
+- Was the motorway tunnel under the Rawil dropped for good, and when?
+- Was the lake emptied after the damage of 1978?
+- Who used the Rawil alp before the lake, and how were they compensated?
+
+### Gougra (Lac de Moiry)
+
+- Who owned the Alpe de Moiry, and were they compensated?
+- How much water is left in the Gougra and the Navizence below the intakes?
+
+### Maggia (Lago del Sambuco)
+
+- What share of the natural flow is left in the Maggia below the intakes (for example at Bignasco)?
+- Are there minimum flows in Ticino today, after the court decision of 2022?
+- Did people live at the alp of Sambuco all year?
+
+### Göschener Reuss (Göscheneralpsee reservoir)
+
+- Sources differ on the end of the work: the dam list says 1960, HLS says 1955-1962.
+- The energy figures are planned values from 1963; today's production was not checked.
+- No source found on the effect on the Göschener Reuss below the dam (residual flow).
+
+### Reno di Lei (Lago di Lei reservoir)
+
+- No written source found on which alp buildings were flooded or how the Italian alp owners were compensated.
+- No source checked on residual flow in the streams of Avers, Madris and Niemet.
+
+### Limmernbach (Limmerensee reservoir)
+
+- No written source found on what the Limmernboden was used for before (pasture or not).
+- Dates differ: HLS 1957-1965, dam list 1963 for the dam, dam sheet 1957-1968 for the whole system.
+
+### Hinterrhein (Sufnersee reservoir)
+
+- HLS Rheinwald dates the fight 1940-1944; the KHR project with 280 million m³ is dated 1942. The exact year the plan was dropped was not checked.
+- No source found on the residual flow of the Hinterrhein below the Sufers dam.
+
+### Lago di Lugano regulated at Ponte Tresa
+
+- The source does not say how much the weir changed the usual lake level.
+
+### Jeunes-Rives: land made in Lake Neuchâtel
+
+- The exact end year of the fill is not confirmed (about 1970).
+- Where the fill material came from is not known.
+- No source found says why the city chose to fill the lake here.
+
+### Saaser Vispa (Mattmark reservoir)
+
+- Is the area outlined in blue at the north end of the plain on the 1959 map a small natural lake?
+- Does the reservoir also protect the Saas valley from glacier floods?
+
+### Brenno di Luzzone (Lago di Luzzone)
+
+- Did people live all year in the hamlet of Cavallo, and where did they go?
+- Raising dates: 1995–1999 (swissdams, HLS) or 1997–1998 (Wikipedia)?
+- How much water is left in the Brenno below the dam?
+
+### Verzasca (Lago di Vogorno)
+
+- Where exactly was the hamlet of Pioda, and where did its people go?
+- Height of the dam and yearly production: not found in a primary source.
+- Did filling the lake cause small earthquakes until 1971, as Wikipedia says?
+
+### Saane (Schiffenensee / Lac de Schiffenen)
+
+- When did the building of the Schiffenen dam start?
+- How large is 1,400 poses in hectares?
+
+### Spöl (Lago di Livigno and the Swiss National Park)
+
+- SRF gives both 'thousands' and 'over ten thousand' dead fish in 2013.
+- No source found on farms, pastures or buildings flooded on the Italian side.
+- Whether the artificial floods still take place after the PCB finds of 2016 was not checked.
+
+### Tamina (Gigerwaldsee reservoir)
+
+- No written source found on what land or buildings were flooded.
+- Sources differ on dates: dam built 1973-1975, lake 1976, plant started 1977.
+- No source checked on residual flow in the Tamina below the dam.

@@ -1,0 +1,4408 @@
+{
+ "wauwilermoos": {
+  "evidence": [
+   {
+    "item": "why 2 / built",
+    "url": "https://hls-dhs-dss.ch/de/articles/000685/",
+    "quote": "1836 kaufte Luzern den See zurück und legte ihn 1853-1856 trocken.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000685/",
+    "quote": "wurde jedoch zu dessen Nachteil von den umliegenden Dörfern sukzessive verkleinert",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000685/",
+    "quote": "hauptsächlich während der beiden Weltkriege beziehungsweise während der Korrektion des Flusses Ron 1940-1943",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / why 2",
+    "url": "https://www.ala-schweiz.ch/images/stories/pdf/ob/2024_121/OrnitholBeob_2024_121_194_Birrer.pdf",
+    "quote": "wobei 1850–1856 auch der noch 20 ha grosse Rest des um 1800 noch etwa 70 ha grossen Wauwilersees abgelassen wurde",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://www.ala-schweiz.ch/images/stories/pdf/ob/2024_121/OrnitholBeob_2024_121_194_Birrer.pdf",
+    "quote": "mit Hilfe von internierten ausländischen Soldaten so stark vorangetrieben, dass Grosser Brachvogel und Bekassine ... als Brutvögel verschwanden",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ala-schweiz.ch/images/stories/pdf/ob/2024_121/OrnitholBeob_2024_121_194_Birrer.pdf",
+    "quote": "Mehrere Meter tief wurde Torf abgebaut",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ala-schweiz.ch/images/stories/pdf/ob/2024_121/OrnitholBeob_2024_121_194_Birrer.pdf",
+    "quote": "der Boden absackte, so dass etwa 34 ha nicht mehr voll landwirtschaftlich nutzbar waren",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.ala-schweiz.ch/images/stories/pdf/ob/2024_121/OrnitholBeob_2024_121_194_Birrer.pdf",
+    "quote": "dem Wahlenplan («Anbauschlacht») geopfert, und es wurden darin Kartoffeln und Hafer angepflanzt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/012447/2013-08-26/",
+    "quote": "seit 1820 Torf abgebaut wurde",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / story 3",
+    "url": "https://www.ala-schweiz.ch/images/stories/pdf/ob/2024_121/OrnitholBeob_2024_121_194_Birrer.pdf",
+    "quote": "Ab 1970 konnte das Reservat Wauwilermoos auf 16 ha erweitert werden.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.ala-schweiz.ch/images/stories/pdf/ob/2024_121/OrnitholBeob_2024_121_194_Birrer.pdf",
+    "quote": "Sie wurde sukzessive entwässert, der Torf wurde abgebaut und sie wird heute intensiv landwirtschaftlich genutzt.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The traced former lake may show an older, larger shore than the 20 ha lake drained in 1853-1856.",
+   "The moor outline is rough and leaves out wet areas south and east of the plain.",
+   "HLS gives protection from 1962; the Vogelwarte article gives a first 3 ha reserve in 1958.",
+   "The share of peat cut in each period is not known."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Luzern, Schützenstrasse 9, Luzern",
+    "what": "Plans of the lake drainage 1853-1856 and of the 1940s melioration: exact lake outline before 1853."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/wauwil_1900.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/wauwil_1945.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/wauwil_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/wau_mask.png"
+  ],
+  "group": "w-marsh"
+ },
+ "linthebene-melioration": {
+  "evidence": [
+   {
+    "item": "built / why 2",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Mit den Arbeiten konnte im Herbst 1941 begonnen werden, 1964 führte man sie zu Ende.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Nach der Vollendung der Korrektion 1827 unterließ man es, die Ebene vollständig zu entwässern.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Arbeitslosigkeit und kriegswirtschaftlich bedingter Mehranbau bildeten dann die entscheidenden Triebkräfte",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Insgesamt wurden 27,65 km2 entwässert eine Fläche, die größer ist als diejenige des Walensees.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 / why 2",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Dank dem Einsatz der in Weesen internierten Polen wurden die ersten 50 Hektaren schon im nächsten Sommer in Kultur gegeben.",
+    "scope": "this change (Glarus part)"
+   },
+   {
+    "item": "why 3",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Von der Melioration ausgeschlossen wurde ferner das 75 ha große Naturreservat",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 2 / lost 3",
+    "url": "https://rsis.ramsar.org/RISapp/files/44321180/documents/CH509_mgt14121.pdf",
+    "quote": "Der Grundwasserstand ist unter das Niveau der Linth und des Zürichsees abgesenkt, während das Ried selbst höher liegt als das Umgelände.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://rsis.ramsar.org/RISapp/files/44321180/documents/CH509_mgt14121.pdf",
+    "quote": "Am stärksten erfolgen die Bodensackungen dort, wo torfige Böden vorhanden sind und wo in neuerer Zeit Mais angebaut wird.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://rsis.ramsar.org/RISapp/files/44321180/documents/CH509_mgt14121.pdf",
+    "quote": "Gegen Ende der 70er Jahre trocknete das Ried aus",
+    "scope": "this change"
+   },
+   {
+    "item": "story 1",
+    "url": "https://rsis.ramsar.org/RISapp/files/44321180/documents/CH509_mgt14121.pdf",
+    "quote": "überwässern die Bauern ihren Riedteil, indem sie anfangs April vom Steinenbache her durch zahlreiche Gräben das Wasser hineinleiten",
+    "scope": "this change (Noll 1924)"
+   },
+   {
+    "item": "story 3",
+    "url": "https://pronatura.ch/sites/pronatura.ch/files/2018-10/p041-zustandsbericht.pdf",
+    "quote": "1939 kaufte der Schweizerischen Bund für Naturschutz SBN (heute Pro Natura) 25 Hektaren Rietfläche der Ortsgemeinde Kaltbrunn ab",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Während des Zweiten Weltkriegs kamen im Rahmen der Anbauschlacht weitere 80'000 ha dazu.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Die Güterzusammenlegung umfaßte mehr als 50 km2.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "ebenso viele Kilometer neue Straßen und Wege durchziehen das neugeschaffene Kulturland",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Arbeitslosigkeit und kriegswirtschaftlich bedingter Mehranbau bildeten dann die entscheidenden Triebkräfte",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Rieter werden Kulturland",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://gh.copernicus.org/articles/21/97/1966/gh-21-97-1966.pdf",
+    "quote": "Selten ändert sich eine Landschaft so rasch, wie dies in der Linthebene im Zeichen des kriegsbedingten Mehranbaues geschah.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The traced Riet is only the central part of the plain; the full drained area of 27.65 km² is not drawn.",
+   "Hösli gives a 75 ha reserve; Pro Natura gives a purchase of 25 ha in 1939 plus smaller leases. The figures may count different areas.",
+   "It is not checked which year each part of the plain was drained."
+  ],
+  "visits": [
+   {
+    "place": "Linthwerk / Linthebene-Melioration archive, Lachen or Staatsarchiv St. Gallen, Regierungsgebäude, St. Gallen",
+    "what": "Melioration plans 1941-1964: exact outline of the drained Riet and of each stage."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/linthmel_1938z15.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/linthmel_1960z15.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/linthmel_1938.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/linthmel_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/linth_1938z14.png"
+  ],
+  "group": "w-marsh"
+ },
+ "rothenthurm-moor": {
+  "evidence": [
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Zum Schutz der Moore verbot die 1987 angenommene Rothenthurm-Initiative den Torfabbau.",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Auch in den Rothenthurmer Torffeldern standen Torfmaschinen und bis zu 500 Arbeiter im Einsatz.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Im 18. Jahrhundert war die Schweiz weitgehend entwaldet. Holz war eine Mangelware. Damals wurde Torf als Brennstoff entdeckt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000734/",
+    "quote": "Lebten bis zum 2. Weltkrieg die Einwohner R.s v.a. von der Land- und Holzwirtschaft sowie vom Torf- und Eisabbau",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Sie verlangte, dass alle Moore und Moorlandschaften von nationaler Bedeutung bedingungslos geschützt werden.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Volk und Stände nahmen im Dezember 1987 die Initiative an.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3 / story 3",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Heute weisen nur noch ein Rest der asphaltierten Zufahrtsstrasse und die grosse Bahn-Unterführung auf das damalige Vorhaben hin.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Gesamtfläche: 1138 ha (¾ Kanton Schwyz, ¼ Kanton Zug)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "insgesamt zwei Millionen Kubikmeter pro Jahr",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2 / lost 3",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Dadurch sind schweizweit 90% der Hochmoore verschwunden.",
+    "scope": "general"
+   },
+   {
+    "item": "story 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Ab 1950 schwand die Bedeutung der Torf- wie der Streugewinnung",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Holz war eine Mangelware. Damals wurde Torf als Brennstoff entdeckt.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Auch in den Rothenthurmer Torffeldern standen Torfmaschinen und bis zu 500 Arbeiter im Einsatz.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Sie verlangte, dass alle Moore und Moorlandschaften von nationaler Bedeutung bedingungslos geschützt werden.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Volk und Stände nahmen im Dezember 1987 die Initiative an.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Hochmoore zur Gewinnung von Brennstoffen und Ackerland entwässert und abgebaut",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.sz.ch/public/upload/assets/25657/Schutzgebiet_Moorlandschaft_Rothenthurm_Faltblatt.pdf?fp=3",
+    "quote": "Zahlreiche Turpe-Hüttli, Torfstichkanten und ein altes Torfstreuwerk erinnern an diese Zeiten.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Where exactly peat was cut in the valley, and how much, is not mapped here.",
+   "Sources differ on when the army training ground was planned: 1970s (canton Schwyz) or 1980s (HLS).",
+   "The share of the vote (57.8% yes, from a radio report) was not checked in an official source."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Schwyz, Kollegiumstrasse 30, Schwyz",
+    "what": "Peat concessions and maps of the peat fields of Rothenthurm (where and how much peat was cut)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/rothenthurm_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/rothenthurm_1945.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/rothenthurm_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/roth_1890.png"
+  ],
+  "group": "w-marsh"
+ },
+ "ponts-de-martel-tourbieres": {
+  "evidence": [
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Zum Schutz der Moore verbot die 1987 angenommene Rothenthurm-Initiative den Torfabbau.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "un vaste bassin fermé au fond autrefois entièrement marécageux",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / story 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002846/",
+    "quote": "Pendant les deux guerres mondiales, le marais fut exploité pour sa tourbe.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "La plupart des hauts-marais portent les traces de l'exploitation de la tourbe, notamment des surfaces nues",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "Des cultures relativement intensives sont aussi réalisées au détriment des anciennes tourbières.",
+    "scope": "this change"
+   },
+   {
+    "item": "story 3",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "Le site abrite encore les plus vastes hauts-marais de Suisse (environ 130 hectares).",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002846/",
+    "quote": "à l'inventaire des hauts-marais d'importance nationale",
+    "scope": "this change (Marais-Rouge, listed 1991)"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002846/",
+    "quote": "Pendant les deux guerres mondiales, le marais fut exploité pour sa tourbe.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Durch die Rationierung von Kohle während der beiden Weltkriege",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "rappellent l'extension passée des hauts-marais et l'exploitation importante de la tourbe",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "Le site abrite encore les plus vastes hauts-marais de Suisse (environ 130 hectares).",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The start year 1713 and the old bog area of 1500 ha come from a newspaper; no primary source was read.",
+   "When peat cutting ended in this valley is not known; the national ban came in 1987.",
+   "The traced bog leaves out the part towards La Sagne."
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat de Neuchâtel, Château, Neuchâtel",
+    "what": "Peat cutting concessions and plans of the valley (start of cutting, area cut in each period)."
+   },
+   {
+    "place": "Maison de la Tourbière / Musée régional, Les Ponts-de-Martel",
+    "what": "Local history of peat cutting and its end."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/pontsdemartel_1900.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/pontsdemartel_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/ponts_1900.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/ponts_1900sw.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/pontsdemartel_1945.png"
+  ],
+  "group": "w-marsh"
+ },
+ "moorverlust-schweiz": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "am Anfang des 18. Jahrhunderts erstmals in Zürich und Neuenburg auf",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "In fast allen Hochmooren des Mittellands und des Juras wurde Torf, teilweise vorübergehend, abgebaut",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Zum Schutz der Moore verbot die 1987 angenommene Rothenthurm-Initiative den Torfabbau.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Durch die Rationierung von Kohle während der beiden Weltkriege",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Feuchtgebiete und Moore bedeckten um 1700 im Gebiet der heutigen Schweiz rund 5% der Landesfläche.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "um etwa 90% auf 0,5% der Landesfläche",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Zwischen 1885 und 1940 wurden mittels Tonröhrendrainage und anderer Techniken",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Während des Zweiten Weltkriegs kamen im Rahmen der Anbauschlacht weitere 80'000 ha dazu.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "wobei der gestochene Torf in Ziegelform anstelle von Brennholz verwendet wurde",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Volk und Stände nahmen im Dezember 1987 die Initiative an.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "zahlreiche Moore durch Probleme wie anhaltende Entwässerung, Nährstoffeintrag",
+    "scope": "general"
+   },
+   {
+    "item": "story 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "1268 schutzwürdige Moore mit rund 21'500 ha Gesamtfläche",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "etwa 80'000 ha Moorland entwässert",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Während des Zweiten Weltkriegs kamen im Rahmen der Anbauschlacht weitere 80'000 ha dazu.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Sie verlangte, dass alle Moore und Moorlandschaften von nationaler Bedeutung bedingungslos geschützt werden.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Volk und Stände nahmen im Dezember 1987 die Initiative an.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "Moore sind für zahlreiche geschützte Tiere und Pflanzen (wie Schwertlilie, Sonnentau, Wollgras) der wichtigste Lebensraum",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+    "quote": "um etwa 90% auf 0,5% der Landesfläche",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "The 90% loss is an estimate; the HLS does not give the method.",
+   "The 80,000 ha drained 1885-1940 may include wet land that was not moor; the HLS does not say."
+  ],
+  "visits": [
+   {
+    "place": "Swiss National Library, Hallwylstrasse 15, Bern",
+    "what": "Federal statistics of meliorations 1885-1945 (area drained per canton and year)."
+   }
+  ],
+  "checks": [],
+  "group": "w-marsh"
+ },
+ "grande-caricaie": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://www.ne.ch/medias/Documents/17/09/150%20Jahre%20JGK%20-%20Fakten%20Juragew%C3%A4sserkorrektion%20FR.pdf",
+    "quote": "la baisse du niveau de l'eau a libéré une bande de sable de plusieurs centaines de mètres de large",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.ne.ch/medias/Documents/17/09/150%20Jahre%20JGK%20-%20Fakten%20Juragew%C3%A4sserkorrektion%20FR.pdf",
+    "quote": "les terres gagnées sur l'eau ont été utilisées pour l'agriculture, l'artisanat, le développement des infrastructures de transport et les habitations",
+    "scope": "region"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.ne.ch/medias/Documents/17/09/150%20Jahre%20JGK%20-%20Fakten%20Juragew%C3%A4sserkorrektion%20FR.pdf",
+    "quote": "Comptant plus de 3000 hectares, c'est le plus grand marais bordant un lac en Suisse.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://rsis.ramsar.org/RISapp/files/44304963/documents/CH79_descr15021.pdf",
+    "quote": "L'unité du site découle de son origine: l'abaissement du niveau du lac lors de la première correction des eaux du Jura.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://rsis.ramsar.org/RISapp/files/44304963/documents/CH79_descr15021.pdf",
+    "quote": "Il s'agit du plus important site de reproduction en Suisse pour les oiseaux aquatiques et les limicoles.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://www.vd.ch/typo3temp/assets/pdfs/la-grande-caricaie-joyau-de-valeur-internationale-1276274543.pdf",
+    "quote": "Par défaut d'entretien ou assèchement, ils se détériorent année après année.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.vd.ch/typo3temp/assets/pdfs/la-grande-caricaie-joyau-de-valeur-internationale-1276274543.pdf",
+    "quote": "En 1982, un plan directeur intercantonal, adopté par les cantons de Vaud et de Fribourg",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.ne.ch/medias/Documents/17/09/150%20Jahre%20JGK%20-%20Fakten%20Juragew%C3%A4sserkorrektion%20FR.pdf",
+    "quote": "Elles ont en effet permis de remonter jusqu'à 7000 ans dans l'histoire de la civilisation.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.ne.ch/medias/Documents/17/09/150%20Jahre%20JGK%20-%20Fakten%20Juragew%C3%A4sserkorrektion%20FR.pdf",
+    "quote": "En 1880, le lac s'est retiré à la suite de l'abaissement de son niveau",
+    "scope": "region (Morat)"
+   }
+  ],
+  "uncertain": [
+   "The exact year when the sand strip fell dry on the south shore is not given in the sources.",
+   "Sources give different sizes (600 ha of marsh, more than 3000 ha of reserve, 5389 ha of moor landscape) because they count different areas.",
+   "The old shore line before the lowering was not traced, because the old 1:100,000 map is not exact enough for a strip a few hundred metres wide."
+  ],
+  "visits": [
+   {
+    "place": "Association de la Grande Cariçaie, Chemin de la Cariçaie 3, Cheseaux-Noréaz",
+    "what": "History of the shore after the lake lowering, first vegetation maps, old shore line."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/caricaie_1878.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/caricaie_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/caric_z15_1878c.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/caric_z15_1895c.png"
+  ],
+  "group": "w-marsh"
+ },
+ "neeracher-ried": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000068/",
+    "quote": "1891 wurden im Neeracher Ried Ent- und Bewässerungsanlagen erstellt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000068/",
+    "quote": "(Streu- und Heugras, Eisfeld, Eis für Bierbrauereien, Torfstich bis 1928 sowie Froschpacht bis 1949)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/000068/",
+    "quote": "Die Gesamtmelioration Neerach wurde 1968-1976 durchgeführt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://ala-schweiz.ch/images/reservate/_pdf/Beiheft_1988_85_68_Neeracherried.pdf",
+    "quote": "Noch bis in die dreissiger Jahre hinein dehnte sich zwischen Neerach, Höri, Niederhasli und Steinmaur ein 3-4km2 grosses Riedgebiet aus",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://ala-schweiz.ch/images/reservate/_pdf/Beiheft_1988_85_68_Neeracherried.pdf",
+    "quote": "nur die Reservate Neeracher Ried (103ha), Steinmaurer Ried (12ha) und Neerer See (15ha) übrigblieben",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://ala-schweiz.ch/images/reservate/_pdf/Beiheft_1988_85_68_Neeracherried.pdf",
+    "quote": "das Braunkehlchen bis 1964, der Drosselrohrsänger bis 1979",
+    "scope": "this change"
+   },
+   {
+    "item": "story 3",
+    "url": "https://ala-schweiz.ch/images/reservate/_pdf/Beiheft_1988_85_68_Neeracherried.pdf",
+    "quote": "1969 und 1977 wurden an total drei Stellen neue Wasserflächen angelegt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/000068/",
+    "quote": "wird seit 1927 von der Schweizerischen Gesellschaft für Vogelkunde und Vogelschutz",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://ala-schweiz.ch/images/reservate/_pdf/Beiheft_1988_85_68_Neeracherried.pdf",
+    "quote": "aus dem umgebenden Landwirtschaftsgebiet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000068/",
+    "quote": "Die Gesamtmelioration Neerach wurde 1968-1976 durchgeführt.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000068/",
+    "quote": "(Streu- und Heugras, Eisfeld, Eis für Bierbrauereien, Torfstich bis 1928 sowie Froschpacht bis 1949)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When most of the Ried was drained after the 1930s is not known from the sources read.",
+   "The traced Ried (about 230 ha) is smaller than the 3-4 km² given for the 1930s.",
+   "The earth fill of the 1960s and 1970s was seen only in a search extract."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Zürich, Winterthurerstrasse 170, Zürich",
+    "what": "Melioration files of Neerach, Höri and Steinmaur (1891, 1940s, 1968-1976): when and where the Ried was drained."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/neeracherried_1932.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/neeracherried_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/neeracherried_today.png"
+  ],
+  "group": "w-marsh"
+ },
+ "hudelmoos": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "Ursprünglich dürfte es sich auf einer Fläche von mindestens 1 km2 ausgedehnt haben.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "Vor 60 Jahren waren es noch 50ha unbewaldetes Ried, bis 1962 wurden weitere 25ha in den Randzonen entwässert",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "Der verbliebene Rest von 25ha ist ein stark abgebautes Hochmoor",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "Vor 30 Jahren wurde das Torfstechen eingestellt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "Als Ersatz wurden 1973 und 1978 durch das Stauen von Gräben und durch Baggerungen zwei Teiche geschaffen.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "seit den fünfziger Jahren die Streue nicht mehr geschnitten wurde, hat sich ein Birkenbruchwald gebildet",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "Die Bekassine war Brutvogel.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "Vor 30 Jahren wurde das Torfstechen eingestellt.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "seit den fünfziger Jahren die Streue nicht mehr geschnitten wurde",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1988_85/Beiheft_1988_85_84_Hudelmoos.pdf",
+    "quote": "bis 1962 wurden weitere 25ha in den Randzonen entwässert und in Kulturland oder eintönigen Fichtenwald",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The years 'about 1928' and 'about 1958' are calculated from 'before 60 / 30 years' in a booklet of 1988.",
+   "The older, larger extent of the bog (at least 1 km²) is not traced.",
+   "Sources give 25 ha or 40 ha for the reserve, and 1977 or 1979 for its protection."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Thurgau, Zürcherstrasse 221, Frauenfeld",
+    "what": "Peat cutting and drainage files of the Mooskorporation Zihlschlacht; old plans of the bog."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/hudelmoos_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/hudelmoos_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/hudelmoos_today.png"
+  ],
+  "group": "w-marsh"
+ },
+ "robenhuserriet-pfaeffikersee": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Aus Holzmangel setzte im frühen 18. Jahrhundert der Torfabbau zur Gewinnung von Brennmaterial ein.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Am Pfäffikersee endete der Torfabbau Anfang der 1950er-Jahre.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Während langer Zeit stand der Torfabbau in Konkurrenz zur landwirtschaftlichen Streuenutzung.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2 / lost 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Infolge einer künstlichen Absenkung des Seespiegels dehnten sich die Verlandungsmoore im 19. Jahrhundert auf Kosten der Wasserfläche weiter aus.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Die Streueflächen im Robenhuserriet werden dank gezielten Massnahmen heute wieder gepflegt",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Torfriet mit regenerierenden Hochmoorflächen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.zop.zb.uzh.ch/bitstream/123456789/2095/1/Vereinigung_Pro_Pfaeffikersee_Taetigkeitsbericht_1971-72.pdf",
+    "quote": "wie weitblickend der Regierungsrat 1948 handelte, als er das ganze Pfäffikerseegebiet unter Schutz stellte",
+    "scope": "this change"
+   },
+   {
+    "item": "story 3",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Die im Jahr 1858 im Robenhuserriet entdeckte Pfahlbausiedlung war als erste und reichhaltige Fundstätte dieser Art",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Aus Holzmangel setzte im frühen 18. Jahrhundert der Torfabbau zur Gewinnung von Brennmaterial ein.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1409.pdf",
+    "quote": "Zu Beginn der Industrialisierung im 19. Jahrhundert sowie während des Ersten und des Zweiten Weltkriegs wurde noch intensiv Torf gestochen.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When and by how much Lake Pfäffikon was lowered in the 19th century is not known from the sources read.",
+   "Where exactly the peat pits were, and how much peat was cut, is not mapped here."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Zürich, Winterthurerstrasse 170, Zürich",
+    "what": "Files on the lowering of Lake Pfäffikon (19th century) and peat concessions at Robenhausen and Pfäffikon."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/pfaeffikersee_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/pfaeffikersee_1945.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-marsh/pfaeffikersee_today.png"
+  ],
+  "group": "w-marsh"
+ },
+ "baldeggersee-lowering": {
+  "evidence": [
+   {
+    "item": "why 1, why 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1304.pdf",
+    "quote": "Zur Gewinnung von Kulturland wurde der See in den Jahren 1806 und 1870 um insgesamt rund 1,5 Meter abgesenkt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1304.pdf",
+    "quote": "Zuvor war er deutlich länger und reichte im Norden bis Richensee, im Süden bis gegen Hochdorf",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (1871), lost 1",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1942_39/OrnitholBeob_1942_39_85_Bussmann.pdf",
+    "quote": "Der Seespiegel wurde dadurch um 75 bis 90 cm tiefer gelegt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1942_39/OrnitholBeob_1942_39_85_Bussmann.pdf",
+    "quote": "nach der Seeabsenkung Kiebitz und Brachvogel viele Jahre Brutvögel im südlichen Seegebiet zwischen Urswil und Hochdorf",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://ala-schweiz.ch/images/stories/pdf/ob/1942_39/OrnitholBeob_1942_39_85_Bussmann.pdf",
+    "quote": "gingen weite Strecken leicht sumpfigen oder seichten Gebietes ein, ergiebige Jagdgründe verschwanden",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3, story 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1304.pdf",
+    "quote": "Seit dem Anfang der 1980er-Jahre wird er künstlich belüftet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1304.pdf",
+    "quote": "Zur Gewinnung von Kulturland wurde der See in den Jahren 1806 und 1870 um insgesamt rund 1,5 Meter abgesenkt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1304.pdf",
+    "quote": "Zuvor war er deutlich länger und reichte im Norden bis Richensee, im Süden bis gegen Hochdorf",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The second lowering is dated 1870 (BLN) or 1871 (Bussmann).",
+   "How much farmland the lowering gave is not known.",
+   "No map shows the larger lake, so the old shore at Richensee and Hochdorf cannot be drawn."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Luzern, Schützenstrasse 9, Lucerne",
+    "what": "Plans of the Baldeggersee lowering 1806 and 1870/71: old shore line, new land, outflow works on the Aabach."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/baldegg_1865.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/baldegg_today.png"
+  ],
+  "group": "w-lake"
+ },
+ "lac-de-joux-regulation": {
+  "evidence": [
+   {
+    "item": "why 2, gained 1",
+    "url": "https://gh.copernicus.org/articles/19/209/1964/gh-19-209-1964.pdf",
+    "quote": "Les travaux entrepris de 1901 à 1904 pour alimenter l'usine de La-Dernier (Vallorbe) ont donné toute sécurité contre les risques d'inondation",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.romande-energie.ch/images/Files/communiques_archives/110512_communique_fr.pdf",
+    "quote": "concession octroyée en 1901 à la compagnie des Forces Motrices de Joux et Brenet dans le but d'éviter les importantes fluctuations du lac de Joux",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://gh.copernicus.org/articles/19/209/1964/gh-19-209-1964.pdf",
+    "quote": "Le lac Brenet est maintenu à un niveau de 1002 m et le canal entre les lacs étant muni de vannes",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://gh.copernicus.org/articles/19/209/1964/gh-19-209-1964.pdf",
+    "quote": "Il en est résulté pour le village des Charbonnières un appréciable gain de terrain utilisé en pâturage",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.romande-energie.ch/images/Files/communiques_archives/110512_communique_fr.pdf",
+    "quote": "ces turbinages correspondent à un abaissement cumulé du niveau du lac de 25 cm",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://gh.copernicus.org/articles/19/209/1964/gh-19-209-1964.pdf",
+    "quote": "Jadis les deux lacs communiquaient librement par le cours de l'Orbe",
+    "scope": "region"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.romande-energie.ch/images/Files/communiques_archives/110512_communique_fr.pdf",
+    "quote": "cette dernière turbine les eaux du lac pour réguler son niveau et produire de l'électricité",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1955, 1960 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://gh.copernicus.org/articles/19/209/1964/gh-19-209-1964.pdf",
+    "quote": "Il en est résulté pour le village des Charbonnières un appréciable gain de terrain utilisé en pâturage",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The year when Lac Brenet was first held lower is not known (before about 1960).",
+   "By how many metres Lac Brenet was lowered is not clear, because old and new height systems differ.",
+   "The opening year of the La Dernier power station is not confirmed by a primary source."
+  ],
+  "visits": [
+   {
+    "place": "Archives cantonales vaudoises, Rue de la Mouline 32, Chavannes-près-Renens",
+    "what": "Concession of 1901 (Forces Motrices de Joux et Brenet) and the later rules for Lac Brenet: date and level of the lowering."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/brenet_check_1955.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/brenet_check_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/brenet_cmp.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/brenet_cmp2.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_joux.png"
+  ],
+  "group": "w-lake"
+ },
+ "lago-di-lugano-regulation": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "Die Regulierung des Luganersees war schon 1795 ein Thema",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "am 17. September 1955 in Lugano unterzeichnet werden. Die Bauarbeiten begannen 1960, und 1963 nahm die Anlage ihren reglementarischen Betrieb auf",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "Erhöhung der Abflussmenge bei Niedrigwasser, um die Stromproduktion des Wasserkraftwerks von Creva sicherzustellen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "272.08 Höchststand seit 1963 (30. 10. 2002)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "Dämpfung von Seehochständen bei Hochwasser.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "Begrenzung der maximalen Wasserführung der Tresa und dadurch Verminderung der Überschwemmungsgefahr entlang der Tresa.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "Regulierung des Seepegels unter bestmöglicher Berücksichtigung der Bedürfnisse der Landwirtschaft, der Fischerei, der Schifffahrt und des Tourismus.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/Dc5hCtnHByVX/seeregulierung_luganersee.pdf",
+    "quote": "Linienreglement, das den bei Ponte Tresa gesteuerten Abfluss in Abhängigkeit von Wasserstand und Tag im Jahresverlauf eindeutig definiert",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The source does not say how much the weir changed the usual lake level."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_tresa.png"
+  ],
+  "group": "w-lake"
+ },
+ "lago-maggiore-miorina": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/YPiKrMnUAcPp/seeregulierung_lagensee.pdf",
+    "quote": "steigt der Seepegel jeweils rasch – und gelegentlich bis weit über die Hochwassergrenze – an",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/YPiKrMnUAcPp/seeregulierung_lagensee.pdf",
+    "quote": "konnte erst in den Jahren 1938 bis 1942 erbaut werden. Seinen Betrieb nahm es offiziell am 1. Januar 1943 auf",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/YPiKrMnUAcPp/seeregulierung_lagensee.pdf",
+    "quote": "Es ist rund 200 Meter breit und besteht aus 120 Metallschützen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/YPiKrMnUAcPp/seeregulierung_lagensee.pdf",
+    "quote": "mehr als 7000 landwirtschaftliche Betriebe und 5 Wasserkraftwerke unterhalb und die Schifffahrt und touristische Einrichtungen oberhalb",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2, lost 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/YPiKrMnUAcPp/seeregulierung_lagensee.pdf",
+    "quote": "wegen der beschränkten Abflusskapazitäten bei Sesto Calende gibt es immer wieder Situationen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/YPiKrMnUAcPp/seeregulierung_lagensee.pdf",
+    "quote": "Sind die Schützen bei Hochwasser aber einmal abgelegt, lassen sie sich erst wieder bei tieferem Seestand aufrichten",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1 (2000)",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/YPiKrMnUAcPp/seeregulierung_lagensee.pdf",
+    "quote": "197.57 Höchststand seit 1943 (16. 10. 2000)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Whether the higher summer limits (2015, 2019) raise the flood risk in Locarno is not stated by the source.",
+   "The exact position of the weir is not marked, because it lies outside the Swiss maps."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_mio.png"
+  ],
+  "group": "w-lake"
+ },
+ "leman-regulation": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_489_TexteCE.pdf",
+    "quote": "Le Léman a toujours été sujet à de fortes variations saisonnières. Il y a même eu un procès qui a duré sept ans",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008657",
+    "quote": "La convention intercantonale de 1884 et le règlement du pont de la Machine à Genève (1892) assurent un niveau régulier",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://silgeneve.ch/legis/data/rsg_l2_15.htm",
+    "quote": "maintenir le niveau du lac entre les altitudes 372,30 m s/mer et 371,70 m s/mer",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_489_TexteCE.pdf",
+    "quote": "Le niveau est abaissé chaque année progressivement de décembre à mars-avril afin de permettre d'absorber les volumes d'eau",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008657",
+    "quote": "abaissé de 0,5 m au printemps des années bissextiles pour permettre le nettoyage des rives",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://silgeneve.ch/legis/data/rsg_l2_15.htm",
+    "quote": "l'utilisation des forces motrices du Rhône",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/20_INT_489_TexteCE.pdf",
+    "quote": "Les variations annuelles du niveau du lac suivent ainsi les mêmes principes depuis plus d'un siècle",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The main aim of 1884 (lower high water) and the building years 1883–1888 come from a court decision I could not read; check.",
+   "The leap-year lowering is 0.5 m in HLS but 15–20 cm in the Vaud government answer of 2020.",
+   "By how much the regulation lowered the high-water levels is not given."
+  ],
+  "visits": [
+   {
+    "place": "Archives d'Etat de Genève, Rue de l'Hôtel-de-Ville 1, Geneva",
+    "what": "Convention of 17 December 1884 and the 1892 weir rules: aim, lake levels before and after, building years of the Pont de la Machine weir."
+   },
+   {
+    "place": "Bibliothèque cantonale et universitaire, Palais de Rumine, Lausanne",
+    "what": "Federal Court decision of 4 December 1984 (VPB 84-083) on the history of the Léman regulation."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_ge.png"
+  ],
+  "group": "w-lake"
+ },
+ "neuchatel-jeunes-rives": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://www.neuchatelville.ch/fileadmin/sites/ne_ville/fichiers/votre_commune/cg_rapports_objets/imported/2011/11-025_20Demande_20de_20credit_20d_etude_20avant-projet_20amen._20Jeunes-Rives.pdf",
+    "quote": "concession du 10 juin 1960, d'une durée de 99 ans, établie en vertu de l'arrêté du Conseil d'Etat relatif au remblayage des Jeunes-Rives",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (public use)",
+    "url": "https://www.neuchatelville.ch/fileadmin/sites/ne_ville/fichiers/votre_commune/cg_rapports_objets/imported/2011/11-025_20Demande_20de_20credit_20d_etude_20avant-projet_20amen._20Jeunes-Rives.pdf",
+    "quote": "la Ville est autorisée à utiliser les surfaces remblayées dans des buts d'utilité publique ou d'intérêt général",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2, gained 2",
+    "url": "https://www.neuchatelville.ch/fileadmin/sites/ne_ville/fichiers/presse/Journal_N_/2025/N_9_avril_2025.pdf",
+    "quote": "l'accueil d'infrastructures comme la Step, les piscines, les patinoires, la salle omnisport, ainsi que l'Expo.02",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (1970)",
+    "url": "https://www.neuchatelville.ch/fileadmin/sites/ne_ville/fichiers/presse/Journal_N_/2025/N_9_avril_2025.pdf",
+    "quote": "permis de gagner des terrains sur le lac, donnant naissance en 1970 aux Jeunes-Rives",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1955, 1975 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.neuchatelville.ch/fileadmin/sites/ne_ville/fichiers/votre_commune/cg_rapports_objets/imported/2011/11-025_20Demande_20de_20credit_20d_etude_20avant-projet_20amen._20Jeunes-Rives.pdf",
+    "quote": "la Ville est autorisée à utiliser les surfaces remblayées dans des buts d'utilité publique ou d'intérêt général",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1955, 1975 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.neuchatelville.ch/fileadmin/sites/ne_ville/fichiers/votre_commune/cg_rapports_objets/imported/2011/11-025_20Demande_20de_20credit_20d_etude_20avant-projet_20amen._20Jeunes-Rives.pdf",
+    "quote": "arrêté du Conseil d'Etat relatif au remblayage des Jeunes-Rives",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1955, 1975 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The exact end year of the fill is not confirmed (about 1970).",
+   "Where the fill material came from is not known.",
+   "No source found says why the city chose to fill the lake here."
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat de Neuchâtel, Rue de la Collégiale 1, Neuchâtel",
+    "what": "Arrêté du Conseil d'Etat on the Jeunes-Rives fill (1960): purpose, area, fill material."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/neuchatel_1955.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/neuchatel_1975.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/neuchatel_today.png"
+  ],
+  "group": "w-lake"
+ },
+ "reuss-weir-lucerne": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/9CGcNSUY-9jr/seeregulierung_vierwaldstattersee.pdf",
+    "quote": "bei jeder Erneuerung wurde die Reuss – und mit ihr der Vierwaldstättersee – ein wenig höher aufgestaut",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.stadtluzern.ch/_doc/2237420",
+    "quote": "Am 9. Oktober 1858 schlossen unter Mitwirkung des Bundesrates die Waldstätte-Kantone und die Centralbahn-Gesellschaft einen Vertrag",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2, gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/9CGcNSUY-9jr/seeregulierung_vierwaldstattersee.pdf",
+    "quote": "Seither konnte der Seepegel auf wesentlich tieferem Niveau gehalten werden als zuvor",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3, gained 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/9CGcNSUY-9jr/seeregulierung_vierwaldstattersee.pdf",
+    "quote": "vergrösserte sich die Abflusskapazität der Reuss um rund einen Viertel",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.stadtluzern.ch/_doc/2237420",
+    "quote": "Neben dem grössten Hochwasser von 1910 waren es unzählige kleinere Ereignisse",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.stadtluzern.ch/_doc/2237420",
+    "quote": "Die Pegelveränderungen haben grossen Einfluss auf Fauna und Flora in den Ufergebieten",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "By how many centimetres the weir lowered the mean lake level is not given in the sources.",
+   "Which cantons signed the 1858 contract should be checked (the source says 'Waldstätte cantons')."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Luzern, Schützenstrasse 9, Lucerne",
+    "what": "Contract of 9 October 1858 and the weir rules of 27 June 1867: which cantons signed, and the lake levels before and after 1861."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_lu.png"
+  ],
+  "group": "w-lake"
+ },
+ "sempachersee-lowering": {
+  "evidence": [
+   {
+    "item": "why 1, why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008665/2011-11-22/",
+    "quote": "wurde der See 1806 zur Landgewinnung um 1,8 m abgesenkt, wobei Ufersiedlungen zum Vorschein kamen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (range)",
+    "url": "https://da.lu.ch/-/media/DA/Dokumente/Archaeologie/dig_publikationen_en/Unterwasserprospektion.pdf",
+    "quote": "Durch die 1806 erfolgte Absenkung des Wasserspiegels um etwa 1,5 bis 2 m wurden die prähistorischen Ufersiedlungen im Sempachersee exponiert",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://da.lu.ch/-/media/DA/Dokumente/Archaeologie/dig_publikationen_en/Unterwasserprospektion.pdf",
+    "quote": "Teilweise sind nur noch die Spitzen der Pfähle vorhanden",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://da.lu.ch/-/media/DA/Dokumente/Archaeologie/dig_publikationen_en/Unterwasserprospektion.pdf",
+    "quote": "Sie sind seither der Erosion ausgesetzt und wurden z. T. von Überbauungen, Kanalisation und Ackerbau in Mitleidenschaft gezogen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://da.lu.ch/-/media/DA/Dokumente/Archaeologie/dig_publikationen_en/Unterwasserprospektion.pdf",
+    "quote": "Die ersten Fundmeldungen gehen sogar auf das Jahr 1806 zurück, als der Sempachersee abgesenkt wurde",
+    "scope": "this change"
+   },
+   {
+    "item": "story 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008665/2011-11-22/",
+    "quote": "Ab den 1930er Jahren wurden Anstrengungen für die Einrichtung von Uferschutzzonen unternommen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008665/2011-11-22/",
+    "quote": "wurde der See 1806 zur Landgewinnung um 1,8 m abgesenkt",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The amount of the lowering is given as 1.8 m, or 1.5 to 2 m.",
+   "How much land the lowering gave, and where, is not known.",
+   "How the lowering was done (which outflow work) is not described in the sources found."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Luzern, Schützenstrasse 9, Lucerne",
+    "what": "Files on the Sempachersee lowering of 1806: method, new land, and the old lake level."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/sempach_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/sempach_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_sem.png"
+  ],
+  "group": "w-lake"
+ },
+ "zugersee-lowering": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/qEZdNiIf0bfV/seeregulierung_zugersee.pdf",
+    "quote": "den befestigten Fahrweg zwischen Zug und Cham, der den Zugersee am Nordufer umging und dort ein Sumpfgebiet querte, hochwassersicher zu machen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/qEZdNiIf0bfV/seeregulierung_zugersee.pdf",
+    "quote": "in der Lorze im Gebiet Obermühle Felsrippen und Mühlenwehre entfernt ... auf einer Länge von rund 700 Metern abgetieft",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (Knopfli)",
+    "url": "https://hls-dhs-dss.ch/de/articles/041165/",
+    "quote": "Senkte 1591/92 durch Abtiefung der Lorze in Cham den Zugerseespiegel um ca. 2,5 m",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (1630s), gained 2, lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008653/2014-02-26/",
+    "quote": "senkte den Seespiegel um 2,5 m ab. Landgewinne, aber auch Uferabbrüche waren die Folge",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/qEZdNiIf0bfV/seeregulierung_zugersee.pdf",
+    "quote": "Das heute bestehende Seewehr wurde 1943 erbaut und 2002 saniert",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/qEZdNiIf0bfV/seeregulierung_zugersee.pdf",
+    "quote": "den befestigten Fahrweg zwischen Zug und Cham, der den Zugersee am Nordufer umging und dort ein Sumpfgebiet querte, hochwassersicher zu machen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/qEZdNiIf0bfV/seeregulierung_zugersee.pdf",
+    "quote": "in der Lorze im Gebiet Obermühle Felsrippen und Mühlenwehre entfernt",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The amount is given as about 2.5 m (HLS) or a little more than 2 m (BAFU).",
+   "How much new land the lowering gave, and where, is not known.",
+   "Where the shore collapsed after the lowering is not known."
+  ],
+  "visits": [
+   {
+    "place": "Bibliothek Zug, St.-Oswalds-Gasse 21, Zug",
+    "what": "J. Speck, 'Stadtbaumeister Jost Knopfli und die Abgrabung des Zugersees 1591/92', Zuger Neujahrsblatt 1993: size and place of the land gained and the shore collapses."
+   },
+   {
+    "place": "Staatsarchiv Zug, Aabachstrasse 5, Zug",
+    "what": "Documents on the 1591/92 and 1630s outflow work."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_zug.png"
+  ],
+  "group": "w-lake"
+ },
+ "zurich-quays": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.stadt-zuerich.ch/content/dam/web/de/stadtleben/sport-und-erholung/dokumente/parkanlagen/gartendenkmal-rechtes-zuerichseeufer.pdf",
+    "quote": "1863 legte der Regierungsrat des Kantons Zürich vorgeschobene Uferlinien im unteren Seebecken fest",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.stadt-zuerich.ch/content/dam/web/de/stadtleben/sport-und-erholung/dokumente/parkanlagen/gartendenkmal-rechtes-zuerichseeufer.pdf",
+    "quote": "der drohende Verlust der Ufer am gesamten unteren Seebecken durch den Bau der Eisenbahnlinie bewusst",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (fill, Quaibrücke)",
+    "url": "https://hls-dhs-dss.ch/de/articles/007882/2011-11-02/",
+    "quote": "Durch Aufschüttung schuf Zürich unter der Leitung von Arnold Bürkli ab 1878 die Quaianlagen am See",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.stadt-zuerich.ch/content/dam/web/de/stadtleben/sport-und-erholung/dokumente/parkanlagen/gartendenkmal-rechtes-zuerichseeufer.pdf",
+    "quote": "umfassten die Quaianlagen das gesamte untere Seebecken vom Hafen Enge bis zum Hafen Riesbach",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.stadt-zuerich.ch/content/dam/web/de/stadtleben/sport-und-erholung/dokumente/parkanlagen/gartendenkmal-rechtes-zuerichseeufer.pdf",
+    "quote": "Klausstud, welche einst rund 100 m vom Ufer entfernt die Grenze der Fischereirechte Zürichs markierte",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.zuerich.com/de/besuchen/sehenswuerdigkeiten/buerkliplatz",
+    "quote": "mit der Quaibrücke gelang eine durchgehende Seepromenade mit Alleen, Wiesen und Parks",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 (Arboretum)",
+    "url": "https://hls-dhs-dss.ch/de/articles/007882/2011-11-02/",
+    "quote": "1885-1887 ... das Arboretum sowie das Seefeldquai bis zum Zürichhorn angelegt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007882/2011-11-02/",
+    "quote": "(1882-1884 Bau der Quaibrücke)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.zuerich.com/de/besuchen/sehenswuerdigkeiten/buerkliplatz",
+    "quote": "mit der Quaibrücke gelang eine durchgehende Seepromenade mit Alleen, Wiesen und Parks",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1878, 1890 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.stadt-zuerich.ch/content/dam/web/de/stadtleben/sport-und-erholung/dokumente/parkanlagen/gartendenkmal-rechtes-zuerichseeufer.pdf",
+    "quote": "Der Situationsplan der Quaianlagen zeigt das Ausmass der Seeuferschüttung. Die blaue Linie markiert den ursprünglichen Uferverlauf.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.stadt-zuerich.ch/content/dam/web/de/stadtleben/sport-und-erholung/dokumente/parkanlagen/gartendenkmal-rechtes-zuerichseeufer.pdf",
+    "quote": "analog mit Ufermauer, Geländer und Baumreihen ausgestattet",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The start year of the fill is not settled: 1878 (HLS) or 1881.",
+   "The red area near Bürkliplatz may be about 30 m too large.",
+   "The size of the filled area (about 26 ha) is measured on the maps, not taken from a source.",
+   "No source says what plants or animals lived in the filled shallow water."
+  ],
+  "visits": [
+   {
+    "place": "Stadtarchiv Zürich, Neumarkt 4, Zürich",
+    "what": "Quaibau files 1881-1887: plans of the old and new shore line, filled area, and the source of the fill material."
+   },
+   {
+    "place": "Baugeschichtliches Archiv Zürich, Neumarkt 4, Zürich",
+    "what": "Plans and photos of the quays before and after 1887, to check the old shore at Bürkliplatz."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/zurich_quays_1878.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/zurich_quays_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/zurich_quays_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/zurich_quays_1920.png"
+  ],
+  "group": "w-lake"
+ },
+ "zurichsee-platzspitz-weir": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/vahNHCuOpuFz/seeregulierung_zurichsee.pdf",
+    "quote": "Noch Anfang des 20. Jahrhunderts betrugen die Schwankungen des Zürichseepegels bis zu zwei Meter",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/vahNHCuOpuFz/seeregulierung_zurichsee.pdf",
+    "quote": "ein auf Höhe Platzspitz vorhandenes Nadelwehr durch ein Regulierwehr ersetzt worden",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/vahNHCuOpuFz/seeregulierung_zurichsee.pdf",
+    "quote": "der normale Schwankungsbereich des Zürichsees auf rund einen halben Meter begrenzt werden",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/vahNHCuOpuFz/seeregulierung_zurichsee.pdf",
+    "quote": "kann auch das Platzspitzwehr angehoben werden, um den Abfluss in der Limmat vorübergehend zu reduzieren",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/vahNHCuOpuFz/seeregulierung_zurichsee.pdf",
+    "quote": "Allerdings gab es 1999 und 2005 Ereignisse, welche die Grenzen des heutigen Reguliersystems aufzeigten",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/vahNHCuOpuFz/seeregulierung_zurichsee.pdf",
+    "quote": "innerstädtischen Mühlebauten, welche das Flussbett der Limmat verstellten und den Seeabfluss behinderten",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bafu.admin.ch/dam/de/sd-web/vahNHCuOpuFz/seeregulierung_zurichsee.pdf",
+    "quote": "wurden diese Mühlebauten schliesslich ganz beseitigt",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When the mill buildings in the Limmat were removed is not given in the source.",
+   "Whether the weir is best called Platzspitz weir or Letten weir should be checked."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv des Kantons Zürich, Winterthurerstrasse 170, Zurich",
+    "what": "Files on the removal of the Limmat mills and the Platzspitz weir (1951): dates, lake levels before and after."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-lake/m_plz.png"
+  ],
+  "group": "w-lake"
+ },
+ "birsig-basel": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007861/2002-05-31/",
+    "quote": "Als Basels Cloaca maxima diente der offene Birsiglauf.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (votes)",
+    "url": "https://hls-dhs-dss.ch/de/articles/007861/2002-05-31/",
+    "quote": "1876 bzw. 1881 lehnten die Basler Stimmbürger ein Kanalisationsgesetz und die Sanierung des Birsig ab.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (1896)",
+    "url": "https://hls-dhs-dss.ch/de/articles/007861/2002-05-31/",
+    "quote": "Erst 1896 bewilligte das Volk die Einführung der Kanalisation.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / why 2 (1898)",
+    "url": "https://www.hmb.ch/en/museums/eguides/a/e/the-open-birsig-stream",
+    "quote": "The Great Council thus decided in 1898 to re-route this stretch of the Birsig stream underground",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 1",
+    "url": "https://eterna.unibas.ch/bodenforschungjb/issue/download/190/43",
+    "quote": "Zwischen 1886 und 1900 wurde der Birsig zwischen Barfüsserplatz und Hauptpost überdeckt und darüber die heutige Falknerstrasse angelegt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 (Marktplatz)",
+    "url": "https://eterna.unibas.ch/bodenforschungjb/issue/download/190/43",
+    "quote": "wurden um 1886/1890 im Zusammenhang mit der Birsigüberdeckung ... wieder abgebrochen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://www.bs.ch/schwerpunkte/bauprojekte/seiten/bauprojekte-fuer-strassen-gruenanlagen-gewaesser/umwidmung-birsig-parkplatz",
+    "quote": "In den 1950er-Jahren wurde der Fluss überdeckt, seitdem ist dieser Freiraum ein Parkplatz.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bs.ch/medienmitteilungen/1999-umgestaltung-der-falknerstrasse-im-zusammenhang-mit-der-sanierung-der-beiden-randbereiche-der-birsigueberdeckung",
+    "quote": "Die hundertjährige Birsigüberdeckung im Bereich der Falknerstrasse muss saniert werden.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007861/2002-05-31/",
+    "quote": "Als Basels Cloaca maxima diente der offene Birsiglauf.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007861/2002-05-31/",
+    "quote": "Erst 1896 bewilligte das Volk die Einführung der Kanalisation.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The exact year when the stretch from the Heuwaage to the Barfüsserplatz was covered is not known; sources say 'the 1950s'.",
+   "When the lowest part, from the Marktplatz to the Rhine, was first vaulted is not checked.",
+   "The 1890 map has two sheets that do not match well; the line near the Marktplatz may be 30 m off."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Basel-Stadt, Martinsgasse 2, Basel",
+    "what": "Building files of the Birsig covering (Birsigkorrektion 1886-1900, Heuwaage-Barfüsserplatz 1950s): exact years and length of each stage."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/bt_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/bt_1900.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/bt_1940.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/bt_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/bh_grid.png"
+  ],
+  "group": "w-stream"
+ },
+ "flon-louve-lausanne": {
+  "evidence": [
+   {
+    "item": "why 1 / why 2",
+    "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=7048",
+    "quote": "ont poussé la Ville de Lausanne à entreprendre le voûtage du Flon, dans le quartier du Rôtillon, dès 1836",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=7048",
+    "quote": "engendrant la disparition complète des rivières du paysage urbain en 1873",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=7048",
+    "quote": "en 1964, c'est au tour du Flon de disparaître au niveau de la Vallée de la Jeunesse pour les besoins de l'Exposition nationale",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1 / gained 1",
+    "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=7048",
+    "quote": "comblements partiels de la vallée du Flon et de la Louve, soit environ 9.0 km de cours d'eau canalisés en souterrain",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=7048",
+    "quote": "Aucune amélioration n'est envisageable sur les tronçons en voûtage du Flon et de la Louve",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 (waste water)",
+    "url": "https://lausanne.ch/apps/agir/affaire/doc/7e/7e0258ee60724497a870ca0df03f803a.pdf",
+    "quote": "Les voûtages du Flon et de la Louve sont utilisés aujourd'hui pour évacuer les eaux usées à la STEP de Vidy.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.lausanne.ch/apps/actualites/Next/serve.php?id=7048",
+    "quote": "associées aux besoins de protection contre les crues et de salubrité publique",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The start year of the first vaults differs: 1836/1840 (city report 2017) or 1812/1832 (other city text, not seen in full).",
+   "The filling of the Flon valley from 1874 to about 1918 is only from a Wikipedia mirror.",
+   "The years when the Flon at Sévelin was covered are read from maps only (between 1925 and 1955).",
+   "The vaulted course in the town centre is not drawn."
+  ],
+  "visits": [
+   {
+    "place": "Archives de la Ville de Lausanne, Rue du Maupas 47, Lausanne",
+    "what": "Plans of the vaults of the Flon and the Louve (1836-1873) and of the filling of the Flon valley: exact course, years and stages."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/flon_1895.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/flon_1955.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/flon_1970.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/flon_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/flonb_grid.png"
+  ],
+  "group": "w-stream"
+ },
+ "krienbach-luzern": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/015325/",
+    "quote": "immer wieder schwere Überschwemmungen (u.a. 1343, 1473, 1532, 1544, 1566, 1629, 1720, gravierend 1738",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/015325/",
+    "quote": "Der im 19. und 20. Jh. weitgehend überdeckte K. (Trambahnbau um 1900)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2 / lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/015325/",
+    "quote": "Die Überflutung von 1988 gab Anlass, den K. in einem Stollen durch den Sonnenberg in die Reuss zu führen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/015325/",
+    "quote": "Der im 19. und 20. Jh. weitgehend überdeckte K.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The exact years of covering along the Obergrundstrasse are not known; the maps show it open in 1912 and mostly covered in 1940.",
+   "Where the old Krienbach reached the Reuss is not drawn.",
+   "Whether the stream is still in the old pipe today or only carries waste water is not checked."
+  ],
+  "visits": [
+   {
+    "place": "Stadtarchiv Luzern, Ruopigenstrasse 18, Luzern (bus to Ruopigen)",
+    "what": "Building files on the covering of the Krienbach in the Obergrund (c. 1890-1940): years and stages."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/krien_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/krien_1912.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/krien_1940.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/krien_today.png"
+  ],
+  "group": "w-stream"
+ },
+ "albisrieder-dorfbach": {
+  "evidence": [
+   {
+    "item": "why 1 (Switzerland)",
+    "url": "https://www.bafu.admin.ch/de/struktur-und-morphologie",
+    "quote": "Rund ein Viertel aller Gewässerstrecken sind künstlich, stark beeinträchtigt oder überdeckt (eingedolt).",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.stadt-zuerich.ch/artikel/de/klar/gewaesserschutz/baeche-in-zuerich.html",
+    "quote": "Aus damaliger Sicht galten sie als Hindernis für die rasch wachsende Stadt.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.stadt-zuerich.ch/artikel/de/klar/gewaesserschutz/baeche-in-zuerich.html",
+    "quote": "Bis 1980 waren nur noch etwa 60 Kilometer Bäche offen sichtbar.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.stadt-zuerich.ch/artikel/de/klar/gewaesserschutz/baeche-in-zuerich.html",
+    "quote": "Offenlegung bisher eingedolter Bäche, wo immer möglich.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.stadt-zuerich.ch/misc/de/mitteilungsarchiv/medienmitteilungen/2013/06/130621.html",
+    "quote": "flossen 1988 nur noch 16 km oberirdisch",
+    "scope": "general"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://www.stadt-zuerich.ch/misc/de/mitteilungsarchiv/medienmitteilungen/2013/06/130621.html",
+    "quote": "entlang des Friesenbergbachs, des Dorfbachs Albisrieden, des Holderbachs, des Wehrenbachs und des Bombachs",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.stadt-zuerich.ch/misc/de/mitteilungsarchiv/medienmitteilungen/2013/06/130621.html",
+    "quote": "Heute fliesst sauberes Wasser oberirdisch in naturnahen Bachläufen und wird nicht unnötig der Kanalisation zugeführt.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1880, 1960 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.stadt-zuerich.ch/artikel/de/klar/gewaesserschutz/baeche-in-zuerich.html",
+    "quote": "Aus damaliger Sicht galten sie als Hindernis für die rasch wachsende Stadt.",
+    "scope": "region"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.stadt-zuerich.ch/artikel/de/klar/gewaesserschutz/baeche-in-zuerich.html",
+    "quote": "Bei Regen führten sie zudem Geschiebe und Überschwemmungen mit sich, was Mensch und Eigentum gefährdete.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1880, 1960, 1985 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1880, 2010 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The years of piping and of reopening of the Albisrieder Dorfbach are only read from maps (piped between 1880 and 1960, reopened between 1985 and 2010).",
+   "The 1880 map south of 47.378 N is a rough sheet; the stream in the village of Albisrieden is not drawn.",
+   "The city's figures differ: 16 to 34 km open outside forests (2013 release), or about 40 km open in the built-up area, half of it opened since 1988 (article)."
+  ],
+  "visits": [
+   {
+    "place": "Stadtarchiv Zürich, Neumarkt 4, Zürich",
+    "what": "Files of the Tiefbauamt / Entsorgung + Recycling Zürich on the Albisrieder Dorfbach: year of piping and year(s) of reopening."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/ad_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/ad_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/ad_2010.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/ad_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/ad_g.png"
+  ],
+  "group": "w-stream"
+ },
+ "sionne-sion": {
+  "evidence": [
+   {
+    "item": "why 2 / gained 1 / lost 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002802/2017-11-16",
+    "quote": "La Sionne fut complètement voûtée autour de 1848, ce qui facilita le passage par le Grand-Pont et les rues furent élargies.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002802/2017-11-16",
+    "quote": "L'approvisionnement en eau, autrefois assuré par la Sionne, insuffisant, fut provisoirement réglé en 1895",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002802/2017-11-16",
+    "quote": "la construction de l'hôtel de ville au Grand-Pont entre 1657 et 1665",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002802/2017-11-16",
+    "quote": "dut démolir ses murailles dès 1830",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1960, 1980 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1880, 1960, 1980 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The years of covering north of the old town (1960-1980) are read from maps only.",
+   "The vaulted course under the Grand-Pont is drawn along the street and may be 30 m off.",
+   "Whether floods of the Sionne were also a reason for the vault is not known from the source."
+  ],
+  "visits": [
+   {
+    "place": "Archives de la Ville de Sion / Archives de l'Etat du Valais, Rue de Lausanne 45, Sion",
+    "what": "Plans and council decisions on the vault of the Sionne (c. 1848) and on the covering north of the old town (1960s-1970s)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/sion_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/sion_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/sion_1980.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/sion_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/sib_g.png"
+  ],
+  "group": "w-stream"
+ },
+ "eulach-winterthur": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://chronos-verlag.ch/sites/default/files/einleitung_3.pdf",
+    "quote": "begleitet vom Rauschen der offen fliessenden Eulach",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://chronos-verlag.ch/sites/default/files/einleitung_3.pdf",
+    "quote": "Erscheinungsbild des Bahnhofplatzes, wo von der Eulach nichts mehr zu erahnen ist",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://chronos-verlag.ch/sites/default/files/einleitung_3.pdf",
+    "quote": "die beiden Vorstädte und die sechs Mühlen an der Eulach",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://chronos-verlag.ch/sites/default/files/einleitung_3.pdf",
+    "quote": "Mit der Eisenbahn begann 1855 die Zeit der Umwälzung",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://chronos-verlag.ch/sites/default/files/einleitung_3.pdf",
+    "quote": "Wer 1895 vom Bahnhof her in die Untertorgasse hineinspazierte",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://chronos-verlag.ch/sites/default/files/einleitung_3.pdf",
+    "quote": "begleitet vom Rauschen der offen fliessenden Eulach",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1910, 1940 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The year and the reason for covering the Eulach at the station are not known; the maps only show it happened between 1910 and 1940.",
+   "The 'gained' item (more room at the station square) is an inference, not a sourced fact."
+  ],
+  "visits": [
+   {
+    "place": "Stadtarchiv Winterthur, Obergasse 22, Winterthur",
+    "what": "Building files on the covering of the Eulach at the Untertor / station square (1910-1940): year, reason, length."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/eul_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/eul_1910.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/eul_1940.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/eul_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/wj_g.png"
+  ],
+  "group": "w-stream"
+ },
+ "drize-pav": {
+  "evidence": [
+   {
+    "item": "why 3",
+    "url": "https://www.ge.ch/document/drize-est-retour-air-libre-450-metres",
+    "quote": "La rivière a quitté sa galerie souterraine de la route des Jeunes",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ge.ch/dossier/geneve-canton-eau/rivieres-vivantes/drize-revit-au-coeur-quartiers-du-pav",
+    "quote": "l'ensemble du tracé de remise à ciel ouvert de la Drize de Grange-Colomb à l'Arve sur 2,5 km",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ge.ch/dossier/geneve-canton-eau/rivieres-vivantes/drize-revit-au-coeur-quartiers-du-pav",
+    "quote": "La première étape de remise à ciel ouvert de la rivière s'est achevée en novembre 2025.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.ge.ch/document/drize-est-retour-air-libre-450-metres",
+    "quote": "îlots de fraîcheur et de détente",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.ge.ch/document/drize-est-retour-air-libre-450-metres",
+    "quote": "une protection efficace contre les inondations",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://ge.ch/grandconseil/data/texte/RD01586.pdf",
+    "quote": "Première étape de remise à ciel ouvert de la Drize dans le PAV – secteurs Etoile et Boissonnas",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1950, 1960 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1950, 1960 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.ge.ch/document/drize-est-retour-air-libre-450-metres",
+    "quote": "La rivière a ainsi quitté sa galerie souterraine de la route des Jeunes.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ge.ch/document/drize-est-retour-air-libre-450-metres",
+    "quote": "le vote du crédit d'investissement par le Grand Conseil, d'un montant de 60 millions de francs",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ge.ch/document/drize-est-retour-air-libre-450-metres",
+    "quote": "dont 35 pour cette première étape de réalisation",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When and why the Drize was put underground at La Praille is not known; the maps show it between 1950 and 1960.",
+   "The canton speaks of the 'original course', but the 1950 map shows the Drize going to the Aire, not to the Arve.",
+   "OSM shows about 340 m of new open stream; the canton says 450 m."
+  ],
+  "visits": [
+   {
+    "place": "Archives d'Etat de Genève, Rue de l'Hôtel-de-Ville 1, Genève",
+    "what": "Files on the gallery of the Drize under La Praille (1950s): year, reason, link with the Praille railway yard; old course of the Drize before 1850."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/drize_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/drize_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/drize_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/drd_g.png"
+  ],
+  "group": "w-stream"
+ },
+ "nant-de-couchefatte": {
+  "evidence": [
+   {
+    "item": "why 2 / lost 1",
+    "url": "https://ge.ch/grandconseil/data/texte/RD00880.pdf",
+    "quote": "Ruisseau mis sous tuyau sur une majorité du linéaire.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 1",
+    "url": "https://ge.ch/grandconseil/data/texte/RD00880.pdf",
+    "quote": "Protection de l'usine hydro-électrique de Chancy-Pougny contre les inondations.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://ge.ch/grandconseil/data/texte/RD00880.pdf",
+    "quote": "Remise à ciel ouvert 1ère étape - sécurisation de l'usine de Chancy-Pougny contre les inondations et création du bassin du Moulin Roget (2005)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://ge.ch/grandconseil/data/texte/RD00880.pdf",
+    "quote": "Remise à ciel ouvert 2ème étape - secteur amont Moulin Roget - le Martinet (2006-2007)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://ge.ch/grandconseil/data/texte/RD00880.pdf",
+    "quote": "Raccordement des eaux usées du hameau de Passeiry sur la STEP de Chancy (2007)",
+    "scope": "this change"
+   },
+   {
+    "item": "fact",
+    "url": "https://ge.ch/grandconseil/data/texte/RD01586.pdf",
+    "quote": "plusieurs milliers de mètres de cours d'eau enterrés ont été remis à ciel ouvert",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "When and why the stream was piped is not known (between 1900 and 1960 on the maps).",
+   "Whether the third stage upstream of Le Martinet (planned 2011) was built is not checked."
+  ],
+  "visits": [
+   {
+    "place": "Office cantonal de l'eau, Rue David-Dufour 3, Genève (or Archives d'Etat de Genève)",
+    "what": "Project files of the Nant de Couchefatte restoration (2005-2011) and the date of the old piping."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/couch_1900.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/couch_1995.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/couch_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-stream/coe_g.png"
+  ],
+  "group": "w-stream"
+ },
+ "goescheneralpsee": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "In der Talebene (heutiger See) standen den Alpbewohnern rund 45 ha Futtermatten zur Verfügung.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Die Bewohner der Göscheneralp widmeten sich ausschließlich der Landwirtschaft.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Dieses Werk wurde als Ersatz für das nicht zustande gekommene Urserenkraftwerk ins Leben gerufen.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "stiess auf heftigen Protest und wurde 1951 fallen gelassen",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007473/",
+    "quote": "1955-1962 der Stausee und das Kraftwerk Göschenen gebaut.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Gemeinschaftsunternehmen der Schweizerischen Bundesbahnen und der Centralschweizerischen Kraftwerke erstellt wurde, steht jedem Partner die Hälfte der Energieerzeugung zu",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Die notwendigen Landabtretungen gingen freiwillig vor sich, und es mußten keine Zwangsenteignungen vorgenommen werden.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "hat der Lawinenwinter des Jahres 1951 alarmierend gewirkt und manchem Bewohner der Göscheneralp den Verkauf seiner Liegenschaft erleichtert",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "GÖSCHENERALP | CKW - Kraftwerk Göschenen AG | ER | 155 | 76000 | ... | 1960",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Speicherbecken von 75 Mio m3 Inhalt ... Energieerzeugung GWh 137 Winter ... 320 Jahr",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "wurden 7 männliche Aussiedler von der Kraftwerkgruppe als Hilfsarbeiter, Straßen- und Wasserwärter übernommen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007473/",
+    "quote": "Der Weiler Göscheneralp versank im Stausee",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Vom Stau wurden 7 Liegenschaftsbesitzer mit insgesamt 37 Personen betroffen.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://gh.copernicus.org/articles/18/305/1963/gh-18-305-1963.pdf",
+    "quote": "Umsiedlungsstatistik (Göscheneralp und Gwüest): 11 Besitzer, 60 Personen, 10 Wohnhäuser, 28 Ställe, Gasthaus, Hotel, Kapelle, Schulhaus",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007473/",
+    "quote": "die verbleibenden Familien erhielten Wohnhäuser im Gwüest, wo auch die Kapelle neu errichtet wurde.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Sources differ on the end of the work: the dam list says 1960, HLS says 1955-1962.",
+   "The energy figures are planned values from 1963; today's production was not checked.",
+   "No source found on the effect on the Göschener Reuss below the dam (residual flow)."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Concession and land purchase files of Kraftwerk Göschenen AG (1955): exact year the hamlet was flooded and the residual flow rules."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/goesch_1954.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/goesch_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/goesch_1972.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "marmorera": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001424/",
+    "quote": "1948 erteilte die Gemeindeversammlung dem Elektrizitätswerk der Stadt Zürich die Konzession",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "Zurich needed electricity, and many of the villagers needed money.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "was built between 1950 and 1954 by the Zürcher Elektrizitätswerken",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/001424/",
+    "quote": "Durch einen Erddamm - den ersten in Europa - wurde darauf der Marmorerasee aufgestaut",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/001424/",
+    "quote": "seit 1954 steht das alte Dorf unter Wasser.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "MARMORERA | Elektrizitätswerk der Stadt Zürich | TE | 91 | 62600 | 1684 | 1.4 | ... | 1954",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "The city of Zurich gifted the village community a church.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "higher than the fair market value of their land",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "the citizens of Marmorera finally voted 24 in favour to 2 against",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "including the church, the school, 29 homes and 52 barns",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "the hamlet of Cresta and 140 hectares of meadows and woodlands",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://blog.nationalmuseum.ch/en/2022/09/a-village-disappears-underwater/",
+    "quote": "Some families were forcibly expropriated, and most were resettled in other communities in Graubünden.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/001424/",
+    "quote": "In Neu-M. oberhalb des Stausees leben keine Bauern mehr",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "How the 1948 vote was won is disputed: some press sources say votes were bought or the contract was misunderstood.",
+   "The museum blog says the dam was inaugurated in 1955; HLS and the dam list give 1954.",
+   "No source checked on the effect on the Julia below the dam (residual flow)."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Concession of 1948 and expropriation files: number of families forced to leave and compensation paid."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/marm_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/marm_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "zervreilasee": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008138/",
+    "quote": "Die Dauerbesiedlung des rein viehwirtschaftlich ausgerichteten Zervreila soll im 18. Jahrhundert aufgehört haben.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008138/",
+    "quote": "1951-1958 erfolgte der Bau der Kraftwerke Zervreila mit einer 150 m hohen Staumauer",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Zervreila.pdf",
+    "quote": "Bauzeit 1953 bis 1957 ... Zweck Saisonspeicher ... Sperrentyp Bogenmauer",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Zervreila.pdf",
+    "quote": "den Überleitungsstollen vom Valsertal ins Safiental als Freispiegelstollen zu benützen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Zervreila.pdf",
+    "quote": "Reservoirvolumen 100 Mio. m3 ... Installierte Leistung 20 MW ... 86 MW ... 126 MW",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008138/",
+    "quote": "dessen 100 Mio. m3 Wasser die zwei Weiler Under und Ober Boda überfluteten",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "No source found on how many buildings or people were affected by the flooding.",
+   "No source found on the residual flow in the Valser Rhein below the dam.",
+   "HLS gives a 150 m dam, the dam committee 151 m."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Concession files of Kraftwerke Zervreila (1950s): buildings and land flooded at Under and Ober Boda, and compensation to Vals."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/zerv_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/zerv_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "sufnersee": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "Es sieht einen Stausee von 280 Mio. m³ im Rheinwald vor.",
+    "scope": "region"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008081/",
+    "quote": "Zwischen 1940 und 1944 kämpften die Rheinwalder erfolgreich",
+    "scope": "region"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008081/",
+    "quote": "der das Tal weitgehend überflutet hätte",
+    "scope": "region"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "Splügen, Medels und Nufenen die Wasserrechtskonzessionen",
+    "scope": "region"
+   },
+   {
+    "item": "why 1 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "Starke Opposition verhinderte auch ein Stauwerk, dem das Dorf Splügen zum Opfer gefallen wäre",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "Am 10. Dezember 1956 gründen die im Konsortium KKH zusammengeschlossenen Unternehmungen",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001500/",
+    "quote": "1959-62 wurde der Stausee S. der Kraftwerke Hinterrhein erbaut.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "Er gleicht die durch die Niederschläge und die Schneeschmelze stark schwankenden Zuflüsse aus.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "Aus dem Stausee Sufers kann auch Wasser ins Ausgleichsbecken Ferrera bzw. in den Stausee Valle di Lei gepumpt werden.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.khr.ch/de/zahlen-und-fakten",
+    "quote": "im Mittel 1500 GWh Strom pro Jahr",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "Im eingestauten Talboden gingen ca. 30 ha Wiesland verloren, was fast 20 % des gesamten Futterertrags der Gemeinde ausmachte.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "HLS Rheinwald dates the fight 1940-1944; the KHR project with 280 million m³ is dated 1942. The exact year the plan was dropped was not checked.",
+   "No source found on the residual flow of the Hinterrhein below the Sufers dam."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/suf_1958.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/suf_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "kloentalersee": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007552/",
+    "quote": "1905-1908 baute die NOK das Löntschwerk mit einem Staudamm am Ostende des Klöntalersees, der dadurch deutlich anwuchs.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/en/les-barrages/liste-des-barrages-suisses/Rhodannenberg.pdf",
+    "quote": "Bauzeit 1905 bis 1908 ... Zweck Speicherkraftwerk mit Saisonspeicher ... Bruttofallhöhe 372,29 m",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.axpo.com/ch/en/experience-axpo/guided-tours/visit-loentsch.html",
+    "quote": "the birthplace of Axpo (formerly NOK)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.uepaa.ch/en/blog/axpo-punktgenaue-ortung-im-innern-des-hochdruckwasserkraftwerk-am-lontsch",
+    "quote": "which was built between 1905 and 1908 and renewed in 2016",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.uepaa.ch/en/blog/axpo-punktgenaue-ortung-im-innern-des-hochdruckwasserkraftwerk-am-lontsch",
+    "quote": "uses a catchment area of 83 km² and supplies around 119 GWh of electricity per year.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/en/les-barrages/liste-des-barrages-suisses/Rhodannenberg.pdf",
+    "quote": "Reservoirvolumen (Nutzinhalt) 39,8 Mio. m3 ... Reservoirfläche 329 ha",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007552/",
+    "quote": "Heute ist das Klöntal ein beliebtes Erholungsgebiet.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007552/",
+    "quote": "mit einem Staudamm am Ostende des Klöntalersees, der dadurch deutlich anwuchs",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1904 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "How many metres the dam raised the lake was not found in an opened source.",
+   "No source names houses, farms or land that were flooded.",
+   "Who built the plant: HLS says the NOK; other material names Motor AG of Baden as the first builder."
+  ],
+  "visits": [
+   {
+    "place": "Landesarchiv des Kantons Glarus, Postgasse 29, Glarus",
+    "what": "Concession of the Löntschwerk (about 1904-1905): how much the lake was raised, which land and buildings were bought, and the rules for water in the Löntsch."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/kl_1904.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/kl_1904_old.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/kl_1904_west.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/kl_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "grimselsee": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008851/",
+    "quote": "Zu dieser Zeit gab es bereits das Grimselspittel, das Hospiz, welches im Besitz der Landschaft Hasli stand.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008451/",
+    "quote": "Konzessionen 1907",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000468/",
+    "quote": "1925-1972 entstanden fünf Kraftwerke und sechs Stauseen",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.gruner.ch/en/discover/spitallamm-dam-a-new-arch-dam-in-switzerland",
+    "quote": "The dam was erected from 1926 to 1932.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "SEEUFEREGG ... PG | 42 ... 1932; SPITALLAMM ... PV | 114 | 101000 ... 1932",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.gruner.ch/en/discover/spitallamm-dam-a-new-arch-dam-in-switzerland",
+    "quote": "following damage at the upstream dam face (concrete ageing)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.gruner.ch/en/discover/spitallamm-dam-a-new-arch-dam-in-switzerland",
+    "quote": "The old arch-gravity dam will remain in place and be flooded in the new reservoir.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.plattformj.ch/artikel/224621/",
+    "quote": "Die alte Staumauer bleibt bestehen und wird dank eines Durchschlags im hundertjährigen Bauwerk überflutet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.gruner.ch/en/discover/spitallamm-dam-a-new-arch-dam-in-switzerland",
+    "quote": "form the Grimsel reservoir with a live storage of 94 mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000468/",
+    "quote": "Vor allem der Kraftwerkbau brachte der Gemeindebevölkerung Wohlstand.",
+    "scope": "region"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000468/",
+    "quote": "die 1925 gegründete KWO sind heute wichtigster Arbeitgeber",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008851/",
+    "quote": "Verschiedenenorts wurde sie zerstört oder, wie auch das alte Spittel, überflutet.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/000468/",
+    "quote": "Mit dem neuen Verdienst sank die Landwirtschaft zum Nebenerwerb ab.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1924 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The exact year the old hospice went under water was not found in a primary source (one menu card says 1929).",
+   "KWO plans to raise the lake further; the press release could not be opened."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv des Kantons Bern, Falkenplatz 4, Bern",
+    "what": "KWO concession of 1907 and Grimsel building files (1925-1932): when the old hospice was flooded and what land was bought."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/grim_1924.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/grim_1924_e2.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/grim_hosp.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/grim_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "oberaarsee": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000468/",
+    "quote": "1925-1972 entstanden fünf Kraftwerke und sechs Stauseen",
+    "scope": "region"
+   },
+   {
+    "item": "why 2 / gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "OBERAAR | Kraftwerke Oberhasli AG, Innertkirchen | PG | 104 | 63650 | 2298 | 1.604 | ... | 1953",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008451/",
+    "quote": "Umwälzwerk Oberaar-Grimsel",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000468/",
+    "quote": "(several alps, among them the Oberaaralp) sind heute von Stauseen überflutet",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Start of construction not found in an opened source.",
+   "Year when the pumped storage between Oberaar and Grimsel started was not checked.",
+   "No source found on what the alp was used for or how many animals grazed there."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv des Kantons Bern, Falkenplatz 4, Bern",
+    "what": "KWO files on the Oberaar dam (about 1950-1953): start of works and use of the Oberaar alp before flooding."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/oaar_1949.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/oaar_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "wohlensee": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008648/",
+    "quote": "Der Wohlensee entstand 1920 als Stausee mit dem Bau des Wasserkraftwerks Mühleberg bei Niederruntigen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008648/",
+    "quote": "Durch die Mauersperre wurde die Aare auf einer Länge von 12 km aufgestaut",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000218/",
+    "quote": "Die Aufstauung der Aare zum Wohlensee und der Bau des Wasserkraftwerks Mühleberg 1917-1921",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008648/",
+    "quote": "ein für Fauna und Flora wichtiges Schutzgebiet dar",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008648/",
+    "quote": "vor allem Rudern",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000218/",
+    "quote": "brachten ihr aber auch neue Strassen und Brücken sowie Steuereinnahmen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008648/",
+    "quote": "der Wohleibrücke, die eine Fähre ersetzte",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008648/",
+    "quote": "eine Reihe von Bauernhöfen aufgegeben werden mussten",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000218/",
+    "quote": "bedeuteten für die Gemeinde den Verlust von Kulturland und mehreren Dutzend Häusern",
+    "scope": "this change"
+   },
+   {
+    "item": "fact",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "MÜHLEBERG | Bernische Kraftwerke AG, Bern | PG | 29 | 25000 | 480.94 | 3.25 | ... | 1920",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The number of farms and houses lost is not given exactly ('several dozen houses').",
+   "The OSM shape shows only the wide part of the lake; the held-back river towards Bern is missing.",
+   "HLS Mühleberg was used only through a search summary."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv des Kantons Bern, Falkenplatz 4, Bern",
+    "what": "BKW concession and land purchase files for Mühleberg (1917-1921): list of farms and houses bought."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/wohl_1916.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/wohl_z.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/wohl_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "rheinau": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000032/",
+    "quote": "1944 und 1947 konzessionierte die Eidgenossenschaft bzw. das Landratsamt Waldshut das Elektrizitätswerk Rheinau.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / gained 1",
+    "url": "https://www.archiv.sh.ch/daten/fileadmin/Redaktoren/Dokumente_nicht_im_Formularpool/Parlament/KleineAnfragen/2011/KA_2011-22.pdf",
+    "quote": "besitzt seit 1944 das Recht, eine Wassermenge von 400 m3/s und das Gefälle des Rheins zu nutzen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000032/",
+    "quote": "Natur- und Heimatschutzkreise erzwangen wegen des Rückstaus ins Rheinfallbecken",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000032/",
+    "quote": "In der eidgenössischen Volksabstimmung erlitten die Initianten aber 1954 eine deutliche Niederlage",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008768/",
+    "quote": "einzig der Kanton Schaffhausen hatte ihr zugestimmt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000032/",
+    "quote": "Das Dorf Rheinau selbst wurde durch die harten Auseinandersetzungen gespalten.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000032/",
+    "quote": "das Kraftwerk nahm 1956 den Betrieb auf.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007791/",
+    "quote": "eine Ergänzung der Bundesverfassung (BV) um einen Artikel über den Natur- und Heimatschutz",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007853/",
+    "quote": "In Rheinau unterlag 1954 der Landschaftsschutz",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.archiv.sh.ch/daten/fileadmin/Redaktoren/Dokumente_nicht_im_Formularpool/Parlament/KleineAnfragen/2011/KA_2011-22.pdf",
+    "quote": "Der Anteil des Kantons Schaffhausen an der Wasserkraft beträgt 8,1 %, derjenige des Kantons Zürich 53,6 %",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008768/",
+    "quote": "in den Staubecken mit nur mehr schwacher Strömung veränderten sich die Lebensbedingungen",
+    "scope": "region"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.admin.ch/de/nsb?id=38669",
+    "quote": "Auf dem Weg zur Sanierung der Restwasserstrecke beim Grenzkraftwerk Rheinau",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.archiv.sh.ch/daten/fileadmin/Redaktoren/Dokumente_nicht_im_Formularpool/Parlament/KleineAnfragen/2011/KA_2011-22.pdf",
+    "quote": "Mehr Wasser in der Flussschlaufe, aufgewertete Flusslandschaft, dauernd Wasser im Chly Rhy",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "How much the water level rose above the weir, and how far towards the Rhine Falls, was not found.",
+   "The final decision on more residual water in the Rheinau loop (after 2011) was not checked.",
+   "The exact start of the building work was not checked."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv des Kantons Zürich, Winterthurerstrasse 170, Zürich",
+    "what": "Concession and building files of the Rheinau plant (1944-1956): rise of the water level and flow left in the loop."
+   }
+  ],
+  "checks": [],
+  "group": "w-dam-east"
+ },
+ "spoel": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/ANU_Dokumente/18%20-%20Sp%C3%B6l.pdf",
+    "quote": "Die Wasserkraft des Spöls und des Inn wird von den Engadiner Kraftwerken in drei Stufen genutzt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Punt_dal_Gall.pdf",
+    "quote": "Bauzeit 1965–1969 ... Sperrentyp Doppelt gekrümmte Bogenmauer ... Höhe 130 m",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Punt_dal_Gall.pdf",
+    "quote": "Die Sperrstelle liegt je etwa zur Hälfte auf schweizerischem und italienischem Gebiet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Punt_dal_Gall.pdf",
+    "quote": "Der Stausee Lago di Livigno ist der Hauptspeicher der Engadiner Kraftwerke.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Punt_dal_Gall.pdf",
+    "quote": "Kurz unterhalb der Talsperre fliesst der Fluss Spöl in dieses wertvolle Naturschutzgebiet.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/ANU_Dokumente/18%20-%20Sp%C3%B6l.pdf",
+    "quote": "seit dem Jahr 2000 das Restwasserregime im Spöl durch künstliche Hochwasser dynamisiert",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/ANU_Dokumente/18%20-%20Sp%C3%B6l.pdf",
+    "quote": "jährlich ein bis drei künstliche Hochwasser mit Abflussspitzen von bis zu 40 m3/s",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Punt_dal_Gall.pdf",
+    "quote": "Nutzbares Stauseevolumen 164 Mio. m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/ANU_Dokumente/18%20-%20Sp%C3%B6l.pdf",
+    "quote": "wurden positive Auswirkungen auf die Morphologie und die Ökologie in den Restwasserstrecken des Spöls festgestellt",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/ANU_Dokumente/18%20-%20Sp%C3%B6l.pdf",
+    "quote": "Der Stausee Livigno dämpft die Hochwasser und hält sämtliches Geschiebe aus dem Einzugsgebiet zurück.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/ANU_Dokumente/18%20-%20Sp%C3%B6l.pdf",
+    "quote": "Weiter wird Wasser vom Spöleinzugsgebiet ins Einzugsgebiet der Adda abgeleitet.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.srf.ch/news/regional/graubuenden/nationalpark-engadin-tausende-fische-verendet",
+    "quote": "aufgrund technischer Probleme die Restwasserversorgung lahmgelegt worden",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.srf.ch/news/regional/graubuenden/nationalpark-engadin-tausende-fische-verendet",
+    "quote": "auf einer Strecke von ca. 6 km",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1964 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "SRF gives both 'thousands' and 'over ten thousand' dead fish in 2013.",
+   "No source found on farms, pastures or buildings flooded on the Italian side.",
+   "Whether the artificial floods still take place after the PCB finds of 2016 was not checked."
+  ],
+  "visits": [
+   {
+    "place": "Schweizerischer Nationalpark, Besucherzentrum, Urtatsch, Zernez",
+    "what": "Park research reports (Cratschla, Nationalpark-Forschung) on the Spöl residual flow, the artificial floods and the 2013 fish kill."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/liv_1964_lines.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/liv_1964_z.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/liv_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "eglisau": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000043/",
+    "quote": "Historisches Brückenstädtchen am Rhein",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008768/",
+    "quote": "Ab 1898 entstanden neun weitere Wasserkraftwerke, alle unterhalb des Rheinfalls.",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000043/",
+    "quote": "der Rhein 1920 8 m hoch gestaut",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000043/",
+    "quote": "Für das Kraftwerk in Rheinsfelden (Gemeinde Glattfelden) wurden 30 Häuser und die Holzbrücke abgebrochen.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000043/",
+    "quote": "Letztere 1919 durch eine dreibogige, verkleidete Betonbrücke ersetzt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "EGLISAU | Kraftwerk Eglisau-Glattfelden AG | BM | 20 | 7000 | 343 | ... | 1920",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008768/",
+    "quote": "in den Staubecken mit nur mehr schwacher Strömung veränderten sich die Lebensbedingungen",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "Start of construction not checked (other sources say 1915).",
+   "A hiking site gives a rise of about 10 m; HLS says 8 m.",
+   "The annual electricity production was not checked."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv des Kantons Zürich, Winterthurerstrasse 170, Zürich",
+    "what": "Concession and expropriation files of the Eglisau power plant (about 1913-1920): list of the 30 houses and their owners."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/egl_1914.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/egl_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/egl_plant_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "lago-di-lei": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/013121/",
+    "quote": "mit Alpvieh bestossen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/013121/",
+    "quote": "kleine Alpsiedlungen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "Es sieht einen Stausee von 280 Mio. m³ im Rheinwald vor.",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "wurden im Sommer 1957 aufgenommen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "im Herbst 1962 mit dem ersten Vollstau beendet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.khr.ch/de/geschichte",
+    "quote": "mit der Festlegung einer 20-prozentigen italienischen Beteiligung",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "Die Staumauer lag ursprünglich auf italienischem Gebiet,",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/013121/",
+    "quote": "Durch den schweiz.-ital. Gebietsaustausch 1962-63 kamen gut 45 ha des Valle di L.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "Kernstück der KHR-Anlagen ist der 197 Mio. m3 fassende Stausee Valle di Lei.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.khr.ch/de/zahlen-und-fakten",
+    "quote": "im Mittel 1500 GWh Strom pro Jahr",
+    "scope": "region"
+   },
+   {
+    "item": "gained 2 / lost 2",
+    "url": "https://www.khr.ch/de/stauseen",
+    "quote": "Rund zwei Drittel des Wassers werden aus den Tälern Avers, Madris und Niemet zugeleitet.",
+    "scope": "this change"
+   },
+   {
+    "item": "fact",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "VALLE DI LEI | Kraftwerke Hinterrhein AG , Thusis | VA | 138 | 200000 | 1934 | 4.5 | ... | 1961",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/013121/",
+    "quote": "mit Alpvieh bestossen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1956 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "No written source found on which alp buildings were flooded or how the Italian alp owners were compensated.",
+   "No source checked on residual flow in the streams of Avers, Madris and Niemet."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Files on the Swiss-Italian land exchange of 1962-63 and the KHR concession: which alps were flooded and how owners were paid."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/lei_1956.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/lei_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "gigerwaldsee": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/015962/",
+    "quote": "C. war nachweisbar 1346 (Kalueys) von Walsern besiedelt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/015962/",
+    "quote": "Wohl aus wirtschaftlichen und klimatischen Gründen wurde die Dauersiedlung im 16./17. Jh. aufgegeben.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/015962/",
+    "quote": "Heute wird C. nur noch alpwirtschaftlich und touristisch genutzt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001355/",
+    "quote": "Seit 1961 befindet sich der Sitz der damals gegründeten Kraftwerke Sarganserland in Pfäfers.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/textes/d/D7645.php",
+    "quote": "1971-1978 wurde das Speicherwerk der Kraftwerke Sarganserland AG im Einzugsgebiet Calfeisental-Weisstannental gebaut.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Bauzeit 1973–1975",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/015962/",
+    "quote": "Zwischen St. Martin und Vättis liegt seit 1976 der Gigerwald-Stausee.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001355/",
+    "quote": "1977 erfolgte die Inbetriebnahme des Stausees Gigerwald mit seiner 147 m hohen Staumauer.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Das Wasser aus dem direkten Einzugsgebiet und aus dem Weisstannental wird im saisonalen Speicher gespeichert",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Aus dem Ausgleichsbecken Mapragg können auch bis 36 m3/s Wasser in die Stauanlage Gigerwald gepumpt werden.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 / lost 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Gigerwald.pdf",
+    "quote": "Reservoirvolumen 33,4 Mio. m3 ... Reservoirfläche 70 ha ... 3x93,3-MW-Turbinen, 3x53-MW-Pumpen",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "No written source found on what land or buildings were flooded.",
+   "Sources differ on dates: dam built 1973-1975, lake 1976, plant started 1977.",
+   "No source checked on residual flow in the Tamina below the dam."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv St. Gallen, Regierungsgebäude, Klosterhof 1, St. Gallen",
+    "what": "Concession files of the Kraftwerke Sarganserland (1960s-1970s): land flooded in the Calfeisental and residual flow rules."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/gig_1972.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/gig_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "limmernsee": {
+  "evidence": [
+   {
+    "item": "why 2 / gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000770/",
+    "quote": "Von nationaler Bedeutung ist das 1957-1965 errichtete Hochdruckspeicherwerk Linth-Limmern mit dem Limmern-Stausee.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000770/",
+    "quote": "Neben ca. 40 Arbeitsplätzen brachte es Steuereinnahmen für Linthal und Einkünfte für die Tagwen (Wasserzinsen).",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Limmernboden.pdf",
+    "quote": "Höhe 146 m ... Reservoirvolumen 92 Mio m3 ... Kraftwerk Tierfehd ... Bruttohöhe 1040 m ... Installierte Leistung 261000 kW",
+    "scope": "this change"
+   },
+   {
+    "item": "fact",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses",
+    "quote": "LIMMERN | Kraftwerke Linth-Limmern AG, Linthal | VA | 146 | 93000 | 1858.5 | 1.36 | ... | 1963",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1957 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "No written source found on what the Limmernboden was used for before (pasture or not).",
+   "Dates differ: HLS 1957-1965, dam list 1963 for the dam, dam sheet 1957-1968 for the whole system."
+  ],
+  "visits": [
+   {
+    "place": "Landesarchiv des Kantons Glarus, Postgasse 29, Glarus",
+    "what": "Concession of the Kraftwerke Linth-Limmern (1957) and the 1965 inauguration booklet: former use of the Limmernboden and residual flow rules."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/lim_1957.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/lim_1957_z.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-east/lim_today.png"
+  ],
+  "group": "w-dam-east"
+ },
+ "grande-dixence": {
+  "evidence": [
+   {
+    "item": "why 2 / fact: highest gravity dam",
+    "url": "https://hls-dhs-dss.ch/de/articles/041946/",
+    "quote": "die höchste Gewichtsstaumauer der Welt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: dates",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Grande_Dixence.pdf",
+    "quote": "Période de construction 1950 à 1961",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Dixence.pdf",
+    "quote": "Mise hors service de l'ouvrage 1957",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3: workers",
+    "url": "https://www.swissinfo.ch/fre/adaptation-climatique/la-grande-dixence-%c3%a0-75-ans-le-plus-grand-barrage-deurope-compte-encore/89933573",
+    "quote": "par tous les temps",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://commune-evolene.ch/data/documents/administration/intemp2024/Intemperies_Nivalp_20240930.pdf",
+    "quote": "Mise en place de débits de dotation (Borgne de Ferpècle, Borgne d’Arolla)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: height",
+    "url": "https://hls-dhs-dss.ch/fr/articles/007853/",
+    "quote": "le barrage le plus haut de Suisse (285 m)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/041946/",
+    "quote": "an der Elektrizitätsversorgung von 18 Kantonen beteiligt und verfügt über ein durchschnittliches Produktionsvolumen von 2 Mrd. kWh pro Jahr",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/041946/",
+    "quote": "konnte die Produktionskapazität um den Faktor 2,5 vergrössert werden",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/041946/",
+    "quote": "entwickelte sich darüber hinaus zu einem Zentrum des Walliser Tourismus (Besichtigung der Staumauer",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1928, 1966 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "Construction dates differ between sources (1950 or 1951 to 1961, 1964 or 1965).",
+   "The loss of the alps on the valley floor is read from the 1928 map only; how many huts and how much pasture were lost is not known.",
+   "The first Dixence lake (1935) is not drawn.",
+   "Number of deaths during construction not found."
+  ],
+  "visits": [
+   {
+    "place": "Médiathèque Valais, Rue de Lausanne 45, Sion",
+    "what": "Elisabeth Logean (2000), study on the construction of the Grande Dixence 1951–1962: workers, deaths, alps lost."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/dix_1928.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/dix_1928_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/dix_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/dix_1966.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "mauvoisin": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://wp.unil.ch/hmg/files/2023/04/Lambiel-et-al.-2019.pdf",
+    "quote": "provoque la vidange d’un lac d’environ 20 millions de m3 d’eau en une trentaine de minutes",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1: deaths",
+    "url": "https://wp.unil.ch/hmg/files/2023/04/Lambiel-et-al.-2019.pdf",
+    "quote": "La vague atteint Martigny après une heure trente, coûtant la vie à trente-quatre p[ersonnes]",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: workers",
+    "url": "https://www.museedebagnes.ch/wp-content/uploads/2022/11/flyer-sentierbarrage-mauvoisin.pdf",
+    "quote": "Entre 1948 et 1958, plus de 1800 hommes travaillèrent chaque jour",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Mauvoisin.pdf",
+    "quote": "Transfert d’énergie d’été en hiver",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://wp.unil.ch/hmg/files/2023/04/Lambiel-et-al.-2019.pdf",
+    "quote": "exhaussement probable du lit suite à la construction du barrage de Mauvoisin",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/015036/",
+    "quote": "marqué au milieu du XXe siècle par la construction du barrage de Mauvoisin (1958) et par le tourisme de masse",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Mauvoisin.pdf",
+    "quote": "Palier 1 Fionnay Chute brute 474 m Puissance installée 127,5 MW Palier 1 Riddes Chute brute 1016 m Puissance installée 225 MW",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1950, 1960 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "Construction dates differ: 1951–1957 (wall) or 1948–1958 (whole site).",
+   "Does the reservoir also protect the valley from glacier outbursts like 1818? Only Wikipedia says so.",
+   "What lay on the valley floor under the lake (alps, huts) is not known from written sources.",
+   "No residual-flow figures for the Drance de Bagnes were found."
+  ],
+  "visits": [
+   {
+    "place": "Musée de Bagnes, Le Châble (Bagnes)",
+    "what": "Photo archive of Forces Motrices de Mauvoisin: what the valley floor looked like before flooding; number of workers and accidents."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/mauvoisin_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/mauvoisin_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/mauvoisin_1960.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "emosson": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "transformer celui-ci en bassin d’accumulation d’une capacité de 39 millions de m3",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3: treaty",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "convention de 1963), qui est entrée en vigueur le 15 décembre 1964",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Barberine.pdf",
+    "quote": "Le barrage de Barberine est submergé par le barrage d’Emosson",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.verticalp-emosson.ch/en/the-history-of-emosson-dams-fp107092",
+    "quote": "to support the electrification of the Swiss Federal Railways (SBB)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3: border",
+    "url": "https://www.verticalp-emosson.ch/en/the-history-of-emosson-dams-fp107092",
+    "quote": "moving the French–Swiss border",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Emosson.pdf",
+    "quote": "Volume de la retenue 227 mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.verticalp-emosson.ch/en/the-history-of-emosson-dams-fp107092",
+    "quote": "The Emosson and Vieux-Emosson dams are connected in a closed-loop pump storage system.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1920, 1930, 1980 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-4148-2020_2021-10-08.pdf",
+    "quote": "les eaux captées en France dans les hauts bassins de l’Arve, du Giffre et de l’Eau Noire",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Construction dates of the Emosson dam differ (1965–1972, 1967–1974, finished 1975).",
+   "Did people live all year in the hamlet of Barberine, or was it a summer settlement?",
+   "Which streams in France and Switzerland lost water to the scheme, and how much?"
+  ],
+  "visits": [
+   {
+    "place": "Musée CFF du Châtelard (Barberine), Le Châtelard VS",
+    "what": "Photos and plans of the Barberine plateau before 1925; who used the hamlet and the alps."
+   },
+   {
+    "place": "SBB Historic, Bern (archive)",
+    "what": "Files on the Barberine concession and compensation to Finhaut and the alp owners."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/emosson_1920.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/emosson_1920_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/emosson_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/emosson_1930.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/emosson_1980.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "mattmark": {
+  "evidence": [
+   {
+    "item": "why 3",
+    "url": "https://www.suva.ch/de-ch/ueber-uns/die-suva/meilensteine/grossereignisse/mattmark",
+    "quote": "56 Italiener, 23 Schweizer, 4 Spanier, 2 Deutsche, 2 Österreicher und 1 Staatenloser",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3: what was hit",
+    "url": "https://www.suva.ch/de-ch/ueber-uns/die-suva/meilensteine/grossereignisse/mattmark",
+    "quote": "Baracken, Werkstätten und die Kantine der Mattmark-Baustelle",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3: trial",
+    "url": "https://www.suva.ch/de-ch/ueber-uns/die-suva/meilensteine/grossereignisse/mattmark",
+    "quote": "sprachen die Richter aber sämtliche Angeklagten frei",
+    "scope": "this change"
+   },
+   {
+    "item": "fact: 88 dead",
+    "url": "https://hls-dhs-dss.ch/fr/articles/007853/",
+    "quote": "provoqua la mort de 88 ouvriers",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 / gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Mattmark.pdf",
+    "quote": "Reservoirvolumen (Nutzinhalt) 100 Mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://gh.copernicus.org/articles/12/81/1957/gh-12-81-1957.pdf",
+    "quote": "im Laufe von vierhundert Jahren etwa dreißig Ausbrüche stattfanden, die größten am 4. August 1633, 17. September 1772 und am 27. August 1834",
+    "scope": "region"
+   },
+   {
+    "item": "why 1: glacier in valley",
+    "url": "https://www.suva.ch/de-ch/ueber-uns/die-suva/meilensteine/grossereignisse/mattmark",
+    "quote": "falls der Gletscher – wie auch schon – wieder bis ins Tal vordringen sollte",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.suva.ch/de-ch/ueber-uns/die-suva/meilensteine/grossereignisse/mattmark",
+    "quote": "88 Menschen starben, 11 wurden verletzt.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1: nationality",
+    "url": "https://www.suva.ch/de-ch/ueber-uns/die-suva/meilensteine/grossereignisse/mattmark",
+    "quote": "56 Italiener, 23 Schweizer, 4 Spanier, 2 Deutsche, 2 Österreicher und 1 Staatenloser",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1959, 1970 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/002810/",
+    "quote": "Der Weiler Zer Meiggeru mit der 1707 erbauten Kapelle St. Anna musste 1961 dem Ausgleichsbecken des Stausees Mattmark weichen.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Is the area outlined in blue at the north end of the plain on the 1959 map a small natural lake?",
+   "Does the reservoir also protect the Saas valley from glacier floods?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Wallis (Archives de l'Etat du Valais), Rue de Lausanne 45, Sion",
+    "what": "Mattmark trial files (1972) and concession files: what was on the Mattmark plain, compensation for the Distelalp."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/mattmark_1959.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/mattmark_1959_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/mattmark_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/mattmark_1970.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "tseuzier": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/1390.pdf",
+    "quote": "On a noté un tassement de 13 cm au droit du barrage et un rapprochement des flancs de la vallée de 7 à 8 cm.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: cause",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/1390.pdf",
+    "quote": "consécutif à un drainage de la masse rocheuse suite au percement de la galerie de sondage du Rawil",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/1390.pdf",
+    "quote": "rendant toute exploitation normale impossible durant une longue période",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/1390.pdf",
+    "quote": "ont jugé nécessaire, en 1992 déjà, de prendre les dispositions qui s'imposent",
+    "scope": "general"
+   },
+   {
+    "item": "why 1 / gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Zeuzier.pdf",
+    "quote": "Période de construction 1954–1957",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1953, 1960 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "Was the motorway tunnel under the Rawil dropped for good, and when?",
+   "Was the lake emptied after the damage of 1978?",
+   "Who used the Rawil alp before the lake, and how were they compensated?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Wallis, Rue de Lausanne 45, Sion",
+    "what": "Files of Electricité de la Lienne SA and the 1978 Zeuzier damage: was the lake emptied, how long was the plant out of use."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/tseuzier_1953.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/tseuzier_1953_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/tseuzier_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/tseuzier_1960.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "moiry": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Moiry.pdf",
+    "quote": "Période de construction 1954–1958",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/gougra-storage-power-plant",
+    "quote": "harnesses the power of the waters from Val d'Anniviers and the Turtmann Valley",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1: volume",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Moiry.pdf",
+    "quote": "Volume de la retenue 77 mio m3",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Moiry.pdf",
+    "quote": "Palier 1: Mottec ... Palier 2: Vissoie ... Palier 3: Chippis",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1953, 1960 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/gougra-storage-power-plant",
+    "quote": "harnesses the power of the waters from Val d’Anniviers and the Turtmann Valley",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1: power",
+    "url": "https://www.alpiq.com/energy/assets/hydropower/gougra-storage-power-plant",
+    "quote": "Capacity: 168 MW ... Average annual production: 643 GWh",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Who owned the Alpe de Moiry, and were they compensated?",
+   "How much water is left in the Gougra and the Navizence below the intakes?"
+  ],
+  "visits": [
+   {
+    "place": "Archives communales d'Anniviers / Staatsarchiv Wallis, Sion",
+    "what": "Concession of Forces Motrices de la Gougra (about 1954): rules for the alp and residual water."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/moiry_1953.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/moiry_1953_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/moiry_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/moiry_1960.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "salanfe": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://salanfe.ch/en/discovering-salanfe/salanfe-dam/",
+    "quote": "In 1947, Salanfe S.A. was founded.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: owners",
+    "url": "https://salanfe.ch/en/discovering-salanfe/salanfe-dam/",
+    "quote": "Its share capital was split equally between EOS and Lonza.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://salanfe.ch/en/discovering-salanfe/salanfe-dam/",
+    "quote": "injections of cement were placed into the geographically permeable zones",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Salanfe.pdf",
+    "quote": "Période de construction 1947–1953",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://salanfe.ch/en/discovering-salanfe/salanfe-dam/",
+    "quote": "drains by gravity into a collection system gallery of 4.170 km, which then passes underneath the Tour Saliere",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1946, 1956 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://salanfe.ch/en/discovering-salanfe/salanfe-dam/",
+    "quote": "The water caught there drains by gravity into Lake Salanfe.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "How much water escapes from the lake through the limestone, and where does it come out?",
+   "Who owned the alp of Salanfe and how were the users compensated?",
+   "Power of the Miéville station: 70 MW or 80 MW?"
+  ],
+  "visits": [
+   {
+    "place": "Archives communales de Salvan and Evionnaz",
+    "what": "Leases for the Plan de Salanfe (about 1947): who used the alp and what they got."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/salanfe_1946.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/salanfe_1946_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/salanfe_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/salanfe_1956.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "luzzone": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/it/articles/002053/",
+    "quote": "340 nel 1960 (costruzione della diga del Luzzone)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002049/",
+    "quote": "tunnel de la Toira en 1958 (construits en vue de l'érection de la digue du Luzzone)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/it/articles/002053/",
+    "quote": "sopraelevata fra il 1995 e il 1999",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Luzzone.pdf",
+    "quote": "107 mio possono essere trattenuti per poi essere sfruttati in inverno",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Luzzone.pdf",
+    "quote": "Il bacino pieno ha così una riserva energetica di ca. 240 GWh.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/it/articles/002053/",
+    "quote": "L'allevamento, per sec. attività principale, è invece fortemente diminuito.",
+    "scope": "region"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002049/",
+    "quote": "L'ouverture de la nouvelle route et du tunnel de la Toira en 1958 ... ont considérablement favorisé le tourisme d'été et d'hiver",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1959, 1965 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Luzzone.pdf",
+    "quote": "dei 130 mio m3 di acqua che affluiscono mediamente al lago in estate, 107 mio possono essere trattenuti",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Did people live all year in the hamlet of Cavallo, and where did they go?",
+   "Raising dates: 1995–1999 (swissdams, HLS) or 1997–1998 (Wikipedia)?",
+   "How much water is left in the Brenno below the dam?"
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Ofible concession (about 1955) and agreements with the patriziati of Ghirone and Aquila: compensation for the hamlet of Cavallo and the alps."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/luzzone_1959.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/luzzone_1959_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/luzzone_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/luzzone_1965.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "sambuco": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Sambuco.pdf",
+    "quote": "Periodo di costruzione 1954–1956",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.rsi.ch/info/scienza-e-tecnologia/Quanta-acqua-lasciamo-alla-natura--2956532.html",
+    "quote": "è andato molto vicino a stabilire dei deflussi minimi",
+    "scope": "region"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.laregione.ch/cantone/locarnese/1666509/servizi",
+    "quote": "il surriscaldamento estivo delle acque",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2: concession",
+    "url": "https://www.laregione.ch/cantone/locarnese/1666509/servizi",
+    "quote": "per il Sambuco a fine del 2035",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Sambuco.pdf",
+    "quote": "Volume del bacino a invaso pieno 64 Mio. m3",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1953, 1960 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.rsi.ch/info/scienza-e-tecnologia/Quanta-acqua-lasciamo-alla-natura--2956532.html",
+    "quote": "ha accolto la richiesta di OFIMA e OFIBLE nell’aprile del 2022 e ad oggi, quindi, non ci sono dei deflussi minimi in Ticino",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "What share of the natural flow is left in the Maggia below the intakes (for example at Bignasco)?",
+   "Are there minimum flows in Ticino today, after the court decision of 2022?",
+   "Did people live at the alp of Sambuco all year?"
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Ofima concession and its rules on residual water in the Maggia; compensation for the alp of Sambuco."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/sambuco_1953.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/sambuco_1953_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/sambuco_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/sambuco_1960.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "vogorno": {
+  "evidence": [
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/it/articles/002129/",
+    "quote": "il cui bacino di accumulazione ha sommerso diverse abitazioni e molti terreni agricoli",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1: families",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Verzasca-un-salto-nel-passato--1283481.html",
+    "quote": "furono ben 64 su 105 le famiglie di Vogorno ad essere toccate dal progetto",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Verzasca-un-salto-nel-passato--1283481.html",
+    "quote": "A Pioda vivevano una trentina di persone",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: owners",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/12298_6784R.pdf",
+    "quote": "società interamente pubblica (1/3 Cantone Ticino, 2/3 Comune di Lugano)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/12298_6784R.pdf",
+    "quote": "gli inconvenienti per gli abitanti sono rilevanti",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: height",
+    "url": "https://hls-dhs-dss.ch/it/articles/002129/",
+    "quote": "è stata costruita una diga tra le più alte della Svizzera",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/12298_6784R.pdf",
+    "quote": "la piccola centrale di Tenero operativa dal 1908 e la grossa centrale a ridosso della diga",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/12298_6784R.pdf",
+    "quote": "questa ripartizione va in gran parte a favore dei tre Comuni (Gordola, Tenero e Minusio)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Verzasca-un-salto-nel-passato--1283481.html",
+    "quote": "Nel bacino di accumulazione scomparvero la strada, la frazione di Pioda e terreni importanti per l'agricoltura.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Where exactly was the hamlet of Pioda, and where did its people go?",
+   "Height of the dam and yearly production: not found in a primary source.",
+   "Did filling the lake cause small earthquakes until 1971, as Wikipedia says?"
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Verzasca concession (about 1960) and expropriation files for Vogorno and Pioda."
+   },
+   {
+    "place": "Fondazione Verzasca / Museo di Val Verzasca, Sonogno",
+    "what": "Document on Pioda (fondazioneverzasca.ch/data/files/pioda.pdf, too large to read online)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/vogorno_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/vogorno_1960_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/vogorno_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/vogorno_1966.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "ritom": {
+  "evidence": [
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://aris.supsi.ch/entities/publication/e3862752-ed6e-4b6e-93c8-513f90d98723",
+    "quote": "increase in the water level in the basin from 1828 m a.s.l. to a maximum elevation of 1850 m a.s.l.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://aris.supsi.ch/entities/publication/e3862752-ed6e-4b6e-93c8-513f90d98723",
+    "quote": "the flooding of the delta of the Murinascia Grande",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Ritom-lavori-al-via--1111115.html",
+    "quote": "costruito dalle Ferrovie nel 1917 a Piotta per alimentare la linea del San Gottardo",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Ritom-lavori-al-via--1111115.html",
+    "quote": "L'investimento complessivo previsto è di circa 250 milioni di franchi.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: railway plants",
+    "url": "https://hls-dhs-dss.ch/fr/articles/007853/",
+    "quote": "Ritom (1920)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.rsi.ch/info/ticino-grigioni-e-insubria/Ritom-lavori-al-via--1111115.html",
+    "quote": "costruito dalle Ferrovie nel 1917 a Piotta per alimentare la linea del San Gottardo",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1: year",
+    "url": "https://hls-dhs-dss.ch/fr/articles/007853/",
+    "quote": "Piotta, avec le barrage de Ritom (1920)",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "Was the Ritom dam built in 1917 or 1918, and was it raised again around 1950?",
+   "Did raising the lake change its natural water layers (meromixis) or its fish?",
+   "When will the new Ritom plant start, and who owns what share?"
+  ],
+  "visits": [
+   {
+    "place": "SBB Historic, Bern (archive and library)",
+    "what": "Building files of the Ritom dam and Piotta plant (1917–1920): lake levels before and after, land bought on the Piora plateau."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/ritom_1916.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/ritom_1916_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/ritom_1925.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/ritom_today.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "lac-de-la-gruyere": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008658/",
+    "quote": "Le barrage-voûte de Rossens, projeté dès 1918, a été construit entre 1944 et 1948",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008658/",
+    "quote": "Le lac, d'une contenance de 200 millions de m3, a une superficie maximale de 10 km2",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008658/",
+    "quote": "les vestiges du château de Pont-en-Ogoz (le hameau est noyé)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008658/",
+    "quote": "Les conflits, provoqués par les intérêts divergents de la population",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: filling",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008658/",
+    "quote": "La mise en eau et la mise en service des installations hydroélectriques ont eu lieu au printemps 1948.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008658/",
+    "quote": "l'usine électrique d'Hauterive (FR), alimentée par une conduite souterraine bétonnée, produit en moyenne 280 millions de kWh par an",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008658/",
+    "quote": "Bassin d'accumulation créé sur le cours de la Sarine, entre Broc et Rossens (FR).",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1947, 1950 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "How many farms, houses and hectares of land went under the Lac de la Gruyère?",
+   "Was the old stone bridge of Thusy flooded by the lake?",
+   "The old river line near Broc is approximate (coarse map)."
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat de Fribourg, Route des Arsenaux 17, Fribourg",
+    "what": "Files of the Entreprises électriques fribourgeoises on the Rossens dam (1944–1948): expropriations, farms and people moved, the Thusy bridge."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/gruyere_1947.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/gruyere_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/gruyere_1950.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "schiffenen": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008659/",
+    "quote": "Le barrage fut terminé en 1963 et l'usine électrique exploitée dès 1964",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008659/",
+    "quote": "Sa construction submergea 1400 poses de terrain ainsi que le hameau de Bad Bonn (comm. Guin)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008659/",
+    "quote": "La route aménagée sur la couronne du barrage-voûte relie les districts de la Singine et du Lac",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: height",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Schiffenen.pdf",
+    "quote": "Hauteur 47 m",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Schiffenen.pdf",
+    "quote": "Production moyenne annuelle 133 GWh",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3 / why 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008659/",
+    "quote": "Doté d'un golf et d'un port de plaisance, le lac de S. est au début du XXIe s. une aire de loisirs et de détente.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/008659/",
+    "quote": "d'une surface de 4,25 km² et d'une longueur de 13,5 km",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When did the building of the Schiffenen dam start?",
+   "How large is 1,400 poses in hectares?"
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat de Fribourg, Route des Arsenaux 17, Fribourg",
+    "what": "EEF files on the Schiffenen dam: start of work, land bought, the end of Bad Bonn."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/schiffenen_1962.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/schiffenen_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/schiffenen_1966.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "montsalvens": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/015158/",
+    "quote": "ordonné par décret du Grand Conseil fribourgeois en 1918 pour combler les carences énergétiques",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: arch dam",
+    "url": "https://hls-dhs-dss.ch/fr/articles/015158/",
+    "quote": "un des premiers barrages-voûtes d'Europe (béton, 52 m de hauteur)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2: dates",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Montsalvens.pdf",
+    "quote": "Période de construction 1919 à 1921",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/015158/",
+    "quote": "destinés à la production d'électricité à la centrale de Broc",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/015158/",
+    "quote": "Une retenue de 12 millions de m³, destinés à la production d'électricité à la centrale de Broc",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1: power",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Montsalvens.pdf",
+    "quote": "Centrale Broc Chute brute 122 m Puissance installée 30 MW",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.swissdams.ch/de/les-barrages/liste-des-barrages-suisses/Montsalvens.pdf",
+    "quote": "Rehaussement 1926 Augmentation de la production",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/015158/",
+    "quote": "Lac artificiel (1 km²) créé en 1921 dans la vallée de la Jogne",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1918, 1925 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "Was the energy shortage of 1918 caused by the First World War?",
+   "How much water flows in the Jogne gorge below the dam?",
+   "Were farms or houses removed for the lake?"
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat de Fribourg, Route des Arsenaux 17, Fribourg",
+    "what": "Decree of 1918 and EEF files on the Montsalvens dam: land bought, buildings removed."
+   },
+   {
+    "place": "Musée gruérien, Rue de la Condémine 25, Bulle",
+    "what": "Photos of the Jogne valley before 1921."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/montsalvens_1918.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/montsalvens_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/montsalvens_1925.png"
+  ],
+  "group": "w-dam-west"
+ },
+ "chatelot": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "le lac de Moron, qui constitue le bassin de retenue du barrage du Châtelot. Achevé en 1953",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "les eaux sont turbinées prioritairement en fonction de la demande en électricité",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "d’augmenter le débit de restitution de 250 à 2000 l/s",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "berges asséchées, alternances d’inondations et d’exondations du lit",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "Production moyenne annuelle (nette) 100 GWh",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "la longue tradition des moulins construits de part et d’autre de la rivière à partir du XVe siècle",
+    "scope": "region"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "Volume de retenue (lac de Moron) 20 millions de m3 Surface de la retenue 0,64 km2",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/2570.pdf",
+    "quote": "il traverse les lacs de Saint-Point et des Brenets, d’où il sort par le Saut du Doubs avant de se jeter dans le lac de Moron",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1949, 1956 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "Was the residual flow below the dam raised to 2,000 l/s after the Doubs plan?",
+   "Reservoir volume: 16 or 20 million m³?",
+   "Who owns the Châtelot plant today?"
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat de Neuchâtel, Château, Neuchâtel",
+    "what": "Concession and Franco-Swiss agreement for the Châtelot dam (about 1950): residual flow rules."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/moron_1949.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/moron_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/w-dam-west/moron_1956.png"
+  ],
+  "group": "w-dam-west"
+ }
+}

@@ -43,7 +43,7 @@
   // The overview: moments in the story of all changes.
   var OVERVIEW = {
     id: "all", title: "All changes", overview: true,
-    summary: "Every change on one map. The colour shows when the work started. Click a line or a row to open its story.",
+    summary: "Every change on one map: rivers, marshes, lakes, streams, dams, forests, land use and transport. The colour shows when the work started. Click a line, a dot or a row to open its story.",
     story: { stops: [
       { year: 1714, title: "The first big correction",
         text: ["Bern leads the Kander through a hill into Lake Thun (1711–1714), to stop the floods around Thun.",
@@ -54,15 +54,26 @@
         text: ["From the 1850s, cantons straighten their rivers: the Reuss in Uri, the Gürbe, the Seez, the Orbe, the Alpine Rhine above Rüthi and the Rhône in Valais."] },
       { year: 1880, title: "The federal state helps",
         text: ["After the great floods of 1868, the federal state starts to pay part of the cost. The constitution of 1874 and the water law of 1877 make river works in the mountains a federal task.",
-               "Big projects start: the Jura water correction, the Hasli Aare, the Emme, the Thur and the Glatt."] },
+               "The forest police law of 1876 puts the mountain forests under federal control. Clearing is forbidden, and new protection forests are planted. From 1902 the law covers all forests.",
+               "Big river projects start: the Jura water correction, the Hasli Aare, the Emme, the Thur and the Glatt."] },
+      { year: 1882, title: "Railways through the Alps",
+        text: ["The Gotthard railway opens (1872–1882), with a 15 km tunnel from Göschenen to Airolo. The Simplon (1906), the Lötschberg (1913) and the Albula line (1904) follow."] },
       { year: 1895, title: "More rivers in the east and the south",
         text: ["The Töss, the Ticino in the Magadino plain and the Maggia at Locarno follow."] },
       { year: 1925, title: "New cuts, new lakes",
-        text: ["Switzerland and Austria cut two big bends of the Alpine Rhine, at Fussach (1900) and Diepoldsau (1923). The first big reservoirs for electricity appear, such as the Wägitalersee (1924)."] },
+        text: ["Switzerland and Austria cut two big bends of the Alpine Rhine, at Fussach (1900) and Diepoldsau (1923). The first big reservoirs for electricity appear, such as the Wägitalersee (1924) and the Grimselsee (1932)."] },
+      { year: 1943, title: "The war: more fields",
+        text: ["To feed the country during the Second World War, the Plan Wahlen almost doubles the cropland, from 183,000 to 352,000 hectares. Marshes are drained, and about 12,900 hectares of forest are cleared."] },
+      { year: 1965, title: "Big dams and the first motorways",
+        text: ["High valleys in the Alps become reservoirs: the Grande Dixence wall (1961) is the highest gravity dam in the world. At Mattmark an ice avalanche kills 88 workers in 1965.",
+               "The national road law of 1960 starts the motorway network. Geneva–Lausanne opens in 1964."] },
       { year: 1975, title: "Second corrections",
         text: ["Some old works were not enough. The second Jura water correction (1962–1973) deepens the canals and lowers the lakes again."] },
+      { year: 1987, title: "Protect the last moors",
+        text: ["Since about 1800 Switzerland has lost about 90% of its moors and wetlands. In 1987 the voters accept the Rothenthurm initiative: the moors of national importance are protected, and peat cutting is banned."] },
       { year: 2026, title: "The landscape today",
-        text: ["Almost every larger river in the lowlands is now straight and held between dams. Most marshes are gone.",
+        text: ["Almost every larger river in the lowlands is now straight and held between dams. Most marshes are gone. Many streams in towns run in pipes.",
+               "Forest grows again: from 1985 to 2018 about 977 km² of new forest and woody areas grew, mostly on abandoned alpine pastures.",
                "Since 2011 the water protection law asks the cantons to give rivers more space again. The third Rhône correction and the Rhesi project on the Alpine Rhine follow this new idea."] }
     ] }
   };

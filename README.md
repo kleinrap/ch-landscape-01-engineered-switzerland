@@ -1,6 +1,6 @@
 # Engineered Switzerland
 
-How people reshaped the Swiss landscape: river corrections, drained marshes, lakes and dams. Each change shows the land before (dashed red) and after (blue) on today's map, why it was needed, and what was gained and lost (each with a source). The final goal is a map "Switzerland Without Us". Sister site: How Switzerland Grew.
+How people reshaped the Swiss landscape: rivers, marshes, lakes, streams, dams, forests, land use and transport. Each change shows the land before (dashed red) and after (blue) on today's map, why it was needed, and what was gained and lost (each with a source). The final goal is a map "Switzerland Without Us". Sister site: How Switzerland Grew.
 
 ## Run it
 
@@ -8,6 +8,6 @@ Double-click `index.html`. To rebuild the data: `python3 scripts/build.py` (read
 
 ## Files
 
-- `research/changes-rivers.json`: 48 changes (41 rivers, 3 marsh drainages, 2 dams, 1 lake). `research/legacy/`: the original river research.
+- `research/changes-rivers.json`: 48 river changes (with 3 marsh drainages, 2 dams, 1 lake). `changes-water.json`: 57 marshes, lakes, streams and dams. `changes-land.json`: 17 forest and land-use changes. `changes-transport.json`: 25 railways, roads and tunnels. `evidence-*.json`: source quotes, open questions and visits (not shown on the site). `research/legacy/`: the original river research.
 - `app.js`: overview (all changes, eras, time chart), stories, panel. `map.js`: the Leaflet map.
-- `PLAN.md`: decisions and phases. `docs/OPEN-QUESTIONS.md`: facts to check.
+- `PLAN.md`: decisions and phases. `docs/OPEN-QUESTIONS.md`: facts to check. `docs/VISITS.md`: archive visit sheets (`python3 scripts/build_visits.py`). `scripts/tracing/`: tools to trace and check shapes on old maps.

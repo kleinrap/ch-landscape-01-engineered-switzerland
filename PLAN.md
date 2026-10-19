@@ -30,7 +30,7 @@ Published on GitHub Pages from the `main` branch (18 Oct 2026). The repository n
 | # | Phase | Status |
 |---|---|---|
 | 1 | Move the 48 corrections from "How Switzerland Grew" and convert them to the human-changes format; site shell with overview map, time chart, stories | **Done** (18 Oct 2026) |
-| 2 | Water: (a) fill `gained` / `lost` for the 48 existing changes; (b) marshes and wetlands (incl. peat), lake regulation and shore filling, streams in pipes, dams and hydropower (incl. dry river beds) | (a) **Done** (19 Oct 2026); (b) next |
+| 2 | Water: (a) fill `gained` / `lost` for the 48 existing changes; (b) marshes and wetlands (incl. peat), lake regulation and shore filling, streams in pipes, dams and hydropower (incl. dry river beds) | (a) **Done** (19 Oct 2026); (b) **first round done** (19 Oct 2026): 57 changes (9 marshes, 11 lakes, 8 streams, 29 dams) |
 | 3 | Forests and land use: forest loss and regrowth (1876 forest law), pastures above the tree line, vineyard terraces, settlements, gravel pits and quarries | **First round done** (19 Oct 2026): 17 changes (8 forest, 9 land use) |
 | 4 | Transport: Alpine tunnels and railways, passes and roads | **First round done** (19 Oct 2026): 25 changes (14 railways and tunnels, 11 roads, passes and road tunnels) |
 | 5 | Protection: avalanche and torrent works | Planned |
@@ -60,7 +60,14 @@ Same as the sister site: open questions in `docs/OPEN-QUESTIONS.md` sorted by im
 - Every gained/lost item has a source quote in `research/evidence-land.json`, or is marked as measured on the maps.
 - The time chart starts in 1700; older work (vineyards, protection forests) starts at the left edge with "←".
 
+## Water, first round (19 Oct 2026)
+
+- `research/changes-water.json`: 57 changes. Marshes: before = marsh area on the Siegfried map (by eye, approximate), after = remaining moor from the federal inventories. Lakes: old shore or filled land where the map shows it; level changes too small for the map have places only. Streams: open course on the oldest useful map, reopened parts from OpenStreetMap. Dams: old river traced on the last map before the dam, reservoir from OpenStreetMap.
+- Overlaps are marked in the notes: Grande Cariçaie (made by the Jura lake lowering, "jura"), Linth plain drainage 1941–64 ("linth"), Lac de la Gruyère ("saane").
+- Every gained/lost item has a source quote in `research/evidence-water.json`, or is marked as seen on the maps. Facts seen only in search extracts or on Wikipedia were removed.
+- Left for later: Gelmersee, Räterichsbodensee, Bannalpsee, Verbois, the Maggia hydropower (residual flow), the Seedamm, Hallwilersee.
+
 ## Open next steps
 
-- Phase 2b: new water changes. Before (dashed red) and after (blue) shapes are checked on swisstopo historical maps. Tracing helpers: `scripts/tracing/`.
+- More changes for phases 2–4 (see the "left for later" lists), then phase 5 (protection works) and phase 6 (animals).
 - Fill the gaps of round 4, where an archive can help (docs/VISITS.md).
