@@ -34,9 +34,9 @@ Published on GitHub Pages from the `main` branch (18 Oct 2026). The repository n
 | 2c | Hydropower networks: collection tunnels, pressure shafts, power stations, river stretches with only residual flow; national picture (growth, residual-flow law, hydropeaking) | **First round done** (20 Oct 2026): 31 changes (27 schemes, 4 national) |
 | 3 | Forests and land use: forest loss and regrowth (1876 forest law), pastures above the tree line, vineyard terraces, settlements, gravel pits and quarries | **First round done** (19 Oct 2026): 17 changes (8 forest, 9 land use) |
 | 4 | Transport: Alpine tunnels and railways, passes and roads | **First round done** (19 Oct 2026): 25 changes (14 railways and tunnels, 11 roads, passes and road tunnels) |
-| 5 | Protection: avalanche and torrent works | Planned |
-| 6 | Animals lost and brought back (ibex, beaver, lynx, wolf …) | Planned |
-| 7 | "Switzerland Without Us": first before industry (about 1800), then before farming (about 7,500 years ago) | Planned |
+| 5 | Protection: avalanche and torrent works | **First round done** (20 Oct 2026): 14 changes (7 avalanche, 7 torrent, debris-flow, rockfall and flood) |
+| 6 | Animals lost and brought back (ibex, beaver, lynx, wolf …) | **First round done** (20 Oct 2026): 14 changes (9 mammals, 5 birds and fish) |
+| 7 | "Switzerland Without Us": first before industry (about 1800), then before farming (about 7,500 years ago) | **First version done** (20 Oct 2026): a view that draws all checked "before" shapes; sourced text in `research/without.json` |
 
 ## Research workflow
 
@@ -74,6 +74,13 @@ Same as the sister site: open questions in `docs/OPEN-QUESTIONS.md` sorted by im
 - Result: `research/changes-hydropower.json`, 31 changes (27 schemes in VS, BE/UR/SZ/GL/VD, GR/SG, TI; 4 national: growth, residual-flow law, hydropeaking, water fees). Left for later: Misox, Prättigau, Lungern/Engelberg, Saane stations.
 - Type `hydropower`, one change per scheme. Water lines from the BAFU residual flow map (`ch.bafu.wasser-leitungen`: simplified, not exact tunnel routes), intakes and return points (`ch.bafu.wasser-entnahme`, `ch.bafu.wasser-rueckgabe`), stations from BFE WASTA (`ch.bfe.statistik-wasserkraftanlagen`), rivers from swissTLM3D. Tool: `scripts/tracing/geoadmin.py`.
 - Red dashed = river stretches that now carry only residual flow (cut at official intake and return points). Reservoirs stay in their own "dam" changes.
+
+## Sources for every element (20 Oct 2026)
+
+- The user asked: "finish all phases, and then we need sources", because for some elements it was not clear where a fact came from.
+- Format: each change has `refs` [{id, url, title, quote, supports}] and, per paragraph, lists of ref ids (`summary_refs`, `why_refs`, `gained_refs`, `lost_refs`, and `refs` in each story step). The site shows the numbers after each paragraph, "Sources for this step" and "All sources for this change". A paragraph with no source shows "no source yet"; a point marked "not confirmed" shows that tag. `scripts/build.py` counts paragraphs without a source (now 0) and rejects unknown ref ids.
+- The overview story links each paragraph to the change stories that hold its sources.
+- `research/evidence-*.json` keep the reviewer data (open questions, visits, check images).
 
 ## Open next steps
 

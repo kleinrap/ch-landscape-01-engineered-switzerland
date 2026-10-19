@@ -43,7 +43,10 @@
     <div class="river-pick" id="river-pick">
       <div class="pick-top">
         <p class="picker-title">Choose a change</p>
-        <button type="button" id="overview-btn" class="overview-btn">All changes on one map</button>
+        <span class="pick-views">
+          <button type="button" id="overview-btn" class="overview-btn">All changes on one map</button>
+          <button type="button" id="without-btn" class="overview-btn without-btn" hidden>Switzerland Without Us</button>
+        </span>
       </div>
       <div class="themes" id="themes" role="tablist" aria-label="Kind of change"></div>
       <input type="search" id="find" class="find" placeholder="Find a change: river, lake, place, canton …" aria-label="Find a change">
@@ -53,6 +56,7 @@
     <p class="year" id="year"></p>
     <h2 id="title"></h2>
     <div id="text" class="text"></div>
+    <div class="step-sources" id="step-sources" hidden><h3>Sources for this step</h3><ul></ul></div>
     <details class="why" id="why" hidden open><summary>Why was it needed?</summary><div id="why-text"></div></details>
     <div class="gainlost" id="gainlost" hidden>
       <div><h3>Gained</h3><ul id="gained"></ul></div>
@@ -68,6 +72,7 @@
       <figcaption id="river-image-cap"></figcaption>
     </figure>
     <ul id="legend" class="legend"></ul>
+    <details class="all-sources" id="all-sources" hidden><summary>All sources for this change (<span id="all-sources-n"></span>)</summary><ol></ol></details>
     <details class="notes" id="notes" hidden><summary>Uncertain: how this map is drawn</summary><p id="notes-text"></p></details>
   </aside>
 </main>

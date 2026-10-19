@@ -1,0 +1,236 @@
+{
+ "lawinenwinter-1951": {
+  "uncertain": [
+   "Vals: 19 dead (SLF, SRF) or 18 (Südostschweiz)?",
+   "Exact name and date of the federal decree on higher subsidies should be checked in the federal law collection (AS 1951).",
+   "The avalanche winter of 1887/88 is not covered here; no primary source was opened for it."
+  ],
+  "visits": [
+   {
+    "place": "Schweizerisches Bundesarchiv, Archivstrasse 24, Bern",
+    "what": "Federal law of 19.12.1951 on higher federal contributions to afforestation and barriers: exact text and amounts."
+   },
+   {
+    "place": "WSL-Institut für Schnee- und Lawinenforschung SLF, Flüelastrasse 11, Davos Dorf (library)",
+    "what": "SLF Winterbericht 1950/51: list of deaths per place (Vals 18 or 19)."
+   }
+  ],
+  "checks": [],
+  "group": "p-avalanche"
+ },
+ "lawinenwinter-1999": {
+  "uncertain": [
+   "Damage total: over 600 million francs (SLF summary) or 439 million (table in Geographica Helvetica 2002)?",
+   "Which new barriers or dams were built at Evolène after 1999 is not confirmed."
+  ],
+  "visits": [
+   {
+    "place": "Médiathèque Valais, Rue de Lausanne 45, Sion",
+    "what": "Reports on the Evolène avalanches of 21.2.1999 and the protection works built afterwards."
+   }
+  ],
+  "checks": [],
+  "group": "p-avalanche"
+ },
+ "davos-schiahorn-dorfberg": {
+  "uncertain": [
+   "First walls: built in 1919 (SRF) or 1920–1924 (leaflet after SLF)?",
+   "Exact build years of the Dorfberg field and the upper Schiahorn rows are not confirmed; maps only show them by 1960 and by 1975.",
+   "OpenStreetMap does not contain every barrier row shown on today's map."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Project files 'Lawinenverbau Schiahorn-Dorfberg' (1920s and 1935–38): build years and lengths."
+   },
+   {
+    "place": "SLF library, Flüelastrasse 11, Davos Dorf",
+    "what": "History of the Dorfberg test site and the barrier works after 1951 and 1968."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/davos_1920_plain.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/davos_1950_osm.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/davos_1960_osm.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/davos_1975_plain.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/davos_today_z16.png"
+  ],
+  "group": "p-avalanche"
+ },
+ "andermatt-gurschen-verbau": {
+  "uncertain": [
+   "Build years of the barrier rows are not confirmed; maps only bracket them (1880, 1950, 1980).",
+   "Whether the 1951 avalanche came from the Gurschen slope is only in an Italian news report (tio.ch) that was not opened."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Amt für Lawinenverbau Uri: 'Gurschen-West' (1974) and technical report Lawinenverbauung Gurschen (1986): years, lengths and costs."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/andermatt_today_z17.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/andermatt_cmp.png"
+  ],
+  "group": "p-avalanche"
+ },
+ "airolo-premunizione": {
+  "uncertain": [
+   "Which barrier rows date from after 1951 and which from 1986–2013 is not confirmed.",
+   "Position of the catch dams Laghetto, Laoza and Dragoni was not checked on the map."
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Franscini 30a, Bellinzona",
+    "what": "Messaggio 3010 of 21.1.1986 and the plans of the 'Progetto di premunizione valangaria e rimboschimento sopra Airolo': position and years of each barrier zone and dam."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/airolo_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/airolo_1965.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/airolo_today_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/airolo_today_wide.png"
+  ],
+  "group": "p-avalanche"
+ },
+ "pontresina-schafberg": {
+  "uncertain": [
+   "Dam capacity: 240,000 m3 (PHBern) or 280,000 m3 (swissinfo)?",
+   "Final cost of the dams: 7 or 7.5 million francs?",
+   "OpenStreetMap shows only part of the barrier rows on the Schafberg."
+  ],
+  "visits": [
+   {
+    "place": "Gemeindeverwaltung Pontresina, Via da Mulin 7",
+    "what": "Final report of the Giandains dams (2003): cost, capacity and cleared forest area."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/pontr_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/pontr_1940.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/pontr_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/pontr_dam_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/pontr_dam_2000.png"
+  ],
+  "group": "p-avalanche"
+ },
+ "simplon-lawinengalerien": {
+  "uncertain": [
+   "Build years and builder (canton or federal roads office) of the modern Simplon galleries are not confirmed.",
+   "Kaltwasser gallery: about 1805 (SLF) or early 1830s (IVS)?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Wallis, Rue de Lausanne 45, Sion",
+    "what": "Plans of the Simplon road extension (1950s–1990s): years and lengths of the modern galleries."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/simplon_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/simplon_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/simplon_cmp.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-avalanche/simplon_today.png"
+  ],
+  "group": "p-avalanche"
+ },
+ "sihl-entlastungsstollen": {
+  "uncertain": [
+   "The OSM line of the tunnel is straight between the ends; the real curve under the hill is not checked.",
+   "The opening date (early 2027) is a forecast of the canton.",
+   "It is not confirmed whether the Bürger I lake bath will be rebuilt after the works."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/sihl_today.png"
+  ],
+  "group": "p-torrent"
+ },
+ "bondo-cengalo-protection": {
+  "uncertain": [
+   "The volume of the basin built 2012–2016 and of the enlarged basin is not confirmed.",
+   "The exact outline of the retention basin is not drawn.",
+   "SRF (2025) says a large part of the 52 million francs came from donations; the exact split was not checked in an official source."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/bondo_2010.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/bondo_2021.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/bondo_today_z17.png"
+  ],
+  "group": "p-torrent"
+ },
+ "brienz-brinzauls-drainage": {
+  "uncertain": [
+   "The OSM tunnel line is copied from a bulletin sketch; its exact position is not checked.",
+   "Long-term effect of the drainage and the future of the red hazard zone are open.",
+   "The start year 2021 is for the exploratory tunnel (work began 2021 according to press reports not opened here); not confirmed in an opened official source."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/brienzgr_today.png"
+  ],
+  "group": "p-torrent"
+ },
+ "illgraben-debris-flow-works": {
+  "uncertain": [
+   "Who built and paid for the works of 1967–1969 is not confirmed (the source cites Lichtenhahn 1971).",
+   "Only some of the 28 check dams are in OpenStreetMap.",
+   "Which protection measures from the 2010 project were built is not confirmed."
+  ],
+  "visits": [
+   {
+    "place": "Mediathek Wallis, Rue de Lausanne 45, Sion",
+    "what": "Lichtenhahn (1971) and cantonal reports on the Illgraben works of 1967–1969: builder, cost and number of check dams."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/ill_check_all.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/ill_dam_all.png"
+  ],
+  "group": "p-torrent"
+ },
+ "gondo-2000-protection": {
+  "uncertain": [
+   "Whether the rebuilt protection is a reinforced earth dam, a repaired wall, or both, is not confirmed.",
+   "The line of the 1988 wall and of the new dam is not drawn."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Wallis, Rue de Lausanne 45, Sion",
+    "what": "Project documents of the Gondo rebuilding 2001–2004: type and length of the new protection dam above the village."
+   }
+  ],
+  "checks": [],
+  "group": "p-torrent"
+ },
+ "lammbach-sperren": {
+  "uncertain": [
+   "The exact years of the new bed on the fan are not confirmed; the maps show it between 1900 and 1920.",
+   "Whether the gravel strip at Innere Ey was the main Lammbach debris area before 1896 is a map reading, not confirmed by a written source.",
+   "Sources differ on the event years (1894 and 1896) and call 1896 the main event."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv des Kantons Bern, Falkenplatz 4, Bern",
+    "what": "Plans of the Lammbach works 1896–1913 (Wildbachverbauung, Schutzdämme): when the bed on the fan was built and who paid."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/lamm_check_all.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/lamm_4years.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/lamm_1890_z16.png"
+  ],
+  "group": "p-torrent"
+ },
+ "glyssibach-brienz-2005": {
+  "uncertain": [
+   "The OSM weir and dykes are not named; that they are the diversion structure and retention dam is likely but not confirmed.",
+   "The Trachtbach retention barrier (Lätzenacher) and ring nets are not drawn."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/p-torrent/glyssi_check_both.png"
+  ],
+  "group": "p-torrent"
+ }
+}

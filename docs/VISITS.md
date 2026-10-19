@@ -10,6 +10,7 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **Vorderrhein power plants (KVR): Curnera, Nalps, Santa Maria, Sedrun and Tavanasa**: KVR concession of the 1950s and later residual flow decisions: residual flow amounts at the Sedrun and Runcahez intakes.
 - **Zervreila power plants (KWZ): Vals, Safien and Rothenbrunnen**: KWZ concession (1950s) and residual flow decisions: residual flow at Zervreila, Wanna and Egschi.
 - **Engadin power plants (EKW): Livigno, Ova Spin, Pradella and Martina**: Concessions of the Engadin communes for EKW (1950s-1960s): building years and residual flow rules for the Inn.
+- **Avalanche barriers on the Schiahorn and Dorfberg, Davos**: Project files 'Lawinenverbau Schiahorn-Dorfberg' (1920s and 1935–38): build years and lengths.
 - **Albula railway Thusis–St. Moritz**: RhB construction files of the Albula line: land bought, forest cut, number of workers and accidents.
 - **Bernina railway St. Moritz–Tirano**: Files of the Berninabahn-Gesellschaft: start of work, workers, land bought, effects on the pass road traffic.
 - **Vereina tunnel**: Cantonal vote documents (1985) and Flüela pass closure statistics before 1999.
@@ -25,6 +26,7 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **Reuss railway power scheme (Pfaffensprung, Wassen, Amsteg)**: Concessions for the Reuss at the Pfaffensprung and at Göschenen.
 - **Lucendro scheme: Reuss water to the Ticino**: Uri concession of 12 March 1942 for the Lucendro plant: any residual flow rule for the Gotthardreuss.
 - **Bannwald of Andermatt**: The ban letter of 1397 for Andermatt and the plans of the reforestation and avalanche projects after 1879.
+- **Avalanche barriers on the Gurschen above Andermatt**: Amt für Lawinenverbau Uri: 'Gurschen-West' (1974) and technical report Lawinenverbauung Gurschen (1986): years, lengths and costs.
 - **Gotthard railway and Gotthard tunnel**: Reports on the Göschenen strike of 1875 and the number of dead and injured.
 - **Gotthard and Ceneri base tunnels (NEAT)**: Environmental impact reports of AlpTransit Gotthard for the Erstfeld portal and the spoil deposits in the Reuss delta.
 - **Furka base tunnel**: Parliamentary reports (1976) on the cost overrun of the Furka base tunnel; Furka-Oberalp winter timetables before 1982.
@@ -39,6 +41,7 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **Blenio hydropower scheme (Ofible)**: Blenio concession of 1953 and the CREA floodplain study (2005) on the Piana di Castro: natural and residual flows of the Brenno.
 - **Ticino river power stations in the Leventina**: Concession of the Biaschina (about 1908–1911) and of Stalvedro: building years and first residual flows.
 - **Forest returns to Ticino's mountain slopes (Valle Onsernone)**: Old forest maps or cadastre plans of the Onsernone (around 1900) that show forest edges more clearly than the Siegfried map.
+- **Avalanche barriers and planting above Airolo**: Messaggio 3010 of 21.1.1986 and the plans of the 'Progetto di premunizione valangaria e rimboschimento sopra Airolo': position and years of each barrier zone and dam.
 - **Melide causeway (Ponte Diga) across Lake Lugano**: Building files of the Melide dam 1844–1847 (cost, workers, design).
 - **Brenno di Luzzone (Lago di Luzzone)**: Ofible concession (about 1955) and agreements with the patriziati of Ghirone and Aquila: compensation for the hamlet of Cavallo and the alps.
 - **Maggia (Lago del Sambuco)**: Ofima concession and its rules on residual water in the Maggia; compensation for the alp of Sambuco.
@@ -89,6 +92,14 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **Zurich lake quays (Quaianlagen)**: Quaibau files 1881-1887: plans of the old and new shore line, filled area, and the source of the fill material.
 - **Albisrieder Dorfbach and Zurich's stream plan**: Files of the Tiefbauamt / Entsorgung + Recycling Zürich on the Albisrieder Dorfbach: year of piping and year(s) of reopening.
 
+## Médiathèque Valais, Sion (Rue de Lausanne 45)
+
+- **Grande Dixence network: glacier water from Zermatt to Arolla**: Logean's history of the building works (1951–1962) and Grande Dixence annual reports: dates of each tunnel and pumping station.
+- **Lienne network: Tseuzier, Croix and St-Léonard**: Find the journal of the 1956 report on the Lienne scheme (likely a Valais bulletin) for a full citation.
+- **Avalanche winter 1999: a test for fifty years of protection**: Reports on the Evolène avalanches of 21.2.1999 and the protection works built afterwards.
+- **Great St Bernard road tunnel**: Newspapers of March 1964 (Confédéré, Walliser Bote) on the tunnel opening and building.
+- **Dixence (Lac des Dix, Grande Dixence dam)**: Elisabeth Logean (2000), study on the construction of the Grande Dixence 1951–1962: workers, deaths, alps lost.
+
 ## Archives de l'Etat de Fribourg, Route des Arsenaux 17, Fribourg
 
 - **Hongrin–Léman pumped storage scheme (Lac de l'Hongrin to Veytaux)**: Fribourg–Vaud agreement of 1958 on the Hongrin water and the debate in the Intyamon.
@@ -103,18 +114,26 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **Jeunes-Rives: land made in Lake Neuchâtel**: Arrêté du Conseil d'Etat on the Jeunes-Rives fill (1960): purpose, area, fill material.
 - **Doubs (Lac de Moron, Châtelot dam)**: Concession and Franco-Swiss agreement for the Châtelot dam (about 1950): residual flow rules.
 
-## Médiathèque Valais, Sion (Rue de Lausanne 45)
-
-- **Grande Dixence network: glacier water from Zermatt to Arolla**: Logean's history of the building works (1951–1962) and Grande Dixence annual reports: dates of each tunnel and pumping station.
-- **Lienne network: Tseuzier, Croix and St-Léonard**: Find the journal of the 1956 report on the Lienne scheme (likely a Valais bulletin) for a full citation.
-- **Great St Bernard road tunnel**: Newspapers of March 1964 (Confédéré, Walliser Bote) on the tunnel opening and building.
-- **Dixence (Lac des Dix, Grande Dixence dam)**: Elisabeth Logean (2000), study on the construction of the Grande Dixence 1951–1962: workers, deaths, alps lost.
-
 ## Landesarchiv des Kantons Glarus, Postgasse 29, Glarus
 
 - **Linth-Limmern hydropower scheme (Tierfehd, Linthal, Limmern pumped storage)**: Concession files of 1957 and 2007 (Landrat decision): residual flow rules and the list of intakes.
+- **Federal hunting reserves: chamois and roe deer come back**: E. Thürer, Geschichte des Jagdwesens und der Jagdbanngebiete im Kanton Glarus (1979): boundaries of the Kärpf Freiberg in 1548 and in 1875.
 - **Klöntalersee (Löntsch power plant)**: Concession of the Löntschwerk (about 1904-1905): how much the lake was raised, which land and buildings were bought, and the rules for water in the Löntsch.
 - **Limmernbach (Limmerensee reservoir)**: Concession of the Kraftwerke Linth-Limmern (1957) and the 1965 inauguration booklet: former use of the Limmernboden and residual flow rules.
+
+## Staatsarchiv Wallis, Rue de Lausanne 45, Sion
+
+- **Avalanche galleries on the Simplon road**: Plans of the Simplon road extension (1950s–1990s): years and lengths of the modern galleries.
+- **Gondo rockfall wall and the 2000 landslide**: Project documents of the Gondo rebuilding 2001–2004: type and length of the new protection dam above the village.
+- **Simplon pass road (Napoleon's road)**: Documents on the building of the Simplon road 1800–1805 (workers, deaths, land taken from farmers).
+- **Lienne (Lac de Tseuzier)**: Files of Electricité de la Lienne SA and the 1978 Zeuzier damage: was the lake emptied, how long was the plant out of use.
+
+## Staatsarchiv des Kantons Bern, Falkenplatz 4, Bern
+
+- **Lammbach check dams above Brienz**: Plans of the Lammbach works 1896–1913 (Wildbachverbauung, Schutzdämme): when the bed on the fan was built and who paid.
+- **Aare at the Grimsel (Grimselsee reservoir)**: KWO concession of 1907 and Grimsel building files (1925-1932): when the old hospice was flooded and what land was bought.
+- **Oberaar (Oberaarsee reservoir)**: KWO files on the Oberaar dam (about 1950-1953): start of works and use of the Oberaar alp before flooding.
+- **Aare (Wohlensee reservoir)**: BKW concession and land purchase files for Mühleberg (1917-1921): list of farms and houses bought.
 
 ## Staatsarchiv Schwyz, Kollegiumstrasse 30, Schwyz
 
@@ -127,12 +146,6 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **Gravel pits of the Rafzerfeld**: Cantonal gravel plans for the Rafzerfeld 1992 and 1993-2012, to draw the dug areas by decade.
 - **Neeracher Ried: the last part of a large fen**: Melioration files of Neerach, Höri and Steinmaur (1891, 1940s, 1968-1976): when and where the Ried was drained.
 - **Robenhuserriet: peat cutting at Lake Pfäffikon**: Files on the lowering of Lake Pfäffikon (19th century) and peat concessions at Robenhausen and Pfäffikon.
-
-## Staatsarchiv des Kantons Bern, Falkenplatz 4, Bern
-
-- **Aare at the Grimsel (Grimselsee reservoir)**: KWO concession of 1907 and Grimsel building files (1925-1932): when the old hospice was flooded and what land was bought.
-- **Oberaar (Oberaarsee reservoir)**: KWO files on the Oberaar dam (about 1950-1953): start of works and use of the Oberaar alp before flooding.
-- **Aare (Wohlensee reservoir)**: BKW concession and land purchase files for Mühleberg (1917-1921): list of farms and houses bought.
 
 ## Staatsarchiv des Kantons Zürich, Winterthurerstrasse 170, Zurich
 
@@ -150,6 +163,21 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **Mauvoisin network: from the Val de Bagnes to Riddes**: Forces Motrices de Mauvoisin photo archive: building dates of the Fionnay–Riddes tunnel and the side intakes.
 - **Drance de Bagnes (Lac de Mauvoisin)**: Photo archive of Forces Motrices de Mauvoisin: what the valley floor looked like before flooding; number of workers and accidents.
 
+## Schweizerische Vogelwarte, Seerose 1, Sempach
+
+- **Bearded vulture: wiped out and brought back**: Historical records of the last bearded vultures in Switzerland (Vrin 1885? Visp 1886?).
+- **Peregrine falcon: DDT, ban and comeback**: Population counts of the peregrine falcon 1950–1980 and the year of the Swiss DDT ban.
+
+## Schweizerisches Bundesarchiv, Archivstrasse 24, Bern
+
+- **Federal forest police laws of 1876 and 1902**: Text of the law of 24 March 1876 and of 11 October 1902 (Bundesblatt), to check the exact clearing rules.
+- **Avalanche winter 1951 and the start of modern avalanche protection**: Federal law of 19.12.1951 on higher federal contributions to afforestation and barriers: exact text and amounts.
+
+## Staatsarchiv Basel-Stadt, Martinsgasse 2, Basel
+
+- **Atlantic salmon: lost behind the dams**: Fishery records of the last salmon catches in Basel (which year?).
+- **Birsig in Basel**: Building files of the Birsig covering (Birsigkorrektion 1886-1900, Heuwaage-Barfüsserplatz 1950s): exact years and length of each stage.
+
 ## Staatsarchiv St. Gallen, Regierungsgebäude, Klosterhof 1, St. Gallen
 
 - **Sarganserland power plants (KSL): Gigerwald, Mapragg and Sarelli**: KSL concession (1960s-1970s) and residual flow decisions for the Tamina and the Seez.
@@ -160,15 +188,15 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 - **The loss of tall fruit-tree orchards (sample: Roggwil TG)**: Files 'Massnahmen zur Umstellung des Obstbaus sowie Baumfällaktionen' 1950-1978: numbers of trees felled per year and per commune (e.g. Roggwil).
 - **Hudelmoos: the last raised bog of Thurgau**: Peat cutting and drainage files of the Mooskorporation Zihlschlacht; old plans of the bog.
 
-## Staatsarchiv Wallis, Rue de Lausanne 45, Sion
-
-- **Simplon pass road (Napoleon's road)**: Documents on the building of the Simplon road 1800–1805 (workers, deaths, land taken from farmers).
-- **Lienne (Lac de Tseuzier)**: Files of Electricité de la Lienne SA and the 1978 Zeuzier damage: was the lake emptied, how long was the plant out of use.
-
 ## Swiss Federal Archives, Archivstrasse 24, Bern
 
 - **The growth of Swiss hydropower**: Federal hydropower statistics (E10241 Eidg. Amt für Wasserwirtschaft 1919-1978): yearly lists of plants, to check plant numbers and start years before 1950.
 - **The fight for residual flow in Swiss rivers**: Federal Council message of 29 April 1987 on the initiative and the water protection law (BBl 1987 II 1061): official estimates of production losses and of dry stretches.
+
+## WSL-Institut für Schnee- und Lawinenforschung SLF, Flüelastrasse 11, Davos (bus from Davos Dorf)
+
+- **Alpine pastures: grazing below the natural tree line**: Studies of the tree line in the Dischma valley and at Stillberg, to find a mapped former forest edge for a sample area.
+- **Avalanche winter 1951 and the start of modern avalanche protection**: SLF Winterbericht 1950/51: list of deaths per place (Vals 18 or 19).
 
 ## Archives communales d'Anniviers / Staatsarchiv Wallis, Sion
 
@@ -226,6 +254,10 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 
 - **Spreitenbach: from farming village to new town**: Zoning plan of 1960/61 and the Richtplan Langäcker, to draw the planned new town exactly.
 
+## Gemeindeverwaltung Pontresina, Via da Mulin 7
+
+- **Schafberg barriers and Giandains dams, Pontresina**: Final report of the Giandains dams (2003): cost, capacity and cleared forest area.
+
 ## Kantonsbibliothek Graubünden, Karlihofplatz, Chur
 
 - **Engadin power plants (EKW): Livigno, Ova Spin, Pradella and Martina**: Robert Meier, Die Engadiner Kraftwerke, Natur und Technik in einer aufstrebenden Region: building history and debates.
@@ -250,6 +282,10 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 
 - **Peat cutting in the raised bogs (sample: Les Ponts-de-Martel)**: Local exhibition on peat cutting, dates and tools.
 
+## Mediathek Wallis, Rue de Lausanne 45, Sion
+
+- **Illgraben check dams and debris-flow station**: Lichtenhahn (1971) and cantonal reports on the Illgraben works of 1967–1969: builder, cost and number of check dams.
+
 ## Museo Onsernonese, Loco
 
 - **Forest returns to Ticino's mountain slopes (Valle Onsernone)**: Photos of the valley around 1900-1930 that show open slopes, to compare with today.
@@ -266,13 +302,13 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 
 - **Nant de Couchefatte (Chancy)**: Project files of the Nant de Couchefatte restoration (2005-2011) and the date of the old piping.
 
+## SLF library, Flüelastrasse 11, Davos Dorf
+
+- **Avalanche barriers on the Schiahorn and Dorfberg, Davos**: History of the Dorfberg test site and the barrier works after 1951 and 1968.
+
 ## Schweizerischer Nationalpark, Besucherzentrum, Urtatsch, Zernez
 
 - **Spöl (Lago di Livigno and the Swiss National Park)**: Park research reports (Cratschla, Nationalpark-Forschung) on the Spöl residual flow, the artificial floods and the 2013 fish kill.
-
-## Schweizerisches Bundesarchiv, Archivstrasse 24, Bern
-
-- **Federal forest police laws of 1876 and 1902**: Text of the law of 24 March 1876 and of 11 October 1902 (Bundesblatt), to check the exact clearing rules.
 
 ## Staatsarchiv Aargau, Entfelderstrasse 22, Aarau
 
@@ -282,10 +318,6 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 
 - **Hauenstein tunnels (1858 and base tunnel 1916)**: Reports on the Hauenstein tunnel fire of 1857 (victims) and Centralbahn construction dates.
 
-## Staatsarchiv Basel-Stadt, Martinsgasse 2, Basel
-
-- **Birsig in Basel**: Building files of the Birsig covering (Birsigkorrektion 1886-1900, Heuwaage-Barfüsserplatz 1950s): exact years and length of each stage.
-
 ## Staatsarchiv Freiburg, Route des Arsenaux 17, Fribourg
 
 - **Reforestation of the Senseoberland**: Plans of the reforestation projects in the Senseoberland from 1890; they show which pastures the canton bought and where it planted.
@@ -293,6 +325,14 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 ## Staatsarchiv Obwalden, Rathaus, Sarnen
 
 - **Pilatus railway, the steepest rack railway in the world**: Concession and building files of the Pilatus railway (1885-1889): workers, accidents, land and forest used.
+
+## Staatsarchiv Solothurn, Bielstrasse 41, Solothurn
+
+- **White stork: gone by 1950, back from Altreu**: Documents on the Altreu stork station (founding 1948, imports from Alsace and Algeria) to confirm dates and origin of birds.
+
+## Staatsarchiv St.Gallen, Regierungsgebäude, Klosterhof 1, St. Gallen
+
+- **Alpine ibex: hunted out, then reintroduced**: StASG KA R. 179-2: 18th annual report of the Wildpark Peter und Paul (1911). Question: was the first stock bought legally in 1910 or smuggled in 1906, and where exactly were the 1911 releases?
 
 ## Staatsarchiv Wallis (Archives de l'Etat du Valais), Rue de Lausanne 45, Sion
 
@@ -317,7 +357,3 @@ Built by `python3 scripts/build_visits.py` from `research/evidence-*.json`.
 ## Talarchiv Ursern / Korporation Ursern, Andermatt
 
 - **Bannwald of Andermatt**: Local records on the Bannwald and its use rules.
-
-## WSL-Institut für Schnee- und Lawinenforschung SLF, Flüelastrasse 11, Davos (bus from Davos Dorf)
-
-- **Alpine pastures: grazing below the natural tree line**: Studies of the tree line in the Dischma valley and at Stillberg, to find a mapped former forest edge for a sample area.

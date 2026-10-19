@@ -1,0 +1,536 @@
+{
+ "title": "Switzerland Without Us",
+ "summary": "This view takes away the human changes collected on this site. The first step shows the land about 1800, before industry. The second step shows the land before farming began, about 7,500 years ago. The map shows only changes that are in this collection, so the picture is not complete.",
+ "summary_refs": [
+  "fauna-date",
+  "moor-90",
+  "gew-all"
+ ],
+ "refs": [
+  {
+   "id": "moor-1700",
+   "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Moore' (W. Thut, version 2008)",
+   "quote": "Feuchtgebiete und Moore bedeckten um 1700 im Gebiet der heutigen Schweiz rund 5% der Landesfläche.",
+   "supports": "Around 1700, wetlands and moors covered about 5 percent of today's Switzerland."
+  },
+  {
+   "id": "moor-90",
+   "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Moore' (W. Thut, version 2008)",
+   "quote": "fiel im Laufe des 19. und in der ersten Hälfte des 20. Jahrhunderts insgesamt um etwa 90% auf 0,5% der Landesfläche",
+   "supports": "Fens and raised bogs decreased by about 90 percent, to 0.5 percent of the country."
+  },
+  {
+   "id": "moor-drain",
+   "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Moore' (W. Thut, version 2008)",
+   "quote": "Zwischen 1885 und 1940 wurden mittels Tonröhrendrainage und anderer Techniken gesamtschweizerisch etwa 80'000 ha Moorland entwässert.",
+   "supports": "About 80,000 ha of moorland were drained between 1885 and 1940."
+  },
+  {
+   "id": "moor-ww2",
+   "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Moore' (W. Thut, version 2008)",
+   "quote": "Während des Zweiten Weltkriegs kamen im Rahmen der Anbauschlacht weitere 80'000 ha dazu.",
+   "supports": "About 80,000 ha more were drained during the Second World War."
+  },
+  {
+   "id": "moor-where",
+   "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Moore' (W. Thut, version 2008)",
+   "quote": "bildeten sich zum Beispiel im Berner Seeland, im St. Galler Rheintal sowie in vielen Flusstälern und Ebenen der Schweiz",
+   "supports": "Large fens existed in the Bernese Seeland, the St. Gallen Rhine valley and many river plains."
+  },
+  {
+   "id": "moor-causes",
+   "url": "https://hls-dhs-dss.ch/de/articles/007851/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Moore' (W. Thut, version 2008)",
+   "quote": "Gewässerkorrektionen (Linthebene, Alpenrhein, Rhone, Broye, Orbeebene, Juragewässer, Emme, Reuss, Tessin)",
+   "supports": "River corrections in these plains reduced the moor areas."
+  },
+  {
+   "id": "gew-malaria",
+   "url": "https://hls-dhs-dss.ch/de/articles/007850/2006-12-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Gewässerkorrektionen' (D. Vischer)",
+   "quote": "Ein wesentliches Postulat der Wasserbauingenieure war auch die Bekämpfung der sich ausbreitenden Versumpfung und der Malaria.",
+   "supports": "Engineers wanted to fight spreading marshes and malaria."
+  },
+  {
+   "id": "gew-all",
+   "url": "https://hls-dhs-dss.ch/de/articles/007850/2006-12-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Gewässerkorrektionen' (D. Vischer)",
+   "quote": "Im 19. und zu Beginn des 20. Jahrhunderts wurden fast alle Flüsse in der Schweiz korrigiert.",
+   "supports": "Almost all Swiss rivers were corrected in the 19th and early 20th century."
+  },
+  {
+   "id": "gew-arms",
+   "url": "https://hls-dhs-dss.ch/de/articles/007850/2006-12-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Gewässerkorrektionen' (D. Vischer)",
+   "quote": "Die Nebenarme wurden verschlossen. «Ein Fluss oder Strom hat nur ein (einziges) Bett nötig», lautete der 1812 von Johann Gottfried Tulla geprägte Leitsatz.",
+   "supports": "Rivers had side arms; the corrections closed them, following Tulla's rule of 1812."
+  },
+  {
+   "id": "gew-kander",
+   "url": "https://hls-dhs-dss.ch/de/articles/007850/2006-12-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Gewässerkorrektionen' (D. Vischer)",
+   "quote": "Die erste grosse Korrektion, diejenige der Kander, erfolgte allerdings schon 1711-1714.",
+   "supports": "The Kander correction (1711-1714) is older than 1800."
+  },
+  {
+   "id": "gew-table",
+   "url": "https://hls-dhs-dss.ch/de/articles/007850/2006-12-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Gewässerkorrektionen' (D. Vischer)",
+   "quote": "Grössere Flusskorrektionen Bauzeit Fluss Korrektionsstrecke Länge (km) 1711-14 Kander Kanderdurchstich 1 1807-16 Linth Walensee-Zürichsee 15",
+   "supports": "The HLS table of larger river corrections; the lengths in it add up to about 510 km (own sum)."
+  },
+  {
+   "id": "gew-floods",
+   "url": "https://hls-dhs-dss.ch/de/articles/007850/2006-12-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Gewässerkorrektionen' (D. Vischer)",
+   "quote": "Im 18. und 19. Jahrhundert häuften sich verheerende Hochwasser, was in erster Linie mit einer Klimaveränderung zusammenhing.",
+   "supports": "Floods became more frequent in the 18th and 19th century, mainly because of a climate change."
+  },
+  {
+   "id": "linth-malaria",
+   "url": "https://hls-dhs-dss.ch/de/articles/008770/2008-01-24/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Linth (Fluss)' (P. Ziegler, version 2006)",
+   "quote": "Weesen und Walenstadt wurden regelmässig überschwemmt, die Linthebene versumpfte, und Malaria bedrohte die Bevölkerung in den Dörfern am Rand der Linthebene.",
+   "supports": "Floods, marsh and malaria in the Linth plain before the correction."
+  },
+  {
+   "id": "linth-course",
+   "url": "https://hls-dhs-dss.ch/de/articles/008770/2008-01-24/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Linth (Fluss)' (P. Ziegler, version 2006)",
+   "quote": "In gewundenem, oft wechselndem Lauf erreichte sie als Lindemagus oder Lintmag durch die Linthebene den Tuggenersee",
+   "supports": "The Linth flowed in a winding, often changing bed through the Linth plain."
+  },
+  {
+   "id": "jgk-moos",
+   "url": "https://www.so.ch/fileadmin/internet/bjd/bjd-afu/01_Aktuell/1_News/2017/17-09-14_JGK/150_Jahre_JGK_-_Fakten_Juragewaesserkorrektion_-_DE.pdf",
+   "title": "Kanton Solothurn: Fakten zur Juragewässerkorrektion – Das gezähmte Element (150 Jahre JGK, 2017)",
+   "quote": "Mit einer Ausdehnung von rund 100 Quadratkilometern war das Grosse Moos die grösste zusammenhängende Moorfläche der Schweiz.",
+   "supports": "The Grosses Moos covered about 100 km2, the largest continuous moor in Switzerland."
+  },
+  {
+   "id": "jgk-malaria",
+   "url": "https://www.so.ch/fileadmin/internet/bjd/bjd-afu/01_Aktuell/1_News/2017/17-09-14_JGK/150_Jahre_JGK_-_Fakten_Juragewaesserkorrektion_-_DE.pdf",
+   "title": "Kanton Solothurn: Fakten zur Juragewässerkorrektion – Das gezähmte Element (150 Jahre JGK, 2017)",
+   "quote": "Armut, Sumpfkrankheiten (Malaria) und viele zur Auswanderung gezwungene Familien waren untrügliche Zeichen für die desolate wirtschaftliche Lage.",
+   "supports": "Poverty, malaria and emigration in the Seeland in the 19th century."
+  },
+  {
+   "id": "jgk-island",
+   "url": "https://www.so.ch/fileadmin/internet/bjd/bjd-afu/01_Aktuell/1_News/2017/17-09-14_JGK/150_Jahre_JGK_-_Fakten_Juragewaesserkorrektion_-_DE.pdf",
+   "title": "Kanton Solothurn: Fakten zur Juragewässerkorrektion – Das gezähmte Element (150 Jahre JGK, 2017)",
+   "quote": "Erst die Absenkung des Seespiegels während der Ersten Juragewässerkorrektion machte die St. Peterinsel zur Halbinsel.",
+   "supports": "St. Peter's Island was a real island before the lake was lowered."
+  },
+  {
+   "id": "fb03-lakes",
+   "url": "https://so.ch/fileadmin/internet/bjd/bjd-afu/31_Wasserbau/3_HWS/JGK/2023_04_28_Faktenblaetter_Hochwasser_FB03.pdf",
+   "title": "BAFU / Kantone: Faktenblatt 3: Funktionsweise des Systems und Regulierung der Juragewässer (Faktenblätter zur Seeregulierung, 2023)",
+   "quote": "Die 1. JGK hat zu einer Absenkung der Seepegel um 2,5 Meter geführt.",
+   "supports": "The first Jura water correction lowered the Jura lakes by 2.5 m."
+  },
+  {
+   "id": "auen-90",
+   "url": "https://www.bafu.admin.ch/de/auen",
+   "title": "BAFU: Auen",
+   "quote": "Seit 1850 sind rund 90 % der Auenflächen verschwunden. Grund dafür sind Flussverbauungen und eine intensive Landnutzung.",
+   "supports": "About 90 percent of floodplain areas disappeared since 1850."
+  },
+  {
+   "id": "morph-quarter",
+   "url": "https://www.bafu.admin.ch/de/struktur-und-morphologie",
+   "title": "BAFU: Struktur und Morphologie (Fliessgewässer)",
+   "quote": "Rund ein Viertel aller Gewässerstrecken sind künstlich, stark beeinträchtigt oder überdeckt (eingedolt).",
+   "supports": "About one quarter of river stretches are artificial, heavily impaired or piped."
+  },
+  {
+   "id": "morph-plateau",
+   "url": "https://www.bafu.admin.ch/de/struktur-und-morphologie",
+   "title": "BAFU: Struktur und Morphologie (Fliessgewässer)",
+   "quote": "Im intensiv genutzten Mittelland haben fast die Hälfte der Fliessgewässer kaum mehr etwas mit ihrem ursprünglichen Zustand zu tun.",
+   "supports": "In the Plateau almost half of the rivers and streams are far from their natural state."
+  },
+  {
+   "id": "morph-barriers",
+   "url": "https://www.bafu.admin.ch/de/struktur-und-morphologie",
+   "title": "BAFU: Struktur und Morphologie (Fliessgewässer)",
+   "quote": "Mehr als 100'000, über 50cm hohe Durchgangshindernisse beeinträchtigen den Lebensraum von Pflanzen und Tieren",
+   "supports": "More than 100,000 barriers higher than 50 cm (status July 2005)."
+  },
+  {
+   "id": "biber-dam",
+   "url": "https://www.bafu.admin.ch/de/biber-webdossier",
+   "title": "BAFU: Ein vielfältiger Gestalter: Wenn der Biber kommt, wird’s bunt",
+   "quote": "Ist das Wasser nicht tief genug, richtet er einen Damm ein. So verändert er die Gewässerläufe und schafft neue Feuchtgebiete.",
+   "supports": "Beavers build dams, change watercourses and make new wetlands."
+  },
+  {
+   "id": "biber-last",
+   "url": "https://www.bafu.admin.ch/de/biber-webdossier",
+   "title": "BAFU: Ein vielfältiger Gestalter: Wenn der Biber kommt, wird’s bunt",
+   "quote": "In der Schweiz wurde der letzte Biber bereits zu Beginn des 19. Jahrhunderts erlegt.",
+   "supports": "The last beaver in Switzerland was killed in the early 19th century."
+  },
+  {
+   "id": "bfs-land",
+   "url": "https://www.bfs.admin.ch/bfs/de/home/statistiken/raum-umwelt/bodennutzung-bedeckung.html",
+   "title": "BFS: Bodennutzung, -bedeckung (Arealstatistik Schweiz), table of land use and land cover",
+   "quote": "Siedlungsflächen 3 312 8,0% ... Wald, Gebüschwald 12 179 29,5% ... Versiegelte Flächen 2 106 5,1%",
+   "supports": "Settlement 8.0 percent, forest 29.5 percent, sealed surfaces 5.1 percent of the country."
+  },
+  {
+   "id": "wald-1800",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "nahm die Waldfläche in der ersten Hälfte des 19. Jahrhunderts ab",
+   "supports": "Forest area decreased in the first half of the 19th century."
+  },
+  {
+   "id": "wald-wood",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "Holz blieb bis zur Einführung der neuen Transportmöglichkeiten für die Einfuhr von Kohle in der zweiten Hälfte des 19. Jahrhunderts",
+   "supports": "Wood stayed almost the only fuel until coal imports in the second half of the 19th century."
+  },
+  {
+   "id": "wald-1876",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "Die eigentliche Wende in der Forstpolitik erfolgte mit dem eidgenössischen Forstpolizeigesetz (FpolG) von 1876.",
+   "supports": "The federal forest law of 1876 was the turning point."
+  },
+  {
+   "id": "wald-40",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "er hat vor allem wegen der Aufforstungen um mehr als 40% zugenommen",
+   "supports": "In the 20th century forest area grew by more than 40 percent, mainly by planting."
+  },
+  {
+   "id": "wald-urwald",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "Bis zum Ende des Mesolithikums (um 5000 v.Chr.) kann von einem weitgehend naturbelassenen Waldzustand – einem Urwald – ausgegangen werden.",
+   "supports": "Until the end of the Mesolithic the forest was largely natural (primeval forest)."
+  },
+  {
+   "id": "wald-dense",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "dichtes, geschlossenes Waldland vorstellen, mit nur wenigen gelichteten Sonderstandorten wie Mooren , Alluvionen oder Windwurfflächen",
+   "supports": "The primeval forest was dense and closed, with few open places."
+  },
+  {
+   "id": "wald-species",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "Es folgten die Waldföhren und Laubmischwälder mit Hasel, Ulmen und Eichen sowie Linden, Eschen und Erlen",
+   "supports": "Early Holocene mixed broadleaf forests with hazel, elm, oak, lime, ash and alder."
+  },
+  {
+   "id": "wald-treeline",
+   "url": "https://hls-dhs-dss.ch/de/articles/007849/2024-10-08/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wald' (version 2000, edited 08.10.2024)",
+   "quote": "Die Expansion der Viehwirtschaft führte zu einer schleichenden Ausweitung der waldfreien Hochweiden auf alpiner Stufe und senkte die obere Waldgrenze.",
+   "supports": "Livestock farming lowered the upper forest limit in the Alps."
+  },
+  {
+   "id": "neo-phases",
+   "url": "https://hls-dhs-dss.ch/de/articles/008012/2025-06-12/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Neolithikum' (W. E. Stöckli, R. Stapfer, version 12.06.2025)",
+   "quote": "Für die Deutschschweiz: Alt-/Frühneolithikum (ca. 5400-5000 v.Chr.)",
+   "supports": "Early Neolithic in German-speaking Switzerland: about 5400-5000 BC."
+  },
+  {
+   "id": "neo-animals",
+   "url": "https://hls-dhs-dss.ch/de/articles/008012/2025-06-12/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Neolithikum' (W. E. Stöckli, R. Stapfer, version 12.06.2025)",
+   "quote": "Einschneidend für die Entwicklung der Fauna war ab etwa 5400 v.Chr. das Auftauchen der Haustiere mit Schaf , Ziege , Hausrind und Hausschwein",
+   "supports": "Domestic sheep, goats, cattle and pigs appear from about 5400 BC."
+  },
+  {
+   "id": "neo-pollen",
+   "url": "https://hls-dhs-dss.ch/de/articles/008012/2025-06-12/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Neolithikum' (W. E. Stöckli, R. Stapfer, version 12.06.2025)",
+   "quote": "Erste Getreide- und Spitzwegerichpollen (als Begleitvegetation) ab 6500 v.Chr. dokumentieren Eingriffe der Menschen in die Vegetation",
+   "supports": "First cereal pollen from about 6500 BC: the start of farming is not sharp."
+  },
+  {
+   "id": "neo-forest",
+   "url": "https://hls-dhs-dss.ch/de/articles/008012/2025-06-12/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Neolithikum' (W. E. Stöckli, R. Stapfer, version 12.06.2025)",
+   "quote": "kamen im Atlantikum (5500-2500 v.Chr.) Weisstanne und Buche auf und im Mittelland bildete sich ein Mischwald ähnlich dem heutigen aus",
+   "supports": "Silver fir and beech spread after 5500 BC; the Plateau got a mixed forest similar to today."
+  },
+  {
+   "id": "neo-game",
+   "url": "https://hls-dhs-dss.ch/de/articles/008012/2025-06-12/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Neolithikum' (W. E. Stöckli, R. Stapfer, version 12.06.2025)",
+   "quote": "Weiteres Jagdwild waren Auerochse (Ur) und Wisent ebenso wie Wolf, Biber, Igel oder Eichhörnchen",
+   "supports": "Aurochs, wisent, wolf and beaver were hunted in the Neolithic."
+  },
+  {
+   "id": "fauna-meso",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "Rothirsch, Elch, Reh, Wildschwein, Ur (Auerochse), Braunbär, Wolf, Fuchs, Baummarder und Waldkatze dominierten die Beutelisten der mittelsteinzeitlichen Menschen.",
+   "supports": "Mesolithic prey animals, including elk, aurochs and brown bear."
+  },
+  {
+   "id": "fauna-horse",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "das Wildpferd wurde selten",
+   "supports": "The wild horse became rare after the Ice Age."
+  },
+  {
+   "id": "fauna-neo",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "Wisent, Ur, Reh und Gemse besiedelten das Mittelland, Steinbock, Gemse, Schneehase und Schneehuhn die Alpen und zum Teil den Jura.",
+   "supports": "Wisent and aurochs lived on the Plateau in the Neolithic."
+  },
+  {
+   "id": "fauna-date",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "Ackerbau und Viehhaltung charakterisierten Jungsteinzeit (rund 5500-2200 v.Chr.)",
+   "supports": "The Neolithic (farming period) lasted about 5500-2200 BC."
+  },
+  {
+   "id": "fauna-loss",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "Die zunehmende Landnutzung stellte einzelne Arten wie Wisent, Ur und Elch vor grosse Probleme.",
+   "supports": "Growing land use later pushed out wisent, aurochs and elk."
+  },
+  {
+   "id": "fauna-plateau",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "Bär und Luchs wurden vollständig aus dem Mitteland vertrieben.",
+   "supports": "In the Middle Ages and early modern period bear and lynx were driven out of the Plateau."
+  },
+  {
+   "id": "fauna-19c",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "Das 19. Jahrhundert war gekennzeichnet durch die Ausrottung von Luchs, Steinbock, Biber, Bartgeier und Rothirsch.",
+   "supports": "Lynx, ibex, beaver, bearded vulture and red deer were wiped out in the 19th century."
+  },
+  {
+   "id": "fauna-bear",
+   "url": "https://hls-dhs-dss.ch/de/articles/007790/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Fauna' (J. Schibler, P. Lüps, version 2003)",
+   "quote": "Anfang des 20. Jahrhunderts wurde letztmals ein Bär erlegt.",
+   "supports": "The last bear was shot in the early 20th century."
+  },
+  {
+   "id": "jagd-predators",
+   "url": "https://hls-dhs-dss.ch/de/articles/013942/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Jagd' (K. Müller, H.-J. Blankenhorn, version 2000)",
+   "quote": "die einheimischen Raubtiere Bär, Wolf, Luchs, Fischotter, Adler und Bartgeier wurden weiterhin verfolgt und ausgerottet",
+   "supports": "Bear, wolf and lynx were still hunted down after the hunting law of 1875."
+  },
+  {
+   "id": "meso-rhone",
+   "url": "https://hls-dhs-dss.ch/de/articles/008011/2025-10-30/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Mesolithikum' (P. Crotti, version 30.10.2025)",
+   "quote": "konnte die Fauna aus dem Wasser in der Rhoneebene (Forelle, Ente, Biber, Schildkröte, Mollusken) genutzt",
+   "supports": "Mesolithic people used beaver and other water animals of the Rhone plain."
+  },
+  {
+   "id": "wau-lake",
+   "url": "https://hls-dhs-dss.ch/de/articles/012447/2013-08-26/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wauwilermoos' (J. Bill, version 2013)",
+   "quote": "nach der Trockenlegung des Sees um die Mitte des 19. Jahrhunderts",
+   "supports": "Lake Wauwil was drained in the mid-19th century."
+  },
+  {
+   "id": "wau-level",
+   "url": "https://hls-dhs-dss.ch/de/articles/012447/2013-08-26/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Wauwilermoos' (J. Bill, version 2013)",
+   "quote": "was mit einer eventuell klimatisch bedingten Erhöhung des Seespiegels zu tun hat",
+   "supports": "Prehistoric lake levels changed, possibly because of climate."
+  },
+  {
+   "id": "bahn-none",
+   "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Eisenbahnen' (H.-P. Bärtschi, A.-M. Dubler, version 2002)",
+   "quote": "Als die Elsässische Bahn mit der Linie Strassburg-Basel 1844 von Saint-Louis her die Schweiz erreichte, gab es hierzulande noch keine Eisenbahnen",
+   "supports": "In 1844 Switzerland had no railways of its own."
+  },
+  {
+   "id": "bahn-1847",
+   "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Eisenbahnen' (H.-P. Bärtschi, A.-M. Dubler, version 2002)",
+   "quote": "Der von der Schweizerischen Nordbahn kurze Zeit später in Angriff genommene Bau der Strecke von Zürich nach Basel blieb 1847 in Baden stecken",
+   "supports": "In 1847 the first line, from Zurich, ended at Baden."
+  },
+  {
+   "id": "bahn-net",
+   "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+   "title": "Historisches Lexikon der Schweiz (HLS), article 'Eisenbahnen' (H.-P. Bärtschi, A.-M. Dubler, version 2002)",
+   "quote": "Gesamtnetz 3 789 ca. 5 800 4 976 5 045",
+   "supports": "Total network in km for 1900, 1942/47, 1975 and 1995 (5,045 km in 1995)."
+  },
+  {
+   "id": "tt-belt",
+   "url": "https://bioone.org/journals/arctic-antarctic-and-alpine-research/volume-35/issue-2/1523-0430(2003)035[0158:ULEAFO]2.0.CO;2/Uppermost-Limit-Extent-and-Fluctuations-of-the-Timberline-and-Treeline/10.1657/1523-0430(2003)035[0158:ULEAFO]2.0.CO;2.full",
+   "title": "Tinner & Theurillat 2003: Uppermost Limit, Extent, and Fluctuations of the Timberline and Treeline Ecocline in the Swiss Central Alps during the Past 11,500 Years (Arctic, Antarctic, and Alpine Research 35/2)",
+   "quote": "timberline fluctuations occurred within a belt 100–150 m above today's tree limit",
+   "supports": "From 9000 to 2500 BC the timberline lay 100-150 m above today's tree limit (Central Alps)."
+  },
+  {
+   "id": "tt-max",
+   "url": "https://bioone.org/journals/arctic-antarctic-and-alpine-research/volume-35/issue-2/1523-0430(2003)035[0158:ULEAFO]2.0.CO;2/Uppermost-Limit-Extent-and-Fluctuations-of-the-Timberline-and-Treeline/10.1657/1523-0430(2003)035[0158:ULEAFO]2.0.CO;2.full",
+   "title": "Tinner & Theurillat 2003: Uppermost Limit, Extent, and Fluctuations of the Timberline and Treeline Ecocline in the Swiss Central Alps during the Past 11,500 Years (Arctic, Antarctic, and Alpine Research 35/2)",
+   "quote": "timberline and treeline during the Holocene was ca. 2420 and 2530 m, respectively, i.e., about 120 to 180 m higher than today",
+   "supports": "Highest Holocene timberline about 2420 m, 120-180 m higher than today."
+  },
+  {
+   "id": "fire-rare",
+   "url": "https://bibbase.org/network/publication/tinner-conedera-ammann-lotter-fireecologynorthandsouthofthealpssincethelasticeage",
+   "title": "Tinner, Conedera, Ammann & Lotter 2005: Fire ecology north and south of the Alps since the last ice age (The Holocene 15/8), abstract",
+   "quote": "Wildfires are very rare in central Europe",
+   "supports": "Natural wildfires are very rare north of the Alps."
+  },
+  {
+   "id": "fire-neo",
+   "url": "https://bibbase.org/network/publication/tinner-conedera-ammann-lotter-fireecologynorthandsouthofthealpssincethelasticeage",
+   "title": "Tinner, Conedera, Ammann & Lotter 2005: Fire ecology north and south of the Alps since the last ice age (The Holocene 15/8), abstract",
+   "quote": "Microscopic charcoal evidence suggests increasing regional fire frequencies during the Neolithic (7350-4150 cal. BP, 5400-2200 BC) and the subsequent prehistoric epochs at Lobsigensee",
+   "supports": "Fires became more frequent on the Swiss Plateau with Neolithic farming."
+  }
+ ],
+ "stops": [
+  {
+   "key": "today",
+   "year": 2026,
+   "title": "Switzerland today: what people changed",
+   "text": [
+    "Around 1700, wetlands and moors covered about 5 percent of the country. In the 19th and early 20th century, fens and raised bogs decreased by about 90 percent. Today they cover only about 0.5 percent of the land. Between 1885 and 1940, about 80,000 ha of moorland were drained. About 80,000 ha more followed during the Second World War.",
+    "About 90 percent of the floodplains (land beside rivers that floods often) disappeared since 1850. River works and intensive land use caused this. Almost all Swiss rivers were corrected in the 19th and early 20th century. The larger corrections in the HLS table alone add up to about 510 km of river (our own sum).",
+    "Today about one quarter of all river stretches are artificial, heavily changed or piped underground. On the Plateau (Mittelland), almost half of the rivers and streams are far from their natural state. In 2005, more than 100,000 barriers higher than 50 cm blocked fish and other animals.",
+    "Forest area decreased in the first half of the 19th century. After the federal forest law of 1876, the forest grew again. In the 20th century it increased by more than 40 percent. Today forest covers about 29.5 percent of the country, settlements about 8 percent. About 5 percent is sealed (covered by buildings, roads or other hard surfaces). In 1844 Switzerland had no railway; in 1995 the network was about 5,000 km long."
+   ],
+   "refs": [
+    [
+     "moor-1700",
+     "moor-90",
+     "moor-drain",
+     "moor-ww2"
+    ],
+    [
+     "auen-90",
+     "gew-all",
+     "gew-table"
+    ],
+    [
+     "morph-quarter",
+     "morph-plateau",
+     "morph-barriers"
+    ],
+    [
+     "wald-1800",
+     "wald-1876",
+     "wald-40",
+     "bfs-land",
+     "bahn-none",
+     "bahn-net"
+    ]
+   ]
+  },
+  {
+   "key": "1800",
+   "year": 1800,
+   "mapYear": 1864,
+   "title": "About 1800: before industry",
+   "text": [
+    "This step removes only the changes made after 1800. Older works stay on the map. One example is the Kander, which people led into Lake Thun in 1711-1714. Around 1800 there was no railway in Switzerland. The first line, from Zurich, ended at Baden in 1847. The background map is from 1864, so it already shows some later works, for example the Linth canal.",
+    "Many rivers in the wide valleys had several side arms. The later corrections closed these arms and gave each river one bed. The engineer Tulla wrote this rule in 1812. The Linth, for example, flowed in a winding and often changing bed through the Linth plain. In the 18th and 19th century, floods became more frequent, mainly because of a change in climate.",
+    "Large fens (wet meadows on peat, fed by groundwater) lay in the Bernese Seeland, the St. Gallen Rhine valley and many other river plains. The Grosses Moos covered about 100 km2. It was the largest continuous moor area in Switzerland. Weesen and Walenstadt flooded regularly, and the Linth plain became a marsh. Malaria (a fever disease) threatened the villages at the edge of the Linth plain and in the Seeland.",
+    "The lakes had their natural levels. The three Jura lakes were 2.5 m higher than after the first Jura water correction. St. Peter's Island in Lake Biel was still a real island. Lake Wauwil still existed; it was drained in the mid-19th century. Wood was almost the only fuel, and the forest area was getting smaller. Wolves, lynx and bears still lived in parts of the country. But bears and lynx had already left the Plateau. The last beaver was killed in the early 19th century."
+   ],
+   "refs": [
+    [
+     "gew-kander",
+     "bahn-none",
+     "bahn-1847"
+    ],
+    [
+     "gew-arms",
+     "linth-course",
+     "gew-floods"
+    ],
+    [
+     "moor-where",
+     "moor-causes",
+     "jgk-moos",
+     "linth-malaria",
+     "jgk-malaria",
+     "gew-malaria"
+    ],
+    [
+     "fb03-lakes",
+     "jgk-island",
+     "wau-lake",
+     "wald-wood",
+     "wald-1800",
+     "jagd-predators",
+     "fauna-19c",
+     "fauna-bear",
+     "fauna-plateau",
+     "biber-last"
+    ]
+   ]
+  },
+  {
+   "key": "before-farming",
+   "year": -5500,
+   "tick": "5500 BC",
+   "title": "Before farming: about 7,500 years ago",
+   "text": [
+    "This step removes every change in the collection, also the old ones. It shows the land before the first farmers. The Neolithic (the first farming period) began here about 5500 BC. Domestic sheep, goats, cattle and pigs appear from about 5400 BC. But cereal pollen exists from about 6500 BC. So the start of farming was slow, and the date is rounded.",
+    "Dense, closed forest covered most of the land. Open places were rare: moors, river gravel plains and places where storms had thrown down trees. In the lowlands grew mixed broadleaf forest with hazel, elm, oak, lime, ash and alder. Silver fir and beech spread after about 5500 BC. Later the Plateau got a mixed forest similar to today's.",
+    "In the Central Alps the forest grew higher than today. From about 9000 to 2500 BC, the timberline (upper edge of closed forest) lay 100-150 m above today's tree limit. At its highest, it reached about 2420 m. Later, alpine pastures lowered the upper forest limit. Natural wildfires are very rare north of the Alps. Lake mud shows that fires on the Plateau became more frequent with Neolithic farming.",
+    "The last hunters mostly hunted red deer, elk, roe deer, wild boar, aurochs (wild cattle), brown bear, wolf, fox, pine marten and wildcat. The wild horse had become rare. Wisent (European bison) and aurochs still lived on the Plateau in the Neolithic. Beavers lived in the plains, for example in the Rhone plain. Beavers build dams and so make new wetlands. Lake levels also changed naturally, possibly because of climate."
+   ],
+   "refs": [
+    [
+     "fauna-date",
+     "neo-phases",
+     "neo-animals",
+     "neo-pollen"
+    ],
+    [
+     "wald-urwald",
+     "wald-dense",
+     "wald-species",
+     "neo-forest"
+    ],
+    [
+     "tt-belt",
+     "tt-max",
+     "wald-treeline",
+     "fire-rare",
+     "fire-neo"
+    ],
+    [
+     "fauna-meso",
+     "fauna-horse",
+     "fauna-neo",
+     "neo-game",
+     "meso-rhone",
+     "biber-dam",
+     "wau-level",
+     "fauna-loss"
+    ]
+   ]
+  }
+ ]
+}

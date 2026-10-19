@@ -863,3 +863,196 @@ Blue water lines come from the BAFU residual flow map: they are simplified strai
 - The opening year of the Innertkirchen hydropeaking basin (probably 2015 or 2016) was not found in a primary source.
 - The ecological effect at Innertkirchen is described only by the operator's own magazine.
 - The state of remediation after 2022 was not checked; the next cantonal report is due at the end of 2026.
+
+# Protection works (round 9)
+
+Barrier fields and galleries come from OpenStreetMap or are traced on today's map; their build years are only bracketed by the map years.
+
+### Avalanche galleries on the Simplon road
+
+- Build years and builder (canton or federal roads office) of the modern Simplon galleries are not confirmed.
+- Kaltwasser gallery: about 1805 (SLF) or early 1830s (IVS)?
+
+### Avalanche barriers on the Gurschen above Andermatt
+
+- Build years of the barrier rows are not confirmed; maps only bracket them (1880, 1950, 1980).
+- Whether the 1951 avalanche came from the Gurschen slope is only in an Italian news report (tio.ch) that was not opened.
+
+### Schafberg barriers and Giandains dams, Pontresina
+
+- Dam capacity: 240,000 m3 (PHBern) or 280,000 m3 (swissinfo)?
+- Final cost of the dams: 7 or 7.5 million francs?
+- OpenStreetMap shows only part of the barrier rows on the Schafberg.
+
+### Avalanche barriers and planting above Airolo
+
+- Which barrier rows date from after 1951 and which from 1986–2013 is not confirmed.
+- Position of the catch dams Laghetto, Laoza and Dragoni was not checked on the map.
+
+### Lammbach check dams above Brienz
+
+- The exact years of the new bed on the fan are not confirmed; the maps show it between 1900 and 1920.
+- Whether the gravel strip at Innere Ey was the main Lammbach debris area before 1896 is a map reading, not confirmed by a written source.
+- Sources differ on the event years (1894 and 1896) and call 1896 the main event.
+
+### Avalanche barriers on the Schiahorn and Dorfberg, Davos
+
+- First walls: built in 1919 (SRF) or 1920–1924 (leaflet after SLF)?
+- Exact build years of the Dorfberg field and the upper Schiahorn rows are not confirmed; maps only show them by 1960 and by 1975.
+- OpenStreetMap does not contain every barrier row shown on today's map.
+
+### Avalanche winter 1951 and the start of modern avalanche protection
+
+- Vals: 19 dead (SLF, SRF) or 18 (Südostschweiz)?
+- Exact name and date of the federal decree on higher subsidies should be checked in the federal law collection (AS 1951).
+- The avalanche winter of 1887/88 is not covered here; no primary source was opened for it.
+
+### Illgraben check dams and debris-flow station
+
+- Who built and paid for the works of 1967–1969 is not confirmed (the source cites Lichtenhahn 1971).
+- Only some of the 28 check dams are in OpenStreetMap.
+- Which protection measures from the 2010 project were built is not confirmed.
+
+### Gondo rockfall wall and the 2000 landslide
+
+- Whether the rebuilt protection is a reinforced earth dam, a repaired wall, or both, is not confirmed.
+- The line of the 1988 wall and of the new dam is not drawn.
+
+### Avalanche winter 1999: a test for fifty years of protection
+
+- Damage total: over 600 million francs (SLF summary) or 439 million (table in Geographica Helvetica 2002)?
+- Which new barriers or dams were built at Evolène after 1999 is not confirmed.
+
+### Glyssibach and Trachtbach works after the 2005 debris flows
+
+- The OSM weir and dykes are not named; that they are the diversion structure and retention dam is likely but not confirmed.
+- The Trachtbach retention barrier (Lätzenacher) and ring nets are not drawn.
+
+### Bondo debris-flow basin and protection works
+
+- The volume of the basin built 2012–2016 and of the enlarged basin is not confirmed.
+- The exact outline of the retention basin is not drawn.
+- SRF (2025) says a large part of the 52 million francs came from donations; the exact split was not checked in an official source.
+
+### Drainage tunnel under the Brienz/Brinzauls landslide
+
+- The OSM tunnel line is copied from a bulletin sketch; its exact position is not checked.
+- Long-term effect of the drainage and the future of the red hazard zone are open.
+- The start year 2021 is for the exploratory tunnel (work began 2021 according to press reports not opened here); not confirmed in an opened official source.
+
+### Sihl flood relief tunnel
+
+- The OSM line of the tunnel is straight between the ends; the real curve under the hill is not checked.
+- The opening date (early 2027) is a forecast of the canton.
+- It is not confirmed whether the Bürger I lake bath will be rebuilt after the works.
+
+# Animals lost and brought back (round 10)
+
+Ranges are drawn only from official layers (ibex colonies, federal hunting reserves). Other species show places only.
+
+### Red deer: nearly wiped out, back from Austria
+
+- The start of the natural return differs: 1870 (waldwissen/WSL) or 1872 (Canton Graubünden).
+- The total number differs between sources: about 33,000 (Zurich red deer concept, older) and almost 40,000 in 2019 (waldwissen).
+- Whether red deer were completely extinct or survived in small groups in Graubünden is not clear: Graubünden says they were wiped out there, waldwissen says a few groups remained.
+
+### Federal hunting reserves: chamois and roe deer come back
+
+- The boundaries of the first reserves of 1875 are not known here; only today's reserves are drawn.
+- Whether the roe deer was completely extinct or only very rare is disputed (WSL/waldwissen).
+- The canton list comes from sample points and may miss a canton touched only at the edge.
+
+### Alpine ibex: hunted out, then reintroduced
+
+- The date of the last wild ibex differs: 1809 (Canton St. Gallen), first half of the 19th century in Valais (WSL), the 17th century in Graubünden (National Park).
+- The State Archives of St. Gallen say the young ibex were officially bought abroad in 1910; other sources say they were smuggled in 1906.
+- The first release place differs: Weisstannental on 8 May 1911 (Canton), or the Graue Hörner in 1911 and the Rappenloch in 1912 (State Archives).
+- The exact release site in the Swiss National Park in 1920 is not confirmed.
+- Three colony areas have small holes that are not drawn.
+
+### Atlantic salmon: lost behind the dams
+
+- The year of the last wild salmon in Switzerland is not confirmed in an opened source.
+- Whether the new fish passes at Rhinau and Marckolsheim are now open (reported for 2024–2026) is not confirmed; the EDF page was blocked.
+- The BAFU reintroduction concept 2021–2025 could not be downloaded (server error); its targets are not used.
+
+### White stork: gone by 1950, back from Altreu
+
+- The HLS article on Max Bloesch (search snippet says the first storks came from Alsace) could not be opened; not used.
+- The figure of over 500 pairs is from a canton report of 2021; a newer count from the Vogelwarte or Storch Schweiz was not found.
+- The exact site of the 1948 stork station in Altreu is not mapped.
+
+### Whitefish species lost in over-fertilised lakes
+
+- The exact decade when each species died out is not given in the opened sources.
+- The period 1950–2000 is approximate.
+- Causes for the loss of the Lake Geneva species and the Walensee Blaalig are not known (the report names the Linth correction only as a hypothesis for Walensee).
+
+### Peregrine falcon: DDT, ban and comeback
+
+- The exact year of the DDT ban in Switzerland is not confirmed (sources say 'in the 1970s').
+- The exact building of the Josefstrasse nest site in Zürich is not given; the marker is approximate.
+- The population numbers (about 300 pairs) come from news reports quoting the Vogelwarte, not from the Vogelwarte directly.
+
+### Eurasian beaver: hunted out, then reintroduced
+
+- The exact release spots on each river are not known; markers show the river or lake only.
+- The text of the 2010 report says beavers were released at 30 places, while its Annex A1 lists 19 waters.
+
+### Eurasian lynx: wiped out, then reintroduced
+
+- The exact release sites in the Grosses Melchtal and the Chlischlierental are not known.
+- The current number of lynx (after 2018) is not confirmed here.
+- The date of the last native lynx is not confirmed; only '19th century' is sourced.
+
+### Wild boar: hunted out, back on its own
+
+- The date of extinction differs: 18th and 19th centuries, or the start of the 19th century (both from the Canton of Solothurn).
+- From which neighbouring countries and in which decades wild boar first came back is not confirmed.
+- A national number of wild boar today is not confirmed from an official source.
+
+### Bearded vulture: wiped out and brought back
+
+- The year of the last Swiss bird differs between sources (1885 brood at Vrin GR is often cited; Valais: dead bird 1886, last brood 1891). Not checked in a primary source.
+- The exact release ledges in the Calfeisental and at Melchsee-Frutt are not given; the markers show the general area.
+- The 1815.ch article is a newspaper source; the Leukerbad brood should be confirmed with the Stiftung Pro Bartgeier.
+
+### Wolf: persecuted to extinction, back on its own since 1995
+
+- The KORA history text was read from a copy on a third-party site (mythenfilm.ch), not from kora.ch.
+- Exact places of the 1995–1996 sheep kills inside the valleys are not known.
+
+### Brown bear: last one shot in 1904, visitors since 2005
+
+- Whether the last bear of 1904 was a male or a female is not confirmed here.
+- The total number of bears seen in Switzerland since 2005 is not confirmed here.
+
+### Eurasian otter: eradicated on purpose, back since 2009
+
+- The exact place of the 2009 fish pass camera is not confirmed (possibly Reichenau–Domat/Ems).
+- Which zoo the otters of 2005 escaped from is not stated in the opened source.
+- Current numbers of otters in Switzerland are not confirmed here.
+
+# Switzerland Without Us (round 11)
+
+- The exact forest area around 1800 is not known from the sources used. Only the trend is sourced: less forest until the mid-19th century, more than 40 percent growth in the 20th century.
+- No national total for the length of straightened rivers was found. The 510 km is our own sum of the larger corrections in the HLS table. The real total is much higher.
+- The two 90 percent figures have different bases: moors and raised bogs in the 19th and 20th century (HLS), floodplains since 1850 (BAFU).
+- The start of farming is not sharp. Cereal pollen exists from about 6500 BC, domestic animals from about 5400 BC. The date 5500 BC is rounded.
+- Beech timing is unclear. The HLS article 'Wald' dates beech dominance to about 5000 years ago, the article 'Neolithikum' says fir and beech came up in 5500-2500 BC. Around 5500 BC beech was probably still rare. Not confirmed.
+- Lynx before farming: the HLS lists of Mesolithic and Neolithic animals do not name the lynx. Not confirmed for that time.
+- Lake size before farming: no source gives a lake area for 5500 BC. Lake levels changed naturally. The idea that lakes were 'slightly larger' is not confirmed.
+- The timberline figures come from two sites in the Swiss Central Alps (Valais). Other regions may differ.
+- Natural fire before farming: the Plateau fire history comes from two lakes only (Lobsigensee, Soppensee).
+- Malaria is sourced for the Linth plain and the Seeland only. For the Rhone plain and the Magadino plain it is not confirmed here.
+- The 2.5 m lake lowering is the general value for the three Jura lakes. A search snippet gives 3 m for Lake Neuchatel; that document could not be opened (server error).
+- The background map for 1800 is from 1864. It already shows works done between 1800 and 1864 (for example the Linth correction, 1807-1823). The 'before' shapes must come from the changes in the collection.
+- The BFS land-use table on the page does not show the survey year. It is probably the Arealstatistik 2013/2018; check before publishing.
+- Glaciers around 1800 were larger than today (climate, not a direct human change). This page does not cover it.
+
+# Sources check (round 12)
+
+- Every paragraph now has its own sources (title, link, short quote, what it supports). 12 checkers opened the sources again in October 2026; they fixed or removed many facts and wrote source conflicts into the text.
+- The HLS website blocks automatic access. Its pages were read through web.archive.org copies; the links still point to hls-dhs-dss.ch.
+- A spot check of 40 random sources found all 40 quotes on their pages and all titles correct; 2 sentences were reworded to match their source exactly.
+- Some quotes come from PDFs with columns or OCR; small OCR errors were corrected.

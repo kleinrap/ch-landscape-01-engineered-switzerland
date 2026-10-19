@@ -9,6 +9,7 @@
   var BASE = "https://wmts.geo.admin.ch/1.0.0/ch.swisstopo.pixelkarte-grau/default/current/3857/{z}/{x}/{y}.jpeg";
   var ATTR = 'Maps © <a href="https://www.swisstopo.admin.ch/en/journey-through-time-historical-maps">swisstopo</a>';
   var BOUNDS = [[45.6, 5.7], [48.0, 10.7]];
+  var CH_BOUNDS = [[45.82, 5.96], [47.81, 10.49]];
 
   var map = null, oldLayer = null, baseLayer = null, markers = null, lines = null;
   var histOn = false, histOpacity = 0.85;
@@ -56,14 +57,14 @@
     var zoom = stop.zoom || river.zoom || 13;
     var drawn = L.featureGroup(lines.getLayers());
     // Wide overview steps: fit the whole drawn river into the map, so no end is cut off.
-    if (zoom <= 11 && drawn.getLayers().length) map.fitBounds(drawn.getBounds(), { padding: [20, 20], animate: false });
+    if (stop.fitCH) map.fitBounds(CH_BOUNDS, { animate: false });
+    else if (zoom <= 11 && drawn.getLayers().length) map.fitBounds(drawn.getBounds(), { padding: [20, 20], animate: false });
     else map.setView(stop.center || river.center, zoom, { animate: false });
     return true;
   }
 
   // Overview: every correction on one map. items: [{id, name, built, color, state, lines}],
   // state "done" (solid), "building" (dashed), "future" (not drawn).
-  var CH_BOUNDS = [[45.82, 5.96], [47.81, 10.49]];
   var overviewFitted = false;
   function showAll(items) {
     init();
