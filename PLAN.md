@@ -32,7 +32,7 @@ Published on GitHub Pages from the `main` branch (18 Oct 2026). The repository n
 | 1 | Move the 48 corrections from "How Switzerland Grew" and convert them to the human-changes format; site shell with overview map, time chart, stories | **Done** (18 Oct 2026) |
 | 2 | Water: (a) fill `gained` / `lost` for the 48 existing changes; (b) marshes and wetlands (incl. peat), lake regulation and shore filling, streams in pipes, dams and hydropower (incl. dry river beds) | (a) **Done** (19 Oct 2026); (b) next |
 | 3 | Forests and land use: forest loss and regrowth (1876 forest law), pastures above the tree line, vineyard terraces, settlements, gravel pits and quarries | Planned |
-| 4 | Transport: Alpine tunnels and railways, passes and roads | Planned |
+| 4 | Transport: Alpine tunnels and railways, passes and roads | **First round done** (19 Oct 2026): 25 changes (14 railways and tunnels, 11 roads, passes and road tunnels) |
 | 5 | Protection: avalanche and torrent works | Planned |
 | 6 | Animals lost and brought back (ibex, beaver, lynx, wolf …) | Planned |
 | 7 | "Switzerland Without Us": first before industry (about 1800), then before farming (about 7,500 years ago) | Planned |
@@ -47,6 +47,12 @@ Same as the sister site: open questions in `docs/OPEN-QUESTIONS.md` sorted by im
 - 94 gained and 122 lost items. Each item has a short quote from a source in `research/evidence-gainlost.json` (not read by the build). Scope "region" there means the source covers the wider valley.
 - Rule: no item without a source. So some changes have few or no items (Thur in the Toggenburg, Suze, Areuse). Many sources do not state a safety gain; often floods continued. Gaps are listed in `docs/OPEN-QUESTIONS.md` (round 4).
 - Hydropower effects (e.g. Maggia) are left for the dam changes of phase 2b.
+
+## Transport, first round (19 Oct 2026)
+
+- `research/changes-transport.json`: 25 changes. "After" lines from OpenStreetMap (railways) or the federal inventories (IVS historic routes, ASTRA national roads), checked on the first map after opening and on today's map. "Before" is mostly empty: old mule paths are drawn only where they were checked on an old map.
+- Reviewer data (quotes, open questions, visits, check images) in `research/evidence-transport.json`. Open questions in `docs/OPEN-QUESTIONS.md` (round 5); archive visits in `docs/VISITS.md` (built by `scripts/build_visits.py`).
+- Facts that rested only on Wikipedia were removed.
 
 ## Open next steps
 

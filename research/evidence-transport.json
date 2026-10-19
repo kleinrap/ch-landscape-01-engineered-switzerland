@@ -1,0 +1,1557 @@
+{
+ "spanisch-broetli-bahn": {
+  "evidence": [
+   {
+    "item": "summary / why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "blieb 1847 in Baden stecken",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/042011/",
+    "quote": "Sie blieb 1847, nach dem Bau der ersten schweizerischen Bahnstrecke ab Zürich in Baden stecken",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/042011/",
+    "quote": "1856-1858 vollendete die NOB die Strecke über Baden-Brugg nach Aarau",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/019906/2009-07-09/",
+    "quote": "1845-47 plante und baute N. die Linie Zürich-Baden (Schweiz. Nordbahn) als erste schweiz. Eisenbahn",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 name",
+    "url": "https://hls-dhs-dss.ch/de/articles/007965/2015-06-19/",
+    "quote": "weil nun auch in Zürich ein spezielles Badener Gebäck ofenfrisch konsumiert werden konnte",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 / why 2 speed",
+    "url": "https://www.srf.ch/kultur/gesellschaft-religion/die-spanisch-broetli-bahn-brachte-die-schweiz-in-fahrt",
+    "quote": "45 Minuten später traf die Spanisch-Brötli-Bahn mit seinen 140 geladenen Gästen in Baden ein",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "schuf den schweizerischen Binnenmarkt",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "Peripheral regions often lost out (paraphrase of the HLS text on centre and periphery)",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "Is the route in Baden traced from the 1895 map the same as the route of 1847?",
+   "Is the length 23 km (SRF, swissinfo) or 20 km (Wikipedia)?",
+   "No sourced local loss (for example farmland or carters' work) was found for this line."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Aargau, Entfelderstrasse 22, Aarau",
+    "what": "Plans of the Nordbahn line in Baden (1846-1847), to check the original route between Wettingen and Baden station."
+   },
+   {
+    "place": "SBB Historic, Bahnhofplatz 2a, Windisch",
+    "what": "Construction plans and opening documents of the Schweizerische Nordbahn, length of the line, land bought for the track."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/zb_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/zb_1847_1895.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/zb_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "gotthardbahn": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/042006/2007-01-09/",
+    "quote": "tauchte Mitte des 19. Jahrhunderts erstmals auf",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/042006/2007-01-09/",
+    "quote": "Bauverteuerungen und -verzögerungen führten das Unternehmen ab 1875 in eine Krise",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 ramps",
+    "url": "https://hls-dhs-dss.ch/de/articles/042006/2007-01-09/",
+    "quote": "wurden die Rampenstrecken steiler, mit engeren Kurven und nur einspurig realisiert",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 dynamite",
+    "url": "https://hls-dhs-dss.ch/de/articles/007962/2014-01-07/",
+    "quote": "erstmals Dynamit verwendet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 choice 1869",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "Gotthard chosen in 1869, opened 1882 (paraphrase)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/042006/2007-01-09/",
+    "quote": "Die Güter- und teilweise die Personenströme konzentrierten sich auf die Gotthardachse",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/042006/2007-01-09/",
+    "quote": "Der durchgehende Ausbau auf Doppelspur sollte noch bis 1965 dauern",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/042006/2007-01-09/",
+    "quote": "177 Tote allein beim Scheiteltunnelbau",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.srf.ch/kultur/gotthard-13-tote-pro-kilometer",
+    "quote": "Offiziell starben beim Bau des ersten Gotthard-Eisenbahntunnel 199 Menschen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/042006/2007-01-09/",
+    "quote": "Ein Aufstand der Mineure, die Lohnerhöhung und bessere Arbeitsbedingungen forderten",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/041881/",
+    "quote": "freight over the Bündner passes collapsed after the 1882 Gotthard tunnel (paraphrase)",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "How many workers died: 177 in the summit tunnel (HLS) or 199 officially (SRF), and how many on the whole line?",
+   "Was the miners' uprising (1875) put down by force, and were people killed? No opened source gives this.",
+   "Does today's mountain line differ in places from the line of 1882?"
+  ],
+  "visits": [
+   {
+    "place": "SBB Historic, Bahnhofplatz 2a, Windisch",
+    "what": "Files of the Gotthardbahn-Gesellschaft: deaths and accidents list, construction plans of the spiral tunnels."
+   },
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Reports on the Göschenen strike of 1875 and the number of dead and injured."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/gott_line_1885.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/gott_1885.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/gott_wassen_1885.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/gott_biasca_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "gotthard-basistunnel": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "rund 26 Millionen Tonnen Fracht durch die Schweizer Alpen transportiert – 80 Prozent davon sind Transitverkehr",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "den alpenquerenden Verkehr von der Strasse auf die Schiene zu verlagern",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "1999 Beginn des Hauptvortriebs im Gotthard-Basistunnel",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "Zu Spitzenzeiten arbeiteten rund 2400 Personen auf den Baustellen am Tunnel",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.swissinfo.ch/eng/alptransit_ceneri-base-tunnel-gotthard-swiss/46007868",
+    "quote": "cost about CHF3.6 billion to complete",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.swissinfo.ch/eng/alptransit_ceneri-base-tunnel-gotthard-swiss/46007868",
+    "quote": "will still have to slow down on a line dating from 1874",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "bis zu 260 Güterzüge fahrplanmässig verkehren, auf der historischen Bergstrecke waren es maximal 180",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "verkürzt die Strecke von Altdorf (UR) nach Bellinzona (TI) um 30 Kilometer",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.swissinfo.ch/eng/alptransit_ceneri-base-tunnel-gotthard-swiss/46007868",
+    "quote": "cut by a third, from 27 to 19 minutes",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.srf.ch/kultur/gotthard-13-tote-pro-kilometer",
+    "quote": "verloren neun Tunnelbauer ihr Leben",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "Ausbruchmaterial: 28,2 Mio. t",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "effektive Gesamtkosten: CHF 12,2 Mrd.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When did the main work on the Ceneri base tunnel start (2006 is not from an opened source)?",
+   "Where was the spoil of the two tunnels put (Reuss delta islands, Sigirino deposit), and how much land did the deposits cover?",
+   "Ceneri: no sourced landscape loss was found."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Environmental impact reports of AlpTransit Gotthard for the Erstfeld portal and the spoil deposits in the Reuss delta."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/gbt_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/ceneri_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "simplontunnel": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007962/2014-01-07/",
+    "quote": "brüchiger Fels und Bergwasser die Arbeiten",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/2012-12-19/",
+    "quote": "da die Strasse mit einigen Monaten Verspätung erst im Herbst 1805 eröffnet werden konnte",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/2012-12-19/",
+    "quote": "1906 mit der Eröffnung des Simplontunnels, des damals längsten Eisenbahntunnels der Welt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/041999/",
+    "quote": "Der Simplonvertrag von 1895 und die Bauarbeiten am Simplontunnel",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/2012-12-19/",
+    "quote": "Von 13'258 Reisenden 1905 sank die Zahl auf 845 1907.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/2012-12-19/",
+    "quote": "Die Folge war eine vorübergehende Isolierung der Siedlungen entlang der Passstrasse",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "How many workers died while the Simplon tunnel was dug?",
+   "Was the second tube finished in 1921 or 1922?"
+  ],
+  "visits": [
+   {
+    "place": "SBB Historic, Bahnhofplatz 2a, Windisch",
+    "what": "Files of the Jura-Simplon railway and SBB on the Simplon tunnel: accident and death lists, spoil deposits at Brig."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/simplon_1910.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/simplon_portal_n_1910.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/simplon_portal_s_1910.png"
+  ],
+  "group": "t-rail"
+ },
+ "loetschbergbahn": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/041999/",
+    "quote": "Gegr. 1906 für den Bau der Berner Alpenbahn Frutigen-Brig",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/041999/",
+    "quote": "Bei der übereilten Realisierung des Tunnels kam es zu einem Gerölleinbruch, bei dem 25 Arbeiter starben",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007962/2014-01-07/",
+    "quote": "25 Männer und zwei Pferde von einer Kiesmasse verschüttet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/041999/",
+    "quote": "mit einem Umgehungsbogen um das Unglücksgebiet vollendet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/041999/",
+    "quote": "Krönender Abschluss des Westalpenbahnbaus war die von Anbeginn voll elektrifizierte Lötschbergbahn",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/041999/",
+    "quote": "über die 27‰-Rampen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/041999/",
+    "quote": "1994 wurde auf einer dritten Schienenachse im Lötschbergtunnel ein Huckepackkorridor geschaffen",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "In which year did the gravel break into the tunnel (1908 is not from an opened source)?",
+   "No sourced loss of landscape or of pass traffic was found for this line."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Bern, Falkenplatz 4, Bern",
+    "what": "BLS files on the Gasterntal accident: date, victims, geological reports."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/loetsch_line_1915.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/loetsch_1915.png"
+  ],
+  "group": "t-rail"
+ },
+ "loetschberg-basistunnel": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://www.bls.ch/en/unternehmen/medien/medienmitteilungen/2017/06-15-10-jahre-lbt",
+    "quote": "Am 15. Juni 2007 nahm die BLS den knapp 35 Kilometer langen Lötschberg-Basistunnel in Betrieb.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://www.bls.ch/en/unternehmen/medien/medienmitteilungen/2017/06-15-10-jahre-lbt",
+    "quote": "Auf 21 seiner knapp 35 Kilometer ist er jedoch nur einspurig befahrbar.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bls.ch/en/unternehmen/medien/medienmitteilungen/2017/06-15-10-jahre-lbt",
+    "quote": "womit er an seiner Kapazitätsgrenze angekommen ist",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bls.ch/en/unternehmen/medien/medienmitteilungen/2017/06-15-10-jahre-lbt",
+    "quote": "Das Wallis und Norditalien rückten damit um über eine Stunde näher an das Mittelland.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bls.ch/en/unternehmen/medien/medienmitteilungen/2017/06-15-10-jahre-lbt",
+    "quote": "2016 wurde mit über 33 Millionen transportierten Bruttotonnen ein neuer Rekord erreicht.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.newsd.admin.ch/newsd/message/attachments/39641.pdf",
+    "quote": "1989 Bundesrat beschliesst die Netzvariante mit Basistunnels durch Lötschberg und Gotthard/Ceneri",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When exactly did the main digging start?",
+   "Why was only part of the tunnel built with two tracks (cost is assumed, not sourced)?",
+   "Where was the spoil put, and what land did it cover?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Bern, Falkenplatz 4, Bern",
+    "what": "Environmental impact report of BLS AlpTransit for the Frutigen portal and spoil deposits (Mitholz, Frutigen)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/lbt_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/loetsch_1915.png"
+  ],
+  "group": "t-rail"
+ },
+ "albulabahn": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "more regular transport services, particularly in winter, became a prerequisite for the economic future of the mountaindwellers",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "Albula (1903) and Bernina (1910) as substitutes for an eastern Alpine route (paraphrase)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "The construction of the railway began in 1898, and it was opened in 1904",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "42 tunnels and covered galleries (16.5 km) - 144 viaducts and bridges (2.9 km)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "three single spirals and a triple spiral between the stations of Bergun and Préda",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/041881/",
+    "quote": "2008 wurde die RhB in der Landschaft Albula/Bernina zum Unesco-Welterbe erklärt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "made a decisive contribution to the birth of winter sports",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/articles/001419/2019-11-13/",
+    "quote": "Die Albulabahn (1903, Rhätische Bahn) förderte den Fremdenverkehr, ein Kurhaus wurde 1905 erstellt",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008811/2018-01-30/",
+    "quote": "Die Eröffnung der Albulabahn 1903 brachte den Verkehr über den Julierpass weitgehend zum Erliegen.",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "Did the population of Surmeir fall after 1903 because of the railway (HLS Surmeir, not opened)?",
+   "Does the OSM line run through the new Albula tunnel or the tunnel of 1903?",
+   "Opening year: 1903 (HLS) or 1904 (ICOMOS, to St. Moritz)?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "RhB construction files of the Albula line: land bought, forest cut, number of workers and accidents."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/albula_1905.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/albula_berguen_1905.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/albula_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "berninabahn": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "This second line intended to open up the Upper Engadin was designed from the outset for electric traction",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "designed to follow an existing mountain road, which results in steep gradients (up to 70/1000)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "it crosses the Bernina pass in the open (2,253 m), before descending into the valley of the Adda (429m)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "13 tunnels and galleries (4 km) - 52 viaducts and bridges (700 m)",
+    "scope": "this change"
+   },
+   {
+    "item": "summary",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "The Bernina pass line, which is 61 km long, was opened in 1910",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/articles/008813/2008-08-15/",
+    "quote": "Die 1910 eröffnete Berninabahn verursachte einen massiven Einbruch im Warentransport.",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "When did the building start (1908 is not from an opened source)?",
+   "Did carters and inns on the Bernina pass road lose work after 1910? No source found."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Files of the Berninabahn-Gesellschaft: start of work, workers, land bought, effects on the pass road traffic."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/bernina_1912.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/bernina_grum_1915.png"
+  ],
+  "group": "t-rail"
+ },
+ "furka-basistunnel": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/042005/",
+    "quote": "1973-1982 wurde der 15,4 km lange Furkabasistunnel sowie ein Stollen nach Süden ins Bedrettotal für 311 Mio. Franken gebaut.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/042005/",
+    "quote": "Dies ermöglichte einen ganzjährigen Betrieb der Bahn mit Autoverlad.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008807/",
+    "quote": "nahm 1926 den Betrieb bis Disentis auf",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/042005/",
+    "quote": "Die Bergstrecke wurde stillgelegt und 1987 von der Dampfbahn Furka-Bergstrecke (DFB) übernommen",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Final cost: 311 million (HLS) or 318.5 million francs (Wikipedia)?",
+   "Several facts (winter closure, criticism, first-year traffic) come only from Wikipedia and need a primary source."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Parliamentary reports (1976) on the cost overrun of the Furka base tunnel; Furka-Oberalp winter timetables before 1982."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/furka_1981.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/furka_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "vereinatunnel": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://1815.ch/news/schweiz/news-schweiz/vereina",
+    "quote": "Ursprünglich konzipiert als wintersichere Verbindung vom Norden ins Unterengadin anstelle der Flüelapassstrasse",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bluewin.ch/de/news/wirtschaft/dank-vereinatunnel-in-18-minuten-vom-praettigau-ins-unterengadin-li.2452031",
+    "quote": "Mit gut 19 Kilometern Länge ist er der längste Meterspur-Bahntunnel der Welt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bluewin.ch/de/news/wirtschaft/dank-vereinatunnel-in-18-minuten-vom-praettigau-ins-unterengadin-li.2452031",
+    "quote": "1991 begannen schliesslich die Bauarbeiten.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/041881/",
+    "quote": "first network expansion since the founding period (paraphrase)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://www.bluewin.ch/de/news/wirtschaft/dank-vereinatunnel-in-18-minuten-vom-praettigau-ins-unterengadin-li.2452031",
+    "quote": "schliesslich kostete er jedoch rund 800 Millionen Franken",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bluewin.ch/de/news/wirtschaft/dank-vereinatunnel-in-18-minuten-vom-praettigau-ins-unterengadin-li.2452031",
+    "quote": "das Unterengadin deutlich näher ans Mittelland herangerückt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bluewin.ch/de/news/wirtschaft/dank-vereinatunnel-in-18-minuten-vom-praettigau-ins-unterengadin-li.2452031",
+    "quote": "2019 nutzten erstmals mehr als eine halbe Million Autofahrerinnen und Autofahrer den Autoverlad.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.bluewin.ch/de/news/wirtschaft/dank-vereinatunnel-in-18-minuten-vom-praettigau-ins-unterengadin-li.2452031",
+    "quote": "Blechlawine",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "How many days per year was the Flüela pass road closed in winter, and how often did avalanches block it?",
+   "Was there a cantonal vote in 1985 for the tunnel instead of a better pass road?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Cantonal vote documents (1985) and Flüela pass closure statistics before 1999."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/vereina_1990.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/vereina_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "hauenstein-tunnels": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007962/2014-01-07/",
+    "quote": "starben 64 Menschen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/articles/008853/2006-08-18/",
+    "quote": "wurde der erste, 1857 fertig gestellte Tunnel zwischen Trimbach und Läufelfingen errichtet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/articles/008853/2006-08-18/",
+    "quote": "Der zweite, 8134 m lange, sogenannte Basistunnel wurde 1912-1915 erstellt.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "der Hauenstein-Basistunnel der Linie Olten-Basel von 1916",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/articles/008853/2006-08-18/",
+    "quote": "1827-1829 wurde eine leistungsfähigere Passstrasse mit neuem Verlauf errichtet.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/articles/008853/2006-08-18/",
+    "quote": "brachte am Oberen Hauenstein eine massive Verminderung des Passverkehrs",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "When did the work on the first tunnel start, and did it open in 1857 or 1858?",
+   "Why was the base tunnel built (capacity, steep ramps)? No opened source says it.",
+   "How much lower is the base tunnel than the first tunnel?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Basel-Landschaft, Wiedenhubstrasse 35, Liestal",
+    "what": "Reports on the Hauenstein tunnel fire of 1857 (victims) and Centralbahn construction dates."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/hauen_1920.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/hauen_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "rigibahn": {
+  "evidence": [
+   {
+    "item": "summary",
+    "url": "https://hls-dhs-dss.ch/de/articles/007449/",
+    "quote": "1871 nahm mit der Vitznau-Rigi-Bahn (VRB) die erste Zahnradbahn Europas ihren Betrieb auf",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007449/",
+    "quote": "1816 eröffnete Martin Bürgi das erste Gasthaus auf Rigi Kulm",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.rigi.ch/_Resources/Persistent/36a4396eaf7687a28a68751d49f6180c221d1013/Geschichte%20RBAG.pdf",
+    "quote": "Allerdings nur bis zur Kantonsgrenze auf Staffelhöhe, da die luzernische Gesellschaft keine Konzession auf Schwyzer Boden besass.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007449/",
+    "quote": "1875 folgten die Arth-Rigi-Bahn (ARB)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007449/",
+    "quote": "1880 transportieren die VRB und die ARB fast 140'000 Passagiere, 1910 gut 180'000",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.rigi.ch/_Resources/Persistent/36a4396eaf7687a28a68751d49f6180c221d1013/Geschichte%20RBAG.pdf",
+    "quote": "Heute fahren die Züge immer noch auf dem 1871 installierten Zahnradsystem.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/000632/2013-10-14/",
+    "quote": "Bis zur Eröffnung der Vitznau-Rigi-Bahn 1871 ermöglichte der 1818-1820 angelegte Rigiweg zahlreichen Bewohnern",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/articles/000726/2009-08-20/",
+    "quote": "vielen Arthern brachte die Bahn jedoch auch Erwerbsverluste",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Was the Vitznau–Rigi railway the first rack railway in Europe, or was the Ostermundigen quarry railway (1870) earlier?",
+   "How many porters lost their work in Weggis and Vitznau?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Luzern, Schützenstrasse 9, Luzern",
+    "what": "Concession file of 1869 for the Vitznau-Rigi railway; petitions of Rigi porters."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/rigi_1900.png"
+  ],
+  "group": "t-rail"
+ },
+ "pilatusbahn": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/articles/008782/2010-05-20/",
+    "quote": "Hotel Klimsenhorn, 1856-1861 (paraphrase)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / why 3",
+    "url": "https://www.swissmint.ch/dam/de/sd-web/TZa0r0ImbCao/2011-2-si-steilste-zahnradbahn-welt-d.pdf",
+    "quote": "Die 4618 m lange Bahnstrecke von Alpnachstad nach Pilatus Kulm wurde eröffnet (Dampfbetrieb bis 1937)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.swissmint.ch/dam/de/sd-web/TZa0r0ImbCao/2011-2-si-steilste-zahnradbahn-welt-d.pdf",
+    "quote": "Konstruktion mit zwei horizontal drehenden Zahnrädern, die anlässlich der Weltausstellung 1889 in Paris präsentiert wurde",
+    "scope": "this change"
+   },
+   {
+    "item": "summary",
+    "url": "https://hls-dhs-dss.ch/de/articles/013900/2015-02-11/",
+    "quote": "so die Bergbahn auf den Pilatus mit 48%",
+    "scope": "this change"
+   },
+   {
+    "item": "summary / why 2",
+    "url": "https://hls-dhs-dss.ch/articles/008782/2010-05-20/",
+    "quote": "die steile Zahnradbahn (built 1886-1889, paraphrase)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissmint.ch/dam/de/sd-web/TZa0r0ImbCao/2011-2-si-steilste-zahnradbahn-welt-d.pdf",
+    "quote": "Heute werden jährlich knapp 300 000 Gäste mit der Zahnradbahn von Alpnachstad auf Pilatus Kulm befördert",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/articles/008782/2010-05-20/",
+    "quote": "Hotel Pilatus-Kulm (1890) (paraphrase)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Did workers die while the line was built?",
+   "What did the line take from the landscape (forest cut, rock blasted)? No historical source found."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Obwalden, Rathaus, Sarnen",
+    "what": "Concession and building files of the Pilatus railway (1885-1889): workers, accidents, land and forest used."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/pilatus_1905.png"
+  ],
+  "group": "t-rail"
+ },
+ "jungfraubahn": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.jungfrau.ch/de-ch/discover-top-of-europe/jungfraubahn-das-jahrhundertwerk-und-seine-pioniere/",
+    "quote": "das Jungfrau-Massiv mit einer elektrischen Zahnradbahn zu erschliessen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / why 3",
+    "url": "https://hls-dhs-dss.ch/articles/008786/2025-01-06/",
+    "quote": "built 1896-1912; Eigergletscher 1898, Eigerwand 1903, Eismeer 1905, Jungfraujoch 1 August 1912 (paraphrase)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.jungfrau.ch/de-ch/jungfraujoch-top-of-europe/bau-der-jungfraubahn/",
+    "quote": "Mit dem Spatenstich beginnt der Bau der Jungfraubahn.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/articles/008786/2025-01-06/",
+    "quote": "Finanzknappheit",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/articles/008786/2025-01-06/",
+    "quote": "about one million tourists a year (paraphrase)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.jungfrau.ch/de-ch/jungfraujoch-top-of-europe/bau-der-jungfraubahn/",
+    "quote": "30 Bauarbeiter bezahlen mit ihrem Leben – mehrheitlich aufgrund von Sprengunglücken.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.jungfrau.ch/de-ch/jungfraujoch-top-of-europe/bau-der-jungfraubahn/",
+    "quote": "Sechs Mal streiken die Arbeiter, acht Mal wechselt die Bauleitung.",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Were the 30 dead workers Italians (plattformj.ch, not opened)?",
+   "Where was the rock from the tunnel dumped?"
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Bern, Falkenplatz 4, Bern",
+    "what": "Concession and accident files of the Jungfraubahn (1896-1912): list of dead workers, strikes, spoil dumps."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/jungfrau_1915.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-rail/jungfrau_today.png"
+  ],
+  "group": "t-rail"
+ },
+ "simplon-road": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/VS00010400.pdf",
+    "quote": "da dieser die kürzeste Verbindung zwischen Paris und Mailand bildete",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/VS00010400.pdf",
+    "quote": "In der Endphase arbeiteten am Simplon bis zu 3000 Arbeiter. Am 9. Oktober 1805 konnte die Beendigung ... gefeiert werden",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/",
+    "quote": "Von 13'258 Reisenden 1905 sank die Zahl auf 845 1907",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/",
+    "quote": "nicht mehr nur die kürzeste, sondern klar auch die schnellste Verbindung zwischen Paris und Mailand",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/VS00010400.pdf",
+    "quote": "Ausbau der Strasse bis zu 7.2 m und sogar 8.4 m Breite",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/",
+    "quote": "neue Routenführung weitgehend der napoleonischen Strasse folgte und diese dadurch grösstenteils zerstörte",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/",
+    "quote": "belief sich 2010 auf ca. 80'000",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/VS00010400.pdf",
+    "quote": "many of them are alredy broken, or forced into the precipice by rocks and avalanches",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The 63 km length is for Glis–Domodossola and includes the Italian part.",
+   "The number of workers who died during the building is not known from the sources used."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Wallis, Rue de Lausanne 45, Sion",
+    "what": "Documents on the building of the Simplon road 1800–1805 (workers, deaths, land taken from farmers)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/simplon_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/simplon_1880_gabi.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/simplon_today.png"
+  ],
+  "group": "t-road"
+ },
+ "gotthard-pass-road": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007466/",
+    "quote": "schon 1707 das 60 m lange Urner Loch bei Andermatt, das die Twärrenbrücke in der Schöllenen überflüssig machte",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00010300.pdf",
+    "quote": "Die Konkurrenz der 1805 eröffneten Simplonstrasse sowie der Beginn des Kunststrassenbaus über den San Bernardino und Splügen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00010300.pdf",
+    "quote": "Die neue Strasse sollte 6 m breit sein und eine maximale Steigung von 10% aufweisen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/TI00060200.pdf",
+    "quote": "fu iniziata nella primavera 1828 e portata a termine nel 1832",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007466/",
+    "quote": "von 1842 an verkehrte zwischen Chiasso und Flüelen täglich eine Postkutsche in beiden Richtungen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007466/",
+    "quote": "um 1870 ca. 70'000 Reisende und 10'000 bis 20'000 t Güter auf der Passstrasse befördert",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00010300.pdf",
+    "quote": "folgte sie weitgehend dem Trassee des Saumweges",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ivs.admin.ch/dam/it/sd-web/hqGT0tmFmMlg/ur_kantonsheft.pdf",
+    "quote": "Erst 1832 ... gab man die alten Traditionen auf und unterwarf das Transportwesen auch in Uri dem Prinzip der freien Konkurrenz",
+    "scope": "region"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00010300.pdf",
+    "quote": "Von der 1830 gebauten Kunststrasse sind nur noch wenige Reste erhalten geblieben",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Sources give different years for the road: 1827–1830 (HLS) or 1828–1832 (IVS for Ticino).",
+   "The mule path is shown only in pieces. Its full line is not known.",
+   "The end of the 1832 transport rights is linked in time with the road, but the sources do not say the road caused it."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "K. E. Müller's plan of about 1828 for the Gotthard road (Planarchiv 1068): exact line of the mule path in the Schöllenen."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthardpass_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthardpass_1890_tremola.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthardpass_1900_schoellenen.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthardpass_today_tremola.png"
+  ],
+  "group": "t-road"
+ },
+ "san-bernardino-splugen-roads": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008810/",
+    "quote": "in der zweiten Hälfte des 18. Jahrhunderts ein gepflästertes Fahrsträsschen über den San Bernardino gebaut, aber bald zugunsten des Saumverkehrs aufgegeben",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/GR00170200.pdf",
+    "quote": "Gebaut und bezahlt hat sie das lombardo–venetianische Königreich, das vermeiden wollte, dass der Transitverkehr auf den ... Bernhardinpass überging",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008810/",
+    "quote": "verlegte er die Rheinbrücke taleinwärts und vermied in den nachfolgenden Serpentinen die Lawinenhänge",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008810/",
+    "quote": "Die erste für Frachtwagen und Kutschen durchgehend befahrbare Strasse wurde gleichzeitig mit dem Splügen 1818-1823 erstellt",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/008810/",
+    "quote": "Fuhrleute, Wirte, Handwerker und auch die Landwirtschaft profitierten vom Transit",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/GR00170200.pdf",
+    "quote": "dient die Anlage von 1818–22 heute noch dem Verkehr",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008810/",
+    "quote": "Das Portenwesen der Säumerbauern wurde gegen deren Widerstand 1861 endgültig abgeschafft",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/GR00170200.pdf",
+    "quote": "Ein Unwetter im Jahre 1834 zerstörte diesen Verlauf weitgehend",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/GR00170200.pdf",
+    "quote": "Insbesondere fallen die wunderschönen, gemauerten Galerien den Verbreiterungen zum Opfer",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The old mule paths are shown only in pieces.",
+   "It is not checked whether the red line on the San Bernardino is the oldest path or the later medieval path."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Building files of the Kommerzialstrassen 1818–1823 (workers, land, avalanche protection)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/sbsp_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/sbsp_1880_pass.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/sbsp_today_pass.png"
+  ],
+  "group": "t-road"
+ },
+ "axenstrasse": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
+    "quote": "der Weg über den Axen war gefährlich und es ist nicht sicher, ob er immer durchgehend passierbar war",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
+    "quote": "Der Gotthard, die nationale Alpenfeste, sollte von allen Seiten her leicht erreichbar sein",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / gained 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
+    "quote": "Am 12. Juni 1864 war Sisikon erstmals auf einer Strasse erreichbar; am 3. Juli 1865 wurde die ganze Strecke ... eröffnet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.ivs.admin.ch/dam/it/sd-web/hqGT0tmFmMlg/ur_kantonsheft.pdf",
+    "quote": "Erst mit der Eröffnung der Axenstrasse entlang dem Urnersee 1865 wurde die Gotthardroute durchgehend fahrbar",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
+    "quote": "wurde die Axenstrasse zu einer weltbekannten touristischen Attraktion",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.ivs.admin.ch/dam/it/sd-web/hqGT0tmFmMlg/ur_kantonsheft.pdf",
+    "quote": "Die Dampfschifffahrt florierte bis 1865; dann verlor sie den Warenverkehr grösstenteils an die neu errichtete Axenstrasse",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
+    "quote": "Die Gesamtkosten betrugen 842 000 Franken; auf das Urner Gebiet entfielen 598 000 Franken. Der Bund übernahm davon 290 000 Franken",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
+    "quote": "Durch diese Neubauten wurden mehrere Teilstücke stillgelegt oder als Wanderweg umbenutzt",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The line covers only the Uri part (Flüelen–Sisikon); the Schwyz part to Brunnen is not drawn.",
+   "No old map before 1864 could be shown for this area."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/axen_1864.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/axen_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/axen_today.png"
+  ],
+  "group": "t-road"
+ },
+ "klausen-road": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00070300.pdf",
+    "quote": "die Achse Aaretal - Reusstal - Linthal",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00070300.pdf",
+    "quote": "Am 21. August 1899 wurde die Strasse dem Verkehr übergeben",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.ivs.admin.ch/dam/it/sd-web/hqGT0tmFmMlg/ur_kantonsheft.pdf",
+    "quote": "weil diese neue Einrichtung nur die «Unzufriedenheit und den Müssigang» fördere",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00070300.pdf",
+    "quote": "Da ihm grosser Erfolg beschieden war, wurde 1901 ein zweiter Kurs eingerichtet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.ivs.admin.ch/dam/it/sd-web/hqGT0tmFmMlg/ur_kantonsheft.pdf",
+    "quote": "Nach der Eröffnung der Klausenstrasse im Juni 1900 ... konzentrieren sich gegen Unter­schächen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00070300.pdf",
+    "quote": "indem sie sie zwangen, die Lebensmittel in ihren Magazinen für übersetzte Preise zu kaufen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00070300.pdf",
+    "quote": "massive Überschreitung des Kostenvoranschlages um 80%",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.ivs.admin.ch/dam/it/sd-web/hqGT0tmFmMlg/ur_kantonsheft.pdf",
+    "quote": "gegen den erbitterten Widerstand der einheimischen Bevölkerung eine vollständig neue Linienführung durchgesetzt",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00070300.pdf",
+    "quote": "An die Stelle von traditionell gebauten Steinmauern treten Beton- und Zyklopenmauern",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Only the section from the pass to the Urnerboden is drawn.",
+   "Sources differ on the date of the official opening: 10 or 11 June 1900."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Becker (1900), 'Der Bau der Klausenstrasse', and building files: workers' conditions, accidents, land taken."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/klausen_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/klausen_1905.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/klausen_today.png"
+  ],
+  "group": "t-road"
+ },
+ "great-st-bernard-tunnel": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 1",
+    "url": "https://new.1815.ch/site/assets/files/0/17/37/32/010/1964.pdf",
+    "quote": "Damit wird eine wintersichere Verbindung mit dem benachbarten Aostatal Wirklichkeit",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://new.1815.ch/site/assets/files/0/17/37/32/010/1964.pdf",
+    "quote": "Nach 100 Metern Vortrieb auf schweizerischer Seite und 70 Metern auf italienischem Staatsgebiet kommen die Arbeiten zum Erliegen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://letunnel.com/en/?p=1926",
+    "quote": "the first road traffic tunnel to be opened through the Alps",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://new.1815.ch/site/assets/files/0/17/37/32/010/1964.pdf",
+    "quote": "300 000 Motorfahrzeuge benutzen den neuen Strassentunnel",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3 / lost 1 / lost 2",
+    "url": "https://www.swissinfo.ch/ger/business/bizarrer-clinch-um-den-tunnel-am-grossen-st-bernhard/49005926",
+    "quote": "(facts read in the article: 849,570 vehicles in 2022; beam fell 2017; renovation 52 million euros; concession ends 2034)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The tunnel line is traced from a map and may be 50–100 m off.",
+   "Sources give 18 or 19 March 1964 for the opening.",
+   "No source was found for workers who died while building the tunnel.",
+   "Its effect on the villages on the old pass road is not known from the sources used."
+  ],
+  "visits": [
+   {
+    "place": "Médiathèque Valais, Rue de Lausanne 45, Sion",
+    "what": "Newspapers of March 1964 (Confédéré, Walliser Bote) on the tunnel opening and building."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gsbtunnel_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gsbtunnel_1970.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gsbtunnel_1970_z15_trace.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gsbtunnel_today.png"
+  ],
+  "group": "t-road"
+ },
+ "san-bernardino-tunnel": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008810/",
+    "quote": "Ganzjährig offen ist der 1967 eröffnete, 6,6 km lange Tunnel der A13 ... Seither ist das Misox wieder ganzjährig mit dem Rest des Kantons verbunden",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.nau.ch/lifestyle/gesellschaft/digitales-schulmagazin-eroffnung-des-san-bernardino-tunnels-66475695",
+    "quote": "Die Eröffnung des San Bernardino Tunnels fand am 1. Dezember 1967 statt. Der Durchstich war aber bereits am 10. April 1965",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://www.swissinfo.ch/eng/-swisshistorypics_swiss-celebrate-road-tunnel-anniversary/43720762",
+    "quote": "(read in the article: drilling began 1962; breakthrough 10 April 1965; inauguration 1 December 1967; links Ticino and Graubünden all year)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3 / lost 1",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/GR00190000.pdf",
+    "quote": "Erst die Eröffnung des San Bernardino-Tunnels der N13 hat wieder einen – nicht unumstrittenen – Verkehrsaufschwung gebracht",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The building dates come from press articles, not from an official building report.",
+   "The north end of the tunnel line may be up to 300 m off.",
+   "No sourced facts were found about land, noise or workers' deaths."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Graubünden, Karlihofplatz, Chur",
+    "what": "Files of the N13 San Bernardino tunnel: start of work, workers, accidents, debate about traffic."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/sbtunnel_1965.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/sbtunnel_1970.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/sbtunnel_today.png"
+  ],
+  "group": "t-road"
+ },
+ "gotthard-road-tunnel": {
+  "evidence": [
+   {
+    "item": "why 1 / gained 1",
+    "url": "https://www.swissinfo.ch/ger/finanzplatz-schweiz/20-jahre-gotthard-strassentunnel/1642794",
+    "quote": "(read in the article: 1960 parliament wanted a winter-safe link to Ticino; 1965 decision; opening 5 September 1980; cost 686 million francs)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "1964 um den Gotthardtunnel (1980 eröffnet)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/TI00060000.pdf",
+    "quote": "Nel 1980, con la costruzione del tunnel autostradale Airolo-Göschenen, anche il traffico automobilistico ha abbandonato la strada del passo",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007466/",
+    "quote": "vor allem der Verkehr über den Gotthard zu einer Streitfrage im Verhältnis zwischen der Schweiz und der Europäischen Union",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007466/",
+    "quote": "Das schwere Unglück 2001 im Strassentunnel schärfte den Blick für die Sicherheitsprobleme der alpinen Strassentunnels",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The number of workers who died while building the tunnel (often given as 19) has no primary source here.",
+   "The drawn tunnel line is about 0.9 km shorter than the official length.",
+   "The 32-hour queue (Palm Sunday weekend 2000) comes from one article."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "Files on the Gotthard road tunnel 1970–1980: accidents and deaths of workers."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthard_tunnel_1965.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthard_tunnel_1985.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthard_tunnel_1985_north.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/gotthard_tunnel_today.png"
+  ],
+  "group": "t-road"
+ },
+ "first-motorway-horw": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000621/",
+    "quote": "1955 wurde zwischen Luzern und Ennethorw das erste Autobahnteilstück (A2) der Schweiz eröffnet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / why 2 / why 3 / lost 2 / lost 3",
+    "url": "https://www.swissinfo.ch/ger/erste-autobahn-hatte-noch-platz-fuer-fussgaenger-und-pferdefuhrwerke/41467362",
+    "quote": "eine drei Kilometer lange Ausfallstrasse ohne Kreuzungen",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The exact start and end points of the 1955 section are not checked.",
+   "Parts of the line were moved into tunnels after 2004; the drawn line is today's road."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Luzern, Schützenstrasse 9, Lucerne",
+    "what": "Files on the Horw bypass 1950–1955: land bought from farmers, cost, planning reasons."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/horw_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/horw_1965.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/horw_today.png"
+  ],
+  "group": "t-road"
+ },
+ "a1-geneva-lausanne": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "die Strecke zwischen Genf und Lausanne der A1, die 1963 im Hinblick auf die Landesausstellung Expo 64 eingeweiht wurde",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "1811 km lange, auf 800 km als Autobahn auszubauende Nationalstrassennetz",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "2010 betrug die Länge des in Betrieb stehenden Autobahnnetzes 1790 km, was 94,6% der geplanten Gesamtlänge entspricht",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "Seit 1960 hat der Bund rund 61 Mrd. Franken für den Bau der Nationalstrassen ausgegeben",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "Der für 1980 prognostizierte Motorfahrzeugbestand ... wurde bereits 1965 übertroffen",
+    "scope": "general"
+   },
+   {
+    "item": "lost 4",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "gegen die als undemokratisch empfundene, zu wenig an den Bedürfnissen von Mensch und Umwelt orientierte Nationalstrassenplanung",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "The exact ends of the section opened in 1963–1964 are not checked.",
+   "The land area taken by the motorway is not known from the sources used.",
+   "Sources differ on which national road section was the first (A2 Hergiswil 1962, A1 Grauholz 1962, or A1 Geneva–Lausanne 1963)."
+  ],
+  "visits": [
+   {
+    "place": "Archives cantonales vaudoises, Rue de la Mouline 32, Chavannes-près-Renens",
+    "what": "Files on the building of the Geneva–Lausanne motorway: land bought, vineyards lost, opening date."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/a1_geneva_lausanne_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/a1_geneva_lausanne_1966.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/a1_geneva_lausanne_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/a1_rolle_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/a1_rolle_1966.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/a1_morges_1966.png"
+  ],
+  "group": "t-road"
+ },
+ "melide-causeway": {
+  "evidence": [
+   {
+    "item": "why 1 / lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/002183/",
+    "quote": "Nach dem Bau der Kantonsstrasse 1818 nahm 1819 ein Fährdienst ... den Betrieb auf ... wurde aber 1847 nach dem Bau des Seedamms (1844-47) wieder eingestellt",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/002183/",
+    "quote": "Über das 817 m lange Bauwerk führte ab 1874 auch die Eisenbahnlinie",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008661/",
+    "quote": "getrennt durch den Damm von Melide, der auf einer Moräne auf dem Seegrund errichtet wurde",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008661/",
+    "quote": "wurde der Seeraum zur bevorzugten Route für die Strassen-, Eisenbahn- (1874) und Autobahnverbindung (1968-1970)",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "Effects of the dam on water flow and fish between the two lake basins were not found in the sources used.",
+   "Who paid for and built the dam is not stated in the sources used."
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Building files of the Melide dam 1844–1847 (cost, workers, design)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/melide_1855.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/melide_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/melide_1940.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/t-road/melide_today.png"
+  ],
+  "group": "t-road"
+ }
+}

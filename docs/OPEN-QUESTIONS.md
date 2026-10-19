@@ -93,3 +93,144 @@ Every "gained" and "lost" item has a short quote from a source in `research/evid
 - Muota: the flow problems that the canton names come mostly from the power plants of the 1950s/60s, not only from the correction.
 - Kander: one lost item is about the later works (from 1899) on the same river, not the 1714 cut.
 - Lost species are named only where a source names them (lake trout of Lake Thun, salmon in the Limmat, nase in the Sense with unclear cause).
+
+# Transport: railways, roads and tunnels (round 5)
+
+Shapes of railways and roads come from OpenStreetMap or from the federal inventories (IVS, ASTRA national roads). Old mule paths are drawn only where they could be checked on an old map.
+
+### Gotthard pass road and Tremola
+
+- Sources give different years for the road: 1827–1830 (HLS) or 1828–1832 (IVS for Ticino).
+- The mule path is shown only in pieces. Its full line is not known.
+- The end of the 1832 transport rights is linked in time with the road, but the sources do not say the road caused it.
+
+### Simplon pass road (Napoleon's road)
+
+- The 63 km length is for Glis–Domodossola and includes the Italian part.
+- The number of workers who died during the building is not known from the sources used.
+
+### San Bernardino and Splügen carriage roads
+
+- The old mule paths are shown only in pieces.
+- It is not checked whether the red line on the San Bernardino is the oldest path or the later medieval path.
+
+### Melide causeway (Ponte Diga) across Lake Lugano
+
+- Effects of the dam on water flow and fish between the two lake basins were not found in the sources used.
+- Who paid for and built the dam is not stated in the sources used.
+
+### Spanisch-Brötli-Bahn Zurich–Baden, the first Swiss railway
+
+- Is the route in Baden traced from the 1895 map the same as the route of 1847?
+- Is the length 23 km (SRF, swissinfo) or 20 km (Wikipedia)?
+- No sourced local loss (for example farmland or carters' work) was found for this line.
+
+### Hauenstein tunnels (1858 and base tunnel 1916)
+
+- When did the work on the first tunnel start, and did it open in 1857 or 1858?
+- Why was the base tunnel built (capacity, steep ramps)? No opened source says it.
+- How much lower is the base tunnel than the first tunnel?
+
+### Axenstrasse along Lake Uri
+
+- The line covers only the Uri part (Flüelen–Sisikon); the Schwyz part to Brunnen is not drawn.
+- No old map before 1864 could be shown for this area.
+
+### Vitznau–Rigi railway, the first mountain rack railway in Europe
+
+- Was the Vitznau–Rigi railway the first rack railway in Europe, or was the Ostermundigen quarry railway (1870) earlier?
+- How many porters lost their work in Weggis and Vitznau?
+
+### Gotthard railway and Gotthard tunnel
+
+- How many workers died: 177 in the summit tunnel (HLS) or 199 officially (SRF), and how many on the whole line?
+- Was the miners' uprising (1875) put down by force, and were people killed? No opened source gives this.
+- Does today's mountain line differ in places from the line of 1882?
+
+### Pilatus railway, the steepest rack railway in the world
+
+- Did workers die while the line was built?
+- What did the line take from the landscape (forest cut, rock blasted)? No historical source found.
+
+### Klausen pass road
+
+- Only the section from the pass to the Urnerboden is drawn.
+- Sources differ on the date of the official opening: 10 or 11 June 1900.
+
+### Jungfrau railway to the Jungfraujoch
+
+- Were the 30 dead workers Italians (plattformj.ch, not opened)?
+- Where was the rock from the tunnel dumped?
+
+### Simplon tunnel
+
+- How many workers died while the Simplon tunnel was dug?
+- Was the second tube finished in 1921 or 1922?
+
+### Albula railway Thusis–St. Moritz
+
+- Did the population of Surmeir fall after 1903 because of the railway (HLS Surmeir, not opened)?
+- Does the OSM line run through the new Albula tunnel or the tunnel of 1903?
+- Opening year: 1903 (HLS) or 1904 (ICOMOS, to St. Moritz)?
+
+### Lötschberg railway and Lötschberg tunnel
+
+- In which year did the gravel break into the tunnel (1908 is not from an opened source)?
+- No sourced loss of landscape or of pass traffic was found for this line.
+
+### Bernina railway St. Moritz–Tirano
+
+- When did the building start (1908 is not from an opened source)?
+- Did carters and inns on the Bernina pass road lose work after 1910? No source found.
+
+### First Swiss motorway, Lucerne–Ennethorw
+
+- The exact start and end points of the 1955 section are not checked.
+- Parts of the line were moved into tunnels after 2004; the drawn line is today's road.
+
+### Great St Bernard road tunnel
+
+- The tunnel line is traced from a map and may be 50–100 m off.
+- Sources give 18 or 19 March 1964 for the opening.
+- No source was found for workers who died while building the tunnel.
+- Its effect on the villages on the old pass road is not known from the sources used.
+
+### A1 Geneva–Lausanne and the national road network
+
+- The exact ends of the section opened in 1963–1964 are not checked.
+- The land area taken by the motorway is not known from the sources used.
+- Sources differ on which national road section was the first (A2 Hergiswil 1962, A1 Grauholz 1962, or A1 Geneva–Lausanne 1963).
+
+### San Bernardino road tunnel (A13)
+
+- The building dates come from press articles, not from an official building report.
+- The north end of the tunnel line may be up to 300 m off.
+- No sourced facts were found about land, noise or workers' deaths.
+
+### Gotthard road tunnel (A2)
+
+- The number of workers who died while building the tunnel (often given as 19) has no primary source here.
+- The drawn tunnel line is about 0.9 km shorter than the official length.
+- The 32-hour queue (Palm Sunday weekend 2000) comes from one article.
+
+### Furka base tunnel
+
+- Final cost: 311 million (HLS) or 318.5 million francs (Wikipedia)?
+- Several facts (winter closure, criticism, first-year traffic) come only from Wikipedia and need a primary source.
+
+### Vereina tunnel
+
+- How many days per year was the Flüela pass road closed in winter, and how often did avalanches block it?
+- Was there a cantonal vote in 1985 for the tunnel instead of a better pass road?
+
+### Gotthard and Ceneri base tunnels (NEAT)
+
+- When did the main work on the Ceneri base tunnel start (2006 is not from an opened source)?
+- Where was the spoil of the two tunnels put (Reuss delta islands, Sigirino deposit), and how much land did the deposits cover?
+- Ceneri: no sourced landscape loss was found.
+
+### Lötschberg base tunnel (NEAT)
+
+- When exactly did the main digging start?
+- Why was only part of the tunnel built with two tracks (cost is assumed, not sourced)?
+- Where was the spoil put, and what land did it cover?

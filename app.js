@@ -6,7 +6,13 @@
   var TYPE_GROUPS = [
     { label: "Large river corrections", test: function (c) { return c.type === "river" && c.scale !== "regional"; } },
     { label: "Regional river corrections", test: function (c) { return c.type === "river" && c.scale === "regional"; } },
-    { label: "Marshes, lakes and dams", test: function (c) { return c.type !== "river"; } }
+    { label: "Marshes and wetlands", test: function (c) { return c.type === "marsh"; } },
+    { label: "Lakes and shores", test: function (c) { return c.type === "lake"; } },
+    { label: "Streams in pipes", test: function (c) { return c.type === "stream"; } },
+    { label: "Dams and reservoirs", test: function (c) { return c.type === "dam"; } },
+    { label: "Forests", test: function (c) { return c.type === "forest"; } },
+    { label: "Land use", test: function (c) { return c.type === "landuse"; } },
+    { label: "Railways, roads and tunnels", test: function (c) { return c.type === "transport"; } }
   ];
 
   // One colour per period in which the work started: the same on the map, legend and time chart.
@@ -25,12 +31,12 @@
     c.periods.forEach(function (p) { if (year >= p[0]) st = year >= p[1] ? "done" : "building"; });
     return st;
   }
+  // Lines for the overview: the "after" lines and the outlines of the "after" areas (lakes, forests ...).
   function afterLines(c) {
     var out = [];
-    c.after.lines.forEach(function (ln) {
-      var k = ln.coords;
-      if (k.length && typeof k[0][0] === "number") out.push(k); else out = out.concat(k);
-    });
+    function add(k) { if (k.length && typeof k[0][0] === "number") out.push(k); else out = out.concat(k); }
+    (c.after.lines || []).forEach(function (ln) { add(ln.coords); });
+    (c.after.areas || []).forEach(function (ar) { add(ar.coords); });
     return out;
   }
 
@@ -82,7 +88,7 @@
     var building = items.filter(function (i) { return i.state === "building"; }).length;
     d3.select("#stat").html(done + " of " + items.length + " changes finished" + (building ? " <span>(" + building + " going on: dashed)</span>" : ""));
     var leg = ERAS.map(function (e) { return '<span class="swatch" style="background:' + e.color + '"></span><span>' + e.label + "</span>"; });
-    leg.push('<span class="swatch" style="height:0;margin-top:9px;border-top:5px solid var(--ink);width:22px;background:none"></span><span>Thick line: large correction (HLS list). Thin line: regional.</span>');
+    leg.push('<span class="swatch" style="height:0;margin-top:9px;border-top:5px solid var(--ink);width:22px;background:none"></span><span>Thick line: large change. Thin line: regional change. A dot only: no line drawn.</span>');
     d3.select("#legend").attr("hidden", null).selectAll("li").data(leg).join("li").html(function (h) { return h; });
     drawGantt(stop.year);
   }
