@@ -29,8 +29,8 @@ Published on GitHub Pages from the `main` branch (18 Oct 2026). The repository n
 
 | # | Phase | Status |
 |---|---|---|
-| 1 | Move the 48 corrections from "How Switzerland Grew" and convert them to the human-changes format; site shell with overview map, time chart, stories | **Done** (18 Oct 2026). `gained` / `lost` are still empty. |
-| 2 | Water: marshes and wetlands (incl. peat), lake regulation and shore filling, streams in pipes, dams and hydropower (incl. dry river beds); fill `gained` / `lost` for all river changes | Next |
+| 1 | Move the 48 corrections from "How Switzerland Grew" and convert them to the human-changes format; site shell with overview map, time chart, stories | **Done** (18 Oct 2026) |
+| 2 | Water: (a) fill `gained` / `lost` for the 48 existing changes; (b) marshes and wetlands (incl. peat), lake regulation and shore filling, streams in pipes, dams and hydropower (incl. dry river beds) | (a) **Done** (19 Oct 2026); (b) next |
 | 3 | Forests and land use: forest loss and regrowth (1876 forest law), pastures above the tree line, vineyard terraces, settlements, gravel pits and quarries | Planned |
 | 4 | Transport: Alpine tunnels and railways, passes and roads | Planned |
 | 5 | Protection: avalanche and torrent works | Planned |
@@ -41,6 +41,14 @@ Published on GitHub Pages from the `main` branch (18 Oct 2026). The repository n
 
 Same as the sister site: open questions in `docs/OPEN-QUESTIONS.md` sorted by impact, top items as GitHub issues, visit sheets in `docs/VISITS.md` for archives and libraries. Tools for tracing and checking lines are kept outside the site (see the history of this project); new courses come from OpenStreetMap or swisstopo swissTLM3D, old courses are traced on swisstopo's historical maps and checked by eye.
 
+## Gained and lost (19 Oct 2026)
+
+- Order agreed with the user: first `gained` / `lost` for the 48 existing changes, then the new water changes.
+- 94 gained and 122 lost items. Each item has a short quote from a source in `research/evidence-gainlost.json` (not read by the build). Scope "region" there means the source covers the wider valley.
+- Rule: no item without a source. So some changes have few or no items (Thur in the Toggenburg, Suze, Areuse). Many sources do not state a safety gain; often floods continued. Gaps are listed in `docs/OPEN-QUESTIONS.md` (round 4).
+- Hydropower effects (e.g. Maggia) are left for the dam changes of phase 2b.
+
 ## Open next steps
 
-- Write `gained` / `lost` for the 48 river changes.
+- Phase 2b: new water changes. Before (dashed red) and after (blue) shapes are checked on swisstopo historical maps. Tracing helpers: `scripts/tracing/`.
+- Fill the gaps of round 4, where an archive can help (docs/VISITS.md).

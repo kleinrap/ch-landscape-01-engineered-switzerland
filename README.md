@@ -1,6 +1,6 @@
 # Engineered Switzerland
 
-How people reshaped the Swiss landscape: river corrections, drained marshes, lakes and dams. Each change shows the land before (dashed red) and after (blue) on today's map, why it was needed, and (soon) what was gained and lost. The final goal is a map "Switzerland Without Us". Sister site: How Switzerland Grew.
+How people reshaped the Swiss landscape: river corrections, drained marshes, lakes and dams. Each change shows the land before (dashed red) and after (blue) on today's map, why it was needed, and what was gained and lost (each with a source). The final goal is a map "Switzerland Without Us". Sister site: How Switzerland Grew.
 
 ## Run it
 

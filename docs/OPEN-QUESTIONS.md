@@ -77,3 +77,19 @@ The research agents marked these as uncertain. Items with no online source can b
 - Fully–Saillon: 1910–1940 comes from the title of a study that the agent did not read. The building year of the Canal de la Fontaine is not confirmed. The marsh outline is drawn by eye.
 - Suze (Vallon de Saint-Imier): HLS gives 1910–1940 for "a good third" of the river, without naming the stretches. Linking Courtelary–Cortébert to it is the agent's reading of the maps. The reasons in "Why" are general.
 - Seymaz: the marsh areas are drawn by eye.
+
+# Gained and lost (round 4)
+
+Every "gained" and "lost" item has a short quote from a source in `research/evidence-gainlost.json`. Items marked "region" there use a source for the wider valley, not only this stretch.
+
+- No item yet: Thur in the Toggenburg (no gains), Suze in the Vallon and Areuse (no gains and no losses). No source says what these works protected or what they destroyed.
+- No safety gain stated in a source: Seyon, Gürbe, Seez, Orbe, Broye, Reuss in Uri, Ticino, Aire, Aare at Klingnau, Aare at Gösgen, Vedeggio, Chur to Tardis. Sources often say that floods continued after the works.
+- Malaria: sources say malaria was a problem in the Linth plain, the Rhône valley, the Orbe plain, the Magadino plain and the Fully plain. No source says that a correction ended it. Malaria left Switzerland about 1900 in general (Vischer, BWG 2003).
+- Lungerersee: HLS gives a lowering of 18 m and 170 ha of new land; Vischer gives 35 m and 90 ha. The site uses HLS.
+- Linth: the losses (marshes, fevers) rest on one newspaper interview (Südostschweiz 2023).
+- Limmat (Dietikon) and Töss: all items rest on one source each (local yearbook; cantonal media release 2018).
+- Hinterrhein in the Domleschg: the items rest on one parliamentary question (Graubünden 2006).
+- Seymaz: the 1998 bill blames later floods on growing towns and modern farming, not on the lost marsh. The "why" text is changed to say this.
+- Muota: the flow problems that the canton names come mostly from the power plants of the 1950s/60s, not only from the correction.
+- Kander: one lost item is about the later works (from 1899) on the same river, not the 1714 cut.
+- Lost species are named only where a source names them (lake trout of Lake Thun, salmon in the Limmat, nase in the Sense with unclear cause).

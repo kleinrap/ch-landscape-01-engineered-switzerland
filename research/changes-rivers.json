@@ -22,8 +22,15 @@
    "The government of Bern decided to lead the river into Lake Thun, where the gravel could settle in deep water. The work of 1711 to 1714 was paid and led by Bern, after a plan by Samuel Bodmer.",
    "The work solved one problem and made new ones. The tunnel fell in, and the river cut a deep gorge. Lake Thun now got much more water, and Thun suffered floods. Bern had to widen the Aare outflow in Thun and work on it for a long time. The Kander diversion is one of the first big river works in Europe made on purpose to change a river's course."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "Lake Thun now catches the flood peaks and the gravel of the Kander. The Aare below Thun down to Bern got clear relief from floods.",
+   "Large areas west and north of Thun could be drained. The flooded gravel plain between Gwatt and Uttigen became farmland, and later settlements were built there."
+  ],
+  "lost": [
+   "The river cut a deep gorge through the hill by backward erosion (the river bed wears away upstream). This erosion still threatens bank protection on the lower Kander today.",
+   "The flood danger moved to the shores of Lake Thun. Thun had large floods and needed very expensive new works from 1720 to 1726.",
+   "Later corrections (from 1899) on the same river destroyed most of its floodplain habitat. Over 40 weirs block fish, and the lake trout of Lake Thun became threatened. Since about 2009 the canton plans river widenings."
+  ],
   "before": {
    "lines": [
     {
@@ -3167,9 +3174,12 @@
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008749/",
    "https://hls-dhs-dss.ch/de/articles/007850/",
-   "https://commons.wikimedia.org/wiki/File:Kander_-_Bodmer.JPG"
+   "https://commons.wikimedia.org/wiki/File:Kander_-_Bodmer.JPG",
+   "https://www.gewaesserrichtplaene.bvd.be.ch/content/dam/gewaesserrichtplaene_bvd/dokumente/de/region-oberland/grp-kander/grp-kander-1-grp-kander-bedeutung.pdf",
+   "https://www.bezg.ch/img/publikation/19_4/rezensionen.pdf",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf"
   ],
-  "notes": "Old course: Glütsch valley part traced on the 1890 Siegfried map (Glütschbach); the Allmend part follows the 'Kandergrund' bed on the 1890 map; the last 2 km to the Aare (below about 46.735 N) are estimated by eye (approximate). Area traced by hand on the 1890 map. New line from OpenStreetMap. Length 1 km is from the HLS table."
+  "notes": "Old course: Glütsch valley part traced on the 1890 Siegfried map (Glütschbach); the Allmend part follows the 'Kandergrund' bed on the 1890 map; the last 2 km to the Aare (below about 46.735 N) are estimated by eye (approximate). Area traced by hand on the 1890 map. New line from OpenStreetMap. Length 1 km is from the HLS table. Gained/lost: Lost 3 is about the corrections of the Kander from 1899 on (canton of Bern GRP Kander), not the 1714 cut itself; keep it only if the site accepts 'same river, later works'. The bezg source is a book review (of Bögli 2018), not the book itself. Kander.2050 / GEKa dates (2007, 2009) from the GRP Kander PDF."
  },
  {
   "id": "lungerersee",
@@ -3198,8 +3208,15 @@
    "The new land brought problems. The streams that flow into the lake now had a lower end, so they cut deeper into their beds and damaged the new fields.",
    "In 1921 the lake was dammed again for the Lungerersee power station (owned by the CKW power company, concession 1919). Since then the level moves between 667.5 m and 692 m. At high water the lake is larger than before 1790, and most of the land won in 1836 is under water again."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The lowered lake gave about 170 ha of new farmland at Lungern (1836).",
+   "Since 1921 the dammed lake feeds the Lungerersee power station, which makes electricity."
+  ],
+  "lost": [
+   "The streams into the lake now cut deeper. Their erosion damaged the new fields.",
+   "In 1921 the lake was dammed again, and the lowering was partly undone. Part of the won land went back under water.",
+   "The power station makes the lake level go up and down. At low water a bare strip of shore without plants appears."
+  ],
   "before": {
    "lines": [
     {
@@ -9249,9 +9266,10 @@
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008676/",
    "https://servat.unibe.ch/dfr/bger/2000/000428_1A-59-1995.html",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf"
   ],
-  "notes": "All dates and levels from HLS (Lungernsee). Owner CKW and concession 1919 from a Federal Court judgment. \"Up to 35 m\" is computed from the levels 657 m and 692 m. The shore of the lowered lake was extracted automatically from the blue lake fill of the map of 1920 and checked by eye. No map of this series shows the lake before 1836."
+  "notes": "All dates and levels from HLS (Lungernsee). Owner CKW and concession 1919 from a Federal Court judgment. \"Up to 35 m\" is computed from the levels 657 m and 692 m. The shore of the lowered lake was extracted automatically from the blue lake fill of the map of 1920 and checked by eye. No map of this series shows the lake before 1836. Gained/lost: Conflict: HLS gives 18 m lowering and 170 ha; Vischer (BWG 2003, p. 176) writes 'Absenkung um 35 m ... 250 Jucharten (90 ha) Kulturland' in 1835. I used the HLS figure. 'Most of the won land went back under water' rests on the data file's own levels plus the court's 'teilweise rückgängig'; neither source says 'most' in words. Neither source names fish or wetland losses."
  },
  {
   "id": "linth",
@@ -9278,8 +9296,16 @@
    "Andreas Lanz proposed in 1783 to lead the Linth into Lake Walen. In 1804 the Tagsatzung (the meeting of the cantons) decided to do the work. It was paid mostly by shares that people all over Switzerland bought. Hans Conrad Escher of Zurich led the work from 1807 without pay. After his death in 1823 his family got the name 'Escher von der Linth'.",
    "The Linth correction was the first big work of the whole Swiss nation. Later, people saw that straight canals also take away space for nature. Since 2008 the Linth works have been renewed, with more room for the river in some places."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The Linth plain and the Walensee area were protected from floods. The level of Lake Walen fell a lot, and the dykes held in the floods of 1999 and 2005.",
+   "The land flooded and marshy between 1750 and 1850 could be farmed again. Later drainage (1942–1962) made the plain a farming region.",
+   "Marsh fevers (malaria and similar fevers) disappeared from the plain."
+  ],
+  "lost": [
+   "The marshes and moors of the plain disappeared. The later drainage of the plain added to this loss.",
+   "Below Ziegelbrücke the canal runs above the land between dams. Side streams cannot flow into it, so they need parallel ditches and a pumping station.",
+   "The straight canals left little room for nature. Since 2008 the project Linth 2000 gives some back with large river widenings and new habitats."
+  ],
   "before": {
    "lines": [
     {
@@ -18160,9 +18186,11 @@
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008770/",
    "https://hls-dhs-dss.ch/de/articles/007850/",
-   "https://commons.wikimedia.org/wiki/File:Stich_Linthebene_1811.jpg"
+   "https://commons.wikimedia.org/wiki/File:Stich_Linthebene_1811.jpg",
+   "https://www.sg.ch/content/dam/sgch/bauen/raumentwicklung/richtplanung/natur-und-landschaft/Hochwasserschutz%20Linth.pdf",
+   "https://www.suedostschweiz.ch/schweiz-und-welt/interview-mit-linthingenieur-markus-jud-die-situation-ist-etwas-unheimlicher-geworden-865453"
   ],
-  "notes": "Old course from the 1811 plan (Wikimedia Commons), georeferenced with an affine fit on 7 control points (canal bends, Grynau, Tuggen, Benken, Mollis); error about 100–400 m, so the long red line is marked approximate. Alte/Spett Linth near Tuggen traced on the 1890 Siegfried map. Marsh outline drawn by hand on the 1890 map. New lines from OpenStreetMap ('Linth'). 1804 Tagsatzung decision, share financing, 'Escher von der Linth' and renewal since 2008 are from general knowledge and the HLS Escher article lead; not checked line by line. HLS table gives 15 km; HLS Linth article 17 km and 1807–1823."
+  "notes": "Old course from the 1811 plan (Wikimedia Commons), georeferenced with an affine fit on 7 control points (canal bends, Grynau, Tuggen, Benken, Mollis); error about 100–400 m, so the long red line is marked approximate. Alte/Spett Linth near Tuggen traced on the 1890 Siegfried map. Marsh outline drawn by hand on the 1890 map. New lines from OpenStreetMap ('Linth'). 1804 Tagsatzung decision, share financing, 'Escher von der Linth' and renewal since 2008 are from general knowledge and the HLS Escher article lead; not checked line by line. HLS table gives 15 km; HLS Linth article 17 km and 1807–1823. Gained/lost: Fevers and lost marshes rest on one newspaper interview (Linth engineer Markus Jud, Südostschweiz 2023); 'lost marshes' is the interviewer's phrase, confirmed by Jud. HLS Linth does not say malaria ended. Vischer (BWG 2003) says malaria left Switzerland about 1900 in general. 'Since 2008' for Linth 2000: approvals 2007, Federal Court Dec 2008 (SG Richtplan); works finished 2013 (search result, not opened). No species found."
  },
  {
   "id": "aare-thun-bern",
@@ -18191,8 +18219,15 @@
    "In the 18th and 19th centuries the population grew fast. People needed more farmland and room for villages. The Aare was also an important transport route, and boats and rafts were to use it all year. For these reasons the canton of Bern corrected the river twice: from 1824 to 1859 and from 1871 to 1892. The bed was narrowed to about 50 m between dykes.",
    "For about 100 years the corrected river worked well, and houses, roads and wells were built close to it. But the narrow, fast river dug its bed deeper, and since the Kander has flowed into Lake Thun (1714) little new gravel comes down. The groundwater sank. After the large floods of 1987 and 1999 people began to think differently about rivers. The canton then started the project 'Hochwasserschutz Aare Thun–Bern', which widens the river in places and gives it natural banks again."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The valley floor between Thun and Bern became safe farmland. For about 100 years people could build close to the river without much danger.",
+   "Settlements, roads, railways and drinking-water wells were built in the former river area."
+  ],
+  "lost": [
+   "The wide bed with channels, islands and floodplain forests was lost. People later saw the loss of bank trees, floodplain forest and species as a serious loss.",
+   "The narrow, fast river dug its bed deeper (bed erosion). The groundwater fell strongly, and drinking water was lost.",
+   "Much value was built next to the river, so floods like 1999 caused more damage. Since the 2000s widenings and side arms give the Aare some room back."
+  ],
   "before": {
    "lines": [
     {
@@ -20229,9 +20264,10 @@
   "sources": [
    "https://www.aare.bvd.be.ch/content/dam/aare_bvd/dokumente/de/ml-konzept/ml-konzept-moderner-hochwasserschutz.pdf",
    "https://www.aare.bvd.be.ch/content/dam/aare_bvd/dokumente/de/ml-thalgut-chesselau/ausfuehrung/praesentation-baustellenfuehrung-20260117.pdf",
-   "https://hls-dhs-dss.ch/de/articles/008747/"
+   "https://hls-dhs-dss.ch/de/articles/008747/",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf"
   ],
-  "notes": "Years 1824-1859 and 1871-1892, and the widths 400 m / 50 m, from canton of Bern documents (Oberingenieurkreis II). A slide in the 2026 presentation suggests the 1871-1892 work was mainly the stretch just below Thun and 1824-1859 the stretch down to Bern; this split is read from a sketch and not certain. Lines are drawn only for Thun–Uttigen (the stretch where the change is clear on the 1870 and 1895 maps); the stretch Uttigen–Bern was already corrected before the first map. Length c. 25 km is the Thun–Bern river distance, estimated."
+  "notes": "Years 1824-1859 and 1871-1892, and the widths 400 m / 50 m, from canton of Bern documents (Oberingenieurkreis II). A slide in the 2026 presentation suggests the 1871-1892 work was mainly the stretch just below Thun and 1824-1859 the stretch down to Bern; this split is read from a sketch and not certain. Lines are drawn only for Thun–Uttigen (the stretch where the change is clear on the 1870 and 1895 maps); the stretch Uttigen–Bern was already corrected before the first map. Length c. 25 km is the Thun–Bern river distance, estimated. Gained/lost: Navigation (boats, rafts) is a stated aim in the canton text, not a confirmed result, so it is not listed as a gain. 'Since the 2000s' for the restoration is approximate: the concept PDF is undated; the Thalgut–Chesselau works are in a 2026 presentation. Vischer (BWG 2003) adds that Tulla's plan set a normal width of 47 m for Schützenfahr–Bern."
  },
  {
   "id": "hinterrhein-domleschg",
@@ -20256,8 +20292,14 @@
    "Richard La Nicca, the first cantonal engineer of Graubünden, made the plan in 1826. Work began in 1832. Dams held the river in one bed from Cazis to Rothenbrunnen, and silt from the Nolla filled the old bed to make farmland. The floods of 1868 to 1870 showed that the Rhine was not safe while the Nolla was wild. So from 1870 the canton, with money from the Confederation, built big stone check dams in the Nolla gorge under the engineers Adolf and Friedrich von Salis. By 1910 there were about 20 large and 46 smaller dams.",
    "The Rhine work was finished in 1892. The Nolla never stopped moving: slopes in its catchment keep slipping, and the canton still renews the old dams today."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The river works gave the valley protection from floods. After the Nolla check dams (from 1870), the Nolla no longer dammed up the Hinterrhein.",
+   "The old gravel bed was split into fields and filled with silty Nolla water (colmation: letting muddy water settle). Much good farmland was won."
+  ],
+  "lost": [
+   "The wide river with many arms became one straight, built-up channel. The stretch Thusis–Rothenbrunnen is strongly marked by the works; only below Rothenbrunnen a natural relic remains.",
+   "The Nolla catchment never came to rest. The canton must still repair damaged check dams today."
+  ],
   "before": {
    "lines": [],
    "areas": [
@@ -22422,9 +22464,10 @@
    "https://hls-dhs-dss.ch/articles/061128",
    "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf",
    "https://www.gr.ch/IT/istituzioni/amministrazione/diem/tba/attualita/Seiten/Gruenes_Licht_fuer_Verbauung_der_Nolla_in_der_Region_Heinzenberg.aspx",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.gr.ch/DE/institutionen/parlament/PV/Seiten/DE_2006-04-26_1507.aspx"
   ],
-  "notes": "The red area is traced on the Dufour-type map of 1859, which already shows the new east dam; the bed before 1832 is not on any map in this series. HLS dates the start to 1832 (Rhein, La Nicca) but the HLS article on Realta says dyke works began in 1830. The Nolla is only drawn as today's course: the check dams changed its bed height, not its route. The extent of the colmation fields is approximate."
+  "notes": "The red area is traced on the Dufour-type map of 1859, which already shows the new east dam; the bed before 1832 is not on any map in this series. HLS dates the start to 1832 (Rhein, La Nicca) but the HLS article on Realta says dyke works began in 1830. The Nolla is only drawn as today's course: the check dams changed its bed height, not its route. The extent of the colmation fields is approximate. Gained/lost: The 2006 Graubünden parliamentary question (gr.ch) is the only source found for safety, farmland and landscape loss; it is a question by an MP with the government's answer. Its summary seems to date the works to the early 20th century, which differs from HLS (1832–1892); the gains still refer to the same Thusis–Rothenbrunnen works. The government answer says bed erosion was 'weitestgehend vermieden' here, so no bed-erosion loss is listed. No source found for lost floodplain species."
  },
  {
   "id": "seyon",
@@ -22449,8 +22492,13 @@
    "The work was paid largely with the money that the merchant David de Pury left to his home town when he died in 1786. In 1843 the river was diverted (led away) into a tunnel through the hill. Its mouth moved about 600 m to the west.",
    "The old bed in the centre was filled in. New quarters grew on it, and a street there still carries the river's name: the Rue du Seyon."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The diversion freed the old river bed in the centre. New town quarters were built on it.",
+   "A street now runs where the river flowed: the Rue du Seyon."
+  ],
+  "lost": [
+   "The Seyon no longer flows through the town. Its bed in the centre was filled and built over."
+  ],
   "before": {
    "lines": [
     {
@@ -23222,7 +23270,7 @@
    "https://hls-dhs-dss.ch/fr/articles/002853/2017-02-20/",
    "https://www.ne.ch/sites/default/files/2025-12/RegardSurVille-Neuch18.11_FR.pdf"
   ],
-  "notes": "Year 1843 and the 600 m shift of the mouth from HLS 'Neuchâtel (commune)'; the canton of Neuchâtel also gives 1843. Other (tourist) pages say the tunnel works ran 1839-1844; not checked in a primary source. The red line is NOT traced on a map (no map before 1843 in the series); it follows today's streets on the old bed and is approximate. Lake shore has since been filled, so the old mouth position is approximate. The blue line is the river axis from swisstopo VECTOR25, which shows the tunnel."
+  "notes": "Year 1843 and the 600 m shift of the mouth from HLS 'Neuchâtel (commune)'; the canton of Neuchâtel also gives 1843. Other (tourist) pages say the tunnel works ran 1839-1844; not checked in a primary source. The red line is NOT traced on a map (no map before 1843 in the series); it follows today's streets on the old bed and is approximate. Lake shore has since been filled, so the old mouth position is approximate. The blue line is the river axis from swisstopo VECTOR25, which shows the tunnel. Gained/lost: Thin. HLS documents a destructive Seyon flood in 1579 but does not say that the 1843 diversion stopped floods; no source found that states the flood-safety result, so no safety gain is listed. No source on ecological losses (urban river, small). The ne.ch quote is cut at a line break in the PDF; it continues with 'lit'. Tunnel dates 1839–1844 appear only on tourist pages (komoot), not used."
  },
  {
   "id": "reuss-uri",
@@ -23248,8 +23296,15 @@
    "The Reuss carries about 100,000 m3 of gravel each year. Since 1891 companies have taken this gravel out of the lake. The dredging ate away the shore. Land of the Korporation Uri at the delta became smaller and smaller.",
    "In 1985 the canton of Uri made a law on the Reuss delta. The canal was made shorter and two side arms were opened. Now the Reuss flows into the lake in three branches and can build a natural delta again. Gravel extraction had to stop the loss of land, and new islands were made in the lake. In August 1987 a big flood broke the dams and covered large parts of the Uri valley floor. From 1995 to 1999 the canton built new flood protection between Flüelen and Attinghausen."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The canal made more land usable for farming. In the early 20th century the plain on both banks was drained.",
+   "Since 1985 the shortened canal and two opened side arms let the Reuss build a natural delta again. New shallow water areas formed and the shore stopped eroding."
+  ],
+  "lost": [
+   "The first canal was too narrow at first, then too wide. Floods broke the dams in 1860 and 1868, and later the bed rose.",
+   "Gravel taken from the lake since 1891 made the shore erode, and land at the delta was lost. The 1985 delta project stopped this loss.",
+   "In 1987 a flood broke the dams and covered large parts of the valley floor. New flood protection followed from 1995 to 1999."
+  ],
   "before": {
    "lines": [
     {
@@ -23957,9 +24012,10 @@
    "https://www.ur.ch/_doc/33828",
    "https://www.ur.ch/_doc/57467",
    "https://www.bafu.admin.ch/de/kurze-geschichte-der-naturgefahren-in-der-schweiz",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf"
   ],
-  "notes": "Not in the HLS table. Length \"c. 4.5 km\" measured on today's map. No map or plan before 1850 of the old Reuss course or delta was found (swisstopo series starts with Dufour sheets that already show the canal; the 1864 tiles are also shifted by several hundred metres here, so they were not used for tracing). The 1925 map shows almost no change at the mouth compared with 1899, so the 1900–1912 extension is not clearly visible. The 1899 shore line was traced on the 1899 map. The new delta of 1985 is shown on today's map."
+  "notes": "Not in the HLS table. Length \"c. 4.5 km\" measured on today's map. No map or plan before 1850 of the old Reuss course or delta was found (swisstopo series starts with Dufour sheets that already show the canal; the 1864 tiles are also shifted by several hundred metres here, so they were not used for tracing). The 1925 map shows almost no change at the mouth compared with 1899, so the 1900–1912 extension is not clearly visible. The 1899 shore line was traced on the 1899 map. The new delta of 1985 is shown on today's map. Gained/lost: No source states the flood-safety gain of the 1850–1863 canal in words; Vischer rather describes repeated dam failures, so safety appears as a problem, not a gain. Lost 2 is caused by gravel extraction, not the canal itself; it is linked to the canal mouth. Vischer gives 150,000 m3/yr of delta deposit; HLS 100,000 m3/yr of bed load (different measures). The ur.ch doc 57468 is a servitude contract, not used for facts. No species named."
  },
  {
   "id": "broye-payerne",
@@ -23989,8 +24045,13 @@
    "After the flood of 1852 the cantons of Vaud and Fribourg straightened and embanked the river between Payerne and Lake Morat (1853–1856). A second stage between Bressonnaz near Moudon and Pont Neuf near Payerne followed in 1892–1896 and 1898–1906, after the floods of 1876, 1888 and 1895. Smaller works came later at Villeneuve (1916–1918) and Fétigny (1924–1933).",
    "The corrections changed the whole valley. Large wet areas became fertile fields, and the Broye valley grew into an important farming region."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The valley was completely changed: large fertile areas were put under the plough. The Broye plain became farmland."
+  ],
+  "lost": [
+   "Soon after the first canal, the bed near Pont Neuf cut about 3 m deeper by backward erosion (the bed wears away upstream). Floods still came 11 to 20 times per decade until 1878.",
+   "The straight, embanked river lost contact with its floodplain. In Fribourg, works like these strongly reduced natural diversity. Since 2019 projects at Surpierre and Payerne give the Broye some room back."
+  ],
   "before": {
    "lines": [
     {
@@ -33504,9 +33565,11 @@
   },
   "sources": [
    "https://hls-dhs-dss.ch/fr/articles/041246/2003-01-24/",
-   "https://panorama.vd.ch/detail.aspx?ID=152056"
+   "https://panorama.vd.ch/detail.aspx?ID=152056",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf",
+   "https://www.fr.ch/energie-agriculture-et-environnement/eau/actualites/un-projet-pour-revitaliser-la-broye-a-surpierre"
   ],
-  "notes": "All years from HLS 'Broye (rivière)'. The canal between the lakes of Morat and Neuchâtel belongs to the Jura water correction and is not part of this entry. No red line for 1853-1856: the first map of the series (Dufour, sheet with 1860s edition) already shows the new canal; the Dufour 1844 tiles are empty here. The winding stream east of the canal on the 1870 map is the Arbogne and was not drawn as the old Broye because this could not be confirmed. The 1891 trace is automatic and checked by eye; between Moudon and Lucens the old and new courses are almost the same at this scale."
+  "notes": "All years from HLS 'Broye (rivière)'. The canal between the lakes of Morat and Neuchâtel belongs to the Jura water correction and is not part of this entry. No red line for 1853-1856: the first map of the series (Dufour, sheet with 1860s edition) already shows the new canal; the Dufour 1844 tiles are empty here. The winding stream east of the canal on the 1870 map is the Arbogne and was not drawn as the old Broye because this could not be confirmed. The 1891 trace is automatic and checked by eye; between Moudon and Lucens the old and new courses are almost the same at this scale. Gained/lost: Gained 2 is weak: Vischer says the floods could not be mastered without the second stage and the lower Lake Morat; he does not state the final result in one sentence (HLS still lists a big flood in 1944). Consider dropping it. Payerne restoration 'since 2019' comes from a search snippet of the Payerne press file (PDF did not download); Surpierre project from fr.ch (opened). The floodplain reconnected at Surpierre is upstream of Payerne, within the 1892–1906 stretch. No species named. Removed by review: the gain \"floods brought under control\" (no source says it in words; HLS lists a big flood in 1944)."
  },
  {
   "id": "guerbe",
@@ -33531,8 +33594,14 @@
    "In 1854 the canton of Bern took over the river works from the villages. Bern paid for a straight canal and for check dams and new forests in the mountains. Later work used federal money after the laws on water works (1877) and forests (1876).",
    "The canal made the valley dry, so farms, a railway and later an airfield could be built. Today the canton gives the river more room again at some places, for flood safety and nature."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The canal and side ditches drained the marshy valley floor. The Gürbe valley became a region of fields and vegetables.",
+   "The dry valley made room for a road, the Gürbetal railway (1901–02) and the Belpmoos airfield (1929)."
+  ],
+  "lost": [
+   "The marshy valley floor, used as pasture, was drained and lost.",
+   "Floods and landslides still came, for example in 1990. The Gürbe became one of the most expensive torrents in Switzerland, and renaturation is only partly possible."
+  ],
   "before": {
    "lines": [
     {
@@ -38566,9 +38635,10 @@
   },
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008748/",
-   "https://hls-dhs-dss.ch/de/articles/007850/"
+   "https://hls-dhs-dss.ch/de/articles/007850/",
+   "https://www.environmentandsociety.org/arcadia/how-catastrophic-flood-guerbe-river-triggered-rethinking-local-flood-protection"
   ],
-  "notes": "Old bed traced on the 1870 Dufour map (no earlier tile of this series covers the valley). Upper valley (Wattenwil–Kaufdorf) not drawn: the old course is not clear on the map. New line from OpenStreetMap ('Gürbe'). HLS Gürbe article dates the canal works 1855–1911; HLS table gives 1855–65 for Wattenwil–Aare. Federal subsidy sentence is general (HLS Flusskorrektionen)."
+  "notes": "Old bed traced on the 1870 Dufour map (no earlier tile of this series covers the valley). Upper valley (Wattenwil–Kaufdorf) not drawn: the old course is not clear on the map. New line from OpenStreetMap ('Gürbe'). HLS Gürbe article dates the canal works 1855–1911; HLS table gives 1855–65 for Wattenwil–Aare. Federal subsidy sentence is general (HLS Flusskorrektionen). Gained/lost: No explicit flood-safety gain sentence found; HLS stresses that floods continued. Lost 1 (marsh drained) is inferred from HLS 'sumpfiger Talboden' plus the drainage canal; no source names lost species or habitats. Arcadia (Rachel Carson Center) summarises Salvisberg 2017. HLS dates the canal 1855–1911; the data file uses 1855–1865."
  },
  {
   "id": "seez",
@@ -38593,8 +38663,14 @@
    "The Linth correction (from 1807, led by Hans Conrad Escher) lowered Lake Walen by almost 5 m. This was the first help for the Seez valley.",
    "The second step was the Seez correction from 1855 to 1865. A corporation of the land owners and communes, later called the Seezunternehmen, carried out the work to drain the valley. Walenstadt joined it in 1858. The new Seez canal helped industry to start in Walenstadt from 1862. The Seezunternehmen still looks after the river works today."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The Linth correction lowered Lake Walen, and the Seez correction (1855–1865) followed. Together they stopped the valley from becoming a marsh and drained the Seez valley.",
+   "Industry came to Walenstadt only after the Seez canal was built, starting with a weaving mill in 1862."
+  ],
+  "lost": [
+   "The corrected Seez still flooded, with larger events in 1910, 1922, 1953 and 1987. The 1987 flood led to a new flood protection project.",
+   "Floodplain forest is now a rare habitat in the Seez valley. The current flood project plans to give some land back to the river's own dynamics."
+  ],
   "before": {
    "lines": [
     {
@@ -41702,9 +41778,10 @@
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008776/",
    "https://hls-dhs-dss.ch/de/articles/001359/2013-08-28/",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.sg.ch/content/dam/sgch/umwelt-natur/wasser/mitwirkung/hochwasserschutz-seez-3--etappe/1.2%20Technischer%20Bericht.pdf"
   ],
-  "notes": "Not in the HLS table. Length 'c. 12 km' read from the HLS article (river flows about 12 km from Mels); the stretch name is an estimate. Round 2: old course and marsh traced on the 1854 map (Dufour-type engraving, about 100–200 m accuracy). Near Flums the old and new courses lie close together."
+  "notes": "Not in the HLS table. Length 'c. 12 km' read from the HLS article (river flows about 12 km from Mels); the stretch name is an estimate. Round 2: old course and marsh traced on the 1854 map (Dufour-type engraving, about 100–200 m accuracy). Near Flums the old and new courses lie close together. Gained/lost: Gained 1 mixes the Linth correction and the Seez correction, as HLS does. Lost 2 says floodplain forest is scarce today; no source states directly that the 1855–1865 correction removed it, so it is marked 'region'. The sg.ch technical report (Seez 3rd stage, 2026) dates the Sax bridge to the correction 'ca. 1855-1861'. No species named (report mentions amphibians as target group only)."
  },
  {
   "id": "orbe",
@@ -41729,8 +41806,14 @@
    "In 1854 the Grand Council of Vaud decided to correct the Orbe. From 1856 the canton dug canals and built dams. The work was linked to the first Jura water correction, which lowered the lake from 1868 to 1891; without the lower lake, the canals could not drain the plain well.",
    "The plain became farmland. But drained peat shrinks, so the soil sank and some fields became wet again. Today some wetlands are protected."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The canals of 1856 pushed back marsh fever (malaria) in the Orbe plain.",
+   "Farmland appeared on the former marsh. In 1899 the Bochuz prison with its large farm was built on it."
+  ],
+  "lost": [
+   "Drainage, pumping and the sinking of the peat soil caused a permanent loss of farmland by the end of the 20th century.",
+   "The large marsh disappeared. Only some valuable marsh habitats remain for insects, birds, wild boar and deer."
+  ],
   "before": {
    "lines": [
     {
@@ -46141,7 +46224,7 @@
    "https://hls-dhs-dss.ch/de/articles/008759/",
    "https://hls-dhs-dss.ch/de/articles/007850/"
   ],
-  "notes": "Old course and marsh traced on the 1850 Dufour map; the marsh outline is approximate. The 1850 map already shows a straight Orbe channel in the upper plain (an earlier work), so the old line there follows that channel. Coloured Siegfried sheets for this area start about 1895, so stop 2 now uses 1895. No source found with details of the Nozon works. New lines from OpenStreetMap ('La Thièle', \"L'Orbe\")."
+  "notes": "Old course and marsh traced on the 1850 Dufour map; the marsh outline is approximate. The 1850 map already shows a straight Orbe channel in the upper plain (an earlier work), so the old line there follows that channel. Coloured Siegfried sheets for this area start about 1895, so stop 2 now uses 1895. No source found with details of the Nozon works. New lines from OpenStreetMap ('La Thièle', \"L'Orbe\"). Gained/lost: No explicit flood-safety gain found; HLS frames the work as drainage and fever control. HLS links the farmland to both the Orbe works and the first Jura water correction (1869–91). A Le Temps article (paywalled, 403; seen only in search snippet) reports the plain still sinks 0.5–2 cm per year; not used. Nozon works: no source."
  },
  {
   "id": "alpenrhein-oben",
@@ -46168,8 +46251,16 @@
    "After many flood years from 1846 to 1856, St. Gallen passed a Rhine law in 1853. From 1862 the Swiss federal state paid one third of the cost. The engineers Friedrich Wilhelm Hartmann and Jost Wey built continuous dams from Bad Ragaz to Au (1862-1883). Inland canals and drainage followed.",
    "The work gave dry farmland and safer villages. But it also destroyed almost all floodplains and moors. Later, gravel mining lowered the bed too much. The dam break near Schaan in 1927 showed that the dams were not safe everywhere."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The continuous dams protected the St. Gallen side. After the works the only larger dam break was in Liechtenstein in 1927.",
+   "Wet land beside the river became farmland. The first large land improvement in Switzerland was made at Haag from 1885 to 1887, linked to the new inland canals.",
+   "Before the works there were no bridges from Tardis to Lake Constance. During the works 10 wooden bridges and one steel bridge were built."
+  ],
+  "lost": [
+   "The natural river arms and floodplains disappeared, and the valley moors were drained. Moors covered 6039 ha in 1890 but only 106 ha in 1999.",
+   "Wetlands, groundwater-fed streams and floodplain forest shrank. Gravel mining from 1953 to 1972 lowered the bed by 4–5 m, and groundwater recharge fell.",
+   "In 1927 the dam broke near Schaan, and the Rhine flooded northern Liechtenstein."
+  ],
   "before": {
    "lines": [
     {
@@ -114920,9 +115011,10 @@
    "https://rheinregulierung.org/organisation/geschichte",
    "https://hls-dhs-dss.ch/de/articles/007850/",
    "https://hls-dhs-dss.ch/fr/articles/047964/",
-   "https://www.sg.ch/content/dam/sgch/bauen/raumentwicklung/richtplanung/natur-und-landschaft/Hochwasserschutz%20Alpenrhein.pdf"
+   "https://www.sg.ch/content/dam/sgch/bauen/raumentwicklung/richtplanung/natur-und-landschaft/Hochwasserschutz%20Alpenrhein.pdf",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf"
   ],
-  "notes": "Old course and gravel bed traced on the Dufour sheets (first edition 1850-1854; map edition 1862 used because it covers both banks). Dufour sheets are less exact than later maps; the red line can be off by 50-100 m. HLS table: 1860-90 Landquart-Rüthi; HLS Rhein article: Ragaz-Au 1862-1883. Haag position approximate. The wide area also includes some gravel banks drawn beside the bed."
+  "notes": "Old course and gravel bed traced on the Dufour sheets (first edition 1850-1854; map edition 1862 used because it covers both banks). Dufour sheets are less exact than later maps; the red line can be off by 50-100 m. HLS table: 1860-90 Landquart-Rüthi; HLS Rhein article: Ragaz-Au 1862-1883. Haag position approximate. The wide area also includes some gravel banks drawn beside the bed. Gained/lost: HLS moor figures (6039 → 106 ha) cover the whole St. Gallen Rhine valley, incl. the lower stretch; HLS quotes were returned as excerpts by the fetch tool. Lost 2 comes from the Liechtenstein lexicon (right bank, same stretch). Vischer explains the 1927 break by lower dams on the Liechtenstein side. Rhesi/IRR pages cover the international stretch below the Ill, not this one, so not used for gains. Vischer also reports bridges over the whole Ragaz–Monstein regulation, not only this stretch."
  },
  {
   "id": "rhone",
@@ -114948,8 +115040,15 @@
    "The great flood of 1860 started the first correction. Valais asked the young federal state for money, and in 1863 the Confederation agreed to pay part of the work. It was one of the first federal subsidies for a building project. The federal laws of 1874–1877 later made the Confederation a regular partner for river works.",
    "Because the bed kept rising with gravel, a second correction followed (about 1930–1960). After the floods of 1987, 1993 and 2000, Valais and Vaud began the third correction in 2009. It gives the river more width and lowers its bed. It also brings back some natural river banks, but it needs farmland, which led to protests by farmers."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The dams gave the Rhône plain some safety from floods. Bridges built after the correction resisted the floods.",
+   "The correction won about 7000 ha of fertile land for vines, fruit and vegetables. Farming grew, new jobs came, and fewer people left the valley.",
+   "Drainage of the marshes won much land. Before, diseases like malaria (marsh fever) spread on the wet valley floor."
+  ],
+  "lost": [
+   "The dams did not stop the gravel. The bed rose higher and higher, so a second correction (1930–1960) narrowed the river even more.",
+   "The narrow channel left little room for plants and animals. Since 2009 the third correction widens the river and brings back some natural banks."
+  ],
   "before": {
    "lines": [
     {
@@ -118964,9 +119063,10 @@
    "https://hls-dhs-dss.ch/de/articles/007850/",
    "https://www.vs.ch/de/web/rhone/1re-correction-du-rhone",
    "https://www.vs.ch/de/web/rhone/2e-correction-du-rhone",
-   "https://www.bafu.admin.ch/de/rhonekorrektion"
+   "https://www.bafu.admin.ch/de/rhonekorrektion",
+   "https://www.vs.ch/de/web/rhone"
   ],
-  "notes": "Dates differ: HLS table 1863–84, HLS Rhone article 1863–1894, canton 1863–1894; second correction HLS 1930–1960, canton 1936–1961. 'Until about 2040' is from a news summary of the canton plan (2020–2039 second stage), not checked on the canton page. The 1870 map already shows the first dams near Fully (work started 1863). Lines: old main channel Martigny–Riddes traced on the 1862 Dufour map (the 1870 sheet already shows first dams near Fully); delta arms placed by hand on the 1850 Dufour map; areas drawn by hand (approximate). New lines from OpenStreetMap ('Le Rhône', 'Rotten'). Farmers' protests against land loss for the third correction: general knowledge, not checked in a source."
+  "notes": "Dates differ: HLS table 1863–84, HLS Rhone article 1863–1894, canton 1863–1894; second correction HLS 1930–1960, canton 1936–1961. 'Until about 2040' is from a news summary of the canton plan (2020–2039 second stage), not checked on the canton page. The 1870 map already shows the first dams near Fully (work started 1863). Lines: old main channel Martigny–Riddes traced on the 1862 Dufour map (the 1870 sheet already shows first dams near Fully); delta arms placed by hand on the 1850 Dufour map; areas drawn by hand (approximate). New lines from OpenStreetMap ('Le Rhône', 'Rotten'). Farmers' protests against land loss for the third correction: general knowledge, not checked in a source. Gained/lost: No source names lost species or a lost area of floodplain forest for the Rhône; lost 2 relies on HLS saying the river 'should again' offer habitat (implying a loss) plus the general HLS statement on drained floodplains. The Valais state archive says systematic drainage of the plain often came only after World War I, so the land gain was slow. BAFU says malaria raged in the marshy valley floor but does not say the correction ended it; the item avoids that claim."
  },
  {
   "id": "hasliaare",
@@ -118991,8 +119091,15 @@
    "The canton of Bern decided to correct the river and dry the valley. The work of 1866 to 1875 gave the Aare a straight bed between dams. After the federal laws of 1876–1877 the Confederation helped to pay for river and forest works in the mountains.",
    "The straight canal made the land dry, so meadows, fields and later an airfield could be made. Today the canton plans to give the river more space again, for flood safety and nature."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The correction protected the valley floor from floods. For over 100 years the canal did its job very well.",
+   "The correction made it possible to drain about 113 ha of the marshy valley floor. The land became usable for farming."
+  ],
+  "lost": [
+   "The river lost its natural space. Roads and the railway now run on or at the foot of the dams, so there is no room to widen it.",
+   "The straight bed has few structures and is poorly linked to its side streams. Fish find few good habitats, also the lake trout (Seeforelle), whose main spawning area is here.",
+   "The old dams aged and became weak. The floods of 1987, 2005 and 2011 showed the deficits, so the canton plans to renew the whole work."
+  ],
   "before": {
    "lines": [
     {
@@ -120475,7 +120582,7 @@
    "https://hls-dhs-dss.ch/de/articles/008451/",
    "https://www.gewaesserrichtplaene.bvd.be.ch/content/dam/gewaesserrichtplaene_bvd/dokumente/de/region-oberland/grp-hasliaare/grp-hasliaare-1-bedeutung-und-inhalt-des-grp.pdf"
   ],
-  "notes": "HLS table: 1866–75; HLS Oberhasli article: 1866–1880. The 1854 law is from a secondary source (Hasli chronicle via plattformj.ch), not HLS. Last sentence on canton plans is general; not checked in detail. The 1864 map already shows a straight Aare from Brienzwiler to Meiringen; only the loop near the lake is drawn as old course. The claim that Lake Brienz was lowered was removed from the text: not confirmed in a high-trust source. New line from OpenStreetMap ('Aare')."
+  "notes": "HLS table: 1866–75; HLS Oberhasli article: 1866–1880. The 1854 law is from a secondary source (Hasli chronicle via plattformj.ch), not HLS. Last sentence on canton plans is general; not checked in detail. The 1864 map already shows a straight Aare from Brienzwiler to Meiringen; only the loop near the lake is drawn as old course. The claim that Lake Brienz was lowered was removed from the text: not confirmed in a high-trust source. New line from OpenStreetMap ('Aare'). Gained/lost: The cantonal plan gives the correction as 1866–1889 (HLS: 1866–1880). The airfield and the lowering of Lake Brienz are not covered by any source I opened, so they are not used. 'Seeforelle' = lake trout."
  },
  {
   "id": "rhein-chur-tardis",
@@ -120500,8 +120607,14 @@
    "The great flood of 1868 hit many parts of Switzerland, also the Rhine valley. It started the correction from Chur to the Tardis bridge, led by Richard La Nicca, and finished in 1892.",
    "The dams protected the railway, the road and the farmland. The river lost its wide gravel bed and floodplain forests. Since 1995 an international commission of the cantons, Liechtenstein, Vorarlberg and the two states coordinates all work on the Alpine Rhine."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "After the flood of 1868 the Rhine was corrected near Haldenstein, and new farmland was won."
+  ],
+  "lost": [
+   "In the Alpine Rhine valley the corrections brought big ecological losses. Natural waters and floodplains (Auen) disappeared, and the valley moors were drained.",
+   "In the Chur Rhine valley the river was fixed between bank works for over 100 years. It dug its bed 3 to 5 m deeper and put dams and bridge foundations at risk.",
+   "The narrow channel had few gravel banks. A widening at Chur/Felsberg (1994–1996) gave some back, and the rare common sandpiper (Flussuferläufer) breeds there again since 2004."
+  ],
   "before": {
    "lines": [],
    "areas": [
@@ -122449,9 +122562,11 @@
    "https://hls-dhs-dss.ch/de/articles/008768/",
    "https://hls-dhs-dss.ch/de/articles/007850/",
    "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://hls-dhs-dss.ch/de/articles/001597/",
+   "https://www.gr.ch/DE/institutionen/verwaltung/ekud/anu/PDF_Mapservices/Renaturierungen/Alpenrhein_Felsberg_1995.pdf"
   ],
-  "notes": "HLS says the correction between Chur and the Tardis bridge was realised by La Nicca after the flood of 1868 and finished in 1892; it gives no start year, so \"1868\" in built is the flood year. La Nicca was then over 70 and no longer cantonal engineer (he left that post in 1853), so his exact role is unclear. The gravel bed is traced on the Dufour-type map of 1859."
+  "notes": "HLS says the correction between Chur and the Tardis bridge was realised by La Nicca after the flood of 1868 and finished in 1892; it gives no start year, so \"1868\" in built is the flood year. La Nicca was then over 70 and no longer cantonal engineer (he left that post in 1853), so his exact role is unclear. The gravel bed is traced on the Dufour-type map of 1859. Gained/lost: Thin on the gained side. No source I opened states that the Chur–Tardis dams protected the railway, road or villages; that safety gain is therefore not listed. The HLS Haldenstein article (Haldenstein lies on this stretch) is the only land-gain source. HLS Rhein's loss statement covers the Alpine Rhine valley floors in general, and its numbers on moors (6039 ha in 1890, 106 ha in 1999) seem to refer mainly to the St. Gallen Rhine valley, so they are not used. The Felsberg widening is just upstream of Chur, in the same 'Churer Rheintal', not inside the Chur–Tardis stretch; its bed-erosion figure covers the Churer Rheintal. HLS describes gravel raising the bed in the 19th century; the later incision is probably linked to gravel mining too (not checked for this reach)."
  },
  {
   "id": "zihl",
@@ -122476,8 +122591,14 @@
    "The doctor Johann Rudolf Schneider from Nidau pushed for a big solution for decades. The engineer Richard La Nicca made the plan. In 1867 the federal parliament agreed to pay part of the costs, and the cantons Bern, Fribourg, Vaud, Neuchâtel and Solothurn paid the rest. The Nidau–Büren canal was one of the main works of 1868–1891.",
    "The canal lowered the lakes by about 2.5 m. But the drained peat soil sank, and floods came back. So the canal was widened in the second correction of 1962–1973, and the weir at Port now regulates the lakes."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The canal let Lake Biel drain faster. Together with the other works of the Jura water corrections, it brought relief from the floods.",
+   "The canals brought economic gains: new land and better shipping."
+  ],
+  "lost": [
+   "At Meienried the Aare and the Zihl had made a dynamic floodplain. After the canal was built and the water fell, the area became still water, and several side channels filled up.",
+   "After the canal opened, Lake Biel sometimes fell lower than wanted. Banks started to slide and shores collapsed, so a weir was built at Nidau in 1887."
+  ],
   "before": {
    "lines": [
     {
@@ -127918,9 +128039,11 @@
   },
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008760/",
-   "https://hls-dhs-dss.ch/de/articles/007850/"
+   "https://hls-dhs-dss.ch/de/articles/007850/",
+   "https://ala-schweiz.ch/images/reservate/_pdf/Beiheft_1988_85_23_Haeftli.pdf",
+   "https://so.ch/fileadmin/internet/bjd/bjd-afu/01_Aktuell/1_News/2017/17-09-14_JGK/150_Jahre_JGK_-_Fakten_Juragewaesserkorrektion_-_DE.pdf"
   ],
-  "notes": "The regulating weir at Port and the Meienried nature reserve are not from HLS (general knowledge, structurae.net lead); not checked in a high-trust source. Old Zihl: Nidau–Gottstatt traced on the 1870 Dufour map, Gottstatt–Meienried on the 1880 Siegfried map. New line from OpenStreetMap ('Nidau-Büren-Kanal'). Lake lowering 2.5 m: secondary sources (2.5 m to almost 3 m)."
+  "notes": "The regulating weir at Port and the Meienried nature reserve are not from HLS (general knowledge, structurae.net lead); not checked in a high-trust source. Old Zihl: Nidau–Gottstatt traced on the 1870 Dufour map, Gottstatt–Meienried on the 1880 Siegfried map. New line from OpenStreetMap ('Nidau-Büren-Kanal'). Lake lowering 2.5 m: secondary sources (2.5 m to almost 3 m). Gained/lost: The Häftli brochure (ALA, 1988) says that despite the changes the typical floodplain elements of the Häftli are still largely present; it is a national bird reserve today. 'Giessen' = groundwater-fed side channels. The federal BLN sheet 1302 (Alte Aare – Alte Zihl) could not be opened (HTTP 403). HLS gives no numbers on lake lowering."
  },
  {
   "id": "jura",
@@ -127953,8 +128076,17 @@
    "Johann Rudolf Schneider, a doctor from Nidau, fought for a solution from the 1830s. Richard La Nicca's plan (1842) led the Aare into Lake Biel through the Hagneck canal, so the lake could catch the gravel and the floods, and lowered all three lakes. The federal decree of 1867 paid a large part, the cantons Bern, Fribourg, Vaud, Neuchâtel and Solothurn the rest. The work ran from 1868 to 1891.",
    "The lakes went down by about 2.5 m, and new land came out of the water, including the land bridge to St. Peter's Island. But the drained peat shrank, so the land sank and floods came back. The second correction (1962–1973) widened the canals. Today the soil loss in the Grosses Moos and the loss of wetlands are the main problems."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The regular floods in the plains around and between the lakes stopped.",
+   "The Grosses Moos, once a marsh, became farmland after drainage canals and pumps were built. Today it is known as the vegetable garden of Switzerland.",
+   "Before, poverty and marsh diseases (malaria) troubled the Seeland. In the Orbe plain the new canals pushed back the marsh fever.",
+   "The lower lakes freed a wide sand bank on Lake Neuchâtel. It became the Grande Cariçaie, the largest lakeshore wetland in Switzerland."
+  ],
+  "lost": [
+   "The Grosses Moos was the largest moor area of Switzerland, about 100 km2, and an important home for plants and animals. Drainage turned it into fields, and the old river landscape disappeared.",
+   "The drained peat (soil made of old plant remains) breaks down in the air. It loses 1 to 2 cm per year, and in places the ground has already sunk 2 m.",
+   "The sinking land and poor lake control brought floods back, for example in 1910, 1944 and the 1950s. A second correction (1962–1973) was needed."
+  ],
   "before": {
    "lines": [
     {
@@ -152036,9 +152168,11 @@
    "https://hls-dhs-dss.ch/de/articles/008760/",
    "https://hls-dhs-dss.ch/de/articles/008759/",
    "https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-umwelt/wasserbau/hochwasserschutz-revitalisierung/juragewaesserkorrektion/",
-   "https://commons.wikimedia.org/wiki/File:Juragew%C3%A4sserkorrektion,_Uebersichtsplan_1850.png"
+   "https://commons.wikimedia.org/wiki/File:Juragew%C3%A4sserkorrektion,_Uebersichtsplan_1850.png",
+   "https://so.ch/fileadmin/internet/bjd/bjd-afu/01_Aktuell/1_News/2017/17-09-14_JGK/150_Jahre_JGK_-_Fakten_Juragewaesserkorrektion_-_DE.pdf",
+   "https://www.pronatura-be.ch/sites/pronatura-be.ch/files/2024-05/pronatura_01-2024_be_de_low_1.pdf"
   ],
-  "notes": "Not a row in the HLS table (the Zihl row is a separate entry). Length 8 km is the approximate length of the Hagneck canal from canton Bern / secondary sources, not HLS. Opening year 1878 and the lake lowering of about 2.5 m come from secondary sources (HLS Hagneck article not read; sources say 2.5 m to almost 3 m). 'Vegetable region' is general knowledge. The 1975 map was not viewed for the Grosses Moos itself. Old Aare line and bed area traced automatically on the blue water of the 1880 Siegfried map, checked by eye. Land-gain areas: water on the 1880 (Lake Biel, Lake Morat) and 1892 (Lake Neuchâtel) Siegfried maps minus water on today's map; small slivers removed; outlines are good to about 30 m but some shore detail is lost. Grosses Moos outline drawn by hand (approximate). Canal lines from OpenStreetMap. La Nicca plan year 1842 and the 1867 federal decree: general knowledge consistent with HLS, not checked line by line."
+  "notes": "Not a row in the HLS table (the Zihl row is a separate entry). Length 8 km is the approximate length of the Hagneck canal from canton Bern / secondary sources, not HLS. Opening year 1878 and the lake lowering of about 2.5 m come from secondary sources (HLS Hagneck article not read; sources say 2.5 m to almost 3 m). 'Vegetable region' is general knowledge. The 1975 map was not viewed for the Grosses Moos itself. Old Aare line and bed area traced automatically on the blue water of the 1880 Siegfried map, checked by eye. Land-gain areas: water on the 1880 (Lake Biel, Lake Morat) and 1892 (Lake Neuchâtel) Siegfried maps minus water on today's map; small slivers removed; outlines are good to about 30 m but some shore detail is lost. Grosses Moos outline drawn by hand (approximate). Canal lines from OpenStreetMap. La Nicca plan year 1842 and the 1867 federal decree: general knowledge consistent with HLS, not checked line by line. Gained/lost: The Orbe quote (HLS 008759) is about the Orbe plain canals, which belong to the same lake system; HLS does not tie it directly to the Jura correction, hence scope 'region'. No source says malaria in the Seeland ended because of the correction; the Vischer/BWG book says malaria disappeared from Switzerland around 1900 in general. The 2 m sinking is from Pro Natura Bern (an NGO) and is local ('stellenweise'). The SO fact sheet also says the lowering revealed prehistoric pile-dwelling sites (a possible extra gain, not used)."
  },
  {
   "id": "landquart-praettigau",
@@ -152063,8 +152197,14 @@
    "From 1870 the communes and the canton built dams and colmation works (fields filled with river silt). The canal of 1912-1918 then fixed the river in one narrow bed. It gave farmland and protection, and it helped the economy of the valley.",
    "Later engineers saw the downside: in the narrow bed the water ran faster and dug the bed deeper, and the river lost its natural banks. So in 2008-2011 the canton widened the river again at four places."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "Dams and colmation (fields filled with river silt) from 1870 won about 2 million m2 of farmland by 1900.",
+   "The canal of 1912–1918 served land gain and flood protection. It helped the economy of the region a lot."
+  ],
+  "lost": [
+   "In the narrow, straight bed the water ran faster and dug deeper. The bed sank, and bank works were undercut in places.",
+   "Valuable habitats for fish and other water animals and floodplain areas were lost. Since 2008–2011 four widenings double the bed width in places and give the river back some room."
+  ],
   "before": {
    "lines": [
     {
@@ -153614,7 +153754,7 @@
    "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "HLS gives the floods (1464, 1762, 1910, 1927) and \"from 1870 protective works and colmation, c. 2 million m2 by 1900\" for the whole valley. The canton gives 1912-1918 for the canal between Schiers and Grüsch. That the 1910 flood triggered the 1912 canal is my reading of the dates, not stated in a source. The positions of the four widening sites are approximate. The old line and area are traced on the Dufour-type map of 1865 and may be off by 50-100 m."
+  "notes": "HLS gives the floods (1464, 1762, 1910, 1927) and \"from 1870 protective works and colmation, c. 2 million m2 by 1900\" for the whole valley. The canton gives 1912-1918 for the canal between Schiers and Grüsch. That the 1910 flood triggered the 1912 canal is my reading of the dates, not stated in a source. The positions of the four widening sites are approximate. The old line and area are traced on the Dufour-type map of 1865 and may be off by 50-100 m. Gained/lost: The HLS land-gain figure (2 million m2 by 1900) is for the whole Landquart valley, not only Schiers–Grüsch."
  },
  {
   "id": "emme",
@@ -153640,8 +153780,15 @@
    "For a long time each village built its own dams, and often pushed the water to the neighbours. Bern made common rules in 1766–1768. After 1800 many forests were cut, and the floods got worse.",
    "The federal laws on forests (1876) and water works (1877) brought federal money from 1884. Forests were planted and the river was put between dams. The narrow bed made the river cut deeper, so today the banks need constant repair, and the cantons give the Emme more room in some places."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The correction protected the factories and settlements along the lower Emme better from floods. This sped up industrial growth.",
+   "In the straight bed the water ran deeper and faster, so the river carried more gravel. At first it lowered its own bed, which was wanted."
+  ],
+  "lost": [
+   "The river kept cutting deeper, because it got too little gravel from above. This undercut bank works and bridge piers, and today banks need constant repair.",
+   "Real floodplain forests along the Emme largely disappeared. Timber forests with no link to the river took their place.",
+   "The canalised Emme was only 25 to 30 m wide and had few gravel banks. Since 2010–2020 Solothurn widened it up to 70 m in places, with flat banks and gravel islands."
+  ],
   "before": {
    "lines": [],
    "areas": [
@@ -155219,9 +155366,12 @@
   },
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008755/",
-   "https://hls-dhs-dss.ch/de/articles/007850/"
+   "https://hls-dhs-dss.ch/de/articles/007850/",
+   "https://einflussemme.so.ch/fileadmin/internet/bjd/bjd-afu/31_Wasserbau/3_HWS/2_Emme/fb-22-02_emmebuch.pdf",
+   "https://so.ch/verwaltung/staatskanzlei/medien/medienmitteilung/news/hochwasserschutz-und-revitalisierung-emme-rueckblick-auf-das-jahrhundertwerk/",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf"
   ],
-  "notes": "Exact location of Räbloch not checked; center is an estimate of the middle of the stretch. Area drawn by hand on the 1870 Dufour map; the map shows dams already in place along parts of the Emme, so the area is the bed between the hills and dams, approximate. No old main channel is drawn: the many channels are not clear on the map. New line from OpenStreetMap ('Emme')."
+  "notes": "Exact location of Räbloch not checked; center is an estimate of the middle of the stretch. Area drawn by hand on the 1870 Dufour map; the map shows dams already in place along parts of the Emme, so the area is the bed between the hills and dams, approximate. No old main channel is drawn: the many channels are not clear on the map. New line from OpenStreetMap ('Emme'). Gained/lost: The Solothurn sources cover the lower Emme (Solothurn part, corrected 1870–1889); the Bern part was corrected from 1886 (Vischer/BWG). Gained 1 and lost 2–3 are from the Solothurn stretch. The SO media release says works ran from 2010 to November 2020; the Emme book title says 2008–2020. The Bern side also built widenings ('Emmebirnen') from the 1990s (BWG), not detailed here."
  },
  {
   "id": "thur",
@@ -155248,8 +155398,14 @@
    "The straight river did not stop all floods. Dams broke again in 1910, 1965, 1977 and 1978. The canton of Zurich also says that the protection works upstream sent more water down to the lower Thur.",
    "In 1979 the three cantons on the river made a common plan. From 1983 to 2005, Zurich rebuilt the Thur from the Thurgau border to Andelfingen in a more natural way, in five stages. From 2008 to 2017, the project at the Thur mouth gave the river space again. Now it can make bends and flood its floodplain (the low land next to a river that water covers in a flood). The Thurauen are the largest floodplain area of the Swiss Mittelland, with almost 400 ha."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The yearly floods had kept people from settling on the valley banks. The correction made the flood danger more predictable."
+  ],
+  "lost": [
+   "In the straight bed the water ran faster and deeper, so the bed sank. This put the groundwater of the region and the few remaining floodplain forests at risk.",
+   "The uniform channel offered hardly any breeding or spawning places for water birds, fish and small water animals.",
+   "Floods still came, for example in 1910 and 1978. From 2008 to 2017 the Thur mouth project let the river meander and flood its floodplain again."
+  ],
   "before": {
    "lines": [
     {
@@ -160609,7 +160765,7 @@
    "https://wms.zh.ch/WildkarteZH",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "The method (cut bends, dams 50–150 m apart) is from an Eawag case study, not HLS. A separate correction 1907–1913 in St. Gallen (Ebnat-Kappel–Lichtensteig) is not covered. Round 2: old lines traced on the 1870 map (Dufour-type) and checked on the Zurich Wild map (about 1850) near the mouth; points are about 150–250 m apart. zh.ch dates the 5 km canal at the mouth to \"about 1860\", before the 1874–1893 project in HLS. The traced old channel near Uesslingen is only one of several arms."
+  "notes": "The method (cut bends, dams 50–150 m apart) is from an Eawag case study, not HLS. A separate correction 1907–1913 in St. Gallen (Ebnat-Kappel–Lichtensteig) is not covered. Round 2: old lines traced on the 1870 map (Dufour-type) and checked on the Zurich Wild map (about 1850) near the mouth; points are about 150–250 m apart. zh.ch dates the 5 km canal at the mouth to \"about 1860\", before the 1874–1893 project in HLS. The traced old channel near Uesslingen is only one of several arms. Gained/lost: Only one gained item: no source I opened gives farmland won by the 1874–1893 Thur correction. The Eawag case study says the correction was done 'by 1890' (HLS: 1874–1893). The Thur-mouth canal (about 1860, zh.ch) is a separate, earlier work."
  },
  {
   "id": "limmat-dietikon",
@@ -160634,8 +160790,14 @@
    "Only three months after this flood, on 23 October 1876, the people of Zurich accepted a new water law. The canton now had to correct the large rivers (Rhine, Töss, Thur, Glatt, Limmat, Sihl), and paid with loans, money from the communes and a federal subsidy. The canton engineer Kaspar Wetli led the work.",
    "On the Limmat the work started in 1880 with a cut at Schönenwerd. More cuts followed near Engstringen, Oetwil and Dietikon until 1896, and the old bed at Dietikon was filled. After a flood in 1910 the dams were raised in 1912. Because land was expensive, the canton left almost no flat land between river and dams. Today only small parts of the old floodplain are left."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The dams still protect the valley well today. A study for the Wettingen power plant found the flood safety largely guaranteed, and no dams must be raised.",
+   "The canton expected the lower groundwater level to raise the value of the land, mainly in the communes on the left bank. The work also gave jobs to unemployed people."
+  ],
+  "lost": [
+   "Salmon used to swim up the Limmat until the late 19th century. The correction, power plants and pollution took away their basis of life.",
+   "The canalised river looks monotonous and has little natural variety of life. A planned widening near Geroldswil is to give back a dynamic floodplain."
+  ],
   "before": {
    "lines": [
     {
@@ -164984,7 +165146,7 @@
    "https://hls-dhs-dss.ch/de/articles/000161/",
    "https://www.swisstopo.admin.ch/de/landschaftsmodell-swisstlm3d"
   ],
-  "notes": "Main source is the local yearbook \"Jahrheft Schlieren 2002\" (chapter \"Die Limmatkorrektion 1876–1912\"), not HLS. The HLS article on Dietikon was not checked for the correction. The old course was traced semi-automatically on the map of 1885 and checked by eye; some short side arms are left out. The new line is from swissTLM3D because OpenStreetMap was not reachable."
+  "notes": "Main source is the local yearbook \"Jahrheft Schlieren 2002\" (chapter \"Die Limmatkorrektion 1876–1912\"), not HLS. The HLS article on Dietikon was not checked for the correction. The old course was traced semi-automatically on the map of 1885 and checked by eye; some short side arms are left out. The new line is from swissTLM3D because OpenStreetMap was not reachable. Gained/lost: All evidence is from one local yearbook (Jahrheft Schlieren 2002); quotes are from OCR text with typos silently corrected. Gained 2 is the government's expectation in its reply to Schlieren, not a measured result. The salmon loss has several causes (correction, power plants, pollution), as the item says. The yearbook also blames the hydro dams (Letten, Dietikon, Wettingen) for the canal-like Limmat. The Geroldswil widening was planned in 2002; its completion was not checked."
  },
  {
   "id": "glatt",
@@ -165010,8 +165172,15 @@
    "The second correction came from 1878 to 1895. The third correction started in 1936. It prepared the ground for the planned airport at Kloten, for new houses and for melioration (work that makes wet land dry and good for farming). It also gave work to people without jobs. A last correction from Niederglatt to the Rhine in 1975 ended the old water power plants on the lower river.",
    "Today the federal and cantonal authorities say that the corrections forced the Glatt into a narrow, deep and straight bed with hard banks. The river had flowed in bends through a wide area of moor and floodplain. That landscape was lost, and the river has large ecological problems. Since 2011, federal law tells the cantons to bring such rivers back to a more natural state. Projects at the airport and at other places now give the Glatt more space."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The corrections served mainly flood protection and won farmland. Large drainage works came with them.",
+   "The third correction from 1936 prepared the ground for the planned airport at Kloten, for new houses and for melioration (work that makes wet land good for farming). It also created jobs."
+  ],
+  "lost": [
+   "The Glatt once wound through a wide moor and floodplain landscape. With the correction this near-natural state was given up.",
+   "The river was forced into a narrow, deep and straight bed with hard banks. This left large ecological deficits in the river and the land beside it.",
+   "The old water works on the lower Glatt ended for good after the correction from Niederglatt to the Rhine in 1975."
+  ],
   "before": {
    "lines": [
     {
@@ -176642,7 +176811,7 @@
    "https://wms.zh.ch/WildkarteZH",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "Coordinates of Oberglatt, Glattbrugg and the airport are approximate. The year the airport opened is not in the sources used, so the text does not give it. Round 2: the old bed near Rümlang was traced on the Zurich Wild map (about 1850, WMS https://wms.zh.ch/WildkarteZH, layer wild) and checked on the 1870 map; the old bends at Dübendorf on the 1880 map. The marsh area is read from the 1935 map (marsh signs and wet forest), outline approximate. No source says which stretch was moved for the airport; the text does not claim a move."
+  "notes": "Coordinates of Oberglatt, Glattbrugg and the airport are approximate. The year the airport opened is not in the sources used, so the text does not give it. Round 2: the old bed near Rümlang was traced on the Zurich Wild map (about 1850, WMS https://wms.zh.ch/WildkarteZH, layer wild) and checked on the 1870 map; the old bends at Dübendorf on the 1880 map. The marsh area is read from the 1935 map (marsh signs and wet forest), outline approximate. No source says which stretch was moved for the airport; the text does not claim a move. Gained/lost: The BAZL ruling (2022) covers the Glatt at Zurich airport; it says the river was straightened 'mainly in the 19th century'. 'Diese' in lost 3 refers to the water works (Wasserwerke) on the lower Glatt named just before in HLS. Whether ending the old water works counts as a loss is a matter of view; drop it if unwanted."
  },
  {
   "id": "melchaa",
@@ -176667,8 +176836,14 @@
    "Because of these repeated floods, the Grosse Melchaa was moved into Lake Sarnen in 1880. In 1880 the shore of the lake was at about the place of the railway bridge today.",
    "The change had side effects. The gravel now builds a delta in the lake. The delta became longer and the slope of the river smaller, so the river can carry less gravel and its bed rises. In 2005 the bed in the lower part rose by about 1 m. Also, the area that drains into Lake Sarnen grew by almost one third. But the Sarneraa, the only outflow of the lake, has a small capacity. Lake Sarnen therefore floods more easily. In 2005 it reached a record level, and the Sarneraa flooded large parts of Sarnen."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "Before, the gravel of the Melchaa blocked the Sarneraa and caused more and more floods in Sarnen and on the lake shores. Leading it into the lake was a very successful measure.",
+   "The gravel built a large delta in the lake. Today the delta holds a very rare silver willow floodplain forest (Silberweiden-Auenwald)."
+  ],
+  "lost": [
+   "The growing delta made the river slope smaller, so the river carries less gravel. In 2005 its lower bed rose by about 1 m, and the river broke out.",
+   "The catchment area (land that drains into a lake) of Lake Sarnen grew by almost one third. The small outflow cannot keep up, so the lake floods more easily, for example in 2005."
+  ],
   "before": {
    "lines": [
     {
@@ -177785,9 +177960,10 @@
    "https://hls-dhs-dss.ch/de/articles/007850/",
    "https://www.ow.ch/_doc/23136",
    "https://hochwasserschutz.ow.ch/wp-content/uploads/2024/06/Faktenblatt_Seeregulierung_Allgemein.pdf",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf"
   ],
-  "notes": "Not in the HLS table. Year 1880 and reason from an Obwalden government report (2009). Round 2: old course traced on the 1864/1870 map (Dufour-type; the lower part through Sarnen is approximate). The OW report has a site plan of 1880 that was not used."
+  "notes": "Not in the HLS table. Year 1880 and reason from an Obwalden government report (2009). Round 2: old course traced on the 1864/1870 map (Dufour-type; the lower part through Sarnen is approximate). The OW report has a site plan of 1880 that was not used. Gained/lost: Gained 2 (silver willow forest) is a present-day value on land that the delta built; no source says directly that the 1880 diversion created the forest, only that the delta formed after 1880 and holds this forest now. The lost items are later problems, not lost nature; no source on lost habitats at the old mouth was found. The OW fact sheet dates the diversion to 'the 1880s'; Vischer/BWG and the OW report say 1880."
  },
  {
   "id": "toess",
@@ -177813,8 +177989,15 @@
    "Step by step, the Töss got a straight and narrow bed. The aim was to control the river and to win new farmland. In a straight bed the river cuts down into the ground. To stop this, workers fixed the bed with almost 700 sills (low steps of stone or concrete across the river).",
    "The canton says the correction protected the valley well for a long time. But today the safety is no longer enough, and there is little space for more water. The sills are dangerous for people and stop fish from moving up the river. The straight bed is a poor home for plants and animals. In 2018 the canton and the communes made a plan to give the Töss a more natural form over the next decades."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "From the point of view of flood protection, the Töss correction proved its worth.",
+   "The correction tamed the river and won new farmland at the same time."
+  ],
+  "lost": [
+   "To stop the bed from cutting down, almost 700 sills (low steps across the river) fixed it. They make fish migration up and down the river impossible, and their eddies are dangerous for people.",
+   "The monotonous bed is not a good home for water animals and plants.",
+   "Today the safety level no longer meets modern needs. In 2018 the canton made a plan to give the Töss a more natural form."
+  ],
   "before": {
    "lines": [
     {
@@ -184322,7 +184505,7 @@
    "https://wms.zh.ch/WildkarteZH",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "Pfungen coordinate approximate. Round 2: old bed traced only for the stretch south of Töss village (Winterthur), on the Zurich Wild map (about 1850) and checked on the 1870 and 1880 maps. Other stretches (Pfungen, upper valley) are not drawn."
+  "notes": "Pfungen coordinate approximate. Round 2: old bed traced only for the stretch south of Töss village (Winterthur), on the Zurich Wild map (about 1850) and checked on the 1870 and 1880 maps. Other stretches (Pfungen, upper valley) are not drawn. Gained/lost: All items rest on one cantonal media release (2018); HLS gives the dates but no effects. No source found on lost floodplain forests or gravel banks of the Töss, so none is claimed. HLS notes that Winterthur and Tösstal communes draw water from the Töss groundwater, but no source links the correction to groundwater changes."
  },
  {
   "id": "werdenberger-binnenkanal",
@@ -184347,8 +184530,16 @@
    "From 1862 St. Gallen built high dams along the Rhine, with one third of the cost paid by the Confederation. The dams needed to be closed. The engineer Jost Wey therefore built the inland canal in 1882-1886 to collect the side streams and bring them to the Rhine further down. The canal network then made land drainage possible, starting at Haag in 1885-1887.",
    "The gain was new farmland. The loss was the wet meadows and marshes of the valley: HLS counts 6039 ha of valley marsh in 1890 and only 106 ha in 1999."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The canal took in the side streams. So the Rhine dams had no more dangerous gaps at the stream mouths.",
+   "After the regulation, the Rhine broke out only once in a big way, in 1927, and on the Liechtenstein side. The St. Gallen plain stayed dry.",
+   "The canal network made land drainage possible. The works at Haag in 1885-1887 were the first large land drainage (melioration) in Switzerland."
+  ],
+  "lost": [
+   "The wet meadows and valley marshes almost disappeared. In the Rhine valley, 6039 ha of valley marsh in 1890 shrank to 106 ha in 1999.",
+   "Later the Rhine bed sank, partly because of gravel mining. The groundwater sank too, and valuable groundwater streams (Giessen) dried up.",
+   "Since 2025, a revitalised stretch at Sevelen gives back some room. It has new channels and ponds for threatened fish such as grayling and nase."
+  ],
   "before": {
    "lines": [
     {
@@ -186950,9 +187141,11 @@
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008768/",
    "https://www.hydrosuisse.ch/fileadmin/user_upload/site/PDF/Geschichte-des-Hochwasserschutzes_BWG.pdf",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.ost.ch/fileadmin/dateiliste/97_daten/abstracts/fstolz_fs2015.pdf",
+   "https://www.sarganserland-werdenberg.ch/download_file/1129/108753"
   ],
-  "notes": "HLS gives 1882-1886; Vischer says the canal was finished in 1886 and shows a photo of the work at Salez about 1882. The length (c. 21 km) is measured on OpenStreetMap. The marsh outline is traced roughly on the 1860 map (hatching of wet meadows); the area that was drained was larger."
+  "notes": "HLS gives 1882-1886; Vischer says the canal was finished in 1886 and shows a photo of the work at Salez about 1882. The length (c. 21 km) is measured on OpenStreetMap. The marsh outline is traced roughly on the 1860 map (hatching of wet meadows); the area that was drained was larger. Gained/lost: The marsh figure (6039 ha to 106 ha) is for the valley marshes of the Rhine valley as a whole in HLS, not only Werdenberg. The groundwater/Giessen source is a student thesis abstract (OST, 2015) about the Alpine Rhine near Balzers-Sargans, not the canal itself; scope region. The 2025 revitalisation source is a local press release (Werdenberger Binnenkanal-Unternehmen, via sarganserland-werdenberg.ch)."
  },
  {
   "id": "aare-klingnau",
@@ -186977,8 +187170,16 @@
    "From 1886 the canton of Aargau put the river step by step into a channel between dams. Behind the dams the old floodplains became dry. Then a power company built the Klingnau power station (1931–1935). It raised the Aare by 6.1 m and made a lake (a reservoir) about 3 km long.",
    "The slow water in the reservoir dropped huge amounts of fine mud. Shallow water and mud banks grew, and reeds and willows grew on them. Today the reservoir is a bird reserve of international importance, but the natural movement of the river is mostly gone."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The Klingnau power station makes electricity. In 2023/24 it made about 212 million kWh, which is the use of about 46,000 households of four.",
+   "Mud settled in the slow water of the reservoir. Shallow water, mud banks and reeds grew, and the reservoir became a bird reserve of international importance.",
+   "Ornithologists (bird experts) have seen 346 bird species there, 93 of them on the Red List. On some winter days more than 2000 water birds stay there."
+  ],
+  "lost": [
+   "The lower Aare valley had one of the largest floodplains of Switzerland. Behind the new dams from 1886, the old floodplains became dry.",
+   "The natural movement of the river is mostly gone. The old river arms fill up with mud, so people must dredge them to keep them open.",
+   "The old Aare arm at Machme was filled in when the power station was built. In 1995/1996 it was dug out again over 500 m."
+  ],
   "before": {
    "lines": [
     {
@@ -193330,9 +193531,10 @@
   "sources": [
    "https://www.ag.ch/media/kanton-aargau/bvu/umwelt-natur/natur-und-landschaftsschutz/auenschutzpark-aargau/auengebiete/auenflyer-unteres-aaretal-2022.pdf",
    "https://www.ag.ch/de/themen/umwelt-natur/natur-und-landschaftsschutz/auenschutzpark-aargau/die-auengebiete/auen-am-klingnauer-stausee",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.axpo.com/ch/en/newsroom/media-releases/2025/aare-power-plant-klingnau--electricity-production-increased.html"
   ],
-  "notes": "Years 1886 (start of canalisation), 1931–1935 and 6.1 m are from the canton of Aargau floodplain flyer (2022); no HLS article names the work. The old channel and wide bed were traced semi-automatically from the blue water on the map of 1884 and checked by eye; the map does not show which arm was the main one at all times. Length is an estimate."
+  "notes": "Years 1886 (start of canalisation), 1931–1935 and 6.1 m are from the canton of Aargau floodplain flyer (2022); no HLS article names the work. The old channel and wide bed were traced semi-automatically from the blue water on the map of 1884 and checked by eye; the map does not show which arm was the main one at all times. Length is an estimate. Gained/lost: No safety gain is listed: the Aargau flyer says the canalisation started because floods did great damage, but no opened source says how far floods were then reduced. The electricity figure is for one year (2023/24); output depends on the water of the Aare."
  },
  {
   "id": "ticino",
@@ -193358,8 +193560,15 @@
    "The cantonal government made two projects. Parliament accepted them by a small majority, but the people voted no. The north of the canton (Sopraceneri) was for them, the south (Sottoceneri) was against. The government still set up a consortium in 1886. A consortium is a group of land owners and public bodies who share the work and the cost. The correction was approved in 1885 and started in 1888. It went on, with breaks, into the 20th century and cost more than 11 million francs.",
    "The river now ran between dams. This made it possible to drain the plain in four big steps from 1918 to 1961. The Magadino plain became the largest farming area of the canton. Later, houses, roads, shops and the airfield also took much of the new land. In 1974 the canton protected the Bolle di Magadino at the river mouth as a nature reserve."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The river now stayed in one bed between dams. This made it possible to drain the Magadino plain in four big steps from 1918 to 1961.",
+   "The Magadino plain became the largest farming zone of the canton of Ticino.",
+   "From the second half of the 20th century, firms, shops and the cantonal airfield also used the new land."
+  ],
+  "lost": [
+   "A marsh landscape once covered the whole plain. Today only the last pieces are left, mainly at the Bolle di Magadino near the river mouth.",
+   "The wetlands of the plain changed into farmland and later into built-up land. In 1974 the canton protected the Bolle di Magadino as a nature reserve."
+  ],
   "before": {
    "lines": [
     {
@@ -197235,9 +197444,10 @@
    "https://hls-dhs-dss.ch/de/articles/007850/",
    "https://hls-dhs-dss.ch/de/articles/020331/",
    "https://www.bafu.admin.ch/de/kurze-geschichte-der-naturgefahren-in-der-schweiz",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr260.pdf"
   ],
-  "notes": "HLS gives works 1888–1939 (HLS Ticino) and approval 1885, start 1888, with breaks into the 20th century (HLS Magadino plain); no source for \"ready by 1912\" was found, so the text now uses the 1916 map. Round 2: old channel and gravel bed traced on the Dufour edition of 1858 (1:100,000, less exact than later maps; on the 1916 map the trace fits the old bed to within about 100–200 m). Bolle di Magadino coordinate approximate."
+  "notes": "HLS gives works 1888–1939 (HLS Ticino) and approval 1885, start 1888, with breaks into the 20th century (HLS Magadino plain); no source for \"ready by 1912\" was found, so the text now uses the 1916 map. Round 2: old channel and gravel bed traced on the Dufour edition of 1858 (1:100,000, less exact than later maps; on the 1916 map the trace fits the old bed to within about 100–200 m). Bolle di Magadino coordinate approximate. Gained/lost: No opened source says how much the dams reduced floods, so no explicit safety item. Malaria is not listed as a gain: HLS says it stayed a problem until the end of the 19th century, but the drainage came only from 1918, so no source links the end of malaria to this work. HLS 007850 is the general HLS article 'Gewässerkorrektionen' (Vischer), which names the fight against marshes and malaria as an aim of Swiss river diversions in general."
  },
  {
   "id": "aire",
@@ -197262,8 +197472,16 @@
    "Geneva wanted to protect the land from floods and to grow more food on it. The canton straightened the river from Thairy to the Lully bridge in 1890–1893. Between 1921 and 1940 it joined many small fields into larger ones (land consolidation), drained the plain and put the river into a canal down to the Arve. Later, in 1964–1970, the last part near La Praille was covered so that an industrial zone could grow.",
    "The canal had side effects. Its bed was fixed by steps and strong dykes and lay higher than the land around it, so it was often dry in summer, and fish and plants disappeared. In 2001 Geneva passed a law to renature (make natural again) the Aire. The works of 2002–2016 kept the old canal as a historical path and dug a wide new bed next to it, where the river can move freely. The project won the Landscape Award of the Council of Europe in 2019."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The straight canal and the drainage of 1890-1940 served flood protection and farming. The plain of the Aire became cropland.",
+   "Near La Praille the canal was covered in 1964-1967. This let the industrial zone of La Praille grow over it.",
+   "Since the renaturation, the new wide bed protects people and goods against floods. In the ten-year flood of 2008, no flooding was reported."
+  ],
+  "lost": [
+   "The canal was fixed by steps and strong dykes and lay higher than the land. It was often dry for long periods in summer, and its ecology became very poor.",
+   "The banks were cut off from the river. Floodplain forests changed into forests of black locust (an invasive plant), and many floodplain species disappeared.",
+   "Since 2002 a wide new bed gives back some room. Rare birds such as the little ringed plover have come back, and so has the natterjack toad."
+  ],
   "before": {
    "lines": [
     {
@@ -200994,7 +201212,7 @@
    "https://ge.ch/grandconseil/data/texte/PL12671.pdf",
    "https://www.bafu.admin.ch/bafu/en/home/topics/landscape/dossiers/landscape-award.html"
   ],
-  "notes": "Dates and stretches from the Geneva bill PL 12671 (history table). The red line is traced on the 1889 map only between Lully and Lancy, where the old bends are clear; upstream of Lully the 1889 map shows no clear course. The blue line is today's course from OpenStreetMap, which includes the renatured bed, not the 1940 canal everywhere."
+  "notes": "Dates and stretches from the Geneva bill PL 12671 (history table). The red line is traced on the 1889 map only between Lully and Lancy, where the old bends are clear; upstream of Lully the 1889 map shows no clear course. The blue line is today's course from OpenStreetMap, which includes the renatured bed, not the 1940 canal everywhere. Gained/lost: Gained 1 is the stated aim in the bill; the bill does not measure how much flooding the 1890-1940 canal prevented. Floods still came: after floods in 1976 and 1979 the dykes were raised (1981-1982), and in 2002 a flood hit Bas-Lully (700 people), but from runoff of the Feuillée, not from the Aire. The bill's description of the dry, perched bed refers mainly to the 4th renaturation stage upstream of Lully."
  },
  {
   "id": "maggia",
@@ -201020,8 +201238,13 @@
    "From 1891 to 1930 a consortium built dams along many parts of the river. A consortium is a group of land owners and public bodies who share the work and the cost. The Maggia was never put into a full canal. A stone bridge between Losone and Solduno, built in 1815 and 1816, was partly destroyed soon after and rebuilt in 1887.",
    "The dams did not stop all floods. In 1951 a flood destroyed the iron bridge at Ponte Brolla, and in 1978 a flood caused much damage. Since 1949, much of the water has gone to hydropower plants. The delta mouth became a nature reserve in 1985."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "Strong dams protect villages and farmland from the force of the river. Many of these dams still work today.",
+   "From 1891 to 1930 a consortium built dams that hold the banks in many places. The river still has a branched bed with room to slow down floods."
+  ],
+  "lost": [
+   "The dams, stone quarries and roads slowly took space from the river. They changed its natural movement in parts of the valley."
+  ],
   "before": {
    "lines": [
     {
@@ -202942,9 +203165,10 @@
    "https://hls-dhs-dss.ch/de/articles/008773/",
    "https://www.bafu.admin.ch/de/kurze-geschichte-der-naturgefahren-in-der-schweiz",
    "https://insubricahistorica.ch/italia/25/05/2019/from-nature-to-weapons-maggia-estuary-in-locarno/",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www4.ti.ch/fileadmin/DT/temi/consultazione_dstm/documenti/Decreto_protezione_golene_Maggia.pdf"
   ],
-  "notes": "Not in the HLS table. No source gives the year of the straight course across the delta; it is already visible on the 1916 and 1924 maps (and partly on 1893). Round 2: old arms and delta outline traced on the 1870 map; they fit the 1893–1933 maps. The airfield is general knowledge."
+  "notes": "Not in the HLS table. No source gives the year of the straight course across the delta; it is already visible on the 1916 and 1924 maps (and partly on 1893). Round 2: old arms and delta outline traced on the 1870 map; they fit the 1893–1933 maps. The airfield is general knowledge. Gained/lost: The main source (canton Ticino, protection decree for the Maggia floodplains, 2010) covers the valley from Bignasco to Avegno, not the delta between Locarno and Ascona. It names the first dams at Cevio (1869) and Someo (1893). Lost 2 is about hydropower (from 1949/1950s), a later change, not the 1891-1930 dams; keep it only if the site treats hydropower as part of this story. No source found for what the straight mouth across the delta gained or lost (land, airfield); the Insubrica Historica page only mentions a former airfield and the 1985 reserve. Floods still came in 1951 and 1978 (HLS). Removed by review: the hydropower item belongs to a later change (dams, phase 2), not to the correction."
  },
  {
   "id": "rheintaler-binnenkanal",
@@ -202969,8 +203193,14 @@
    "The treaty made the Fussach cut (1900) and the Diepoldsau cut (1923). Each country had to build the side canals on its own bank. On the Swiss side this was the Rheintal inland canal, built under the engineer Jost Wey. Because the Rhine now ran to Fussach, the canal could use the old Rhine bed below St. Margrethen as its outlet.",
    "The canal made land drainage possible and turned the marshes into farmland. Later it needed drop structures at Lienz, Blatten and Montlingen, which also make electricity. Today the area is built up, and floods in 1999 and 2013 showed that the canal is now too small in places."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The canal collects many side streams that once flowed across the plain. It was meant to drain the whole plain from St. Margrethen to Sennwald.",
+   "The state treaty of 1892, of which the canal was part, aimed to remove flood danger and marshland on both banks of the Rhine."
+  ],
+  "lost": [
+   "The marshes of the valley floor almost disappeared. In the Rhine valley, 6039 ha of valley marsh in 1890 shrank to 106 ha in 1999.",
+   "Today the canal is too small in places. Near Rüthi and Widnau it cannot carry big floods, and floods in 1999 and 2013 damaged homes and industry."
+  ],
   "before": {
    "lines": [],
    "areas": [
@@ -205378,7 +205608,7 @@
    "https://www.binnenkanal.ch/geschichte",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "HLS gives 1895-1906, the canal association gives 1894-1906 (preliminary works at Monstein 1894-1895, canal 1896-1906). Length c. 22 km is measured on OpenStreetMap (the upper part is named \"Rheintaler Binnenkanal\", the lower part \"Binnenkanal\"). The marsh outline is a rough trace of the hatched wet meadows on the 1891 map. Check the 1916 map: the canal should be visible there."
+  "notes": "HLS gives 1895-1906, the canal association gives 1894-1906 (preliminary works at Monstein 1894-1895, canal 1896-1906). Length c. 22 km is measured on OpenStreetMap (the upper part is named \"Rheintaler Binnenkanal\", the lower part \"Binnenkanal\"). The marsh outline is a rough trace of the hatched wet meadows on the 1891 map. Check the 1916 map: the canal should be visible there. Gained/lost: binnenkanal.ch does not say how much farmland was won, so no farmland number. The hydropower at the drop structures (Lienz, Blatten, Montlingen) was not confirmed in an opened source, so it is not listed. The marsh figure from HLS is for the valley marshes of the whole St. Gallen Rhine valley, not only this canal. The page also says revitalisation brings the greatest gain for nature, but gives no detail of works done on this canal."
  },
  {
   "id": "alpenrhein-unten",
@@ -205404,8 +205634,15 @@
    "After the floods of 1888 and 1890 they signed a state treaty in 1892. It created the International Rhine Regulation (IRR), which both states pay for. The IRR built the Fussach cut (1895-1900) and the Diepoldsau cut (1910-1923). Together with the earlier works the river became about 10 km shorter, and the mouth moved about 8 km to the east. Treaties of 1924 and 1954 added the dams into the lake and a narrower middle channel.",
    "The cuts made the valley much safer, but the river lost its natural banks. Today the IRR and the two states plan the project Rhesi to give the river more room again."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The cuts made the river about 10 km shorter (Fussach 7 km, Diepoldsau 3 km). The faster water carried its gravel away better, so the bed rose less.",
+   "With the Diepoldsau cut, the danger of big floods on the valley floor ended for a long time. Prosperity then came to the St. Gallen Rhine valley."
+  ],
+  "lost": [
+   "The cut was nearly an ecological disaster for the Rhine, says a local historian. Fish numbers fell sharply, and most of the floodplain forest disappeared.",
+   "The cut separated the Diepoldsau loop from the river. It became the Old Rhine (Alter Rhein), a still water used for leisure.",
+   "The safety is not complete. The dams hold only a 100-year flood, and a big flood today could cause damage of up to 13 billion francs. Project Rhesi will widen the river."
+  ],
   "before": {
    "lines": [
     {
@@ -234186,7 +234423,7 @@
    "https://www.lustenau.at/media/10337/download/njb-2010-lustenau-und-der-rhein_oliver-heinzle.pdf",
    "https://www.sg.ch/content/dam/sgch/bauen/raumentwicklung/richtplanung/natur-und-landschaft/Hochwasserschutz%20Alpenrhein.pdf"
   ],
-  "notes": "Old lower course traced on the Siegfried map 1895 (Swiss sheets; the Austrian side near Fussach is an older sheet). Diepoldsau loop traced on the 1905 map at zoom 15 and checked at zoom 14 and on 1925-1940 maps. The Fussach cut is first shown in map year 1909; the 1925 map shows the Diepoldsau cut on the Swiss sheet. New lines are today's OSM course; the Fussach line is cut at the 1909 shore, the part into the lake is later. HLS gives Fussach 1896-1900, IRR 1895-1900. The 1927 Schaan marker is approximate."
+  "notes": "Old lower course traced on the Siegfried map 1895 (Swiss sheets; the Austrian side near Fussach is an older sheet). Diepoldsau loop traced on the 1905 map at zoom 15 and checked at zoom 14 and on 1925-1940 maps. The Fussach cut is first shown in map year 1909; the 1925 map shows the Diepoldsau cut on the Swiss sheet. New lines are today's OSM course; the Fussach line is cut at the 1909 shore, the part into the lake is later. HLS gives Fussach 1896-1900, IRR 1895-1900. The 1927 Schaan marker is approximate. Gained/lost: The ecology statement in lost 1 is the opinion of historian Martin Weiss, reported by SRF; it is not a measured study. The damage figure differs between IRR pages: rheinregulierung.org/projekt-rhesi/projektbeschrieb says up to 13 billion francs; rhesi.org says Rhesi could prevent damage of up to 14 billion francs. The Rhesi project raises capacity from 3100 to 4300 m3/s (100-year to 300-year flood). No opened source on bed erosion or groundwater for this lower stretch; the OST abstract on bed lowering covers the stretch near Balzers-Sargans, so it is not used here."
  },
  {
   "id": "sense",
@@ -234212,8 +234449,14 @@
    "People built single wooden walls along the banks from 1725 on, near villages, roads and fields. Around 1900 the river was straightened and channelled in one large correction. Between Heitibüffel and Laupen both banks got wooden walls, rolls of wire and stones, and iron posts; flood dykes further back followed in the first half of the 20th century.",
    "The straight river flowed faster and dug its bed deeper (bed erosion). From about 1950 people built stone steps (sills) across the river to stop this; today there are 46 of them. The new land is good farmland, but the river lost its natural banks. The cantons are now studying where the Sense can get more room again (project Sense21)."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The straightening and channelling around 1900 won extra land. This land is mostly safe from floods and is now highly productive farmland."
+  ],
+  "lost": [
+   "The straight river carried more gravel and dug its bed deeper (bed erosion). Since about 1950, people built stone sills to fix the bed; today there are 46.",
+   "From Thörishaus down, the Sense is strongly channelled and has few gravel banks. The natural floodplain dynamics are almost gone in the lower course.",
+   "The former floodplain forests have mostly changed into beech forests during the last century."
+  ],
   "before": {
    "lines": [
     {
@@ -239533,7 +239776,7 @@
   "sources": [
    "https://www.gewaesserrichtplaene.bvd.be.ch/content/dam/gewaesserrichtplaene_bvd/dokumente/de/region-mittelland/grp-sense/grp-sense-gek-sense21-teil-b-systembeschreibung.pdf"
   ],
-  "notes": "Source (canton of Bern, GEK Sense21, part B) gives only 'around 1900' for the correction; the exact years were not found. The red line is traced on the 1880 map from Laupen to Thörishaus with an automatic tool and checked by eye; a few short pieces are missing where the old channel was unclear. The gravel-bed area is traced by eye and approximate. Length of the corrected stretch not found."
+  "notes": "Source (canton of Bern, GEK Sense21, part B) gives only 'around 1900' for the correction; the exact years were not found. The red line is traced on the 1880 map from Laupen to Thörishaus with an automatic tool and checked by eye; a few short pieces are missing where the old channel was unclear. The gravel-bed area is traced by eye and approximate. Length of the corrected stretch not found. Gained/lost: The source also reports falling brown trout numbers and that the nase has not been seen in the Sense since 1993, but it says no clear cause for the fish decline was found; so fish are not listed as a loss of the correction. The 46 sills are counted between the Schwarzwasser mouth and the Saane, a longer stretch than Thörishaus-Laupen."
  },
  {
   "id": "vedeggio",
@@ -239558,8 +239801,14 @@
    "In 1906 the correction of the Vedeggio began. The river was put into a straight canal, and the drained plain gave the commune of Agno much more productive land, first for farming.",
    "After 1945 the plain filled with industry, shops and the airport of Lugano. Today the canton, the Confederation and the communes pay for new flood protection on the lower Vedeggio."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The correction from 1906 and the drainage of the Piano d'Agno greatly increased the productive land of Agno. At first it became a large farming area.",
+   "After the Second World War, industry and trade grew fast on the plain. Since 1980 the airport of Agno has had scheduled flights."
+  ],
+  "lost": [
+   "The Vedeggio mouth is no longer a natural delta. Today the nearby Magliasina mouth is the only natural delta left on Lake Lugano.",
+   "The old canal is now too small in critical places. Since 2006 a consortium has been widening the river and building new flood protection, at a cost of about 34 million francs so far."
+  ],
   "before": {
    "lines": [
     {
@@ -240892,9 +241141,10 @@
    "https://hls-dhs-dss.ch/it/articles/002130/",
    "https://entscheidsuche.ch/docs/CH_BVGer/CH_BVGE_001_A-1802-2013_2013-11-06.pdf",
    "https://www4.ti.ch/fileadmin/POTERI/GC/allegati/rapporti/28858_8495 R.pdf",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www4.ti.ch/fileadmin/DT/temi/biodiversita_natura_paesaggio/documenti/Decreto_protezione_foce_Magliasina.pdf"
   ],
-  "notes": "HLS (Agno) gives only the start (1906) of the Vedeggio correction and says the drainage of the Piano d'Agno began in the 19th century; the end year is unknown. The map of 1934 already shows the straight canal. The 1938 airfield date is from a Federal Administrative Court ruling. The old line is traced on the map of 1905 and only covers Bioggio to the lake."
+  "notes": "HLS (Agno) gives only the start (1906) of the Vedeggio correction and says the drainage of the Piano d'Agno began in the 19th century; the end year is unknown. The map of 1934 already shows the straight canal. The 1938 airfield date is from a Federal Administrative Court ruling. The old line is traced on the map of 1905 and only covers Bioggio to the lake. Gained/lost: Thin. No opened source describes the ecological loss of the Vedeggio itself (wetlands, fish, gravel banks) or a safety gain from the 1906 works. Lost 1 is inferred from the Magliasina decree ('only natural delta of Lake Lugano'), so it does not say what the Vedeggio mouth was like before. Lost 2: the 2024 report is about the new project (approved 2002, works since 2006); it does not say the 1906 canal failed, only that capacity must be raised at critical sections."
  },
  {
   "id": "thur-toggenburg",
@@ -240920,7 +241170,11 @@
    "The straight bed made room for Wattwil to grow onto the valley floor. The price was the loss of the natural river banks."
   ],
   "gained": [],
-  "lost": [],
+  "lost": [
+   "The bed of the corrected river keeps digging deeper (bed erosion). This makes the bank erosion worse and lowers the groundwater.",
+   "The bed has eroded by up to 1 m. The river lacks dynamic habitats such as gravel banks, backwaters and pools.",
+   "After more than 100 years the canal is worn out. A 100-year flood could now flood large parts of the centre of Wattwil."
+  ],
   "before": {
    "lines": [
     {
@@ -244821,9 +245075,11 @@
    "https://hls-dhs-dss.ch/de/articles/008764/",
    "https://hls-dhs-dss.ch/de/articles/001387/",
    "https://dls.staatsarchiv.sg.ch/records/1069395",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.ratsinfo.sg.ch/media/documents/published/1979905d-d8bb-4df4-b667-4c5f8d3732a3.pdf",
+   "https://www.aquaviva.ch/images/medien/medienmitteilungen/2023-03-29-mm-thur-wattwil/230327_MM_Thursanierung_Wattwil_Uelisbach.pdf"
   ],
-  "notes": "HLS (Thur, Wattwil) gives 1907-1913; the St. Gallen state archive and Wikipedia say 1907-1914. The name of Arnold Sonderegger comes from the state archive catalogue (plans for the Thur regulation at Wattwil). Between Ebnat-Kappel and Ulisbach the old and new courses are almost the same on the maps, so only the Wattwil stretch (Lichtensteig to Ulisbach) is drawn in red. Wikipedia mentions a second correction in 1983; not confirmed in a high-trust source, so not used."
+  "notes": "HLS (Thur, Wattwil) gives 1907-1913; the St. Gallen state archive and Wikipedia say 1907-1914. The name of Arnold Sonderegger comes from the state archive catalogue (plans for the Thur regulation at Wattwil). Between Ebnat-Kappel and Ulisbach the old and new courses are almost the same on the maps, so only the Wattwil stretch (Lichtensteig to Ulisbach) is drawn in red. Wikipedia mentions a second correction in 1983; not confirmed in a high-trust source, so not used. Gained/lost: No gained items: HLS (Thur, Wattwil) only gives the years 1907-1913; no opened source says what the correction protected or that Wattwil grew onto the valley floor because of it. Dykes broke on the Thur in floods of 1910, 1965, 1977 and 1978 (HLS Thur), but HLS does not say where. Lost 2 comes from a press release of environmental groups (Aqua Viva, Pro Natura, WWF), an interested party; the 'deficits' are described for today's river at Wattwil. The St. Gallen source is the government reply of 18 Feb 2025 to interpellation 51.24.84."
  },
  {
   "id": "seymaz",
@@ -244846,10 +245102,17 @@
   "why": [
    "The Seymaz is a small river east of Geneva. Before 1915 its plain was covered by marshes. The marshes of Sionnet and Rouelbeau were almost one large wet area. Farmers only used it to let cattle graze and to cut litter for their stables.",
    "In the early 20th century Geneva wanted more land for crops. The canton made plans to join small fields into larger ones and to drain the marshes. The first drains were dug in 1909–1914; the large works came in 1915–1924. The marshes were dried, the Seymaz was put into a straight canal with a very low slope, and small side streams were put into pipes under the ground.",
-   "The new fields were good, but many plants and animals of the marsh disappeared. Without the marsh, heavy rain ran off fast, and floods downstream became a problem. Since a law of 1998, Geneva has been giving the Seymaz a natural bed again near Rouelbeau and has made a new wetland in the old Sionnet marsh."
+   "The new fields were good, but many plants and animals of the marsh disappeared. Before, the marshes stored water and evened out the flow. Later, floods downstream became a problem. The 1998 bill names growing towns and modern farming with heavy machines as the main causes. Since a law of 1998, Geneva has been giving the Seymaz a natural bed again near Rouelbeau and has made a new wetland in the old Sionnet marsh."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The drainage and the canal enlarged the cropland of the canton. New square fields replaced the marsh."
+  ],
+  "lost": [
+   "The big marshes of Choulex, Meinier, Sionnet and others disappeared. Before, they stored water and evened out the flow of the river.",
+   "Hedges and trees were removed. The rigid canal had little room for plants and animals, and its concrete bed left almost no life for fish.",
+   "The drained peat soil sank by about one metre. This made hollows that flood easily.",
+   "Since about 2000 the renaturation gives back some room. The Sionnet marshes (2005-2006) can store about 800,000 m3 of water, and rare marsh plants have come back."
+  ],
   "before": {
    "lines": [
     {
@@ -246093,9 +246356,10 @@
    ]
   },
   "sources": [
-   "https://ge.ch/grandconseil/memorial/seances/540109/24/7/"
+   "https://ge.ch/grandconseil/memorial/seances/540109/24/7/",
+   "https://www.ge.ch/document/12756/annexe/8"
   ],
-  "notes": "Years (drainage 1909-1914, main works 1915-1924), the canalised length upstream of the Bochet bridge (4750 m) and the 1998 renaturation plan from the bill in the Geneva Grand Council Mémorial of 28 May 1998. The marsh outlines are traced by eye on the 1913 map and are approximate. Only the upper Seymaz around Choulex is drawn; the downstream stretch to Chêne-Bourg is not traced. The exact years of each renaturation stage were not checked."
+  "notes": "Years (drainage 1909-1914, main works 1915-1924), the canalised length upstream of the Bochet bridge (4750 m) and the 1998 renaturation plan from the bill in the Geneva Grand Council Mémorial of 28 May 1998. The marsh outlines are traced by eye on the 1913 map and are approximate. Only the upper Seymaz around Choulex is drawn; the downstream stretch to Chêne-Bourg is not traced. The exact years of each renaturation stage were not checked. Gained/lost: Conflict with the current 'why' text: the 1998 bill (§ 3.4) explains the later floods by urbanisation and modern farming with heavy machines, not by the loss of the marsh. The Geneva river sheet (Fiche-rivière no 10) says the marshes once evened out the flow, and that the restored Sionnet marshes removed the flood danger in the urban part by end of 2009. The ground sinking is attributed in the bill to the compaction of drained peat (paraphrased by the fetch tool; the exact 'peat' wording was not seen). The fish quote refers to the canalised, concrete-bed stretch."
  },
  {
   "id": "plaine-fully-saillon",
@@ -246120,8 +246384,15 @@
    "In 1873 the canton made a plan for a system of main and side canals that lead the water back into the Rhône far downstream. Most of the work came after the First World War. Between Riddes and Martigny the communes formed a consortium (a group that shares the work and the costs). Experts sorted every plot into four classes of wetness, and owners of wetter land paid more. In the plain of Saillon the fields were joined, drained and irrigated in 1914–1922.",
    "The new land became one of the main fruit and vegetable areas of Switzerland. The old marshes, with their rare plants and birds, almost disappeared."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The drainage canals dried the low land behind the Rhône dykes. The Grande Gouille, a pond that covered the plain for months each year, was drained in 1919-1920.",
+   "By the mid-20th century the plain was well farmed and full of orchards. Many houses were built on it."
+  ],
+  "lost": [
+   "The marshes of the Sarvaz, called the 'Valais Camargue', almost disappeared. Naturalists of the time regretted the loss of their rich plants and animals.",
+   "Old uses of the wetland ended. The reed harvests and the wild 'islands' of thorny bushes, a paradise for pheasants, were almost all gone.",
+   "People built houses in the plain that the Rhône can flood. This raised the damage a dyke break could cause."
+  ],
   "before": {
    "lines": [],
    "areas": [
@@ -247906,7 +248177,7 @@
    "https://www.vs.ch/web/magazine/-/coup-d-oeil-dans-les-archives-de-l-etat",
    "https://hls-dhs-dss.ch/de/articles/008769/"
   ],
-  "notes": "Period 1910-1940 from the title of the study by E. Reynard and D. Baud, 'Etude géohistorique de l'assèchement de la plaine de Riddes-Martigny (1910-1940)', Vallesia 70 (2015), cited by Thurre (Cahiers de Vallesia 33, 2020); I did not read that study itself. The 1873 plan, the Grande Gouille and the Saillon works of 1914-1922 are from Thurre; the consortium and the four wetness classes from the Valais State Archives page. The building year of the Canal de la Fontaine (blue line) is NOT confirmed; it is not visible as a clear canal on the 1905 map and is on the 1950 map, so it is shown as one example of the drainage canals. The marsh area is drawn by eye and approximate."
+  "notes": "Period 1910-1940 from the title of the study by E. Reynard and D. Baud, 'Etude géohistorique de l'assèchement de la plaine de Riddes-Martigny (1910-1940)', Vallesia 70 (2015), cited by Thurre (Cahiers de Vallesia 33, 2020); I did not read that study itself. The 1873 plan, the Grande Gouille and the Saillon works of 1914-1922 are from Thurre; the consortium and the four wetness classes from the Valais State Archives page. The building year of the Canal de la Fontaine (blue line) is NOT confirmed; it is not visible as a clear canal on the 1905 map and is on the 1950 map, so it is shown as one example of the drainage canals. The marsh area is drawn by eye and approximate. Gained/lost: Gained 2 and lost 3 come from Ignace Mariétan (writing after the 1948 flood), quoted by Thurre; he names Saxon and Charrat, at the edge of the Riddes-Martigny plain. Malaria: Thurre quotes a contemporary who says marsh fever (malaria) struck people in the plain, but no opened source says the drainage ended it, so it is not listed as a gain. No opened source confirms 'one of the main fruit and vegetable areas of Switzerland'; the Valais archive page gives no crop results. Lost 2 quotes a painter's memory of about 1919, cited by Thurre."
  },
  {
   "id": "suze-vallon",
@@ -250119,9 +250390,11 @@
    ]
   },
   "sources": [
-   "https://hls-dhs-dss.ch/de/articles/041279/"
+   "https://hls-dhs-dss.ch/de/articles/041279/",
+   "https://digitalcollection.zhaw.ch/bitstream/11475/30627/1/2022_Sauter-Eva_CAS_IUNR-GER.pdf",
+   "https://hls-dhs-dss.ch/fr/articles/041279"
   ],
-  "notes": "HLS 'Schüss' gives 1910-1940 for the canalisation of 'a good third' of the river and 1825 for the Schüss canal in Biel, but does not say which stretches were canalised. That the Courtelary–Cortébert stretch belongs to the 1910-1940 works is my reading of the maps (bends in 1905, straight bed in 1946), not a written source. Only this stretch is drawn. The reasons (villages, railway, farmland) are general, not stated in the HLS article."
+  "notes": "HLS 'Schüss' gives 1910-1940 for the canalisation of 'a good third' of the river and 1825 for the Schüss canal in Biel, but does not say which stretches were canalised. That the Courtelary–Cortébert stretch belongs to the 1910-1940 works is my reading of the maps (bends in 1905, straight bed in 1946), not a written source. Only this stretch is drawn. The reasons (villages, railway, farmland) are general, not stated in the HLS article. Gained/lost: Thin. No source found that names gains or losses of the 1910-1940 works in the Vallon de Saint-Imier itself (HLS gives only dates and the 1998 plan; Memoires d'Ici has photos of the 'correction de la Suze' at Courtelary 1921-1922 but no text). The habitat statement is from a 2022 ZHAW thesis about the Schüss canal in Biel (built from 1825), not about the Vallon. No gained item, because no source states flood protection or farmland gains for this river. Removed by review: the habitat item was about the Suze canal in Biel, not the Vallon."
  },
  {
   "id": "muota",
@@ -250147,8 +250420,13 @@
    "In 1910 the canton of Schwyz accepted a federal subsidy for the work. With this, the canton took on the duty to build the works and to keep them in good condition. In the years after 1910 the canton built up the Muota from above Muotatal down to the lake. The federal state, the canton and the district of Schwyz paid subsidies. The land owners who had a benefit paid the rest. In 1922 the district also asked the Korporation Uri to pay, because it owned alps in the Muota area in the canton of Uri. Uri said no. In 1931 the Federal Council and the Federal Court agreed with Uri.",
    "A Wuhrkorporation (a group of land owners who must keep the river dams in good condition) was founded and kept the dams. Today the district of Schwyz plans to give the Muota a more natural bed near the old Brunnen power plant."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "After the works, a group of land owners kept the dams in good condition. From then on, the dams prevented floods like the one of 1910.",
+   "The works also protected the road through the Muota valley."
+  ],
+  "lost": [
+   "The river lost much of its natural structure. Today the canton plans to fix deficits in its flow and natural form. The district plans a more natural bed near Brunnen."
+  ],
   "before": {
    "lines": [],
    "areas": []
@@ -252942,9 +253220,10 @@
    "https://www.muotathal.ch/gemeinde/portrait/frueher",
    "https://www.servat.unibe.ch/dfr/pdf/c1057388.pdf",
    "https://bezirk-schwyz.ch/revitalisierung-muota-abschnitt-kraftwerk-brunnen/",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.sz.ch/kanton/medien-und-datenschutz/medienmitteilungen/detailseite.html/10392/news/24506/newsarchive/1"
   ],
-  "notes": "The dates 1911–1926 are not confirmed. A Federal Court ruling of 1931 says the works were done \"in the years after 1910\"; the cost list was fixed in November 1922, so the stop uses 1922. Round 2: no old line is drawn, because the maps of 1854, 1900 and 1935 show nearly the same course between Ibach and Brunnen and in the valley; only the new course (OpenStreetMap) is shown."
+  "notes": "The dates 1911–1926 are not confirmed. A Federal Court ruling of 1931 says the works were done \"in the years after 1910\"; the cost list was fixed in November 1922, so the stop uses 1922. Round 2: no old line is drawn, because the maps of 1854, 1900 and 1935 show nearly the same course between Ibach and Brunnen and in the valley; only the new course (OpenStreetMap) is shown. Gained/lost: The muotathal.ch page says the dams prevented such events 'fortan'; the data file's own story mentions later floods in 1999 and 2005 (not checked here), so 'prevented floods like 1910' should not be read as 'no floods since'. The deficits in flow named by the canton come mostly from the six Muota power plants (HLS: built late 1950s/60s), not only from the 1910s correction. No source names lost species or habitats for the 1910s works. No source found for farmland gains."
  },
  {
   "id": "aare-goesgen",
@@ -252969,8 +253248,13 @@
    "From 1913 to 1917 a canal was dug from a weir at Winznau to a power station at Niedergösgen. The station started in November 1917. The canal cuts off the loop. It is about 4.8 km long.",
    "Since then most of the water flows through the canal. The old loop (\"Alte Aare\") gets only the water that the weir lets through. The power station was renewed in 1997–2000. People now discuss how much water the old Aare must get, for fish and for the floodplain."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The Gösgen power station makes about 300 million kWh of electricity per year. This is enough for about 66,500 households."
+  ],
+  "lost": [
+   "Most of the Aare now flows through the canal. The old loop (Alte Aare) gets only the water that does not go into the canal.",
+   "Many works have strongly reduced the natural variety of the bank habitats here. Under the new concession, the old Aare is to get more water. The plan is 12 m³/s in winter and at least 20 m³/s in summer."
+  ],
   "before": {
    "lines": [
     {
@@ -255420,9 +255704,11 @@
    "https://hls-dhs-dss.ch/de/articles/001113/",
    "https://alpiq.com/energy/assets/hydropower/goesgen-run-of-river-power-plant",
    "https://www.srf.ch/news/wehr-winznau-100-jaehriges-industriegebaeude-wird-abgerissen",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://so.ch/fileadmin/internet/bjd/bjd-afu/pdf/wasser/kw_goesgen_alpiq-broschuere.pdf",
+   "https://so.ch/verwaltung/bau-und-justizdepartement/amt-fuer-umwelt/wasserbau/nutzung-oberflaechengewaesser/wasserkraft/konzessionserneuerung-goesgen/"
   ],
-  "notes": "HLS (Obergösgen) gives 1913–1917 for the canal; Alpiq gives 4.8 km; SRF gives November 1917 and the 1997–2000 renewal. The old loop was traced on the map of 1910; the part of the old loop that is still a river today was not traced separately. Place markers are approximate."
+  "notes": "HLS (Obergösgen) gives 1913–1917 for the canal; Alpiq gives 4.8 km; SRF gives November 1917 and the 1997–2000 renewal. The old loop was traced on the map of 1910; the part of the old loop that is still a river today was not traced separately. Place markers are approximate. Gained/lost: The 66,500 households and ~300 GWh in the Alpiq concession brochure refer to the new concession period (slightly less than before, because of more residual water). The 12/20 m³/s regime is 'proposed' in the brochure; I did not confirm that it is already in force. A search snippet said residual flow was raised to about 10 m³/s in 2007, but I did not open that source, so it is not used. The canton sentence on reduced bank habitats is about the Gösgen stretch in general, not only the canal. No source found on the old rafting or on flood safety gains."
  },
  {
   "id": "saane",
@@ -255447,8 +255733,15 @@
    "From the end of the 19th century the villages and the canton of Fribourg narrowed the river between dams to win farmland. Federal money for river works was possible after the law of 1877. The work went on in many steps until 1987.",
    "The narrow river is safer for the fields. But the wide gravel banks, a rich natural habitat, were mostly lost."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "At the end of the 19th century, works on the bed of the Saane near Enney gave more land to farmers.",
+   "The Rossens dam (1948) feeds the Hauterive power station. It makes on average 280 million kWh of electricity per year."
+  ],
+  "lost": [
+   "The Lac de la Gruyère covered the hamlet of Pont-en-Ogoz. Today only the ruins of its castle stand out of the water.",
+   "The lake also flooded the old Thusy power station in 1948.",
+   "In Switzerland, river corrections drained many floodplains (Auen). In the Intyamon, Les Auges d'Estavannens is still a floodplain of national importance."
+  ],
   "before": {
    "lines": [],
    "areas": [
@@ -257156,9 +257449,11 @@
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/007850/",
    "https://hls-dhs-dss.ch/de/articles/008754/",
-   "https://hls-dhs-dss.ch/fr/articles/000902/"
+   "https://hls-dhs-dss.ch/fr/articles/000902/",
+   "https://hls-dhs-dss.ch/fr/articles/008658/",
+   "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-auen/objectsheets/2017revision/nr65.pdf"
   ],
-  "notes": "Only the HLS table gives 1917–87; the HLS Enney article speaks of large works at the end of the 19th century. Details of the 1917–1987 works were not found. HLS article 000902 assumed to be Enney (from search snippet). Gravel-bed area drawn by hand along the river on the 1870 Dufour map; approximate. No old main channel drawn: the many arms are not clear. New line from OpenStreetMap ('La Sarine'). The 'why' text about Fribourg and federal money is general (HLS Flusskorrektionen), not specific to this river."
+  "notes": "Only the HLS table gives 1917–87; the HLS Enney article speaks of large works at the end of the 19th century. Details of the 1917–1987 works were not found. HLS article 000902 assumed to be Enney (from search snippet). Gravel-bed area drawn by hand along the river on the 1870 Dufour map; approximate. No old main channel drawn: the many arms are not clear. New line from OpenStreetMap ('La Sarine'). The 'why' text about Fribourg and federal money is general (HLS Flusskorrektionen), not specific to this river. Gained/lost: No source found that describes the 1917-1987 Intyamon works or names lost gravel banks or species for the Saane; lost 3 uses the general HLS statement plus the federal inventory map sheet (which only lists the site, without a description). HLS (Lac de la Gruyère) mentions conflicts between population, power companies and tourism, but gives no number of people moved or farms flooded. The 280 million kWh is Hauterive's production per HLS (2004 text). The Enney gain is for the late-19th-century works, before the 1917-1987 period in the HLS table."
  },
  {
   "id": "buenz",
@@ -257183,8 +257478,15 @@
    "The First World War showed that Switzerland had to grow more of its own food. In March 1918 the Aargau government wrote that protecting fertile land from floods and turning marsh into fields was now a first duty of the state. Between 1919 and 1942 the Bünz was straightened from Muri to Othmarsingen, and the wet land was drained.",
    "The new bed had a trapezoid shape and banks of stone blocks or concrete. In Othmarsingen it could carry 60 m³/s instead of 20 m³/s. But the stream became a straight, dull channel with little life. The last part, from Möriken to Wildegg, was not corrected because of the cost. There a flood in May 1999 made a new wild floodplain, the Bünzaue, which is now protected."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "In Othmarsingen, the new bed could carry 60 m³/s of water instead of 20 m³/s. This protected the fertile land from floods.",
+   "The marshes were drained and became farmland. Before, the wet land could not be used for farming for most of the year."
+  ],
+  "lost": [
+   "The Bünz lost its many meanders. It was forced into a straight bed with hard banks.",
+   "The hard banks stopped almost all bank erosion. The new bed had no structures that give fish a habitat or a place to hide.",
+   "The stream became a dull, straight channel. Since 2004, several projects have given parts of the Bünz a more natural bed again."
+  ],
   "before": {
    "lines": [
     {
@@ -263714,7 +264016,7 @@
    "https://www.ag.ch/staatsarchiv/suche/detail.aspx?ID=100470",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "1919–1942 and \"Muri to Othmarsingen\" are from the canton of Aargau Bünzaue flyer; the 1918 government quote and 20→60 m³/s from the canton panel on historic works in Othmarsingen. The old line covers only Wohlen–Dottikon (traced on the map of 1915); the marsh areas were extracted automatically from blue marsh hatching on the same map and checked by eye. Length is an estimate."
+  "notes": "1919–1942 and \"Muri to Othmarsingen\" are from the canton of Aargau Bünzaue flyer; the 1918 government quote and 20→60 m³/s from the canton panel on historic works in Othmarsingen. The old line covers only Wohlen–Dottikon (traced on the map of 1915); the marsh areas were extracted automatically from blue marsh hatching on the same map and checked by eye. Length is an estimate. Gained/lost: The 20 to 60 m³/s figure is for Othmarsingen only. The 1918 quote states the aim (protect land, drain marshes); the canton revitalisation page confirms the straightening was done for farmland. The canton page also says the floods of 1994 and 1999 showed that flood protection was not complete. The Bünzaue (uncorrected stretch, 1999 flood) is not used here, because it is not part of the corrected stretch."
  },
  {
   "id": "waegitalersee",
@@ -263739,8 +264041,15 @@
    "Electricity use in Switzerland grew fast. A dam was finished in 1924, and the water began to fill the valley in July 1924. The church of the old village was blown up in August 1924. The water drives the Rempen power station lower down the valley, mostly in winter.",
    "The planned resettlement was only partly done. Sixteen new houses were built on the slope, and a new church and school above the lake. More than 100 people left the commune. Innerthal had 363 people in 1900 and only 223 in 1930."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The lake stores 150 million m³ of water. Most of it makes electricity in winter.",
+   "In recent times, the fish-rich lake and the landscape of the valley have helped tourism."
+  ],
+  "lost": [
+   "The water covered the old village of Innerthal, with 37 homes and 498 ha of meadows, pastures, fields and forest. The church was blown up in August 1924.",
+   "The planned resettlement was only partly done. More than 100 people had to leave the commune.",
+   "The law requires the power plant to reduce strong changes in flow (hydropeaking) by 2030. It must also restore free fish migration."
+  ],
   "before": {
    "lines": [
     {
@@ -269897,9 +270206,10 @@
    "https://www.sz.ch/umweltdepartement/amt-fuer-gewaesser/gewaesserschutz/seen/waegitalersee.html/8756-8758-8802-9447-9450-10712-10723-10741",
    "https://blog.nationalmuseum.ch/en/2020/08/reservoir-floods-village/",
    "https://www.srf.ch/news/schweiz/100-jahre-kirchensprengung-wie-innerthal-die-kirche-verlor-und-in-den-fluten-versank",
-   "https://www.openstreetmap.org/copyright"
+   "https://www.openstreetmap.org/copyright",
+   "https://www.sz.ch/kanton/medien-und-datenschutz/medienmitteilungen/detailseite.html/10392/news/25024/newsarchive/1"
   ],
-  "notes": "Start of construction not found; only \"dam finished 1924\" (canton Schwyz). Flooding from 19 July 1924 (National Museum blog), church blown up 9 August 1924 (SRF). The old river was traced on the map of 1920 (Dufour-type map, coarse). The marker for the old village is placed at the name on the 1920 map."
+  "notes": "Start of construction not found; only \"dam finished 1924\" (canton Schwyz). Flooding from 19 July 1924 (National Museum blog), church blown up 9 August 1924 (SRF). The old river was traced on the map of 1920 (Dufour-type map, coarse). The marker for the old village is placed at the name on the 1920 map. Gained/lost: Population conflict: National Museum blog says 336 inhabitants were forced out; HLS gives 363 people in 1900 and 223 in 1930 for the whole commune. The HLS tourism quote is cut (the sentence continues). The canton release (Kraftwerk Wägital concession renewal) states the legal duty to reduce hydropeaking and restore fish migration by 2030 but does not say on which stretch the problems are worst. No residual-flow figures found for the Wägitaler Aa. Blog gives planned output as 140,000 horsepower; no current GWh figure found."
  },
  {
   "id": "sihlsee",
@@ -269924,8 +270234,16 @@
    "From 1932 to 1937 the Etzelwerk company, owned by the Swiss Federal Railways (SBB) and the NOK power company, built the dam. Its supporters spoke of new jobs and of Swiss self-supply with electricity. The water goes to a power station at Altendorf on Lake Zurich and makes electricity for the railways.",
    "The lake covered 943 ha of good farmland. According to the HLS, 452 farm businesses were affected. Only part of the families got a new farm near the lake. The reservoir also changed the Sihl below it: it takes away water, but it also reduces flood peaks."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The Etzelwerk makes on average 270 million kWh of electricity per year for the railways.",
+   "The reservoir reduces flood peaks on the Sihl. In winter it also keeps the river bed from drying out."
+  ],
+  "lost": [
+   "The lake covered 943 ha of productive land. 452 farm businesses were affected.",
+   "Before the flooding, 93 houses, 124 barns with stables and 179 peat huts were cleared. Only about a third of the families got a new home near the lake.",
+   "The lake drowned a landscape of moors and meadows. About 45% of the area was peat and bog, and 41% was pasture and meadow.",
+   "The power station takes water away from the Sihl. Less water in the river makes the water quality worse."
+  ],
   "before": {
    "lines": [
     {
@@ -290674,7 +290992,7 @@
    "https://blog.nationalmuseum.ch/en/2025/11/the-bombing-of-the-sihl-plain/",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "Facts from HLS (Sihlsee, Sihl). The National Museum blog says about a third of the families were rehoused; the text says only \"part\". The old river was traced semi-automatically on the map of 1930; small loops are simplified."
+  "notes": "Facts from HLS (Sihlsee, Sihl). The National Museum blog says about a third of the families were rehoused; the text says only \"part\". The old river was traced semi-automatically on the map of 1930; small loops are simplified. Gained/lost: HLS Sihlsee also says flat and raised bogs developed later on the shore when the water level drops; not used as a gain. The HLS Sihl article does not use the word Restwasser; no residual-flow figures found. 'Kept from drying out in winter' paraphrases 'überbrückt die winterliche Austrocknung des Flussbetts'."
  },
  {
   "id": "aare-wildegg-brugg",
@@ -290699,8 +291017,15 @@
    "After the Second World War Switzerland needed more electricity. From 1949 to 1953 the Wildegg–Brugg power station was built. It is the largest power station on the Aare. A weir at Schinznach Bad holds the river back, and a canal takes most of the water to the power house near Brugg. The HLS says the work brought \"great changes to the landscape\".",
    "The old river bed (the \"Alte Aare\") now gets only a part of the water. In the last 20 years the canton of Aargau has made new side arms and gravel areas there, as part of its floodplain park (Auenschutzpark)."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The Wildegg–Brugg power station is the largest hydropower station on the Aare.",
+   "Its construction from 1949 to 1953 also brought some jobs to Villnachern."
+  ],
+  "lost": [
+   "The Aare lost its natural bed with many changing arms, which was up to 500 m wide in floods. The power station strongly canalised the river.",
+   "The old Aare gets a minimum of only 10 m³/s of water all year. More water reaches it only in floods above 430 m³/s.",
+   "Floods that floodplain forests need are now possible only along the old Aare. In the 20 years before 2015, the canton restored this stretch in several steps."
+  ],
   "before": {
    "lines": [
     {
@@ -295676,7 +296001,7 @@
    "https://www.ag.ch/de/themen/umwelt-natur/natur-und-landschaftsschutz/auenschutzpark-aargau/die-auengebiete/aue-wildegg-brugg",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "1949–1953 from HLS (Villnachern); \"up to 500 m wide\" and \"in operation since 1953\" from the canton of Aargau flyer (2015). \"Largest power station on the Aare\" is from the same flyer. The old channel and bed were traced semi-automatically on the map of 1950 and checked by eye; small side arms are simplified. The stop \"today\" uses the 1950 old line on purpose."
+  "notes": "1949–1953 from HLS (Villnachern); \"up to 500 m wide\" and \"in operation since 1953\" from the canton of Aargau flyer (2015). \"Largest power station on the Aare\" is from the same flyer. The old channel and bed were traced semi-automatically on the map of 1950 and checked by eye; small side arms are simplified. The stop \"today\" uses the 1950 old line on purpose. Gained/lost: No production figure from an operator page was opened (search snippets give about 300 GWh from a market-data site; not used). The flyer (2015) names rare fish (nase, bitterling, brook lamprey) and birds (kingfisher, dipper) in a new water area under the A3 viaduct, and the only pine forest of Aargau on the old Aare; these are present-day values, not losses, so not used. 'Largest' is the canton flyer's wording."
  },
  {
   "id": "areuse",
@@ -297707,9 +298032,10 @@
   },
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/007850/",
-   "https://hls-dhs-dss.ch/de/articles/045538/"
+   "https://hls-dhs-dss.ch/de/articles/045538/",
+   "https://www.ne.ch:443/medias/Documents/22/07/20220701_PanneauInformation_Motiers.pdf"
   ],
-  "notes": "HLS table gives 14 km for Travers–Couvet, which is longer than the distance between the two villages; kept as given. The 1940 and 1960 maps show only small changes at this scale. Old bends traced on the 1940 Siegfried map only between Travers and Bois de Croix; west of it the old and new courses are almost the same at this scale. New line from OpenStreetMap (\"L'Areuse\"). The 'why' reasons and the restoration sentence are general, not from a specific source."
+  "notes": "HLS table gives 14 km for Travers–Couvet, which is longer than the distance between the two villages; kept as given. The 1940 and 1960 maps show only small changes at this scale. Old bends traced on the 1940 Siegfried map only between Travers and Bois de Croix; west of it the old and new courses are almost the same at this scale. New line from OpenStreetMap (\"L'Areuse\"). The 'why' reasons and the restoration sentence are general, not from a specific source. Gained/lost: Thin. HLS (Areuse, Travers, Val-de-Travers) gives only the dates (1867-1869 and 1949-1984) and no reasons, gains or losses; no source found that the 1949-1955 works protected villages or won farmland, so no gained item. The Môtiers project (2022-2023, panel of the canton and commune) lies upstream of the Travers-Couvet stretch, so scope is 'region'; the panel does not say when the concrete structures and weirs were built. HLS Areuse says 1949-1984, while the HLS river-corrections table says 1949-55. Removed by review: the Môtiers item lies outside the Travers–Couvet stretch, and the date of those works is unknown."
  },
  {
   "id": "flaz-samedan",
@@ -297738,8 +298064,16 @@
    "At the end of the 19th century the Inn was corrected between Samedan and Zuoz, and dikes were built around the village. After the floods of 1951 and 1954 the dikes were raised and both rivers were squeezed into a closed canal. This made the village safe from small floods, but a dike break would have been a disaster, as the near miss of July 1987 showed.",
    "Instead of raising the dikes again, Samedan and the canton chose a new solution: in 2002-2005 the Flaz was moved away from the village into a new bed through the plain, with 75% of the money from the Confederation and the canton. It was the first relocation of a larger Swiss river in more than 80 years, and it also gave new habitat to plants and animals. Downstream, the Inn near Bever was given a natural bed again in two stages until 2020."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The new bed of the Flaz (2002–2005) took the river away from the village. It made Samedan safe from floods.",
+   "The new Flaz created more than 3.5 km of new river habitat. Brown trout, grayling and minnow are expected to live there."
+  ],
+  "lost": [
+   "After the floods of 1951 and 1954, the Flaz and the Inn were squeezed into a closed canal along the village. The Inn left its natural course in the valley floor.",
+   "Behind the high dikes the risk grew. In July 1987 the water came within about 20 cm of the top of the dikes.",
+   "Because of the flood danger, the canton later set building rules and, in part of the village, a building ban.",
+   "Near Bever, dikes on both sides had narrowed the Inn. Since a restoration in two stages until 2020, the river can spread out freely again."
+  ],
   "before": {
    "lines": [
     {
@@ -301953,7 +302287,7 @@
    "https://www.graubuenden.ch/de/touren/herzregion-samedan-bever-samedan",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "HLS (Inn) says only \"end of the 19th century, corrected between Samedan and Zuoz\"; no exact years found. The maps of 1878 and 1900 differ little near Samedan, so no separate old Inn line is drawn. The Flaz of 1878 is traced on the map of 1878; the Flaz canal (stops 2 and 3) is traced on the map of 2001. Both run along the west side of the plain to the Inn at Samedan. The cost is 29.6 million francs on the canton page and 28.4 million in the canton project sheet; the month April 2004 is from the project sheet. 1566 and 1951 floods are from HLS, 1954 from the canton."
+  "notes": "HLS (Inn) says only \"end of the 19th century, corrected between Samedan and Zuoz\"; no exact years found. The maps of 1878 and 1900 differ little near Samedan, so no separate old Inn line is drawn. The Flaz of 1878 is traced on the map of 1878; the Flaz canal (stops 2 and 3) is traced on the map of 2001. Both run along the west side of the plain to the Inn at Samedan. The cost is 29.6 million francs on the canton page and 28.4 million in the canton project sheet; the month April 2004 is from the project sheet. 1566 and 1951 floods are from HLS, 1954 from the canton. Gained/lost: Fish species in the project sheet are 'expected' (zu erwarten), not confirmed counts. The building ban followed a new hazard assessment after 1987 (canton page). The Bever tourism page (graubuenden.ch) names the common sandpiper (Flussuferläufer) and beaver in the restored Inn floodplain; not used as a gain because it is a later, separate project. No source found for losses of the late-19th-century Inn correction itself. Cost conflict (29.6 vs 28.4 million) as already in the data file."
  },
  {
   "id": "lorze",
@@ -301978,8 +302312,15 @@
    "In the 19th and 20th centuries people built canals and dams along the Lorze, for water power and against floods. In the 1970s the canton gave the river a new bed from Baar south-west to the lake. At the same time the motorway N4a was built, and part of the old river bed was used for it.",
    "Even earlier, in 1591–1592, the town of Zug had deepened the outlet of the lake (also the Lorze) at Cham. This lowered Lake Zug by about 2 m. That work happened long before the first maps of this series."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The new bed was built mainly to carry flood water away safely. At the same time, flood protection got better and the plain was drained on a large scale.",
+   "Part of the old river bed was used for the motorway. Because the motorway took this northern route, it did not go through the lake shore landscape."
+  ],
+  "lost": [
+   "Over 3.8 km the new Lorze got a very straight bed. It was built for water flow more than for nature and landscape.",
+   "The old Lorze was cut off from its water and became a small trickle. Only two small side streams and drainage water from the motorway feed it.",
+   "The new bed has no bays, flat banks or gravel banks and looks canalised. In 2006 the canton government proposed to widen it near Baar and to lead water back into the old Lorze."
+  ],
   "before": {
    "lines": [
     {
@@ -304602,9 +304943,11 @@
   "sources": [
    "https://hls-dhs-dss.ch/de/articles/008772/",
    "https://www.bafu.admin.ch/dam/bafu/de/dokumente/naturgefahren/fachinfo-daten/seeregulierung_zugersee.pdf.download.pdf/Seegulierung_Zugersee.pdf",
-   "https://www.swisstopo.admin.ch/de/landschaftsmodell-swisstlm3d"
+   "https://www.swisstopo.admin.ch/de/landschaftsmodell-swisstlm3d",
+   "https://publiclogin2.zg.ch/dam/jcr:e76ab9c8-26a0-4907-a84c-1d8d8b24d3ad/Medieninfo.pdf",
+   "https://kr-geschaefte.zug.ch/dokumente/3294/pdoc_1306_1.pdf"
   ],
-  "notes": "HLS (Lorze) says only \"in the 1970s\"; the exact years of construction were not found. The link to the N4a motorway is from secondary search results, not checked in a primary source. The 1591–1592 lowering is from HLS and BAFU. The old course was traced on the map of 1960; the new line is clipped west of Baar."
+  "notes": "HLS (Lorze) says only \"in the 1970s\"; the exact years of construction were not found. The link to the N4a motorway is from secondary search results, not checked in a primary source. The 1591–1592 lowering is from HLS and BAFU. The old course was traced on the map of 1960; the new line is clipped west of Baar. Gained/lost: KR = Kanton Zug, Vorlage 1445.1 (Bericht und Antrag des Regierungsrates, 23 May 2006). SLFP = media info on 'Landschaft des Jahres 2026: Lorzenebene' (Stiftung Landschaftsschutz Schweiz, hosted by canton Zug). The 2006 widening and water transfer are proposals; I did not check whether and when they were built. The motorway link is now confirmed by HLS Lorze and the SL-FP text (the data file note says it was unchecked). SL-FP also says houses and businesses spread into the plain in the 1970s-80s building boom."
  },
  {
   "id": "reuss-aargau",
@@ -304633,8 +304976,17 @@
    "In 1963 the foundation started a popular initiative, 'Freie Reuss'. In 1965 the people of Aargau accepted it with a large majority. It stopped new power plants on the Reuss below Bremgarten. In 1969 the people accepted the 'Reusstalgesetz' by a small majority. This law joined the river work with nature protection.",
    "From 1971 to 1985 the Reusstalsanierung (the renewal of the Reuss valley) was carried out. It was a project of several cantons that changed the course of the river and drained and improved the land. Agriculture, the electricity industry and nature protection groups all took part. In 1975 the new Bremgarten-Zufikon power plant dammed the river, and the Flachsee was formed. It is now a well-known nature reserve for birds. The power plant also limited the natural movement of the river."
   ],
-  "gained": [],
-  "lost": [],
+  "gained": [
+   "The renewal aimed at safe flood protection and more efficient farming. Today dams protect the plain, and canals with pumping stations drain it.",
+   "Nature reserves were set up next to the farmland. The floodplain area of the Reuss plain covers 327 ha, the largest in the Aargau floodplain park.",
+   "The Flachsee formed in 1975 when the new power plant raised the water. It is a reserve of national importance for water birds and migrating birds."
+  ],
+  "lost": [
+   "The power plant of 1975 further limited the natural movement of the river. At Bremegrien, the canton removed bank stones over 700 m in 2003, so the river can shape its bank again.",
+   "Before 1975, about two thirds of the area of today's Flachsee was forest. The rest was farmland.",
+   "In the upper Aargau Reuss plain, permanently wet habitats strongly declined, because the groundwater level went down.",
+   "After the Reuss valley law came into force, farming in the valley became much more intensive."
+  ],
   "before": {
    "lines": [
     {
@@ -307325,6 +307677,6 @@
    "https://www.stiftung-reusstal.ch/wp-content/uploads/2022/09/2022_09_Einblick-60-Jahre-Stiftung-Reusstal_JF.pdf",
    "https://www.openstreetmap.org/copyright"
   ],
-  "notes": "Not in the HLS table. Length of the corrected stretch not found. Round 2: the river course in this stretch changed little between 1870 and today, so no older main channel is drawn; the red line is the cut-off loop \"Stille Reuss\" traced on the 1960 map (also visible in 1870). The Flachsee outline is read from the 1960/today maps and is approximate. The 1965 vote count differs between Stiftung Reusstal papers, so no number is given."
+  "notes": "Not in the HLS table. Length of the corrected stretch not found. Round 2: the river course in this stretch changed little between 1870 and today, so no older main channel is drawn; the red line is the cut-off loop \"Stille Reuss\" traced on the 1960 map (also visible in 1870). The Flachsee outline is read from the 1960/today maps and is approximate. The 1965 vote count differs between Stiftung Reusstal papers, so no number is given. Gained/lost: Gained 1 combines a stated aim (1987 Stiftung Reusstal booklet, quoting the project goals) with the present state (Flachsee info sheet); the dams themselves date partly from the 19th century. Lost 3 ('diese' = permanently wet biotopes) is from a slide-style 2022 presentation of the Stiftung Reusstal; it does not give a date for the groundwater drop. Lost 4: the 1987 booklet says the intensification happened 'ganz allgemein und reusstalprojektunabhängig' as well, so it is not caused by the project alone. The Kleine Reuss was put into a pipe in the 1970s and opened again in 2004 (canton flyer); not used, to keep items short. The 1987 booklet text is two-column OCR, so the lost 4 quote is joined across columns."
  }
 ]
