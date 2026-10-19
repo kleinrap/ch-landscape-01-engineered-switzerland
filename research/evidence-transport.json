@@ -139,6 +139,18 @@
     "url": "https://hls-dhs-dss.ch/de/articles/041881/",
     "quote": "freight over the Bündner passes collapsed after the 1882 Gotthard tunnel (paraphrase)",
     "scope": "region"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "liessen den Raum schrumpfen und die Distanzen kleiner werden",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "Die Nachbarstaaten bemühten sich alle um die für sie kürzeste Verbindung durch die Schweiz.",
+    "scope": "general"
    }
   ],
   "uncertain": [
@@ -541,6 +553,24 @@
     "url": "https://hls-dhs-dss.ch/articles/008813/2008-08-15/",
     "quote": "Die 1910 eröffnete Berninabahn verursachte einen massiven Einbruch im Warentransport.",
     "scope": "region"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "opened in 1910. It forms the south-eastern part of the nominated property, linking the Upper Engadin to the valley of the Adda at Tirano (Italy).",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "to open up communications for the upper valley of the Engadin (region of Saint-Moritz) ... linked to developments such as mountain tourism and the birth of winter sports",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://webarchive.unesco.org/web/20151212043532/http://whc.unesco.org/archive/advisory_body_evaluation/1276.pdf",
+    "quote": "The two lines have never ceased to operate ... diversified goods transport, local passengers and access to winter sports resorts for tourists.",
+    "scope": "this change"
    }
   ],
   "uncertain": [
@@ -705,6 +735,48 @@
     "item": "lost 2",
     "url": "https://hls-dhs-dss.ch/articles/008853/2006-08-18/",
     "quote": "brachte am Oberen Hauenstein eine massive Verminderung des Passverkehrs",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/articles/008853/2006-08-18/",
+    "quote": "Mit dem Bau der Centralbahnlinie Basel-Olten wurde der erste, 1857 fertig gestellte Tunnel",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.laeufelfingen.ch/sites/default/files/2024-12/Brosch%C3%BCre%20L%C3%A4ufelfingen.pdf",
+    "quote": "Für die neue und erste Bahnverbindung von Basel nach Olten und dann weiter Richtung Luzern und Gotthard wurde der Weg durchs Homburgertal gewählt.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://blog.nationalmuseum.ch/en/2022/01/hauenstein-base-tunnel/",
+    "quote": "difficulties on the steep mountain route increased the SBB's interest in a flat railway line.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+    "quote": "Mit dem Bau von Tunneln wurden Strecken verkürzt, Steigungen reduziert",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.laeufelfingen.ch/sites/default/files/2024-12/Brosch%C3%BCre%20L%C3%A4ufelfingen.pdf",
+    "quote": "Mit der Zuglinie S9, dem „Läufelfingerli“ fahren Sie in rund 10 Minuten bequem nach Olten oder nach Sissach.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.laeufelfingen.ch/sites/default/files/2024-12/Brosch%C3%BCre%20L%C3%A4ufelfingen.pdf",
+    "quote": "von der inzwischen zur Nebenlinie gewordenen Bahn",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007962/2014-01-07/",
+    "quote": "starben 64 Menschen",
     "scope": "this change"
    }
   ],
@@ -894,6 +966,12 @@
     "url": "https://www.jungfrau.ch/de-ch/jungfraujoch-top-of-europe/bau-der-jungfraubahn/",
     "quote": "Sechs Mal streiken die Arbeiter, acht Mal wechselt die Bauleitung.",
     "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/articles/008786/2025-01-06/",
+    "quote": "Auf der Sphinx befindet sich seit 1937 das Observatorium der 1931 in Betrieb genommenen Hochalpinen Forschungsstation",
+    "scope": "this change"
    }
   ],
   "uncertain": [
@@ -960,6 +1038,12 @@
     "item": "lost 3",
     "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/VS00010400.pdf",
     "quote": "many of them are alredy broken, or forced into the precipice by rocks and avalanches",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 4",
+    "url": "https://hls-dhs-dss.ch/de/articles/008806/",
+    "quote": "Als ingenieurtechnisches Wunderwerk weckte die Strasse über den Simplonpass im 19. Jahrhundert breites Interesse ... lockte im Postkutschenzeitalter zahlreiche Alpentouristen an",
     "scope": "this change"
    }
   ],
@@ -1179,6 +1263,12 @@
     "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
     "quote": "Durch diese Neubauten wurden mehrere Teilstücke stillgelegt oder als Wanderweg umbenutzt",
     "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://data.geo.admin.ch/ch.astra.ivs-nat/PDF/UR00060000.pdf",
+    "quote": "plötzlich lagen der Nachbarkanton Schwyz und das anschliessende Mittelland mit den grossen Städten in unmittelbarer Reichweite",
+    "scope": "this change"
    }
   ],
   "uncertain": [
@@ -1396,6 +1486,18 @@
     "url": "https://hls-dhs-dss.ch/de/articles/007466/",
     "quote": "Das schwere Unglück 2001 im Strassentunnel schärfte den Blick für die Sicherheitsprobleme der alpinen Strassentunnels",
     "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.swissinfo.ch/ger/finanzplatz-schweiz/20-jahre-gotthard-strassentunnel/1642794",
+    "quote": "Er ist europäische Transitstrecke für Personen- und Gütertransporte.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.swissinfo.ch/ger/finanzplatz-schweiz/20-jahre-gotthard-strassentunnel/1642794",
+    "quote": "Am Wochenende des Palmsonntags 2000 stauten sich die Fahrzeuge während mehr als 32 Stunden.",
+    "scope": "this change"
    }
   ],
   "uncertain": [
@@ -1430,6 +1532,30 @@
     "url": "https://www.swissinfo.ch/ger/erste-autobahn-hatte-noch-platz-fuer-fussgaenger-und-pferdefuhrwerke/41467362",
     "quote": "eine drei Kilometer lange Ausfallstrasse ohne Kreuzungen",
     "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.swissinfo.ch/ger/erste-autobahn-hatte-noch-platz-fuer-fussgaenger-und-pferdefuhrwerke/41467362",
+    "quote": "eine drei Kilometer lange Ausfallstrasse ohne Kreuzungen",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000621/",
+    "quote": "1955 wurde zwischen Luzern und Ennethorw das erste Autobahnteilstück (A2) der Schweiz eröffnet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "Nach dem Inkrafttreten des NSG 1960 begannen Bund und Kantone",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1950 and 1965",
+    "scope": "map"
    }
   ],
   "uncertain": [
@@ -1486,6 +1612,24 @@
     "url": "https://hls-dhs-dss.ch/de/articles/007960/",
     "quote": "gegen die als undemokratisch empfundene, zu wenig an den Bedürfnissen von Mensch und Umwelt orientierte Nationalstrassenplanung",
     "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "Die Nationalstrassen erster Klasse werden nicht höhengleich gekreuzt, jene zweiter Klasse nur in Ausnahmen.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007960/",
+    "quote": "bis 1980 mehr als 80% des Netzes als vierspurige Autobahnen definiert wurden",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "seen on swisstopo maps 1960 and 1966",
+    "scope": "map"
    }
   ],
   "uncertain": [
@@ -1533,6 +1677,12 @@
     "item": "gained 2",
     "url": "https://hls-dhs-dss.ch/de/articles/008661/",
     "quote": "wurde der Seeraum zur bevorzugten Route für die Strassen-, Eisenbahn- (1874) und Autobahnverbindung (1968-1970)",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/002183/",
+    "quote": "Nach dem Bau der Kantonsstrasse 1818 nahm 1819 ein Fährdienst ... den Betrieb auf ... wurde aber 1847 nach dem Bau des Seedamms (1844-47) wieder eingestellt",
     "scope": "this change"
    }
   ],

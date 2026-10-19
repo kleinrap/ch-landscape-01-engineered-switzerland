@@ -35752,7 +35752,7 @@
   ],
   "gained": [
    "The tunnels gave Basel a direct rail link to Olten and the Swiss Plateau.",
-   "The base tunnel made the line flatter and faster. The old line via Läufelfingen stayed in use as a regional line."
+   "The base tunnel made the line flatter. The old line via Läufelfingen stayed in use as a regional line."
   ],
   "lost": [
    "64 people died in the fire of 1857 in the first tunnel.",
@@ -36137,6 +36137,8 @@
    "https://hls-dhs-dss.ch/articles/008853/2006-08-18/",
    "https://hls-dhs-dss.ch/de/articles/007962/2014-01-07/",
    "https://hls-dhs-dss.ch/de/articles/007961/2015-02-11/",
+   "https://www.laeufelfingen.ch/sites/default/files/2024-12/Brosch%C3%BCre%20L%C3%A4ufelfingen.pdf",
+   "https://blog.nationalmuseum.ch/en/2022/01/hauenstein-base-tunnel/",
    "https://www.openstreetmap.org/copyright"
   ],
   "notes": "Shapes: OSM tunnel:name 'Hauensteintunnel' (2 nodes only, straight line, 2.48 km) and 'Hauenstein-Basistunnel' (8.14 km, matches 8134 m). Checked by eye on the map of 1920 (zoom 13; both tunnels sit between the right stations) and today (zoom 12). Dates: HLS Hauenstein: first tunnel 'finished 1857', base tunnel '1912-1915'; HLS Eisenbahnen: base tunnel opened 1916; the opening of the first tunnel in 1858 is general knowledge (not from an opened source). Start 1853 is general knowledge, not checked; the period [1853, 1858] must be verified. The bottleneck reason for the base tunnel is not stated in an opened source."
@@ -88501,6 +88503,7 @@
    "https://www.swissinfo.ch/ger/erste-autobahn-hatte-noch-platz-fuer-fussgaenger-und-pferdefuhrwerke/41467362",
    "https://hls-dhs-dss.ch/de/articles/000621/",
    "https://api3.geo.admin.ch/rest/services/api/MapServer/ch.astra.nationalstrassenachsen",
+   "https://hls-dhs-dss.ch/de/articles/007960/",
    "https://www.geo.admin.ch/en/general-terms-of-use-fsdi"
   ],
   "notes": "Shape: ASTRA national road axis N2 (api3.geo.admin.ch, layer ch.astra.nationalstrassenachsen), one carriageway, cut from the Kriens area to Ennethorw (3.8 km, the source says about 3 km; the exact ends of the 1955 section were not checked). Checked on the maps of 1950 (no road), 1958 and 1965 (motorway drawn on the same line, error under 30 m) and today. In the 2004 rebuilding parts were moved into tunnels; the drawn line is today's axis and may differ there from the 1955 road. The swissinfo article and the HLS (Horw) agree on 11 June 1955. Note: the swissinfo article calls the 1962 Grauholz motorway the first national road section; the HLS (Nationalstrassen) names Hergiswil–Lucerne border (1962) and Geneva–Lausanne (1963/64). Lost 1 is a map observation, not a written source."
@@ -88856,7 +88859,7 @@
    "The building took longer and cost more than planned. Most motorways were built between 1965 and 1975. From the early 1970s people opposed parts of the plan; some sections were blocked or removed."
   ],
   "gained": [
-   "Fast through roads without crossings. By 1980 more than 80% of the network was built as four-lane motorways.",
+   "Fast through roads without crossings. By 1980 more than 80% of the network was planned as four-lane motorways.",
    "In 2010, 1790 km of the national road network were in use, 94.6% of the planned length."
   ],
   "lost": [
