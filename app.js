@@ -14,6 +14,17 @@
     { label: "Land use", test: function (c) { return c.type === "landuse"; } },
     { label: "Railways, roads and tunnels", test: function (c) { return c.type === "transport"; } }
   ];
+  // Themes: the top level of the list. A theme also filters the overview map and the time chart.
+  var THEMES = [
+    { id: "all", label: "All", types: null },
+    { id: "rivers", label: "Rivers", types: ["river"] },
+    { id: "water", label: "Marshes, lakes, dams", types: ["marsh", "lake", "stream", "dam"] },
+    { id: "land", label: "Forests and land", types: ["forest", "landuse"] },
+    { id: "transport", label: "Transport", types: ["transport"] }
+  ];
+  var theme = THEMES[0];
+  function inTheme(c, th) { th = th || theme; return !th.types || th.types.indexOf(c.type) >= 0; }
+  function shown() { return CHANGES.filter(function (c) { return inTheme(c); }); }
 
   // One colour per period in which the work started: the same on the map, legend and time chart.
   var ERAS = [
@@ -86,7 +97,7 @@
 
   // ---- drawing ----
   function drawOverview(stop) {
-    var items = CHANGES.map(function (c) {
+    var items = shown().map(function (c) {
       return { id: c.id, name: c.title, built: c.built, color: eraColor(start(c)), scale: c.scale,
                state: stateAt(c, stop.year), lines: afterLines(c), center: c.story.center };
     });
@@ -97,7 +108,7 @@
     d3.select("#gainlost").attr("hidden", true);
     var done = items.filter(function (i) { return i.state === "done"; }).length;
     var building = items.filter(function (i) { return i.state === "building"; }).length;
-    d3.select("#stat").html(done + " of " + items.length + " changes finished" + (building ? " <span>(" + building + " going on: dashed)</span>" : ""));
+    d3.select("#stat").html(done + " of " + items.length + " changes finished" + (theme.types ? " (" + theme.label.toLowerCase() + ")" : "") + (building ? " <span>(" + building + " going on: dashed)</span>" : ""));
     var leg = ERAS.map(function (e) { return '<span class="swatch" style="background:' + e.color + '"></span><span>' + e.label + "</span>"; });
     leg.push('<span class="swatch" style="height:0;margin-top:9px;border-top:5px solid var(--ink);width:22px;background:none"></span><span>Thick line: large change. Thin line: regional change. A dot only: no line drawn.</span>');
     d3.select("#legend").attr("hidden", null).selectAll("li").data(leg).join("li").html(function (h) { return h; });
@@ -105,7 +116,7 @@
   }
 
   function drawGantt(year) {
-    var rows = CHANGES, rowH = 15, left = 118, W2 = 330, top = 16;
+    var rows = shown(), rowH = 15, left = 118, W2 = 330, top = 16;
     var H2 = top + rows.length * rowH + 6;
     var x = d3.scaleLinear().domain([1700, 2030]).range([left, W2 - 6]);
     var g = d3.select("#gantt").attr("hidden", null).select("svg").attr("viewBox", "0 0 " + W2 + " " + H2);
@@ -200,7 +211,7 @@
     d3.select("#notes").attr("hidden", c.notes ? null : true);
     d3.select("#notes-text").text(c.notes || "");
     if (c.overview) drawOverview(s); else drawChange(c, s);
-    d3.select("#river-chips").selectAll("button").attr("aria-pressed", function (d) { return d.id === state.id ? "true" : "false"; });
+    drawPicker();
     renderTicks();
     var cur = document.querySelector('#ticks [aria-current="true"]');
     if (cur && cur.scrollIntoView) cur.scrollIntoView({ block: "nearest", inline: "nearest" });
@@ -233,22 +244,61 @@
   d3.select("#fade").on("input", function () { window.RiverMap.setHistOpacity(this.value / 100); });
   window.RiverMap.setPick(pick);
 
-  // List of changes: the overview, then one group per kind of change (each by start year).
-  (function () {
-    var box = d3.select("#river-chips");
-    function chips(list) {
-      list.forEach(function (c) {
-        box.append("button").datum(c).text(c.title + (c.built ? " " + c.built : "")).on("click", function () { pick(c.id); });
+  // List of changes: theme tabs, a search box, and one folding group per kind of change (each by start year).
+  var query = "", openSet = {};
+  // Canton names (English, German, French, Italian), so a search for "Valais" or "Wallis" finds "VS".
+  var CANTON_NAMES = {
+    AG: "Aargau Argovie", AI: "Appenzell Innerrhoden", AR: "Appenzell Ausserrhoden", BE: "Bern Berne", BL: "Basel-Landschaft Bâle",
+    BS: "Basel-Stadt Bâle", FR: "Fribourg Freiburg", GE: "Geneva Genève Genf", GL: "Glarus Glaris", GR: "Graubünden Grisons Grigioni",
+    JU: "Jura", LU: "Lucerne Luzern", NE: "Neuchâtel Neuenburg", NW: "Nidwalden", OW: "Obwalden", SG: "St. Gallen Saint-Gall",
+    SH: "Schaffhausen Schaffhouse", SO: "Solothurn Soleure", SZ: "Schwyz", TG: "Thurgau Thurgovie", TI: "Ticino Tessin",
+    UR: "Uri", VD: "Vaud Waadt", VS: "Valais Wallis Vallese", ZG: "Zug Zoug", ZH: "Zurich Zürich"
+  };
+  function matches(c) {
+    if (!query) return true;
+    var t = (c.title + " " + (c.place || "") + " " + (c.cantons || []).map(function (k) { return k + " " + (CANTON_NAMES[k] || ""); }).join(" ") + " " + (c.built || "")).toLowerCase();
+    return query.split(/\s+/).every(function (w) { return t.indexOf(w) >= 0; });
+  }
+  function drawPicker() {
+    var tabs = d3.select("#themes").selectAll("button").data(THEMES).join("button")
+      .attr("type", "button").attr("role", "tab")
+      .attr("aria-selected", function (t) { return t === theme ? "true" : "false"; })
+      .html(function (t) { return t.label + ' <span class="n">' + CHANGES.filter(function (c) { return inTheme(c, t); }).length + "</span>"; })
+      .on("click", function (e, t) {
+        theme = t;
+        try { localStorage.setItem("es-theme", t.id); } catch (err) { /* private mode */ }
+        if (state.id !== "all" && !inTheme(current())) { state.id = "all"; state.index = 0; }
+        render();
       });
-    }
-    chips([OVERVIEW]);
-    TYPE_GROUPS.forEach(function (g) {
-      var list = CHANGES.filter(g.test);
-      if (!list.length) return;
-      box.append("span").attr("class", "chip-head").text(g.label);
-      chips(list);
+    var groups = TYPE_GROUPS.map(function (g) {
+      return { g: g, list: CHANGES.filter(function (c) { return g.test(c) && (query ? true : inTheme(c)) && matches(c); }) };
+    }).filter(function (x) { return x.list.length; });
+    var box = d3.select("#river-chips");
+    box.selectAll("*").remove();
+    if (!groups.length) box.append("p").attr("class", "no-hit").text("No change found.");
+    groups.forEach(function (x) {
+      var open = query || groups.length === 1 || openSet[x.g.label] || x.list.some(function (c) { return c.id === state.id; });
+      var d = box.append("details").attr("class", "group").property("open", !!open)
+        .on("toggle", function () { if (!query) openSet[x.g.label] = this.open; });
+      d.append("summary").html(x.g.label + ' <span class="n">' + x.list.length + "</span>");
+      var wrap = d.append("div").attr("class", "chips-in");
+      x.list.forEach(function (c) {
+        wrap.append("button").attr("type", "button").datum(c)
+          .attr("aria-pressed", c.id === state.id ? "true" : "false")
+          .html('<span class="t"></span> <span class="y"></span>')
+          .on("click", function () { pick(c.id); });
+      });
+      wrap.selectAll("button").select(".t").text(function (c) { return c.title; });
+      wrap.selectAll("button").select(".y").text(function (c) { return c.built ? c.built.split(/[;(,]/)[0].trim() : ""; });
     });
-  })();
+    d3.select("#overview-btn").attr("aria-pressed", state.id === "all" ? "true" : "false");
+  }
+  d3.select("#overview-btn").on("click", function () { pick("all"); });
+  d3.select("#find").on("input", function () { query = this.value.trim().toLowerCase(); drawPicker(); });
+  try {
+    var saved = localStorage.getItem("es-theme");
+    THEMES.forEach(function (t) { if (t.id === saved) theme = t; });
+  } catch (err) { /* private mode */ }
 
   d3.select("#sources").html(
     'Maps: <a href="https://www.swisstopo.admin.ch/en/journey-through-time-historical-maps">swisstopo</a> (national map and "Journey through time"). ' +

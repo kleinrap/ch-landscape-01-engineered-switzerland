@@ -40,7 +40,15 @@
   </section>
 
   <aside class="panel" aria-live="polite">
-    <div class="river-pick" id="river-pick"><p class="picker-title">Choose a change</p><div class="chips" id="river-chips"></div></div>
+    <div class="river-pick" id="river-pick">
+      <div class="pick-top">
+        <p class="picker-title">Choose a change</p>
+        <button type="button" id="overview-btn" class="overview-btn">All changes on one map</button>
+      </div>
+      <div class="themes" id="themes" role="tablist" aria-label="Kind of change"></div>
+      <input type="search" id="find" class="find" placeholder="Find a change: river, lake, place, canton …" aria-label="Find a change">
+      <div class="chips" id="river-chips"></div>
+    </div>
     <p class="summary" id="summary"></p>
     <p class="year" id="year"></p>
     <h2 id="title"></h2>
