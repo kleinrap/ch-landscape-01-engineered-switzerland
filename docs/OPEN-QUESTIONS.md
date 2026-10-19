@@ -234,3 +234,109 @@ Shapes of railways and roads come from OpenStreetMap or from the federal invento
 - When exactly did the main digging start?
 - Why was only part of the tunnel built with two tracks (cost is assumed, not sourced)?
 - Where was the spoil put, and what land did it cover?
+
+# Forests and land use (round 6)
+
+Forest and land-use shapes are sample areas only: a few km² where the old map shows the old state clearly. The text gives the Swiss-wide numbers. Built-up areas today are drawn from OpenStreetMap buildings with a buffer, so they show only the order of size.
+
+### Alpine pastures: grazing below the natural tree line
+
+- How far people lowered the tree line (in metres) is not given by the sources I opened.
+- When the clearing for alpine pastures started (prehistory or Middle Ages) differs by region and is not dated here.
+- The periods field (1000-1900) is only a rough frame for the reader, not a sourced date.
+
+### Lavaux vineyard terraces
+
+- What covered the Lavaux slope before the monks cleared it is not known from the sources.
+- The figures 450 km of walls and 10,000 terraces come from the site association, not from a survey I could see.
+- Other parts of Lavaux may be older or younger than the Dézaley terraces; only Dézaley is dated here.
+
+### Sihlwald: from Zurich's wood supply to wilderness
+
+- HLS says Zurich held the wood-floating right until 1856; the park says rafting ended in 1864.
+- The year 'about 1300' for the take-over from the Habsburgs is from the park operator; an independent source was not checked (Wikipedia gives 1309).
+- The forest area of the Sihlwald was not measured on old and new maps.
+
+### Bannwald of Andermatt
+
+- The start of planting is given as 'since 1850' in the source, but the first area count is from 1879. The exact first year is not checked.
+- OpenStreetMap shows about 17 ha of forest; the source gives about 24 ha for the Bannwald. Open forest west of the OSM area is probably missing.
+- The original ban letter of 1397 was not seen; the date comes from HLS and a thesis that cites older literature.
+
+### Wood for the Bex salt works (Trient valley)
+
+- The wood and salt numbers come from one short local history article; a second source is missing.
+- The exact forest areas cut for the salt works are not known, so nothing is drawn.
+- Whether the 1706 Salvan forest and the 1705 Martigny forest are on the same slope of the Trient is not clear.
+
+### Peat cutting in the raised bogs (sample: Les Ponts-de-Martel)
+
+- The start of peat cutting at Les Ponts-de-Martel (1713) is not confirmed by a source I could open.
+- How much bog area was lost to peat cutting in Switzerland is not given by my sources.
+- Peat cutting at Les Ponts-de-Martel for gardens may have gone on until about 1990 (cantonal text seen only as a search snippet).
+
+### Federal forest police laws of 1876 and 1902
+
+- BAFU says the clearing ban came with the 1902 law; HLS says the 1876 law already had it for the mountain area. Which wording is right should be checked in the law text.
+- The loss of pasture for owners of new protection forests is a general statement; this page gives no national number.
+
+### Reforestation of the Senseoberland
+
+- The forest trace of 1890 is semi-automatic. Edges can be wrong by 20 to 40 m.
+- Gravel banks along the Gerine and Höllbach are partly counted as forest in the 1890 trace.
+- The meaning of the fine stipple pattern east of the Höllbach on the 1890 map is not clear; it was not counted as forest.
+- It is not checked which parts of the sample square were bought and planted by the canton and which grew back by themselves.
+- The 1,500 ha figure is from 1989; later changes are not known.
+
+### Forest returns to Ticino's mountain slopes (Valle Onsernone)
+
+- No forest edges are drawn: the 1:50,000 Siegfried map does not show clear forest edges in this valley.
+- The share of the regrowth that is on former chestnut groves is not known from the sources used.
+- The forest plan gives round numbers (about 60,000, 85,000 and 140,000 ha); the methods behind the 1900 figure are not described.
+
+### The 'Anbauschlacht': more fields in the Second World War (sample: Kühwald)
+
+- How much of the cleared forest was replanted elsewhere is not known from my sources.
+- The photo caption puts the state road south of the Kühwald; the 1940 map shows the railway there.
+
+### Wartime forest clearing at Junzlen (Meiringen)
+
+- The exact edge of the cleared area is not documented; the trace shows the forest on the map of 1938.
+- It is not known whether the remaining strips at Junzlen are old forest or regrown forest.
+
+### Towns grow over farmland (sample: west of Lausanne)
+
+- The old village outlines and today's built-up area are made with different methods, so the two areas cannot be compared exactly.
+- Single farms and houses outside the 1880 village cores are not drawn.
+- HLS gives 1977 for the EPFL at Dorigny; other sources give 1978.
+- The one square metre per second is a rounded figure from ARE for 1985-2018.
+
+### The loss of tall fruit-tree orchards (sample: Roggwil TG)
+
+- No source gives the total number of trees felled in the campaigns of 1950-1975.
+- The trees at Böler disappeared between 1990 and today, after the felling campaigns; the cause there is not known.
+- The year federal payments for tall fruit trees began (1993) is not confirmed by a source I opened in full.
+- The orchard symbol was checked on the swisstopo legend of 2008, not on the legend of the 1955 edition.
+
+### Mormont limestone quarry
+
+- The year the quarry itself opened is not given by a neutral source; 1953 is the year of the cement works.
+- The OSM outline may differ from the legally allowed quarry perimeter.
+- The year of the BLN listing (1998) comes only from an opponent group; the federal ordinance should be checked.
+
+### Spreitenbach: from farming village to new town
+
+- The map of 1950 may not yet show the first high-rise of 1955; the village core is drawn as in 1950.
+- The two areas (village then, built-up area now) are made with different methods.
+
+### Gravel pits of the Rafzerfeld
+
+- The OSM pit outlines may not show the exact digging limits of today; pits change every year.
+- The position of the two Ice Age slopes could not be seen clearly on the old maps and is not drawn.
+- The groundwater risk is named in cantonal questions but no measured damage was found.
+
+### Forest grows on abandoned alpine pastures (since 1985)
+
+- The 977 km2 includes woody areas that are not legally forest, and clearings are not subtracted.
+- The 206 km2 figure for 2009-2018 comes from a news agency text, not directly from the BFS release.
+- No sample area is drawn for this national trend.

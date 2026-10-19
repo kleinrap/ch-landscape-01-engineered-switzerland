@@ -1,0 +1,1457 @@
+{
+ "senseoberland-aufforstung": {
+  "evidence": [
+   {
+    "item": "why 2 / decision 1890",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "beschloss der Grossrat des Kantons Freiburg auf Antrag der Regierung, im Sense-Oberland drei Weiden zur anschliessenden Aufforstung zu kaufen",
+    "scope": "this change"
+   },
+   {
+    "item": "summary / gained",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "rund 1'800 ha Land gekauft und davon rund 1'500 ha aufgeforstet",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "In 1875 only 10% of the total area of the Senseoberland remained covered with forest.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / subsidy",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "Der Bundesrat erklärte sich im Mai 1890 bereit, 60 % der Aufforstungskosten zu tragen.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "rund 700 ha ehemaliges Weideland gekauft und 430 ha Aufforstungen geplant",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1 / gained 2",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "Die Kraft der Bäche wurde gebrochen, die Erosion gestoppt, und heute herrscht Ueberfluss an Holz.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "Noch ist die Bodennutzung im Senseoberland nicht in jeder Hinsicht optimal.",
+    "scope": "this change"
+   },
+   {
+    "item": "context: reforestation in the Prealps after 1876",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "im ganzen Voralpengürtel zwischen Boden- und Genfersee vor allem auf erosionsgefährdeten Standorten umfangreiche Aufforstungen",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://doi.org/10.3929/ethz-a-000599440",
+    "quote": "rund 1'800 ha Land gekauft und davon rund 1'500 ha aufgeforstet",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://map.geo.admin.ch",
+    "quote": "measured on swisstopo maps 1890 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The forest trace of 1890 is semi-automatic. Edges can be wrong by 20 to 40 m.",
+   "Gravel banks along the Gerine and Höllbach are partly counted as forest in the 1890 trace.",
+   "The meaning of the fine stipple pattern east of the Höllbach on the 1890 map is not clear; it was not counted as forest.",
+   "It is not checked which parts of the sample square were bought and planted by the canton and which grew back by themselves.",
+   "The 1,500 ha figure is from 1989; later changes are not known."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Freiburg, Route des Arsenaux 17, Fribourg",
+    "what": "Plans of the reforestation projects in the Senseoberland from 1890; they show which pastures the canton bought and where it planted."
+   },
+   {
+    "place": "ETH-Bibliothek, Rämistrasse 101, Zürich",
+    "what": "Full text and maps of the thesis of U. Müller (1989), to compare the planted areas with the sample square."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/plas_check_1890.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/plas_chk_f.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/plas_check_1940.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/plas_check_today.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/plas_osm_today.png"
+  ],
+  "group": "f-forest"
+ },
+ "andermatt-bannwald": {
+  "evidence": [
+   {
+    "item": "why 2 / 1397",
+    "url": "https://hls-dhs-dss.ch/de/articles/016355/",
+    "quote": "1397 in Andermatt der Lawinenschutz",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.wsl.ch/fileadmin/user_upload/WSL/Mitarbeitende/bebi/MA_Michaela_Teich.pdf",
+    "quote": "Es war verboten lebendes und abgestorbenes Holz, Zapfen oder Laub zu sammeln",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.wsl.ch/fileadmin/user_upload/WSL/Mitarbeitende/bebi/MA_Michaela_Teich.pdf",
+    "quote": "vor rund 200 Jahren mit einer Größe von ca. 4 ha der letzte Beleg für eine ursprünglich ausgedehnte Bewaldung im Urserntal",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.wsl.ch/fileadmin/user_upload/WSL/Mitarbeitende/bebi/MA_Michaela_Teich.pdf",
+    "quote": "Im ganzen Tal konnte die Waldfläche von 4,4 ha (1879) auf 72,4 ha (1950) erhöht werden.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.wsl.ch/fileadmin/user_upload/WSL/Mitarbeitende/bebi/MA_Michaela_Teich.pdf",
+    "quote": "Erst seit 1850 werden Aufforstungen um das Kerngebiet vorgenommen",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.wsl.ch/fileadmin/user_upload/WSL/Mitarbeitende/bebi/MA_Michaela_Teich.pdf",
+    "quote": "Für die Pflanzungen verwendet wurden fast ausschließlich Fichte",
+    "scope": "this change"
+   },
+   {
+    "item": "context",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Bannwald oberhalb von Andermatt. Fotografie, 1995",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/016355/",
+    "quote": "1397 in Andermatt der Lawinenschutz",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.wsl.ch/fileadmin/user_upload/WSL/Mitarbeitende/bebi/MA_Michaela_Teich.pdf",
+    "quote": "Es war verboten lebendes und abgestorbenes Holz, Zapfen oder Laub zu sammeln",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The start of planting is given as 'since 1850' in the source, but the first area count is from 1879. The exact first year is not checked.",
+   "OpenStreetMap shows about 17 ha of forest; the source gives about 24 ha for the Bannwald. Open forest west of the OSM area is probably missing.",
+   "The original ban letter of 1397 was not seen; the date comes from HLS and a thesis that cites older literature."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Uri, Bahnhofstrasse 13, Altdorf",
+    "what": "The ban letter of 1397 for Andermatt and the plans of the reforestation and avalanche projects after 1879."
+   },
+   {
+    "place": "Talarchiv Ursern / Korporation Ursern, Andermatt",
+    "what": "Local records on the Bannwald and its use rules."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/and_chk_old_z16.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/and_check_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/and_check_today.png"
+  ],
+  "group": "f-forest"
+ },
+ "junzlen-kriegsrodung": {
+  "evidence": [
+   {
+    "item": "why 2 / Junzlen",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "Auf der Liste war auch die Junzlen vermerkt, ein 26 Hektaren grosser Niederwald an der Aare westlich von Meiringen.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / cleared 1943",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "mit einer Ausnahme, nämlich der Rodung in der Junzlen 1943",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "verpflichtete die Kantone, vorläufig 2000 Hektaren Wald zu roden. Die Pflichtfläche des Kantons Bern betrug 400 Hektaren.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "insgesamt 12 902 Hektaren Wald durch subventionierte und nicht subventionierte Projekte gerodet worden. Davon waren 9137 Hektaren eigentlicher Wald",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "1962 waren erst 8700 Hektaren aufgeforstet worden",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "Maximum lag 1945 bei 367 048 Hektaren",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "Wie sich später zeigte, lieferten Auenwald­böden nicht in jedem Fall gutes Ackerland.",
+    "scope": "general"
+   },
+   {
+    "item": "context",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Grössere Flächen (mehr als 100 km2) wurden lediglich während des Zweiten Weltkriegs im Rahmen der Anbauschlacht gerodet.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "mit einer Ausnahme, nämlich der Rodung in der Junzlen 1943",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "measured on swisstopo maps 1938, 1960 and today / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://map.geo.admin.ch",
+    "quote": "measured on swisstopo maps 1938 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The exact edge of the cleared area is not documented; the trace shows the forest on the map of 1938.",
+   "It is not known whether the remaining strips at Junzlen are old forest or regrown forest."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Bern, Falkenplatz 4, Bern",
+    "what": "Files of the Forstdirektion on the Junzlen clearing of 1943 (plans, area, later use)."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/junz_chk_old.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/junz_check_1960_z15.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/junz_check_today.png"
+  ],
+  "group": "f-forest"
+ },
+ "forstpolizeigesetz": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "nahm die Waldfläche in der ersten Hälfte des 19. Jahrhunderts ab",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/013802/",
+    "quote": "Berichte über die Gebirgswaldungen (Elias Landolt, 1862) und die Wildbäche im Gebirge (Carl Culmann, 1864)",
+    "scope": "general"
+   },
+   {
+    "item": "why 2 / 1868",
+    "url": "https://www.bafu.admin.ch/de/150-jahre-forstpolizeigesetz",
+    "quote": "Katastrophenjahr 1868 (Uri, St. Gallen, Graubünden, Wallis, Tessin)",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Wohl die wichtigste und folgenreichste Bestimmung war das Gebot der Walderhaltung (Rodungsverbot) bzw. der Waldvermehrung",
+    "scope": "general"
+   },
+   {
+    "item": "why 3 / 1902",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Mit dem 1903 in Kraft getretenen FpolG galt das Walderhaltungsgebot nun landesweit.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "um mehr als 40% zugenommen (auf 12'340 km2 1995, ca. 30% der Gesamtfläche des Landes)",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "im ganzen Voralpengürtel zwischen Boden- und Genfersee vor allem auf erosionsgefährdeten Standorten umfangreiche Aufforstungen",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/013802/",
+    "quote": "Forstdienste aufzubauen und Vollziehungsvorschriften zu erlassen, was in vielen Kantonen zu Widerständen führte",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Erst die Forstpolitik des 19. Jahrhunderts verdrängte die landwirtschaftliche Nutzung aus dem Wald.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 3",
+    "url": "https://www.bafu.admin.ch/de/150-jahre-forstpolizeigesetz",
+    "quote": "Rund ein Drittel der Schweizer Landesfläche ist bewaldet",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Grössere Flächen (mehr als 100 km2) wurden lediglich während des Zweiten Weltkriegs im Rahmen der Anbauschlacht gerodet.",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "BAFU says the clearing ban came with the 1902 law; HLS says the 1876 law already had it for the mountain area. Which wording is right should be checked in the law text.",
+   "The loss of pasture for owners of new protection forests is a general statement; this page gives no national number."
+  ],
+  "visits": [
+   {
+    "place": "Schweizerisches Bundesarchiv, Archivstrasse 24, Bern",
+    "what": "Text of the law of 24 March 1876 and of 11 October 1902 (Bundesblatt), to check the exact clearing rules."
+   }
+  ],
+  "checks": [],
+  "group": "f-forest"
+ },
+ "ticino-wald-einwuchs": {
+  "evidence": [
+   {
+    "item": "summary / why 3",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/forestali/piano_forestale_cantonale/documenti/PFC-06-superficie.pdf",
+    "quote": "All'inizio del 1900, la superficie boscata del Canton Ticino era di circa 60'000 ha, nel 1950 di circa 85'000 ha",
+    "scope": "region"
+   },
+   {
+    "item": "summary",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/forestali/piano_forestale_cantonale/documenti/PFC-06-superficie.pdf",
+    "quote": "in cento anni il tasso di boscosità è passato dal 20% al 50% circa",
+    "scope": "region"
+   },
+   {
+    "item": "why 2",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/forestali/piano_forestale_cantonale/documenti/PFC-06-superficie.pdf",
+    "quote": "occupati nel settore primario nel 1900: 45.5%, nel 2000: 1.6%",
+    "scope": "region"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www3.ti.ch/DFE/DR/USTAT/allegati/volume/schede_star_2023_bosco_e_legno.pdf",
+    "quote": "e 2009/17 l'area boscata è aumentata del 16%, essenzialmente sopra gli 800 metri s.l.m.",
+    "scope": "region"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/forestali/piano_forestale_cantonale/documenti/PFC-06-superficie.pdf",
+    "quote": "contribuisce ad una migliore sicurezza del territorio",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://m4.ti.ch/fileadmin/DT/temi/forestali/piano_forestale_cantonale/documenti/PFC-06-superficie.pdf",
+    "quote": "l'alternanza tra bosco ed aree aperte, fatto che rende attrattivo il nostro Cantone dal punto di vista turistico",
+    "scope": "region"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www3.ti.ch/DFE/DR/USTAT/allegati/volume/schede_star_2023_bosco_e_legno.pdf",
+    "quote": "Il 33,2% dei 2.473 incendi boschivi registrati in Svizzera nel periodo 2000-2022 è avvenuto in Ticino",
+    "scope": "region"
+   },
+   {
+    "item": "why 1 / why 2 / gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/008300/",
+    "quote": "Die karge Natur liess Weidewirtschaft nur in beschränktem Umfang zu",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www3.ti.ch/DFE/DR/USTAT/allegati/volume/schede_star_2023_bosco_e_legno.pdf",
+    "quote": "Nel 2022 ne sono stati tagliati circa 111.100 metri cubi [F. 4], pari a un quinto del potenziale sfruttabile.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www3.ti.ch/DFE/DR/USTAT/allegati/volume/schede_star_2023_bosco_e_legno.pdf",
+    "quote": "anche a causa degli elevati costi di taglio ed esbosco del legname",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "No forest edges are drawn: the 1:50,000 Siegfried map does not show clear forest edges in this valley.",
+   "The share of the regrowth that is on former chestnut groves is not known from the sources used.",
+   "The forest plan gives round numbers (about 60,000, 85,000 and 140,000 ha); the methods behind the 1900 figure are not described."
+  ],
+  "visits": [
+   {
+    "place": "Archivio di Stato del Cantone Ticino, Viale Stefano Franscini 30a, Bellinzona",
+    "what": "Old forest maps or cadastre plans of the Onsernone (around 1900) that show forest edges more clearly than the Siegfried map."
+   },
+   {
+    "place": "Museo Onsernonese, Loco",
+    "what": "Photos of the valley around 1900-1930 that show open slopes, to compare with today."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/ons_cmp.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/ons_cmp2.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/ons_chk_a.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/ons85_1985.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/ons85_today.png"
+  ],
+  "group": "f-forest"
+ },
+ "waldzunahme-seit-1985": {
+  "evidence": [
+   {
+    "item": "summary / why 2",
+    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/20125396/master",
+    "quote": "Total: 977 km2 neu entstandene bestockte Flächen (Brutto-Zuwachs: Rodungen bestehender bestockter Flächen wurden nicht abgezogen)",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.waldwissen.net/de/technik-und-planung/landschaftsentwicklung/waldausdehnung-im-schweizer-alpenraum",
+    "quote": "Die Waldausdehnung fand praktisch ausschliesslich im Berggebiet statt.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.sab.ch/wp-content/uploads/2025/09/02_Roland_Wuethrich_AFJ-Kanton-Uri.pdf",
+    "quote": "Waldflächenzunahme im Kanton Uri im Zeitraum 1985 - 2018 (33 Jahre) rund 12 %",
+    "scope": "region"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.sab.ch/wp-content/uploads/2025/09/02_Roland_Wuethrich_AFJ-Kanton-Uri.pdf",
+    "quote": "Einwachsende Alpflächen können grundsätzlich entbuscht und rückgeführt werden",
+    "scope": "region"
+   },
+   {
+    "item": "why 3 / clearing ban",
+    "url": "https://www.sab.ch/wp-content/uploads/2025/09/02_Roland_Wuethrich_AFJ-Kanton-Uri.pdf",
+    "quote": "Keine Beweidung oder Entbuschung, wenn Fläche als Wald gilt (Rodungsverbot)",
+    "scope": "region"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.sab.ch/wp-content/uploads/2025/09/02_Roland_Wuethrich_AFJ-Kanton-Uri.pdf",
+    "quote": "des Waldeinwuchses auf Landwirtschaftsflächen finden auf Alpen und in den Bergzonen 3 und 4 statt",
+    "scope": "region"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.plattformj.ch/artikel/195277/",
+    "quote": "Wälder und Gehölze haben um zwei Prozent oder 206 Quadratkilometer zugelegt",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2 / lost 2",
+    "url": "https://www.waldwissen.net/de/technik-und-planung/landschaftsentwicklung/waldausdehnung-im-schweizer-alpenraum",
+    "quote": "Selbst bei vollständigem Verschwinden der Landwirtschaft gehen allerdings kaum Arten verloren.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.waldwissen.net/de/technik-und-planung/landschaftsentwicklung/waldausdehnung-im-schweizer-alpenraum",
+    "quote": "höher bewertet als eine nicht bewaldete, eine leicht bewaldete höher als eine stark bewaldete",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "The 977 km2 includes woody areas that are not legally forest, and clearings are not subtracted.",
+   "The 206 km2 figure for 2009-2018 comes from a news agency text, not directly from the BFS release.",
+   "No sample area is drawn for this national trend."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/ons85_1985.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-forest/ons85_today.png"
+  ],
+  "group": "f-forest"
+ },
+ "salines-bex-bois": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "pour récupérer une tonne de sel, il fallait une tonne et demi de bois",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / imports",
+    "url": "https://hls-dhs-dss.ch/fr/articles/040073/",
+    "quote": "Dépendante pendant des siècles d'importations pour sa consommation de sel",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "les forêts avoisinantes furent très vite épuisées et la direction des salines dut en acheter ailleurs",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / dam",
+    "url": "https://hls-dhs-dss.ch/fr/articles/040073/",
+    "quote": "Pour amener par flottage le bois à Roche, un barrage-voûte fut construit en 1695 à la Joux-Verte.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / lost 2",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "le sol devint instable à tel point que les pluies entraînaient de la terre et des pierres au fond de la vallée",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/fr/articles/040073/",
+    "quote": "Le charbon, puis une centrale électrique (1943) remplaçèrent le bois.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/040073/",
+    "quote": "début XXIe s., environ 35'000 t par an",
+    "scope": "this change"
+   },
+   {
+    "item": "context",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "der Erzeugung von Glas und den Salinen – sicherten die Landesfürsten auch Waldnutzungsrechte zu",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "cette ville vendait son bois de la vallée du Trient aux salines de Bex pour la somme de 50 pistoles",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "les notables de Salvan vendirent pour la somme de 18 pistoles un espace boisé bien délimité de leur commune",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "les forêts avoisinantes furent très vite épuisées et la direction des salines dut en acheter ailleurs",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "Les Salvanins, craignant une pénurie de bois dans leur vallée, s’opposèrent à cette vente",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://www.aasm.ch/pages/echos/ESM097005.pdf",
+    "quote": "les coupes faites sur les terrains appartenant à Martigny ... avaient entraîné la destruction des jeunes plantes et donc, la perte de pâturages",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The wood and salt numbers come from one short local history article; a second source is missing.",
+   "The exact forest areas cut for the salt works are not known, so nothing is drawn.",
+   "Whether the 1706 Salvan forest and the 1705 Martigny forest are on the same slope of the Trient is not clear."
+  ],
+  "visits": [
+   {
+    "place": "Archives cantonales vaudoises, Rue de la Mouline 32, Chavannes-près-Renens",
+    "what": "Files 'Bois pour les Salines' (1691) and 'Forêts' (1831) of the Bex salt works: where wood was cut and how much."
+   },
+   {
+    "place": "Archives de l'Abbaye de Saint-Maurice, Saint-Maurice",
+    "what": "Inventaire Charles, drawer 15, packet 3: the 1706 sale act of Salvan and the complaint of 1733, to locate the cut forests."
+   }
+  ],
+  "checks": [],
+  "group": "f-forest"
+ },
+ "sihlwald": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park/history-of-the-sihlwald",
+    "quote": "City of Zurich takes over the Sihlwald on the left bank of the Sihl from the Habsburgs",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/008778/",
+    "quote": "Ab dem Spätmittelalter bis 1856 verfügte die Stadt Zürich über die Holztrift auf der Sihl.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park/history-of-the-sihlwald",
+    "quote": "End of timber rafting",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park/history-of-the-sihlwald",
+    "quote": "Cessation of forest maintenance within the entire Sihlwald perimeter",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park",
+    "quote": "Rare species, ancient trees and fungi thrive here.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park/history-of-the-sihlwald",
+    "quote": "Sihlwald workshop closes",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park/history-of-the-sihlwald",
+    "quote": "Referendum on the Wildnispark Zurich in the city of Zurich: 89.6 per cent of votes in favour",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park/history-of-the-sihlwald",
+    "quote": "had an increasing interest in the timber industry (for construction, commerce and firewood)",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://wildnispark.ch/en/the-park/sihlwald-nature-discovery-park/history-of-the-sihlwald",
+    "quote": "Cessation of forest maintenance within the entire Sihlwald perimeter",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "HLS says Zurich held the wood-floating right until 1856; the park says rafting ended in 1864.",
+   "The year 'about 1300' for the take-over from the Habsburgs is from the park operator; an independent source was not checked (Wikipedia gives 1309).",
+   "The forest area of the Sihlwald was not measured on old and new maps."
+  ],
+  "visits": [
+   {
+    "place": "Stadtarchiv Zürich, Neumarkt 4, Zürich",
+    "what": "Records of the Sihlamt (forest office of the city): wood amounts, rafting on the Sihl, end of rafting (1856 or 1864)."
+   }
+  ],
+  "checks": [],
+  "group": "f-forest"
+ },
+ "lavaux-terraces": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/000465/",
+    "quote": "à l'ouest par les cisterciens de Hautcrêt dès 1141, à l'est par ceux de Montheron dès 1142",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/000465/",
+    "quote": "construits en terrasses (XVIIIe s.-1839)",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 1",
+    "url": "https://www.lavaux-unesco.ch/storage/app/media/2024.09_Vignes_et_Vergers_Oenotourisme_LPm_VB.pdf",
+    "quote": "les 450 kilomètres de murs et les 10 000 terrasses de Lavaux",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.lavaux-unesco.ch/storage/app/media/2024.09_Vignes_et_Vergers_Oenotourisme_LPm_VB.pdf",
+    "quote": "s'étendant sur près de 900 hectares entre Lutry et la frontière ouest de Vevey",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.lavaux-unesco.ch/storage/app/media/2024.09_Vignes_et_Vergers_Oenotourisme_LPm_VB.pdf",
+    "quote": "il couvre plus de 60 % du vignoble en terrasses de Lavaux",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.vd.ch/themes/territoire-et-construction/amenagement-du-territoire/plan-daffectation-cantonal/plan-daffectation-cantonal-lavaux/loi-lavaux",
+    "quote": "La protection de Lavaux est inscrite dans la Constitution vaudoise depuis 1977.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.lavaux-unesco.ch/storage/app/media/2024.09_Vignes_et_Vergers_Oenotourisme_LPm_VB.pdf",
+    "quote": "Un nombre conséquent de murs sont en effet tombés à Lavaux à la suite de mouvements mécaniques des sols.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://whc.unesco.org/en/decisions/1348",
+    "quote": "The Lavaux vineyard landscape is a thriving cultural landscape",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://whc.unesco.org/en/decisions/1348",
+    "quote": "to produce a highly valued wine that was a significant part of the local economy",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "What covered the Lavaux slope before the monks cleared it is not known from the sources.",
+   "The figures 450 km of walls and 10,000 terraces come from the site association, not from a survey I could see.",
+   "Other parts of Lavaux may be older or younger than the Dézaley terraces; only Dézaley is dated here."
+  ],
+  "visits": [
+   {
+    "place": "Archives cantonales vaudoises, Rue de la Mouline 32, Chavannes-près-Renens (bus 31/33 or m1 to UNIL-Mouline)",
+    "what": "Old plans of the Dézaley estates (Clos des Abbayes, Clos des Moines) to date the terrace walls more exactly."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/lav_check_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/lav_check_today.png"
+  ],
+  "group": "f-landuse"
+ },
+ "settlement-growth-lausanne-west": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://www.swissstats.bfs.admin.ch/data/webviewer/appId/ch.admin.bfs.swissstat/article/issue21020021801-04/package",
+    "quote": "Zwischen 1985 und 2018 haben sich die Siedlungsflächen in der Schweiz um insgesamt 776 km2 oder 31% ausgedehnt.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1 / lost 1",
+    "url": "https://www.are.admin.ch/are/de/home/raumentwicklung-und-raumplanung/grundlagen-und-daten/raumbeobachtung/natur-landschaft/kulturlandverlust.html",
+    "quote": "Jede Sekunde verschwindet rund ein Quadratmeter Landwirtschaftsfläche",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.are.admin.ch/are/de/home/raumentwicklung-und-raumplanung/grundlagen-und-daten/raumbeobachtung/natur-landschaft/kulturlandverlust.html",
+    "quote": "Gegenüber 1985 sind 1097 km² verschwunden",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002440/",
+    "quote": "impressionnante explosion démographique dès les années 1960",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002432/",
+    "quote": "Une seconde explosion démographique suivit la construction de l'autoroute Lausanne-Genève (1964).",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.moneycab.com/?p=1079407",
+    "quote": "Ziele der revidierten Bestimmungen sind ein sorgsamer Umgang mit dem Boden, Bauzonen massvoll festzulegen und kompakte Siedlungen.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/9207486/master",
+    "quote": "wachsende Bevölkerung und gestiegene Ansprüche bezüglich Freizeit, Wohnen und Mobilität",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.bfs.admin.ch/bfsstatic/dam/assets/9207486/master",
+    "quote": "wachsende Bevölkerung und gestiegene Ansprüche bezüglich Freizeit, Wohnen und Mobilität",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002440/",
+    "quote": "elles occupent le cinquième du territoire communal",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002440/",
+    "quote": "plusieurs grandes entreprises se sont installées dans la commune",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://map.geo.admin.ch",
+    "quote": "measured on swisstopo maps 1880 / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The old village outlines and today's built-up area are made with different methods, so the two areas cannot be compared exactly.",
+   "Single farms and houses outside the 1880 village cores are not drawn.",
+   "HLS gives 1977 for the EPFL at Dorigny; other sources give 1978.",
+   "The one square metre per second is a rounded figure from ARE for 1985-2018."
+  ],
+  "visits": [],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/ecu_check_1880.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/ecu_check_today.png"
+  ],
+  "group": "f-landuse"
+ },
+ "spreitenbach-new-town": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/001651/",
+    "quote": "Mit dem Bau eines Hochhauses setzte 1955 ein Bauboom ein.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001651/",
+    "quote": "1970 wurde das erste Einkaufszentrum der Schweiz nach dem Vorbild amerikan. Shopping Malls eröffnet.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001651/",
+    "quote": "1967-78 erstellten die SBB den Rangierbahnhof Limmattal auf dem Gelände des vormaligen Segelflugplatzes.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / lost 1",
+    "url": "https://www.ag.ch/denkmalpflege/suche/detail.aspx?ID=137367",
+    "quote": "landwirtschaftlich genutzten «Langäckern»",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/001651/",
+    "quote": "In S. bestanden 2005 7'186 Arbeitsplätze.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001651/",
+    "quote": "1970 wurde das erste Einkaufszentrum der Schweiz nach dem Vorbild amerikan. Shopping Malls eröffnet.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/001651/",
+    "quote": "1971 wurde die Autobahn A1 nordöstlich der Bahnlinie eröffnet",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "measured on swisstopo maps 1950 / OpenStreetMap",
+    "scope": "map"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ag.ch/denkmalpflege/suche/detail.aspx?ID=137367",
+    "quote": "einer kleinen, noch ländlichen und bald suburbanen Gemeinde",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ag.ch/denkmalpflege/suche/detail.aspx?ID=137367",
+    "quote": "«Spreitenbach» wurde zum Inbegriff dessen, was man am Baugeschehen der Gegenwart nun für verfehlt hielt.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.ag.ch/denkmalpflege/suche/detail.aspx?ID=137367",
+    "quote": "stellte Spreitenbach gar stellvertretend als Negativbeispiel für die ungebremste Verstädterung dar",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The map of 1950 may not yet show the first high-rise of 1955; the village core is drawn as in 1950.",
+   "The two areas (village then, built-up area now) are made with different methods."
+  ],
+  "visits": [
+   {
+    "place": "Gemeindearchiv Spreitenbach, Gemeindehaus, Poststrasse 13 (bus from Dietikon station)",
+    "what": "Zoning plan of 1960/61 and the Richtplan Langäcker, to draw the planned new town exactly."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/spr_check_1950.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/spr_check_today.png"
+  ],
+  "group": "f-landuse"
+ },
+ "rafzerfeld-gravel": {
+  "evidence": [
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000059/",
+    "quote": "Nach 1960 setzte im flachen Gebiet zwischen Dorf und Bahnlinie im grossen Stil der Kiesabbau ein.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/000059/",
+    "quote": "Umgestaltung der Landschaft unter anderem mit Weihern und Naturschutzflächen",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.zh.ch/de/umwelt-tiere/abfall-rohstoffe/rohstoffe/kies.html",
+    "quote": "Die Bauwirtschaft im Kanton Zürich benötigt jährlich rund 4 Millionen Kubikmeter Gesteinskörnung.",
+    "scope": "region"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.zh.ch/de/umwelt-tiere/abfall-rohstoffe/rohstoffe/kies.html",
+    "quote": "Nach dem Abbau werden die Kiesgruben mit unverschmutzten Aushub aufgefüllt und rekultiviert.",
+    "scope": "region"
+   },
+   {
+    "item": "why 1",
+    "url": "https://www.srf.ch/wissen/natur/kies-das-graue-gold-der-schweiz",
+    "quote": "In etwa 600 Kiesgruben wird der Rohstoff schweizweit abgebaut.",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2021/02/neuer-kantonaler-gestaltungsplan-fuer-das-rafzerfeld.html",
+    "quote": "Vor Beginn des Kiesabbaus zwischen Rafz, Wil, Hüntwangen, Wasterkingen und Eglisau in den 1960er-Jahren",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2023/05/kantonaler-gestaltungsplan-fuer-den-kiesabbau-im-rafzerfeld-lieg.html",
+    "quote": "wieder landwirtschaftlich genutzt werden kann",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2021/02/neuer-kantonaler-gestaltungsplan-fuer-das-rafzerfeld.html",
+    "quote": "Mit dem stetigen Kiesabbau in diesem Gebiet verschwanden diese Zeitzeugen weitestgehend.",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.zh.ch/de/news-uebersicht/medienmitteilungen/2021/02/neuer-kantonaler-gestaltungsplan-fuer-das-rafzerfeld.html",
+    "quote": "bis zu 133 Hektaren wieder der landwirtschaftlichen Nutzung zugeführt werden",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.zh.ch/de/umwelt-tiere/abfall-rohstoffe/rohstoffe/kies.html",
+    "quote": "Nach dem Abbau werden die Kiesgruben mit unverschmutzten Aushub aufgefüllt und rekultiviert.",
+    "scope": "region"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.zh.ch/de/umwelt-tiere/abfall-rohstoffe/rohstoffe/kies.html",
+    "quote": "Rund 80 Prozent der Transporte von Aushub und Kies laufen über die grossen Kiesabbaugebiete im Zürcher Unterland.",
+    "scope": "region"
+   }
+  ],
+  "uncertain": [
+   "The OSM pit outlines may not show the exact digging limits of today; pits change every year.",
+   "The position of the two Ice Age slopes could not be seen clearly on the old maps and is not drawn.",
+   "The groundwater risk is named in cantonal questions but no measured damage was found."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Zürich, Winterthurerstrasse 170, Zürich (tram 9/10 to Universität Irchel)",
+    "what": "Cantonal gravel plans for the Rafzerfeld 1992 and 1993-2012, to draw the dug areas by decade."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/rafz_check_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/rafz_check_1990.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/rafz_check_today.png"
+  ],
+  "group": "f-landuse"
+ },
+ "mormont-quarry": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002332/",
+    "quote": "Cimenterie dès 1953 (depuis 1992 Holderbank Ciments et Bétons).",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1 / gained 1",
+    "url": "https://www.vd.ch/typo3temp/assets/pdfs/les-vaudoises-et-vaudois-votent-sur-linitiative-sauvons-le-mormont-et-le-contre-projet-economie-circulaire.pdf",
+    "quote": "une carrière qui joue un rôle clé dans l'approvisionnement de la Suisse en ciment depuis les années 50",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.vd.ch/typo3temp/assets/pdfs/les-vaudoises-et-vaudois-votent-sur-linitiative-sauvons-le-mormont-et-le-contre-projet-economie-circulaire.pdf",
+    "quote": "interdit toute extension de la carrière au-delà des périmètres déjà autorisés",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.vd.ch/typo3temp/assets/pdfs/le-conseil-detat-salue-le-resultat-clair-en-faveur-du-contre-projet-economie-circulaire.pdf",
+    "quote": "Refusée à 54.8%, l'initiative « Sauvons le Mormont »",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / gained 2",
+    "url": "https://www.vd.ch/territoire-et-construction/archeologie/sites-archeologiques-visibles-et-invisibles/sites-fouilles-une-selection",
+    "quote": "plus de 200 fosses contenant des dépôts divers",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2 / 1998 (opponent group, attributed in text)",
+    "url": "https://www.sauvonslemormont.ch/wp-content/uploads/Resume-Histoire-de-la-carriere-du-Mormont.pdf",
+    "quote": "Le Mormont est inscrit à l'Inventaire fédéral des paysages, sites et monuments naturels d'importance nationale (IFP) sous le No 1023.",
+    "scope": "this change (interested party)"
+   },
+   {
+    "item": "why 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1023.pdf",
+    "quote": "IFP 1023 Mormont",
+    "scope": "this change"
+   },
+   {
+    "item": "why 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1023.pdf",
+    "quote": "Situé dans l'enclave ménagée pour permettre les activités de la carrière de calcaire, ce sanctuaire",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1023.pdf",
+    "quote": "La vaste carrière et la cimenterie, situées au sud du Haut de Mormont et qui en exploitent le socle calcaire, modifient considérablement le paysage",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-bln/objectsheets/2017revision/nr1023.pdf",
+    "quote": "délimitent artificiellement le site",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_INT_624_Texte_CE.PDF",
+    "quote": "ont déposé un recours auprès du Tribunal Cantonal pour s'opposer à l'extension de la carrière au lieu-dit \"La Birette\"",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.vd.ch/fileadmin/user_upload/organisation/gc/fichiers_pdf/2017-2022/16_INT_624_Texte_CE.PDF",
+    "quote": "L'extension programmée dans le secteur de la Birette s'effectue entièrement en dehors du périmètre protégé par l'IFP",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / ZAD",
+    "url": "https://www.vd.ch/actualites/actualite/news/14269i-la-police-procede-a-levacuation-du-squat-de-la-zad-du-mormont",
+    "quote": "occupés de manière illégale depuis le mois d’octobre 2020",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / ZAD",
+    "url": "https://actu.epfl.ch/news/zad-on-the-mormont-hill-luca-pattaroni-s-point-of-",
+    "quote": "Started in October 2020, the ZAD was evacuated by the Vaud cantonal police on 30 March 2021.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / ZAD",
+    "url": "https://actu.epfl.ch/news/zad-on-the-mormont-hill-luca-pattaroni-s-point-of-",
+    "quote": "the ZAD activists, a premiere in Switzerland",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / ZAD",
+    "url": "https://actu.epfl.ch/news/zad-on-the-mormont-hill-luca-pattaroni-s-point-of-",
+    "quote": "intend to prevent the extension of the quarry of the Lafarge-Holcim cement factory",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://map.geo.admin.ch",
+    "quote": "measured on swisstopo maps 1965 and today / OpenStreetMap",
+    "scope": "map"
+   }
+  ],
+  "uncertain": [
+   "The year the quarry itself opened is not given by a neutral source; 1953 is the year of the cement works.",
+   "The OSM outline may differ from the legally allowed quarry perimeter.",
+   "The year of the BLN listing (1998) comes only from an opponent group; the federal ordinance should be checked."
+  ],
+  "visits": [
+   {
+    "place": "Archives cantonales vaudoises, Rue de la Mouline 32, Chavannes-près-Renens (m1 to UNIL-Mouline)",
+    "what": "Quarry permits of 1953, 1969, 1985 and 2000 (plans of each stage), to draw the quarry stage by stage."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/morm_check_1965.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/morm_check_1985.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/morm_check_today.png"
+  ],
+  "group": "f-landuse"
+ },
+ "anbauschlacht-plan-wahlen": {
+  "evidence": [
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/013783/",
+    "quote": "die Anbaufläche von 183'000 ha bis 1945 auf 352'000 ha auszuweiten",
+    "scope": "general"
+   },
+   {
+    "item": "why 2 / lost 1",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "insgesamt 12 902 Hektaren Wald durch subventionierte und nicht subventionierte Projekte gerodet worden",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "gleich viele Flächen zusammengelegt und entwässert wie in den vorangegangenen 50 Jahren",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "Die Rodung des sechs Hektaren grossen Nadelholzwaldes war ein Teil der Melioration Waltrigenmoos",
+    "scope": "this change"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/013783/",
+    "quote": "Sicherung der Nahrungsmittelversorgung bzw. zur Umstellung auf Selbstversorgung",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/013783/",
+    "quote": "eine langfristige und letztlich weit über die Kriegszeit hinaus erfolgreiche Strategie",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/013783/",
+    "quote": "zur Sanierung und Modernisierung der Landwirtschaft",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.bezg.ch/img/publikation/18_4/singeisen.pdf",
+    "quote": "gleich viele Flächen zusammengelegt und entwässert wie in den vorangegangenen 50 Jahren",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/013783/",
+    "quote": "verbunden allerdings mit einer Senkung der durchschnittlichen Kalorienmenge pro Person von 3200 auf 2200 kcal",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "How much of the cleared forest was replanted elsewhere is not known from my sources.",
+   "The photo caption puts the state road south of the Kühwald; the 1940 map shows the railway there."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Bern, Falkenplatz 4, Bern (bus 12 to Universität)",
+    "what": "Files of the Melioration Waltrigenmoos (1943-1951) and the war clearing reports, to date the clearing of the Kühwald exactly."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/kuehw_check_1940.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/kuehw_check_1960.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/kuehw_check_today.png"
+  ],
+  "group": "f-landuse"
+ },
+ "hochstamm-orchards": {
+  "evidence": [
+   {
+    "item": "lost 1 / summary",
+    "url": "https://www.srf.ch/news/schweiz/biodiversitaet-und-tradition-bauer-geld-kann-die-arbeit-an-hochstammbaeumen-nicht-abgelten",
+    "quote": "1950 gab es in der Schweiz noch 15 Millionen Hochstammbäume. Heute liegt der Bestand gemäss Bund bei noch rund 2.2 Millionen.",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://my.zbv.ch/news/print/1365",
+    "quote": "Schuld ist die staatlich organisierte Schweizer Obstbaum-Fällaktion im Rahmen der Eidgenössischen Alkoholverwaltung.",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://my.zbv.ch/news/print/1365",
+    "quote": "Ab 1932 erhob der Staat Steuern auf Obstbrände.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.gr.ch/DE/Medien/Mitteilungen/MMStaka/1999/Seiten/DE_13934.aspx",
+    "quote": "1951 wurden im Kanton noch fast 300'000 Hochstamm-Obstbäume gezählt",
+    "scope": "region"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.gr.ch/DE/Medien/Mitteilungen/MMStaka/1999/Seiten/DE_13934.aspx",
+    "quote": "typische Bewohner von Hochstamm-Obstgärten",
+    "scope": "general"
+   },
+   {
+    "item": "lost 3",
+    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/19365054/master",
+    "quote": "the orchard, vineyard and horticulture area one of 257 km2",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://urn.ub.unibe.ch/urn:ch:slsp:9783952418680:ihv:pdf",
+    "quote": "Die staatlich organisierten Schweizer Obstbaum-Fällaktionen 1950-1975",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://my.zbv.ch/news/print/1365",
+    "quote": "Der Bund musste den Landwirten die zu viel produzierten Branntweine zu einem festgelegten Preis abnehmen",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://www.gr.ch/DE/Medien/Mitteilungen/MMStaka/1999/Seiten/DE_13934.aspx",
+    "quote": "In der Landwirtschaft stellen die Bäume oft ein Hindernis für die maschinelle Bewirtschaftung dar.",
+    "scope": "general"
+   },
+   {
+    "item": "shape / map symbol",
+    "url": "https://www.swisstopo.admin.ch/dam/de/sd-web/WxsMJ4yE7xeV/Zeichenerklaerung_2008_d.pdf",
+    "quote": "Obstgarten",
+    "scope": "map legend"
+   }
+  ],
+  "uncertain": [
+   "No source gives the total number of trees felled in the campaigns of 1950-1975.",
+   "The trees at Böler disappeared between 1990 and today, after the felling campaigns; the cause there is not known.",
+   "The year federal payments for tall fruit trees began (1993) is not confirmed by a source I opened in full.",
+   "The orchard symbol was checked on the swisstopo legend of 2008, not on the legend of the 1955 edition."
+  ],
+  "visits": [
+   {
+    "place": "Staatsarchiv Thurgau, Zürcherstrasse 221, Frauenfeld (bus from Frauenfeld station)",
+    "what": "Files 'Massnahmen zur Umstellung des Obstbaus sowie Baumfällaktionen' 1950-1978: numbers of trees felled per year and per commune (e.g. Roggwil)."
+   },
+   {
+    "place": "Kantonsbibliothek Thurgau, Promenadenstrasse 12, Frauenfeld",
+    "what": "F. Ruault, «Baummord» (Historischer Verein TG): national totals and the aerial photos of Roggwil."
+   }
+  ],
+  "checks": [
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/boeler_check_1955.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/boeler_check_1990.png",
+   "/private/tmp/claude-501/-Users-raphaelklein-Library-CloudStorage-Dropbox-ProjectOpenSource/6a732062-fd7b-4861-8678-4acbb9ef5ce7/scratchpad/new/f-landuse/boeler_check_today.png"
+  ],
+  "group": "f-landuse"
+ },
+ "alpine-pastures-treeline": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "eventuell gekoppelt mit einer künstlichen Herabsetzung der Waldgrenze durch Rodungen",
+    "scope": "general"
+   },
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Die Expansion der Viehwirtschaft führte zu einer schleichenden Ausweitung der waldfreien Hochweiden",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/19365054/master",
+    "quote": "the alpine agricultural area showed a loss of 401 km2",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/19365054/master",
+    "quote": "New forests and woods grew primarily on alpine agricultural areas (280 km2)",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/19365054/master",
+    "quote": "areas situated between 1800 and 2400 metres, where alpine pastures and meadows bring about a slight and short-lived increase",
+    "scope": "general"
+   },
+   {
+    "item": "story 2",
+    "url": "https://www.srf.ch/news/schweiz/schweizer-wald-die-steigende-waldgrenze-und-der-schutz-vor-lawinen",
+    "quote": "Die Waldgrenze steigt. Nicht nur wegen der Klimaerwärmung, sondern auch, weil heute weniger Alpweiden genutzt werden",
+    "scope": "this change"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://www.agrarforschungschweiz.ch/wp-content/uploads/2019/12/2012_04_1758.pdf",
+    "quote": "Aus Sicht der Heimbetriebe ist die Erweiterung der Futterbasis das wichtigste Motiv für die Sömmerung von Tieren",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Die Expansion der Viehwirtschaft führte zu einer schleichenden Ausweitung der waldfreien Hochweiden",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007849/",
+    "quote": "Ausweitung der waldfreien Hochweiden auf alpiner Stufe und senkte die obere Waldgrenze",
+    "scope": "general"
+   },
+   {
+    "item": "lost 1",
+    "url": "https://www.srf.ch/news/schweiz/schweizer-wald-die-steigende-waldgrenze-und-der-schutz-vor-lawinen",
+    "quote": "Eine höhere Waldgrenze kann vor Lawinen schützen.",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://dam-api.bfs.admin.ch/hub/api/dam/assets/19365054/master",
+    "quote": "New forests and woods grew primarily on alpine agricultural areas (280 km2)",
+    "scope": "general"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://www.waldwissen.net/de/technik-und-planung/landschaftsentwicklung/waldausdehnung-im-schweizer-alpenraum",
+    "quote": "indessen verschwinden kulturbedingte Lebensgemeinschaften (Artenkombinationen)",
+    "scope": "general"
+   }
+  ],
+  "uncertain": [
+   "How far people lowered the tree line (in metres) is not given by the sources I opened.",
+   "When the clearing for alpine pastures started (prehistory or Middle Ages) differs by region and is not dated here.",
+   "The periods field (1000-1900) is only a rough frame for the reader, not a sourced date."
+  ],
+  "visits": [
+   {
+    "place": "WSL-Institut für Schnee- und Lawinenforschung SLF, Flüelastrasse 11, Davos (bus from Davos Dorf)",
+    "what": "Studies of the tree line in the Dischma valley and at Stillberg, to find a mapped former forest edge for a sample area."
+   }
+  ],
+  "checks": [],
+  "group": "f-landuse"
+ },
+ "peat-cutting": {
+  "evidence": [
+   {
+    "item": "why 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "tauchte in der Schweiz am Anfang des 18. Jahrhunderts erstmals in Zürich und Neuenburg auf",
+    "scope": "general"
+   },
+   {
+    "item": "why 2",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Das 19. Jahrhundert, vor allem die zweite Hälfte, war für die Torfstecherei ein goldenes Zeitalter.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Zum Schutz der Moore verbot die 1987 angenommene Rothenthurm-Initiative den Torfabbau.",
+    "scope": "general"
+   },
+   {
+    "item": "why 3 / lost 1",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "La plupart des hauts-marais portent les traces de l'exploitation de la tourbe",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "les plus vastes hauts-marais de Suisse (environ 130 hectares)",
+    "scope": "this change"
+   },
+   {
+    "item": "story 1",
+    "url": "https://hls-dhs-dss.ch/fr/articles/002846/",
+    "quote": "Pendant les deux guerres mondiales, le marais fut exploité pour sa tourbe.",
+    "scope": "this change"
+   },
+   {
+    "item": "why 3 / imports",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "einen Stopp des Torfimports, der auf jährlich 150'000 t geschätzt wird",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Am häufigsten wurde Torf indes zu Heizzwecken verwendet.",
+    "scope": "general"
+   },
+   {
+    "item": "gained 1",
+    "url": "https://hls-dhs-dss.ch/de/articles/007852/",
+    "quote": "Durch die Rationierung von Kohle während der beiden Weltkriege",
+    "scope": "general"
+   },
+   {
+    "item": "gained 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "Des cultures relativement intensives sont aussi réalisées au détriment des anciennes tourbières.",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "un ensemble d'une importance considérable pour la faune liée aux milieux humides, en particulier pour nombre d'insectes, oiseaux et reptiles",
+    "scope": "this change"
+   },
+   {
+    "item": "lost 2",
+    "url": "https://api3.geo.admin.ch/featureattachments/ch.bafu.bundesinventare-moorlandschaften/objectsheets/2017revision/nr2.pdf",
+    "quote": "des secteurs où la régénération est en cours, avec des landes ou des tapis de sphaignes dans les anciennes fosses de tourbage",
+    "scope": "this change"
+   }
+  ],
+  "uncertain": [
+   "The start of peat cutting at Les Ponts-de-Martel (1713) is not confirmed by a source I could open.",
+   "How much bog area was lost to peat cutting in Switzerland is not given by my sources.",
+   "Peat cutting at Les Ponts-de-Martel for gardens may have gone on until about 1990 (cantonal text seen only as a search snippet)."
+  ],
+  "visits": [
+   {
+    "place": "Archives de l'Etat de Neuchâtel, Château, Neuchâtel (funicular or bus from the station)",
+    "what": "Peat concessions and plans of the Ponts-de-Martel bogs (18th-20th century), to map the cut areas."
+   },
+   {
+    "place": "Maison de la Tourbière, Les Ponts-de-Martel (train Neuchâtel - La Chaux-de-Fonds - Les Ponts-de-Martel)",
+    "what": "Local exhibition on peat cutting, dates and tools."
+   }
+  ],
+  "checks": [],
+  "group": "f-landuse"
+ }
+}

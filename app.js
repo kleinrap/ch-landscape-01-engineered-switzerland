@@ -116,11 +116,12 @@
     row.select("rect.hit").attr("x", 0).attr("y", 0).attr("width", W2).attr("height", rowH);
     row.select("text.gname").attr("x", left - 6).attr("y", rowH - 4)
       .classed("regional", function (c) { return c.scale === "regional"; })
-      .text(function (c) { return c.title.length > 20 ? c.title.slice(0, 19) + "…" : c.title; });
+      .text(function (c) { return (start(c) < 1700 ? "← " : "") + (c.title.length > 20 ? c.title.slice(0, 19) + "…" : c.title); });
     row.selectAll("rect.bar").data(function (c) { return c.periods.map(function (p) { return { p: p, c: eraColor(start(c)) }; }); })
       .join("rect").attr("class", "bar")
-      .attr("x", function (d) { return x(d.p[0]); }).attr("y", 3)
-      .attr("width", function (d) { return Math.max(3, x(d.p[1]) - x(d.p[0])); }).attr("height", rowH - 6)
+      // Work that started before 1700 (forests, vineyards) starts at the left edge of the chart.
+      .attr("x", function (d) { return x(Math.max(d.p[0], 1700)); }).attr("y", 3)
+      .attr("width", function (d) { return Math.max(3, x(Math.max(d.p[1], 1700)) - x(Math.max(d.p[0], 1700))); }).attr("height", rowH - 6)
       .attr("rx", 2).style("fill", function (d) { return d.c; });
     g.selectAll("line.now").data([year]).join("line").attr("class", "now")
       .attr("x1", x(year)).attr("x2", x(year)).attr("y1", top - 4).attr("y2", H2);
@@ -243,10 +244,13 @@
     'New courses: <a href="https://www.openstreetmap.org/copyright">© OpenStreetMap contributors</a> (ODbL) and swisstopo swissTLM3D. ' +
     'History: <a href="https://hls-dhs-dss.ch/de/articles/007850">Historisches Lexikon der Schweiz</a>, BAFU, cantons; sources per change.');
 
-  var m = /^#([a-z0-9-]+?)-((?:\d{4})|[a-z0-9-]+)$/.exec(location.hash);
-  if (m && ALL.some(function (c) { return c.id === m[1]; })) {
-    state.id = m[1];
-    stops().forEach(function (s, i) { if (tickText(s).toLowerCase().replace(/[^a-z0-9]+/g, "-") === m[2]) state.index = i; });
+  // Link "#<id>-<tick>": ids may contain dashes, so take the longest id that starts the hash.
+  var hash = location.hash.slice(1), hit = null;
+  ALL.forEach(function (c) { if (hash.indexOf(c.id + "-") === 0 && (!hit || c.id.length > hit.id.length)) hit = c; });
+  if (hit) {
+    state.id = hit.id;
+    var tick = hash.slice(hit.id.length + 1);
+    stops().forEach(function (s, i) { if (tickText(s).toLowerCase().replace(/[^a-z0-9]+/g, "-") === tick) state.index = i; });
   }
   render();
 })();
